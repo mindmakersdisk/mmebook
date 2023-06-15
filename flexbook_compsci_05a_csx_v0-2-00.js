@@ -436,7 +436,7 @@ let livro ={
 		  id:'CSXAULA03CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Algoritmos.',**/
-		  infografico:{titulo:'Algoritmos no dia a dia',
+		  infografico:{titulo:'Algoritmos no dia a dia ',
 				tituloSimplificado:'Algoritmos',
 				estiloPadrao:'basicoPaisagem',
 				/** urlVideo:'',
@@ -448,7 +448,6 @@ let livro ={
 		  urlAudioTexto:'',
 		  textoSimplificado:'Algoritmos',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
 		  urlImagem:'',
 		  promptImagem:'Um robô seguindo uma sequência de passos do ponto A até o ponto B', 
 		  textoDescritivoImagem:'Robô se locomovendo conforme uma sequência de passos que indicam o caminho a ser percorrido', },
@@ -459,7 +458,6 @@ let livro ={
 		  urlAudioTexto:'',
 		  textoSimplificado:'Algoritmos e suas linguagens',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
 		  urlImagem:'',
 		  promptImagem:'Fluxograma de como assar o pão no forno', //enviar ao ilustrador
 		  textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno',},
@@ -470,7 +468,6 @@ let livro ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmos com imagens',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
           urlImagem:'',
           promptImagem:'Imagens do passo a passo de como fazer uma avião de papel com instruções escritas', 
           textoDescritivoImagem:'Uma sequência de imagens demonstranto como fazer um avião de papel', },
@@ -481,7 +478,6 @@ let livro ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmos com diagramas',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
           urlImagem:'',
           promptImagem:'Fluxograma de como assar o pão no forno', 
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno', },
@@ -492,7 +488,6 @@ let livro ={
           urlAudioTexto:'',
           textoSimplificado:'Algortimo com desenho e texto',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
           urlImagem:'',
           promptImagem:'Folder de treino na cadeira em doze passos com instruções', //enviar ao ilustrador
           textoDescritivoImagem:'Imagens com uma sequência de exercícioos físicos enumerados de 1 até 12.', },
@@ -503,7 +498,6 @@ let livro ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmo simples',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
           urlImagem:'',
           promptImagem:'Passo a passo de como construir um boneco de neve', //enviar ao ilustrador
           textoDescritivoImagem:'Lista com a sequência de ações para construir um boneco de neve', },
@@ -514,7 +508,6 @@ let livro ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmo complexo',
 		  textoImpresso:1,
-  		  imagemImpresso:1,
           urlImagem:'',
           promptImagem:'Astronauta mulher dentro de espaçonave consertando um equipamento', 
           textoDescritivoImagem:'Astronauta mulher dentro de espaçonave consertando um equipamento', },
