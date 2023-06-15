@@ -1,6 +1,6 @@
 let livro ={
 
-  /* metadados */
+  /* metadados 2 */
   metadados:{
 	  i18n:false,
 	  formularioRegistro_campos_formatosValidos:['texto','numero','data','url','lista','nome','usuario','senha','usuarioAcessivel','senhaAcessivel'],
