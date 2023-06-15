@@ -16,7 +16,8 @@ let livro ={
   ano:'',
   url:'compsci_cs1_0_1',
 
-  // dados de adaptação 
+
+  // dados de adaptação Anderson
   versaoAdaptacao:'',
   nomeAdaptacaoo: '',
   autoresAdaptacao:[],
