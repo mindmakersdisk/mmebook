@@ -9,6 +9,9 @@ let synth = window.speechSynthesis;
 
 let cenaEmFoco = null; // Variável para armazenar a cena atualmente em foco
 
+var unidadeSel=-1;
+var licaoSel=-1;
+
 // Cria o contêiner do título e do combo
 let headerContainer = document.createElement('div');
 headerContainer.style.display = 'flex';
@@ -17,77 +20,80 @@ headerContainer.style.alignItems = 'center';  // Centraliza os elementos no eixo
 headerContainer.style.justifyContent = 'center';  // Centraliza os elementos no eixo principal
 headerContainer.style.height = '20vh';  // Ocupa a altura total da viewport
 
-// Cria e configura o título
-let titulo = document.createElement('h1');
-titulo.textContent = livro.nomeFantasia;
-titulo.style.textAlign = 'center';
 
-// Cria e configura o subtítulo
-let subtitulo = document.createElement('h2');
-subtitulo.textContent = livro.nomeTecnico;
-subtitulo.style.textAlign = 'center';
+function renderizaLivro(livro) {
+	// Cria e configura o título
+	let titulo = document.createElement('h1');
+	titulo.textContent = livro.nomeFantasia;
+	titulo.style.textAlign = 'center';
 
-// Adiciona o título e o subtítulo ao contêiner
-headerContainer.appendChild(titulo);
-headerContainer.appendChild(subtitulo);
+	// Cria e configura o subtítulo
+	let subtitulo = document.createElement('h2');
+	subtitulo.textContent = livro.nomeTecnico;
+	subtitulo.style.textAlign = 'center';
 
-let selectMenu = document.createElement('select');
-selectMenu.style.fontSize = '20px';  // Aumenta o tamanho da fonte
-selectMenu.id = 'infograficoSelectMenu';
-let option = document.createElement('option');
-option.value = '';  // use unit:lesson as value for easy lookup later
-option.textContent = 'Selecione...';
-selectMenu.appendChild(option);
-			
-for (let unidade in livro) {
-    for (let licao in livro[unidade]) {
-        if (livro[unidade][licao].infografico) {
-            let option = document.createElement('option');
-            option.value = `${unidade}:${licao}`;  // use unit:lesson as value for easy lookup later
-            option.textContent = livro[unidade][licao].infografico.titulo;
-            selectMenu.appendChild(option);
-        }
-    }
+	// Adiciona o título e o subtítulo ao contêiner
+	headerContainer.appendChild(titulo);
+	headerContainer.appendChild(subtitulo);
+
+	let selectMenu = document.createElement('select');
+	selectMenu.style.fontSize = '20px';  // Aumenta o tamanho da fonte
+	selectMenu.id = 'infograficoSelectMenu';
+	let option = document.createElement('option');
+	option.value = '';  // use unit:lesson as value for easy lookup later
+	option.textContent = 'Selecione...';
+	selectMenu.appendChild(option);
+				
+	for (let unidade in livro) {
+		for (let licao in livro[unidade]) {
+			if (livro[unidade][licao].infografico) {
+				let option = document.createElement('option');
+				option.value = `${unidade}:${licao}`;  // use unit:lesson as value for easy lookup later
+				option.textContent = livro[unidade][licao].infografico.titulo;
+				selectMenu.appendChild(option);
+			}
+		}
+	}
+	
+	// Cria um container para centralizar o selectMenu
+	let selectMenuContainer = document.createElement('div');
+	selectMenuContainer.style.display = 'flex';
+	selectMenuContainer.style.justifyContent = 'center';  // Centraliza horizontalmente
+	selectMenuContainer.style.alignItems = 'center';  // Centraliza verticalmente
+	selectMenuContainer.style.height = '50vh';  // Ocupa a altura total da viewport
+
+	selectMenuContainer.appendChild(selectMenu);
+
+
+	// Adiciona o contêiner ao corpo do documento
+	document.body.appendChild(headerContainer);
+
+	document.body.appendChild(selectMenuContainer); 
+	
+	selectMenu.addEventListener('change', function() {
+	
+		 headerContainer.style.display = 'none';
+		 selectMenuContainer.style.display = 'none';
+		 
+		// Limpe o contêiner de infográficos antes de renderizar um novo
+		infograficosContainer.innerHTML = '';
+
+		// Localize a unidade e a lição do infográfico selecionado
+		let [unidade, licao] = this.value.split(':');
+		unidadeSel=unidade;
+		licaoSel = licao;
+		
+		renderizaLivroCorpo(unidade,licao,null,livro);
+		
+		
+	});
+
 }
 
-// Cria um container para centralizar o selectMenu
-let selectMenuContainer = document.createElement('div');
-selectMenuContainer.style.display = 'flex';
-selectMenuContainer.style.justifyContent = 'center';  // Centraliza horizontalmente
-selectMenuContainer.style.alignItems = 'center';  // Centraliza verticalmente
-selectMenuContainer.style.height = '50vh';  // Ocupa a altura total da viewport
-
-selectMenuContainer.appendChild(selectMenu);
 
 
-// Adiciona o contêiner ao corpo do documento
-document.body.appendChild(headerContainer);
 
-document.body.appendChild(selectMenuContainer); 
-
-var unidadeSel=-1;
-var licaoSel=-1;
-
-
-selectMenu.addEventListener('change', function() {
-	
-	 headerContainer.style.display = 'none';
-	 selectMenuContainer.style.display = 'none';
-	 
-    // Limpe o contêiner de infográficos antes de renderizar um novo
-    infograficosContainer.innerHTML = '';
-
-    // Localize a unidade e a lição do infográfico selecionado
-    let [unidade, licao] = this.value.split(':');
-	unidadeSel=unidade;
-	licaoSel = licao;
-	
-	renderizaLivro(unidade,licao);
-	
-	
-});
-
-function renderizaLivro(unidade,licao,modoArg) {
+function renderizaLivroCorpo(unidade,licao,modoArg,livro) {
 	
 	infograficosContainer.innerHTML="";
 	let modo='ebook';
@@ -192,10 +198,10 @@ function renderizaLivro(unidade,licao,modoArg) {
 					
 					if (printVersionButton.getAttribute('data-versao')=='print') {
 						// gera a versão impressao
-						renderizaLivro(unidadeSel,licaoSel,'print');
+						renderizaLivroCorpo(unidadeSel,licaoSel,'print',livro);
 						
 					} else {
-						renderizaLivro(unidadeSel,licaoSel,'ebook');
+						renderizaLivroCorpo(unidadeSel,licaoSel,'ebook',livro);
 						
 					}
 				});
@@ -357,3 +363,12 @@ function handleAudioEnd() {
 
     playNextTrack();
 }
+
+// Obtém a URL atual
+var url = window.location.href;
+var livroSufixo='csx';
+if (url.indexOf('livro=')>-1) {
+	livroSufixo= url.substring(url.indexOf('livro=')+6);
+}
+
+renderizaLivro(eval('livro_'+livroSufixo));

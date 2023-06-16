@@ -1,4 +1,4 @@
-let livro ={
+let livro_cs1 ={
 
   /* metadados 2 */
   metadados:{
@@ -7,7 +7,7 @@ let livro ={
 	  infografico_estilosValidos:['basicoPaisagem','basicoRetrato','explosaoPaisagem','circuitoPaisagem','cobraPaisagem','cobraPaisagem2', 'cobraRetrato','gPaisagem']},
   
   versao:'0.1.00',
-  nomeFantasia: 'Expresso',
+  nomeFantasia: 'Introdução - Alunos em Alfabetização',
   nomeTecnico:'CS1 - Fundamentos em Ciência da Computação',
   isbn:'',
   autores:[],
@@ -16,8 +16,6 @@ let livro ={
   ano:'',
   url:'compsci_cs1_0_1',
 
-
-  // dados de adaptação Fernanda
   versaoAdaptacao:'',
   nomeAdaptacaoo: '',
   autoresAdaptacao:[],
