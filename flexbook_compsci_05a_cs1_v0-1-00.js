@@ -772,26 +772,7 @@ let livro ={
   
   unidade2:{
 	  
-	  licao8:{/** padroesCurriculares: 
-    titulo:'Lição 07. Robópolis.',**/
-    infografico:{titulo:'Robópolis',
-    tituloSimplificado:'Robópolis',
-    estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
-      cenas:[				
-      {ordem:1,
-      predecessor:0,
-      texto:'',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
-      textoDescritivoImagem:'', /*opc*/},
-    ]}},
+	  licao8:{},
 	  
     licao9:{/** padroesCurriculares: 
     titulo:'Lição 09. Numerópolis.',**/
@@ -949,7 +930,146 @@ let livro ={
       textoDescritivoImagem:'', /*opc*/},
     ]}},
     
-    licao10:{},
+    licao10:{/** padroesCurriculares: 
+    titulo:'Lição 10. Robociclagem.',**/
+    infografico:{titulo:'Robociclagem',
+    tituloSimplificado:'Robociclagem',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'Olá, de novo! Estamos de volta a Robópolis, nessa cidade ultra robotizada.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
+      promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*pode ser o mesmo dos outros infográficos*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'Robópolis depende da colaboração de todos os moradores para manter a energia sempre lá no alto. E isso também tem a ver com a limpeza da cidade.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Aqui em Robópolis, todos colaboram para reciclar o lixo e conservar a natureza.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*pode ser uma derivação da mesma imagem da ordem 2*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Mas algo de ruim está acontecendo, o lixo está se acumulando! Por que será?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'MAS O LIXO ESTÁ SE ACUMULANDO. POR QUÊ?',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com lixo se acumulando pela rua', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'Opa, acho que encontramos o motivo! O robô-reciclador está estragado! E agora?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'AH, NÃO! O ROBÔ-RECICLADOR ESTÁ QUEBRADO... E AGORA?',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com um robô que parece uma escavadeira, com uma roupa de gari quebrado em um canto da rua.', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Como os outros robôs não sabem reciclar lixo, eles precisam ser programados para fazer todas as etapas, enquanto o robô-reciclador está sendo consertado.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'COMO OS OUTROS ROBÔS NÃO SABEM RECICLAR O LIXO, VOCÊ TERÁ QUE CRIAR UM PROGRAMA PARA AJUDAR A CIDADE.',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com robôs circulando, com expressão de confusão', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'A primeira etapa é a chamada “coleta seletiva”, que é separar diferentes tipos de lixo em diferentes lixeiras.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'A PRIMEIRA ETAPA É SEPARAR DIFERENTES TIPOS DE LIXO EM LIXEIRAS DIFERENTES.',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com as quatro lixeiras de reciclagem enfileiradas', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:8,
+      predecessor:7,
+      texto:'A segunda etapa é transportar os lixos devidamente separados em casa, para um local que tenha máquinas de reciclagem.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'A SEGUNDA ETAPA É LEVAR TUDO PARA O CENTRO DE RECICLAGEM.',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com uma grande fábrica de reciclagem', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:9,
+      predecessor:8,
+      texto:'E, finalmente, na terceira etapa essas máquinas transformam cada tipo de lixo em um novo produto que pode ser usado novamente.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'NA TERCEIRA ETAPA, O QUE ANTES ERA LIXO VIRA UM PRODUTO NOVO!',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com dois robôs circulando com produtos reciclados', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:10,
+      predecessor:9,
+      texto:'Está feita a reciclagem! O lixo agora não fica acumulando por aí, prejudicando a natureza...',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com um grande símbolo de reciclagem em verde', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:11,
+      predecessor:10,
+      texto:'Nossa, como o robô-reciclador faz falta não?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'O ROBÔ-RECICLADOR FAZ MUITA FALTA, NÃO É?',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com um robô com expressão de que está sentindo falta de alguma coisa', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:12,
+      predecessor:11,
+      texto:'Mas enquanto ele está fora de operação, não tem outro jeito: Robópolis precisa contar com vocês e com sua habilidade de programação! Vamos socorrer os robôs novamente?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      promptImagem:'Arte digital de uma rua de uma cidade futurística bem limpa', /*pode ser alguma variação de outras do mesmo infográfico*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
     
     licao11:{},
     
@@ -957,7 +1077,50 @@ let livro ={
    
     licao13:{},
    
-    licao14:{},
+    licao14:{/** padroesCurriculares: 
+    titulo:'Lição 14. Eventos.',**/
+    infografico:{titulo:'Eventos',
+    tituloSimplificado:'Eventos',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'Vocês sabiam que muitas coisas que acontecem à nossa volta podem ser consideradas eventos?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'Um evento é algo que acontece em um determinado momento e lugar.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Por exemplo, acordar de manhã, escovar os dentes, tomar o café da manhã e ir para a escola são eventos que ocorrem todos os dias em nossas vidas.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
 	  
   },
   
