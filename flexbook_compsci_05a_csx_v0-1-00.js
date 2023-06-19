@@ -648,7 +648,7 @@ let livro_csx ={
 
 		  {ordem:2,
 		  predecessor:1,
-		  texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito. Se "o sinal estiver vermelho" então "pare". Se "o sinal estiver verde" então "prossiga". Se "o sinal estiver amarelo" então Se "já estiver passando sob o sinal" então "prossiga" senão "pare".',
+		  texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare".<br/>Se "o sinal estiver verde" então "prossiga". Se "o sinal estiver amarelo" então Se "já estiver passando sob o sinal" então "prossiga" senão "pare".</code>',
 		  urlAudioTexto:'',
 		  textoSimplificado:'Condições',
 		  textoImpresso:1,
