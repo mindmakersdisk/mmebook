@@ -128,6 +128,12 @@ body {
 }
 
 
-
+ code {
+        display: block; /* Exibe o código como bloco */
+        white-space: pre-wrap; /* Permite quebras de linha */
+        margin: 0 50px; /* Define margem à esquerda e à direita */
+        padding: 10px; /* Define um preenchimento interno */
+        background-color: #f2f2f2; /* Define um fundo cinza claro */
+    }
 
 
