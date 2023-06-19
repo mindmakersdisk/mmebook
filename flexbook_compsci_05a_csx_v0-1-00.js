@@ -720,10 +720,285 @@ let livro_csx ={
 		
 		  }			  
 	  },
-      licao6:{},
-      licao7:{},
+
+      licao6:{
+		  
+		  id:'CSXAULA06CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 01. Expressão Lógica e Condicionais.',**/
+		  infografico:{titulo:'Robôs',
+				tituloSimplificado:'Robôs',
+				estiloPadrao:'basicoPaisagem',
+				/** urlVideo:'',
+				urlPodcast:'', **/
+				cenas:[				
+		  {ordem:1,
+		  predecessor:0,
+		  texto:'Bem-vindo ao mundo dos Robôs. Todos conhecemos os robôs dos cinemas e dos jogos. Alguns são versáteis, não possuindo pernas e se movem rolando com rodas ou esteiras. Outros são parecidos conosco, tem dois braços, duas pernas, esses são chamados de humanóides. E alguns são bem estranho, misturando diversas formas.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Robôs',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Três imagens: robô versátil, robô humanóide, robô estranho', //três imagens 
+		  textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
+
+		  {ordem:2,
+		  predecessor:1,
+		  texto:'Mas como surgiram os robôs? Tudo começou com os Autômatos, há alguns séculos atrás. Um autômato é um boneco que tem mecanismos que geram movimentos feitos para parecer como se agissem por sua própria vontade. Autômatos são considerados um tipo primitivo de robô. Para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Autômatos',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Robô autômato', 
+		  textoDescritivoImagem:'Robô autômato.', },
+
+          {ordem:3,
+		  predecessor:2,
+		  texto:'Nos robôs de hoje, que usam os computadores como cérebro, é possível modificar seus movimentos bastanto alterar programas sem reconstruir seus mecanismos. Mas como são os robôs de de hoje comparados com os robôs de filmes e do passado?',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Robôs de hoje',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Três imagens. Robô Industrial. Robô cirurgião. Robô explorador',  //três imagens (serão usadas a seguir)
+		  textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Alguns robôs, chamados industriais, conseguem pegar objetos, cortar, compactar, separar, furar tudo com alta precisão e velocidade incomparável. Por isso são usados para montar carros, empacotar produtos, engarrafar bebidas, cortar chocolates e muito mais.',
+          urlAudioTexto:'',
+          textoSimplificado:'Robôs Industriais',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Robô industrial', 
+          textoDescritivoImagem:'Robô industrial.', },
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Alguns robôs ajudam médicos a realizar cirurgias complicadas. As vezes, até sozinhos. Tudo isso graças a uma programação muito inteligente.',
+          urlAudioTexto:'',	
+          textoSimplificado:'Robôs Cirurgiões',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Robô cirurgião.', 
+          textoDescritivoImagem:'Robô cirurgião.', },
+
+          {ordem:6,
+          predecessor:5,
+          texto:'E tem aquele robôs que vão até onde os humanos não conseguem ir. Eles são construídos e programados para explorar planetas, luas, asteróides, e cometas, coletando informações e nos enviando por mensagens sem que precisemos arriscar a nossa vida.',
+          urlAudioTexto:'',
+          textoSimplificado:'Robôs Exploradores',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Robô Explorador', 
+          textoDescritivoImagem:'Robô Explorador.', },
+
+          {ordem:7,
+          predecessor:6,
+          texto:'Gostou? Pois você vai programar e criar seus primeiros robôs neste curso. <p> Quer começaçar? <p> O primeiro passo é aprender programação de computador para poder controlar um robô.',
+          urlAudioTexto:'',
+          textoSimplificado:'Controlar robô',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Robô com controle remoto', 
+          textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
+
+          {ordem:8,
+          predecessor:7,
+          texto:'Conhceça o primeiro robô que você irá programar. O Sphero! Ele se locomove como o BB-8 do Star Wars. O Sphero atua como um motor que se locomove conforme você programar. Além disso, ele pode mudar de cor, saltar, puxar objetos e até nadar.',
+          urlAudioTexto:'',
+          textoSimplificado:'Sphero',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Sphero', 
+		  textoDescritivoImagem:'Robô Sphero.', },
+
+          {ordem:9,
+          predecessor:8,
+          texto:'Depois de aprender a programar, você vai aprender a montar seus próprios robôs. Eles poderão se mover por rodas, rolar como o Sphero ou até andar. Para isso. você aprenderá um pouco de mecânica e eletrônica. Com a mecânica você aprenderá a construir os mecanismos dos robôs, ou seja, seus braços, rodas, carrocerias e outras partes que a sua imaginação conceber.',
+          urlAudioTexto:'',
+          textoSimplificado:'Mecânica',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Kit robótica com materiais da mecânica do robô', 
+		  textoDescritivoImagem:'Um kit com peças da mecânica para montar um robô.', },
+
+          {ordem:10,
+          predecessor:9,
+          texto:'Com um pouco de eletrônica, você vai conseguir dar ao seu robô alguns sentidos. Por exemplo: vai fazer ele ouvir algum som e reagir, ver obstáculos e desviar, e muito mais. A eletrônica existe os seus conhecimentos sobre eletricidade e circuitos elétricos. <p>Então, você já está no caminho certo.',
+          urlAudioTexto:'',
+          textoSimplificado:'Eletrônica',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Kit robótica com materiais de eletrônica', 
+		  textoDescritivoImagem:'Um kit com peças de eletrônica para montar um robô.', },
+
+				]
+		
+		  }			  
+		  
+	  },
+      licao7:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 01. Os Primórdios da Animação.',**/
+		  infografico:{titulo:'Os Primórdios da Animação',
+				tituloSimplificado:'Animação',
+				estiloPadrao:'basicoPaisagem',
+				/** urlVideo:'',
+				urlPodcast:'', **/
+				cenas:[				
+		  {ordem:1,
+		  predecessor:0,
+		  texto:'Os Primórdios da Animação. <p>As primeiras tentativas de se criar uma ilusão de movimentos a partir de desenhos são da época em que os humanos viviam em cavernas, ou seja, na Pré-história.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Primórdios das Animações',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Arte na pré-história', 
+		  textoDescritivoImagem:'Arte na pré-história.', },
+
+		  {ordem:2,
+		  predecessor:1,
+		  texto:'Eles desenhavam animais com patas duplicas, que pareciam se movimentar quando o inspirado apresentador passava a tocha sobre o desenho feito na parede da rocha.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Animação na pré-história',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Arte em movimento na pré-história', 
+		  textoDescritivoImagem:'Arte na pré-história simulando movimento.', },
+
+          {ordem:3,
+		  predecessor:2,
+		  texto:'Milhões de anos depois, no Egito Antigo, alguns desenhos feitos em paredes representavam pessoas em posições muito próximas uma da outra, dando a impressão de movimento. Similar às atuais histórias em quadrinhos, diversas ilustrações eram postas lado a lado para simular movimentos.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Pintura Egípcia',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Arte egípcia pintura',  
+		  textoDescritivoImagem:'Pintura egípcia na parece.', },
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Por volta da mesma época, há mais de 5.000 anos, antes mesmo que o papel fosse inventado, um artesão desconhecido criou um vaso com desenhos ao seu redor. Os desenhos eram feitos de tal modo que quando o vaso era girado passava a impressão de uma alce pulando para comer folhas de uma árevore.',
+          urlAudioTexto:'',
+          textoSimplificado:'Arte XXX',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Vaso antigo com imagem em movimento', //melhorar!
+          textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Só por volta de 150 anos atrás surgiram os primeiros inventos de animação utilizando papel, como o Folioscópio. Também conhecimento como Flip-book, trata-se de um pequeno bloquinho de papel com desenhos em sequência que, ao serem folhados, causam a ilusão de movimento. Em sua versão mais simples, funciona com apenas dois desenhos e um lápis.',
+          urlAudioTexto:'',	
+          textoSimplificado:'Folioscópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Folheando um flipbook.', 
+          textoDescritivoImagem:'Um flipbook ou folioscópio sendo folheado.', },
+
+          {ordem:6,
+          predecessor:5,
+          texto:'O Traumatrópio também foi um brinquedo de animação muito popular no século XIX. Criana a ilusão de misturar duas imagens distintas, como colocar um pássaro na gaiola ou fazer uma princesa beijar um príncipe.',
+          urlAudioTexto:'',
+          textoSimplificado:'Traumatrópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Traumatrópio', 
+          textoDescritivoImagem:'Traumatrópio da gaiola vazia e com o passarinho dentro.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:7,
+          predecessor:6,
+          texto:'O Traumatrópio inspirou outro invento de animação um pouco mais sofisticado, o Fenaquistiscópio ou Fenacistoscópio. Ele usa um círculo para criar a ilusão de um movimento contínuo, de maior duração. Consiste em vários desenhos de um mesmo objeto, em posições ligeiramente diferentes, distribuídos por uma placa circula lisa. Quando a placa gira em frente a um espelho, cria-se a ilusão de uma imagem em movimento.',
+          urlAudioTexto:'',
+          textoSimplificado:'Fenaquistiscópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Fenaquistiscópio', 
+          textoDescritivoImagem:'Fenaquistiscópio.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:8,
+          predecessor:7,
+          texto:'Esses primeiros inventos de animação continuaram evoluindo. O Zootrópio inovou ao facilitar que desenhos fossem feitos em tiras e permitir a troca da animação através da substituição dessas tiras. Ele é composto por um tambor circular com pequenas janelas recortadas, através das quais o espectador olha para desenhos dispostos em tiras.',
+          urlAudioTexto:'',
+          textoSimplificado:'Zootrópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Zootrópio', 
+		  textoDescritivoImagem:'Zootrópio.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:9,
+          predecessor:8,
+          texto:'A arquitetura do Zootrópio também permitiu o surgimento das primeiras animações em terceira dimensão (3D), usando bonecos em vez de desenhos.',
+          urlAudioTexto:'',
+          textoSimplificado:'Zootrópio 3D',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Zootrópio 3D', 
+		  textoDescritivoImagem:'Zootrópio 3D.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:10,
+          predecessor:9,
+          texto:'O Praxinoscópio inventado em 1877, aprimorou o Zootrópio usando espelhos e lâmpadas para permitir que animações fossem projetadas em telas ou paredes.',
+          urlAudioTexto:'',
+          textoSimplificado:'Praxinoscópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Praxinoscópio', 
+		  textoDescritivoImagem:'Praxinoscópio.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:11,
+          predecessor:10,
+          texto:'Com isso, dezenas de pessoas podem assisti-la ao mesmo tempo como em um cinema moderno. Alías, esse invento acabou inspirando os inventores do cinema. Mas isso é assunto para outra aula.',
+          urlAudioTexto:'',
+          textoSimplificado:'Cinema',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Sala de cinema', 
+		  textoDescritivoImagem:'Sala de cinema.', },
+
+          {ordem:12,
+          predecessor:11,
+          texto:'Relembrando as invenções dos primórdios da aninação. Nessa lição conhecemos o Foliscópio,  Taumatrópio, Fenaquistiscópio, Zootrópio, Zootrópio 3D e o Praxinoscópio.',
+          urlAudioTexto:'',
+          textoSimplificado:'Revisão',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Resumo Imagem minuto 11:58',  //enviar ao ilustrador
+		  textoDescritivoImagem:'Resumo Imagem minuto 11:58.', },
+
+
+				]
+		
+		  }			  
+		  
+	  },
 	  
   },
+  
+
   
   
   unidade2:{
