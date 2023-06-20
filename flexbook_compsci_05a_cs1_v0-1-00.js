@@ -1089,10 +1089,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser a mesma já utilizada antes*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1103,8 +1100,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'UM EVENTO É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
+      promptImagem:'Arte digital de uma nuvem de chuva', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1115,8 +1112,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS EVENTOS PODEM SER COISAS QUE ACONTECEM TODOS OS DIAS.',
+      promptImagem:'Arte digital de um personagem em frente a um espelho, escovando os dentes', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1271,13 +1268,274 @@ let livro_cs1 ={
 	  
     licao15:{},
    
-    licao16:{},
+    licao16:{/** padroesCurriculares: 
+    titulo:'Lição 16. Senhas e Segurança',**/
+    infografico:{titulo:'Senhas e Segurança',
+    tituloSimplificado:'Senhas',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'Hoje vamos falar sobre algo muito importante: senhas e segurança.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'Vocês sabiam que existem maneiras de proteger nossas informações e manter nossos dispositivos seguros?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Podemos fazer isso com senhas!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Uma senha é uma sequência de letras, números ou símbolos que usamos para acessar coisas importantes, como nossos dispositivos eletrônicos, contas de e-mail, jogos e muito mais.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'A senha é como uma chave secreta que apenas nós devemos saber.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Agora, por que é importante ter uma senha forte?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'É porque queremos manter nossas coisas seguras e protegidas.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:8,
+      predecessor:7,
+      texto:'Assim como usamos uma chave para trancar uma porta, usamos uma senha para "trancar" nossos dispositivos e contas para que apenas nós possamos acessá-los.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:9,
+      predecessor:8,
+      texto:'Por isso, as senhas sempre devem ser “fortes”, ou seja, sua senha deve ser única e você não deve usar a mesma senha para tudo.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:10,
+      predecessor:9,
+      texto:'Se alguém descobrir sua senha, não queremos que ela tenha acesso a todas as suas coisas!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:11,
+      predecessor:10,
+      texto:'Quanto mais complexa a senha, mais difícil será para alguém descobri-la.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:12,
+      predecessor:11,
+      texto:'Assim como você não empresta a chave da sua casa, você não deve compartilhar a sua senha com ninguém, exceto com seus pais ou responsáveis.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:13,
+      predecessor:12,
+      texto:'Manter a senha em segredo é uma maneira importante de proteger suas informações pessoais.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:14,
+      predecessor:13,
+      texto:'Além das senhas, é importante manter seus dispositivos protegidos. Isso significa não os deixar desbloqueados ou sem supervisão para que outras pessoas não possam acessá-los sem sua permissão.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:15,
+      predecessor:14,
+      texto:'E se você receber uma mensagem estranha pedindo sua senha ou informações pessoais, nunca responda. Sempre peça ajuda a um adulto responsável.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:16,
+      predecessor:15,
+      texto:'A segurança é muito importante quando se trata de senhas e dispositivos eletrônicos.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:17,
+      predecessor:16,
+      texto:'Queremos proteger nossas informações pessoais e manter tudo seguro.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:18,
+      predecessor:17,
+      texto:'Vamos aprender e manter nossos dispositivos e informações protegidos juntos!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
    
-    licao17:{},
+    licao17:{/** padroesCurriculares: 
+    titulo:'Lição 17. Condicionais.',**/
+    infografico:{titulo:'Condicionais',
+    tituloSimplificado:'Condicionais',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
    
     licao18:{},
   
-    licao19:{},
+    licao19:{/** padroesCurriculares: 
+    titulo:'Lição 19. Depuração.',**/
+    infografico:{titulo:'Depuração',
+    tituloSimplificado:'Depuração',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
    
     licao20:{},
    
@@ -1292,13 +1550,51 @@ let livro_cs1 ={
    
     licao23:{},
    
-    licao24:{},
+    licao24:{/** padroesCurriculares: 
+    titulo:'Lição 24. O Trânsito em Robópolis.',**/
+    infografico:{titulo:'O Trânsito em Robópolis',
+    tituloSimplificado:'Trânsito',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
    
     licao25:{},
    
     licao26:{},
    
-    licao27:{},
+    licao27:{/** padroesCurriculares: 
+    titulo:'Lição 27. Binarópolis.',**/
+    infografico:{titulo:'Binarópolis',
+    tituloSimplificado:'Binarópolis',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
    
     licao28:{},	 
 	  
