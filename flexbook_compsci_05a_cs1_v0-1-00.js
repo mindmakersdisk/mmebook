@@ -1112,7 +1112,7 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'OS EVENTOS PODEM SER COISAS QUE ACONTECEM TODOS OS DIAS.',
+      textoImpressoRecriado:'OS EVENTOS PODEM SER COISAS QUE ACONTECEM TODOS OS DIAS...',
       promptImagem:'Arte digital de um personagem em frente a um espelho, escovando os dentes', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1124,20 +1124,20 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OU COISAS ESPECIAIS.',
+      promptImagem:'Arte digital de uma festa de aniversário', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
       predecessor:4,
-      texto:'E vocês sabiam que os computadores também entendem eventos?',
+      texto:'E vocês sabiam que os programas de computadores também entendem eventos?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS EVENTOS ESTÃO ATÉ NOS COMPUTADORES!',
+      promptImagem:'Arte digital de um computador', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1148,8 +1148,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS EVENTOS PODEM SER PROGRAMADOS.',
+      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1158,10 +1158,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de uma manete de videogame com uma mão segurando', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1170,10 +1167,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1184,8 +1178,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'TOCAR NA TELA DO TABLET É UM EVENTO.',
+      promptImagem:'Arte digital de uma mão segurando um tablet e a outra mão tocando a tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1196,8 +1190,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'APERTAR UMA TECLA NO TECLADO É UM EVENTO.',
+      promptImagem:'Arte digital de um teclado de computador e um dedo pressionando alguma tecla', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1208,8 +1202,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'TODO EVENTO DE COMPUTADOR TERÁ UMA REAÇÃO.',
+      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1220,8 +1214,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'NOS JOGOS TAMBÉM PODEMOS PERCEBER OS EVENTOS.',
+      promptImagem:'Arte digial de uma criança jogando videogame', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1232,8 +1226,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'NO JOGO, CADA EVENTO TERÁ UMA REAÇÃO TAMBÉM.',
+      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1244,20 +1238,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:15,
-      predecessor:14,
-      texto:'Eles nos ajudam a interagir com os dispositivos eletrônicos e tornam as coisas mais divertidas e interessantes.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS EVENTOS ESTÃO EM TODA PARTE!',
+      promptImagem:'Arte digital de diferentes dispositivos eletrônicos', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
 	  
@@ -1282,10 +1264,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de um cadeado fechado e vários asteriscos voando em torno dele', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1296,7 +1275,7 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
+      textoImpressoRecriado:'PODEMOS PROTEGER NOSSOS DISPOSITIVOS.',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1306,9 +1285,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1354,9 +1330,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1366,9 +1339,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1462,9 +1432,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1486,9 +1453,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
@@ -1503,7 +1467,163 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'',
+      texto:'Você já ouviu a palavra “condição”? E “condicionais”? Vamos aprender um pouco sobre isso.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'As condicionais nos ajudam a entender como as coisas podem ser diferentes dependendo de certas condições.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Vamos imaginar que vocês querem ir brincar no parque.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Mas antes de sair de casa, vocês precisam verificar se está chovendo lá fora.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'Então a condicional seria: <code>Se estiver chovendo <br/>&nbsp;&nbsp;&nbsp;&nbsp;então vamos brincar dentro de casa <br/>Se não estiver chovendo <br/>&nbsp;&nbsp;&nbsp;&nbsp;então podemos ir brincar no parque</code>',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Vejam como essa condicional nos ajuda a tomar uma decisão com base na condição do tempo. É como uma regra que nos guia!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'Viram como as condicionais nos ajudam a entender o que vai acontecer com base em certas condições?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:8,
+      predecessor:7,
+      texto:'Elas nos ajudam a tomar decisões e a entender as consequências de nossas ações.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:9,
+      predecessor:8,
+      texto:'E sabem o que mais é legal? As condicionais também são usadas na programação de computadores!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:10,
+      predecessor:9,
+      texto:'Os computadores podem seguir instruções com base em condições que programamos para eles. É como se eles tivessem regras próprias!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:11,
+      predecessor:10,
+      texto:'Por exemplo, se vocês estiverem jogando um jogo e o personagem chegar a uma parede, vocês podem programar o jogo para que o personagem mude de direção e continue se movendo.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:12,
+      predecessor:11,
+      texto:'A condicional seria: <code>Se o personagem encontrar uma parede <br/>&nbsp;&nbsp;&nbsp;&nbsp;então ele deve mudar de direção e continuar se movendo</code>',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:13,
+      predecessor:12,
+      texto:'As condicionais podem ser usadas de maneiras divertidas e interessantes, não é mesmo? Elas nos ajudam a tomar decisões e a entender como as coisas funcionam.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:14,
+      predecessor:13,
+      texto:'Vamos continuar explorando e aprendendo juntos sobre esse conceito interessante!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
