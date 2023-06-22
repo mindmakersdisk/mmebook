@@ -1276,7 +1276,7 @@ let livro_cs1 ={
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'PODEMOS PROTEGER NOSSOS DISPOSITIVOS.',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de um cadeado em forma de escudo medieval com um notebook logo atrás, algumas nuvens e ícones de correspondência', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1285,7 +1285,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de uma tela de programa com um cadeado bem em cima', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1296,8 +1296,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'O QUE É UMA SENHA?',
+      promptImagem:'Arte digital de uma box para digitar com vários asteriscos e um cadeado atrás', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1308,8 +1308,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'A SNHA É COMO UMA CHAVE SECRETA.',
+      promptImagem:'Arte digital de um cadeado e uma chave', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1320,8 +1320,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'A SENHA PRECISA SER FORTE.',
+      promptImagem:'Arte digital de um laptop aberto e um cadeado na tela, com uma chave nele', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1330,7 +1330,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1339,7 +1339,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de uma tranca de uma porta com uma chave', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1350,8 +1350,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA...',
+      promptImagem:'Arte digital de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1362,8 +1362,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'... E DÍFICIL DE ADIVINHAR.',
+      promptImagem:'Arte digital de uma caixa de papelão aberta na parte de cima, com vários ícones de envelopes, chaves, balões de conversa saltando de dentro dela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1374,8 +1374,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'QUANTO MAIS FORTE A SENHA, MAIS PROTEGIDO VOCÊ ESTÁ.',
+      promptImagem:'Arte digital de personagem hackeando um computador', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1386,8 +1386,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'NÃO COMPARTILHE SUAS SENHAS!',
+      promptImagem:'Arte digital de uma mão entregando uma chave para outra mão', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1398,8 +1398,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'SUA SENHA É SECRETA.',
+      promptImagem:'Arte digital de um rosto com um dedo em frente à boca, fazendo sinal de segredo', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1410,8 +1410,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
+      promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*pode ser uma variação do que já foi usado anteriormente*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:15,
@@ -1422,8 +1422,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'CUIDADO COM MENSAGENS ESTRANHAS.',
+      promptImagem:'Arte digital de um laptop com um envelope bem na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:16,
@@ -1432,7 +1432,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de um cadeado e uma chave', /*pode ser uma variação da já usada anteriormente*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:17,
@@ -1443,8 +1443,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'VAMOS NOS PROTEGER!',
+      promptImagem:'Arte digital de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*pode ser uma variação da já usada anteriormente*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:18,
@@ -1453,7 +1453,7 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'Arte digital de um smatphone com um cadeado dourado na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -1615,9 +1615,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1627,9 +1624,6 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
