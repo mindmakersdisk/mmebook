@@ -435,7 +435,7 @@ let livro_csx ={
 					   
 		  id:'CSXAULA03CODE',
 		  /** padroesCurriculares: 
-		  titulo:'Lição 01. Algoritmos.',**/
+		  titulo:'Lição 03. Algoritmos.',**/
 		  infografico:{titulo:'Algoritmos no dia a dia ',
 				tituloSimplificado:'Algoritmos',
 				estiloPadrao:'basicoPaisagem',
@@ -533,7 +533,7 @@ let livro_csx ={
 					   
 		  id:'CSXAULA04CODE',
 		  /** padroesCurriculares: 
-		  titulo:'Lição 01. Laço em Algoritmos.',**/
+		  titulo:'Lição 04. Laço em Algoritmos.',**/
 		  infografico:{titulo:'Laço em Algortimos',
 				tituloSimplificado:'Laço',
 				estiloPadrao:'basicoPaisagem',
@@ -629,7 +629,7 @@ let livro_csx ={
 		  
 		  id:'CSXAULA05CODE',
 		  /** padroesCurriculares: 
-		  titulo:'Lição 01. Expressão Lógica e Condicionais.',**/
+		  titulo:'Lição 05. Expressão Lógica e Condicionais.',**/
 		  infografico:{titulo:'Expressão Lógica e Condicionais',
 				tituloSimplificado:'Lógica e Condicionais ',
 				estiloPadrao:'basicoPaisagem',
@@ -648,7 +648,11 @@ let livro_csx ={
 
 		  {ordem:2,
 		  predecessor:1,
+<<<<<<< HEAD
+		  texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare".<br/>Se "o sinal estiver verde" então "prossiga" <br/>Se "o sinal estiver amarelo" então <br/>&nbsp;&nbsp; Se "já estiver passando sob o sinal" então "prossiga" senão "pare"</code>',
+=======
 		  texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/>Se "o sinal estiver amarelo" então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"</code>',
+>>>>>>> d40b373462a92b64370173192f9aecae441a0dd1
 		  urlAudioTexto:'',
 		  textoSimplificado:'Condições',
 		  textoImpresso:1,
@@ -678,7 +682,7 @@ let livro_csx ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Usamos os termos Se, Então e Senão para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algortimo a seguir. Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito. <p>Se "sinal = verde" então "prossiga" <p>Se "sinal = amarelo" então Se "está muito próximo ao sinal" então "prossiga" senão "pare" <p> Se "sinal = vermelho" então "pare"',
+          texto:'Usamos os termos Se, Então e Senão para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algortimo a seguir. Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito. <p><code>Se "sinal = verde" então "prossiga" <br/>Se "sinal = amarelo" então <br/>&nbsp;&nbsp;Se "está muito próximo ao sinal" então "prossiga" senão "pare" <br/> Se "sinal = vermelho" então "pare"</code>',
           urlAudioTexto:'',	
           textoSimplificado:'Algoritmo de Trânsito',
 		  textoImpresso:1,
@@ -688,7 +692,7 @@ let livro_csx ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Para escrever condições muitas vezes pegamos sinais emprestados da matemática. São os chamaos operadores relacionais. Os sinais de operadores mais comuns são: igual (=), maior que (>) e menor que (<). Veja os exemplos: <p>Se "local atual = centro" então "pare" <p> Se "velocidade do carro > 80 km" então "diminua a velocidade" <p> Se "combustível do carro < 2 litros" então "coloque combustível"',
+          texto:'Para escrever condições muitas vezes pegamos sinais emprestados da matemática. São os chamaos operadores relacionais. Os sinais de operadores mais comuns são: igual (=), maior que (>) e menor que (<). Veja os exemplos: <p><code>Se "local atual = centro" então "pare" <br/> Se "velocidade do carro > 80 km" então "diminua a velocidade" <br/> Se "combustível do carro < 2 litros" então "coloque combustível"</code>',
           urlAudioTexto:'',
           textoSimplificado:'Sinais da Matemática',
 		  textoImpresso:1,
@@ -698,7 +702,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Uma expressão pode também usar os termos E/OU quando é composta por várias condições. São os chamados Operadores Lógicos. Além deles, podemos também usar o NÃO para inverter uma decisão. Veja os exemplos:<p>Se "combustível < 2 litros e dinheiro > 5.00" então "abasteça" <p> Se "tempos = chuva ou previsão do tempo = chuva" então "vá de carro" <p> Se "não local atual = centro da cidade" então "prossiga"',
+          texto:'Uma expressão pode também usar os termos E/OU quando é composta por várias condições. São os chamados Operadores Lógicos. Além deles, podemos também usar o NÃO para inverter uma decisão. Veja os exemplos:<p><code>Se "combustível < 2 litros e dinheiro > 5.00" então "abasteça" <br/> Se "tempos = chuva ou previsão do tempo = chuva" então "vá de carro" <br/> Se "não local atual = centro da cidade" então "prossiga"</code>',
           urlAudioTexto:'',
           textoSimplificado:'Operadores Lógicos',
 		  textoImpresso:1,
@@ -725,7 +729,7 @@ let livro_csx ={
 		  
 		  id:'CSXAULA06CODE',
 		  /** padroesCurriculares: 
-		  titulo:'Lição 01. Expressão Lógica e Condicionais.',**/
+		  titulo:'Lição 06. Expressão Lógica e Condicionais.',**/
 		  infografico:{titulo:'Robôs',
 				tituloSimplificado:'Robôs',
 				estiloPadrao:'basicoPaisagem',
@@ -850,7 +854,7 @@ let livro_csx ={
       licao7:{
 		  id:'CSXAULA07CODE',
 		  /** padroesCurriculares: 
-		  titulo:'Lição 01. Os Primórdios da Animação.',**/
+		  titulo:'Lição 07. Os Primórdios da Animação.',**/
 		  infografico:{titulo:'Os Primórdios da Animação',
 				tituloSimplificado:'Animação',
 				estiloPadrao:'basicoPaisagem',
@@ -996,6 +1000,190 @@ let livro_csx ={
 		  
 	  },
 	  
+      licao11:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 11. Imagens Digitais: Pixel e Cores.',**/
+		  infografico:{titulo:'Imagens Digitais: Pixel e Cores',
+				tituloSimplificado:'Imagens Digitais',
+				estiloPadrao:'basicoPaisagem',
+				/** urlVideo:'',
+				urlPodcast:'', **/
+				cenas:[				
+		  {ordem:1,
+		  predecessor:0,
+		  texto:'Imagens Digitais: Pixel e Cores. Especialistas em computação gráfica sabem que toda imagem exibida na tela de um computador é composta por milhares de pixels coloridos. Por isso, eles conseguem criar e programar mundos virtuais inteiros em movimento no smínimos detalhes. <p> Chegou a sua vez de aprender sobre pixel e cores, e soltar a criatividade!',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Imagens Digitais',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Personagens star wars em pixels', 
+		  textoDescritivoImagem:'Imagem dos personagens de Star Wars desenhados com pixels.', },
+
+		  {ordem:2,
+		  predecessor:1,
+		  texto:'O Pixel é o menor ponto de uma imagem digital. Como eles são muitos e ficam coladinhos um no outro, fica difícil enxergar um único pixel isoaldamente. Mas não é impossível.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Pixel',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Imagem com pouco e muito pixels', 
+		  textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
+
+          {ordem:3,
+		  predecessor:2,
+		  texto:'As telas de videogames e computadores antigos tinham menos pixels, por isso, era mais fácil ver cada pixel em separado. Dava para ver claramente que cada pixel tinha apenas uma cor.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Telas antigas',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Imagem jogo mario bros com pixels',  
+		  textoDescritivoImagem:'Imagem do jogo Mario Bros com pixels.', },//ao definir a imagem, a descrição deverá ser melhorada
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Para programar imagens e gráficos digitais, entender as cores é tão importante quanto entender os pixels. James Clerk Maxwell foi o criador da fotografia colorida. Ele viveu no século XIX, antes mesmo da criação da TV e do cinema.',
+          urlAudioTexto:'',
+          textoSimplificado:'Cores',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Foto Maxwell 1:41 e ao lado seu experimento 1:54', //enviar ilustrador
+          textoDescritivoImagem:'Foto de Maxwell e seu experimento com as cores.', },
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Ele descobriu que a partir da mistura de diferentes quantidades das três cores primárias, é possível criar todas as outras cores que a nossa visão consegue distinguir. Você lembra quais são as cores primárias? Vermelho, verde e amarelo. Maxwell ainda descobriu que para tintas as três cores primárias são diferentes, em vez do verde você usa o amarelo.',
+          urlAudioTexto:'',	
+          textoSimplificado:'Cores Primárias',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Cores primárias em tinta.', 
+          textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta vermelha, o segundo com tinta verde e o último tubo com tinta amarela.', },
+
+          {ordem:6,
+          predecessor:5,
+          texto:'Para luzes, como é o caso da tela do computador, as cores são mesmo vermelho, verde e azul. Elas batizaram o sistema descoberto por Maxwell, chamado de RGB, das cores em inglês: red, green e blue.',
+          urlAudioTexto:'',
+          textoSimplificado:'Sistema RGB',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Sistema RGB', 
+          textoDescritivoImagem:'Sistema RGB de cores.', },
+
+          {ordem:7,
+          predecessor:6,
+          texto:'Maxwell também conseguiu explicar cientificamente porque algumas pessoas chamadas daltônicas não enxergam certas cores.',
+          urlAudioTexto:'',
+          textoSimplificado:'Daltonismo',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Teste daltonismo', 
+          textoDescritivoImagem:'Imagem para testar daltonismo.', },//ao definir a imagem, a descrição deverá ser melhorada
+
+          {ordem:8,
+          predecessor:7,
+          texto:'Você sabia que pessoas sem daltonismo podem enxergar as cores de um modo um pouco diferente das outras? Duvida? Faça esse teste. Você vê esse vestido em banco e dourado ou azul e preto?',
+          urlAudioTexto:'',
+          textoSimplificado:'Curiosidade',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Vestido azul e preto ou branco e dourado', 
+		  textoDescritivoImagem:'Vestido azul e preto ou branco e dourado, a depender de quem está olhando a imagem.', },
+
+				]
+		
+		  }			  
+	  },
+  
+        licao12:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 12. Laços Aninhados.',**/
+		  infografico:{titulo:'Laços Aninhados',
+				tituloSimplificado:'Imagens Digitais',
+				estiloPadrao:'basicoPaisagem',
+				/** urlVideo:'',
+				urlPodcast:'', **/
+				cenas:[				
+		  {ordem:1,
+		  predecessor:0,
+		  texto:'Você já aprendeu a usar laços em algoritmos e programar usando o programa repita. Basta colocar o número de repetições desejadas no comando repita e em volta do grupo de comandos que deseja repetir. Está pronto o seu laço!',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Laços',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Comando repita em linguagem de bloco', 
+		  textoDescritivoImagem:'Comando repita no blockly.', }, //enviar ao ilustrador imagem 00:14
+
+		  {ordem:2,
+		  predecessor:1,
+		  texto:'Agora você vai aprender algumas variações mais avançadas no uso de laços, como os laços aninhados. Para tanto veja com atenção esse exemplo que usa laços simples para desenhar cada triângulo.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Laços Alinhados',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Comando repita em linguagem de bloco com três execuções', 
+		  textoDescritivoImagem:'Comando repita em linguagem de bloco com três execuções.', },//enviar ao ilustrador imagem 00:35
+
+          {ordem:3,
+		  predecessor:2,
+		  texto:'Além do laço alinhado, outro tipo de laço é muito útil. O laço enquanto. Você usa esse laço, quando não sabe exatamente o número de repetições e quer que os comandos se repitam enquanto uma condição for verdadeira. Veja o exemplo a seguir. Algoritmo Dj para pista de dança.<p><code>Enquanto "a música tocar" <br/> Faça "Dance"</code>',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Laço Enquanto',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Dj tocando música',  
+		  textoDescritivoImagem:'Dj tocando música.', },
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Outro exemplo. Algoritmo do jogador de futebol.<p><code>Enquanto "Jogo não acabar" <br/> Faça "Jogue futebol"</code>',
+          urlAudioTexto:'',
+          textoSimplificado:'Exemplo Laço Enquanto',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Jogador de futebol chutando a bola', 
+          textoDescritivoImagem:'Jogador de futebol chutando a bola.', },
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Se estiver programando você precisa saber que condições a sua linguagem de programação suporta. Veja o exemplo da linguagem Blockly usando pelo CODE.ORG ou SCRATCH. Para saber quando um personagem atinge o final do caminho, use o seguinte comando:<p><code>Enquanto "houver caminho em frente" <br/> Faça "Avance"</code>',
+          urlAudioTexto:'',	
+          textoSimplificado:'Programa Laço Enquanto',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Imagem personagem andando no SCRATCH.', 
+          textoDescritivoImagem:'Personagem andando em um cenário SCRATCH.', },
+
+          {ordem:6,
+          predecessor:5,
+          texto:'Você pode combinar laços repita, laços aninhados e laços enquanto para criar programas bem poderosos. Veja o exemplo a seguir: <p><code>Enquanto "houver caminho em frente" <br/> Faça "Avance" <br/> &nbsp;&nbsp;&nbsp;&nbsp;Repita "3" vezes<br/>&nbsp;&nbsp;&nbsp;&nbsp;Faça "Remova"</code><p>Vamos praticar?',
+          urlAudioTexto:'',
+          textoSimplificado:'Programas Poderosos',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Comando enquanto e repita em linguagem de bloco', 
+          textoDescritivoImagem:'Comando Enquanto e Repita usados simultaneamente.', },//enviar ao ilustrador imagem 01:55
+
+				]
+		  }			  
+	  },
+
+  
   },
   
 
