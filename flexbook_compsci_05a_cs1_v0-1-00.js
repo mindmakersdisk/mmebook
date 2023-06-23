@@ -1473,8 +1473,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'O QUE É UMA CONDICIONAL?',
+      promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser usada alguma variação de outra imagem já pronta*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1485,8 +1485,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'CONDICIONAIS NOS AJUDAM A ENTENDER COMO AS COISAS FUNCIONAM.',
+      promptImagem:'Arte digital de uma nuvem de chuva e um sol do outro lado', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1497,8 +1497,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'IMAGINE QUE VOCÊ QUER IR BRINCAR NO PARQUE.',
+      promptImagem:'Arte digital de um parque com sol', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1509,8 +1509,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'ANTES DE SAIR, PRECISA VERIFICAR SE ESTÁ CHOVENDO.',
+      promptImagem:'Arte digital de uma nuvem de chuva', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1521,8 +1521,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'SE CHUVA = VERDADEIRO, ENTÃO BRINCAR DENTRO DE CASA. SENÃO, BRINCAR NO PARQUE.',
+      promptImagem:'Arte digital de uma nuvem de chuva e um sol do outro lado', /*pode ser uma variação da outra*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1533,8 +1533,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'A DECISÃO É TOMADA COM BASE NA CONDIÇÃO.',
+      promptImagem:'Arte digital com duas setas saindo do mesmo lugar e indo para lados diferentes', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1545,8 +1545,8 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'CONDICIONAIS NOS AJUDAM A ENTENDER O QUE VAI ACONTECER.',
+      promptImagem:'Arte digital com ', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1640,13 +1640,154 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'',
+      texto:'Hoje vamos aprender sobre algo muito importante chamado "depuração".',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'A depuração, ou debugging é um processo em que identificamos e corrigimos problemas.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Quando algo não está funcionando como esperado, precisamos encontrar a causa do problema e resolvê-lo. É como ser um detetive que soluciona mistérios!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Imagine um quebra-cabeça.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'Arte digital de um quebra cabeças em cima de uma mesa ainda não montado', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'Se vocês estiverem montando um quebra-cabeça e perceberem que uma peça não se encaixa corretamente, vocês precisam descobrir onde a peça errada está e encontrar a peça correta para colocar no lugar.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'Arte digital de um quebra cabeças iniciado, que mostra a imagem de um robô, mas ainda faltando algumas peças para terminar', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Essa peça incorreta é um bug, um problema e é preciso depurar a situação, encontrar o bug e corrigi-lo.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'A depuração nos ajuda a solucionar problemas e encontrar soluções. É um processo de investigação para descobrir o que está errado e corrigir o problema.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:8,
+      predecessor:7,
+      texto:'A depuração também é usada na programação de computadores.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:9,
+      predecessor:8,
+      texto:'Quando os programadores escrevem códigos para criar jogos ou aplicativos, às vezes surgem erros ou bugs. É como um quebra-cabeça que precisa ser resolvido!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:10,
+      predecessor:9,
+      texto:'Os programadores usam a depuração para encontrar e corrigir esses erros.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:11,
+      predecessor:10,
+      texto:'Eles examinam o código cuidadosamente, testam diferentes partes e fazem alterações até que tudo funcione corretamente.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:12,
+      predecessor:11,
+      texto:'A depuração é uma habilidade importante que nos ajuda a resolver problemas e encontrar soluções.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:13,
+      predecessor:12,
+      texto:'Vamos continuar aprendendo e vocês se tornarão verdadeiros detetives da solução de problemas!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
@@ -1674,7 +1815,76 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'',
+      texto:'Olá! Estamos de volta a Robópolis...',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'Arte digital de uma cidade futurística', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'Nossa missão de hoje é ajudar os nossos amigos da cidade.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Como os robôs de Robópolis não andam muito rápido, ele quer comprar um carro. Mas não conhece as regras de trânsito.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Para dirigir com segurança, eles precisam conhecer o que significa cada cor que aparece nos semáforos, aqueles sinais que controlam o trânsito.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'Vocês podem ajudar?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Além de ensinar o que cada cor significa, vocês devem criar programas para que os robôs sejam capazes de atravessar Robópolis, sempre respeitando as cores do semáforos que aparecem pelo caminho.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'Vai ser um desafio e tanto... Pé na tábua!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1699,7 +1909,139 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'',
+      texto:'Vamos hoje continuar em nossa divertida jornada, conhecendo a cidade mais estranha da terra dos robôs: Binarópolis!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'Binarópolis fica no continente, assim como Letrópolis. Porém, fica longe do mar, no interior do continente. Veja no mapa.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Em Binarópolis os robôs também gostam de números, mas só conhecem os números “zero” e “um”. Estranho não?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Pois é... Como Binarópolis é uma cidade muito antiga, eles até hoje só conversam através do código primitivo dos computadores, conhecido como “sistema binário”.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'E o “sistema binário” só utiliza os dois símbolos, zero e um.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Ok, mas se Binarópolis tem cinco ruas... como vamos conseguir dar nomes diferentes para cada rua?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'Bom, os computadores usam o “sistema binário” para representar de tudo: letras, números, imagens, sons... então deve ter um jeito.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:8,
+      predecessor:7,
+      texto:'Lá no processador, o cérebro do computador, minúsculos componentes elétricos são ligados para representar o “um”, que desenhamos como uma caixinha branca. Veja.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:9,
+      predecessor:8,
+      texto:'E são desligados para representar o “zero”, que desenhamos como uma caixinha preta.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:10,
+      predecessor:9,
+      texto:'O computador então usa vários “zeros” e “uns”, um ao lado do outro, para representar diferentes números e letras.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:11,
+      predecessor:10,
+      texto:'É um pouco confuso a princípio, mas como você já é reconhecido como um grande ajudante de robôs, vai aprender um pouco sobre esse código misterioso para ajudar Binarópolis.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:12,
+      predecessor:0,
+      texto:'Preparados?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
