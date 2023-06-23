@@ -648,11 +648,8 @@ let livro_csx ={
 
 		  {ordem:2,
 		  predecessor:1,
-<<<<<<< HEAD
-		  texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare".<br/>Se "o sinal estiver verde" então "prossiga" <br/>Se "o sinal estiver amarelo" então <br/>&nbsp;&nbsp; Se "já estiver passando sob o sinal" então "prossiga" senão "pare"</code>',
-=======
+		  //texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare".<br/>Se "o sinal estiver verde" então "prossiga" <br/>Se "o sinal estiver amarelo" então <br/>&nbsp;&nbsp; Se "já estiver passando sob o sinal" então "prossiga" senão "pare"</code>', //TODO Verificar qual é a versão correta
 		  texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/>Se "o sinal estiver amarelo" então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"</code>',
->>>>>>> d40b373462a92b64370173192f9aecae441a0dd1
 		  urlAudioTexto:'',
 		  textoSimplificado:'Condições',
 		  textoImpresso:1,
