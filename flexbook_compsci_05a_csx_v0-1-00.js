@@ -1278,7 +1278,7 @@ let livro_csx ={
 		  textoImpresso:1,
 		  imagemImpresso:1,
 		  urlImagem:'',
-		  promptImagem:'TESTE', 
+		  promptImagem:'TESTE ALVIM', 
 		  textoDescritivoImagem:'TESTE.', },
 
 		  {ordem:2,
