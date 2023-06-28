@@ -1278,8 +1278,8 @@ let livro_csx ={
 		  textoImpresso:1,
 		  imagemImpresso:1,
 		  urlImagem:'',
-		  promptImagem:'Arte na pré-história', 
-		  textoDescritivoImagem:'Arte na pré-história.', },
+		  promptImagem:'TESTE', 
+		  textoDescritivoImagem:'TESTE.', },
 
 		  {ordem:2,
 		  predecessor:1,
