@@ -1180,8 +1180,235 @@ let livro_csx ={
 		  }			  
 	  },
 
+        licao13:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 13. Eventos e Reações.',**/
+		  infografico:{titulo:'Eventos e Reações',
+				tituloSimplificado:'Imagens Digitais',
+				estiloPadrao:'basicoPaisagem',
+				/** urlVideo:'',
+				urlPodcast:'', **/
+				cenas:[				
+		  {ordem:1,
+		  predecessor:0,
+		  texto:'Eventos. Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados ou que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos dia em determinado horário, por exemplo.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Eventos',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Notícia do jornal sobre o lançamento de um foguete', //https://g1.globo.com/globonews/conexao-globonews/video/veja-imagens-do-lancamento-da-starship-foguete-mais-poderoso-da-historia-11550834.ghtml
+		  textoDescritivoImagem:'Lançamento de um foguete.', }, 
+
+		  {ordem:2,
+		  predecessor:1,
+		  texto:'Um evento é um acontecimento ou ação eventual que pode mudar uma rotina, ao provocar reações em resposta. Você está estudando concentrado quando de repente o seu celular toca. Qual é a sua reação a este evento?',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Eventos e Reações',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Estudante estudando e celular tocando', //enviar ao ilustrador 
+		  textoDescritivoImagem:'Um estudante lendo um livro e o celular começa a tocar.', },
+
+          {ordem:3,
+		  predecessor:2,
+		  texto:'Em computação, muitos eventos são provocados por usuários, que são as pessoas que usam o computador. Um evento do usuário pode ser por exemplo, clicar com o mouse ou apertar a tecla enter. Um programador pode criar trechos de programa para reagir a estes eventos. Por exemplo: para abrir uma nova janela ou mover um personagem em um jogo.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Reação', 
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Digitando no teclado e clicando no mouse',  //enviar ao ilustrador imagem 1:00
+		  textoDescritivoImagem:'À esquerda, uma pessoa digitando no teclado, e à direita outra pessoa clicando no mouse.', },
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Os smartphones (celulares inteligentes), tablets e até smartwatches (relógios inteligentes) são computadores móveis que permitem novos eventos do usuário, como toques em sua tela ou movimento do dispositivo.',
+          urlAudioTexto:'',	
+          textoSimplificado:'Exemplos',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Smartphone, tablet, smartwatch.', 
+          textoDescritivoImagem:'Imagem de um smartphone (celular inteligente), um tablet e um smartwatch (relógio inteligente)', },
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Você pode criar um programa que roda sem interferência de eventos de qualquer tipo, mas esses programas são raros. A maior parte dos programas são dirigidos por eventos como os jogos ou aplicativos de redes sociais.',
+          urlAudioTexto:'',
+          textoSimplificado:'Sem Eventos',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Frase: Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick', //enviar ao ilustrador imagem 1:08	
+          textoDescritivoImagem:'Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick.', },
+
+          {ordem:6,
+          predecessor:5,
+          texto:'Os dispositivos móveis (smartphone, tablet, smartwatch) também possuem muitos sensores capazes de gerar eventos que não dependem do usuário, mas podem ser usados por programadores experientes. <br/> Note que os smartphones já são programados para medir a temperatura do aparelho e enviar alerta ao usuário quando é necessário resfriá-los. <br/> Agora é a sua vez. Vamos programar?',
+          urlAudioTexto:'',
+          textoSimplificado:'Sensores',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Celular ao sol esquentando com alerta da temperatura alta', //enviar ao ilustrador 
+          textoDescritivoImagem:'Um celular inteligente ao sol apresentando na tela uma alerta de temperatura alta e informando ao usuário a necessidade de esfriá-lo.', },
+
+				]
+		  }			  
+	  },
   
-  },
+       licao15:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 15. Sensores os Sentidos Humanos.',**/
+		  infografico:{titulo:'Sentidos Humanos e Sensores Eletrônicos',
+				tituloSimplificado:'Animação',
+				estiloPadrao:'basicoPaisagem',
+				/** urlVideo:'',
+				urlPodcast:'', **/
+				cenas:[				
+		  {ordem:1,
+		  predecessor:0,
+		  texto:'Sentidos Humanos e Sensores Eletrônicos. Através de nossos olhos, ouvidos, boca, nariz e pele conseguimos perceber o meio ambiente interagir com o mundo: são  nossos órgãos sensoriais.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Primórdios das Animações',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Arte na pré-história', 
+		  textoDescritivoImagem:'Arte na pré-história.', },
+
+		  {ordem:2,
+		  predecessor:1,
+		  texto:'Mas outro órgão tem papel fundamental para o funcionamento dos nossos sentidos: o cérebro. Os órgãos sensoriais nada mais fazer do que captar os sinais do mundo externo e enviar para o nosso cérebro, que é de fato órgão que interpreta o que chega e reage ao que ocorre a nosso redor.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Animação na pré-história',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Arte em movimento na pré-história', 
+		  textoDescritivoImagem:'Arte na pré-história simulando movimento.', },
+
+          {ordem:3,
+		  predecessor:2,
+		  texto:'Tal como os seres humanos, os robôs e dispositivos eletrônicos também podem ser equipados com órgãos sensoriais, chamados sensores.<br/>Os sensores são componente eletrônicos que, tal como os órgãos sensoriais humanos, captam sinais do meio ambiente. Estes sinais podem ser recebidos por um dispositivo computacional como um computador ou celular, ou ainda por um processador embutido em um robô.',
+		  urlAudioTexto:'',
+		  textoSimplificado:'Pintura Egípcia',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+		  urlImagem:'',
+		  promptImagem:'Arte egípcia pintura',  
+		  textoDescritivoImagem:'Pintura egípcia na parece.', },
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Os sensores de som são parecidos com o nosso sistema auditivo. Eles captam o som e transformam em sinais elétricos. O microfone pode ser usado como um sensor de som. ',
+          urlAudioTexto:'',	
+          textoSimplificado:'Sensonres de Som',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Folheando um flipbook.', 
+          textoDescritivoImagem:'Um flipbook ou folioscópio sendo folheado.', },
+
+          {ordem:5,
+          predecessor:4,
+          texto:'As câmeras ou filmadoras possuem sensores de luz tão poderosos que podem captar imagens de forma parecida com os olhos humanos. Os sensores de luz são parecidos com o nosso sistema ocular. Eles captam a luminosidade e a transformam em sinais elétricos.',
+          urlAudioTexto:'',
+          textoSimplificado:'Sensor de Luz',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Vaso antigo com imagem em movimento', //melhorar!
+          textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
+
+          {ordem:6,
+          predecessor:5,
+          texto:'Quando alguém cutuca o seu braço você sente esse toque e o seu cérebro logo decide se virar para ver quem é. Esse é o sentido do tato em ação. Do mesmo modo funciona a tela de um celular: você toca e ela transmite o toque para o processadoe do celular que é o seu computador interno. Um programa decide como reagir abrindo um aplicativo, por exemplo.',
+          urlAudioTexto:'',
+          textoSimplificado:'Sensores de Tato',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Traumatrópio', 
+          textoDescritivoImagem:'Traumatrópio da gaiola vazia e com o passarinho dentro.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:7,
+          predecessor:6,
+          texto:'Nossa pele também é responsável por informar ao nosso cérebro sobre a temperatura externa. Se faz calo ou frio.No mundo eletrônico, sensores de temperatura ou calor podem evitar incêndios, enviando sinais elétricos para outro dispositivo tocar alarme ou jogar água. Estes sensonres também ajudam a manter uma mesma temperatura em uma sala, transmitindo sinais ao ar-condicionado.',
+          urlAudioTexto:'',
+          textoSimplificado:'Sensore de Temperatura',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'Fenaquistiscópio', 
+          textoDescritivoImagem:'Fenaquistiscópio.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:8,
+          predecessor:7,
+          texto:'Vimos alguns exemplos de sensores eletrônicos que se aproximam da nossa visão, audição e tato. E quanto ao olfato e paladar? Será que já existem sensores para perceber um cheiro ou um gosto de alimento?',
+          urlAudioTexto:'',
+          textoSimplificado:'Zootrópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Zootrópio', 
+		  textoDescritivoImagem:'Zootrópio.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:9,
+          predecessor:8,
+          texto:'A arquitetura do Zootrópio também permitiu o surgimento das primeiras animações em terceira dimensão (3D), usando bonecos em vez de desenhos.',
+          urlAudioTexto:'',
+          textoSimplificado:'Zootrópio 3D',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Zootrópio 3D', 
+		  textoDescritivoImagem:'Zootrópio 3D.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:10,
+          predecessor:9,
+          texto:'O Praxinoscópio inventado em 1877, aprimorou o Zootrópio usando espelhos e lâmpadas para permitir que animações fossem projetadas em telas ou paredes.',
+          urlAudioTexto:'',
+          textoSimplificado:'Praxinoscópio',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Praxinoscópio', 
+		  textoDescritivoImagem:'Praxinoscópio.', },//ao definir a imagem, a descrição deverá ser alterada
+
+          {ordem:11,
+          predecessor:10,
+          texto:'Com isso, dezenas de pessoas podem assisti-la ao mesmo tempo como em um cinema moderno. Alías, esse invento acabou inspirando os inventores do cinema. Mas isso é assunto para outra aula.',
+          urlAudioTexto:'',
+          textoSimplificado:'Cinema',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Sala de cinema', 
+		  textoDescritivoImagem:'Sala de cinema.', },
+
+          {ordem:12,
+          predecessor:11,
+          texto:'Relembrando as invenções dos primórdios da aninação. Nessa lição conhecemos o Foliscópio,  Taumatrópio, Fenaquistiscópio, Zootrópio, Zootrópio 3D e o Praxinoscópio.',
+          urlAudioTexto:'',
+          textoSimplificado:'Revisão',
+		  textoImpresso:1,
+		  imagemImpresso:1,
+          urlImagem:'',
+		  promptImagem:'Resumo Imagem minuto 11:58',  //enviar ao ilustrador
+		  textoDescritivoImagem:'Resumo Imagem minuto 11:58.', },
+
+
+				]
+		
+		  }			  
+		  
+	  },
+ },
   
 
   
