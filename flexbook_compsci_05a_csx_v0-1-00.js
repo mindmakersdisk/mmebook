@@ -1100,7 +1100,7 @@ let livro_csx ={
 		  }			  
 	  },
   
-        licao12:{
+      licao12:{
 		  id:'CSXAULA07CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 12. Laços Aninhados.',**/
@@ -1180,8 +1180,8 @@ let livro_csx ={
 		  }			  
 	  },
 
-        licao13:{
-		  id:'CSXAULA07CODE',
+      licao13:{
+		  id:'CSXAULA13CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 13. Eventos e Reações.',**/
 		  infografico:{titulo:'Eventos e Reações',
@@ -1406,7 +1406,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Sistema Binário, o código secreto dos computadores.<p>Você sabia que os computadores e robôs são considerados máquinas burras? Sim, isso mesmo! É que, na verdade, são os programas que fazem os computadores executar algo que os faz parecer inteligentes.',
+        texto:'Sistema Binário: o código secreto dos computadores.<p>Você sabia que os computadores e robôs são considerados máquinas "burras"? Sim, é verdade! Na realidade, são os programas que os fazem executar ações que os tornam aparentemente inteligentes.',
         urlAudioTexto:'',
         textoSimplificado:'Sistemas computacionais',
         textoImpresso:1,
@@ -1417,7 +1417,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Para entender o sistema interno dos computadores, vamos nos lembrar primeiro de como nós, humanos, gostamos de nos lembrar dos números.',
+        texto:'Para entender o sistema interno dos computadores, vamos primeiro lembrar de como nós, humanos, gostamos de lidar com números.',
         urlAudioTexto:'',
         textoSimplificado:'Números',
         textoImpresso:1,
@@ -1428,7 +1428,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Nosso sistema preferido é chamado sistema decimal.<p>O sistema decimal usa dez símbolos, de zero a nove. E quando colocamos um número ao lado do outro, o da esquerda vale dez vezes mais.',
+        texto:'Nosso sistema preferido é chamado de sistema decimal. Ele utiliza dez símbolos, de zero a nove. Quando colocamos um número ao lado do outro, o da esquerda vale dez vezes mais.',
         urlAudioTexto:'',
         textoSimplificado:'Sistema decimal',
         textoImpresso:1,
@@ -1439,7 +1439,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Já no sistema mais simples e preferido dos computadores, o sistema binário, somente dois símbolos são usados, o zero e o um. E quando colocamos dois números um ao lado do outro, o da esquerda vale apenas duas vezes mais...',
+        texto:'No entanto, nos computadores, o sistema utilizado é o mais simples: o sistema binário. Nele, são usados apenas dois símbolos, o zero e o um. Ao colocar dois números um ao lado do outro, o da esquerda vale apenas duas vezes mais...',
         urlAudioTexto:'',
         textoSimplificado:'Sistema binário',
         textoImpresso:1,
@@ -1450,7 +1450,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Observe como os números 1, 2 e 3 são representados em sistema binário. Embora eles se pareçam com os números 1, 10 e 11 do sistema decimal, quem entende sistema binário sabe que tais números valem 1, 2 e 3. ',
+        texto:'Observe como os números 1, 2 e 3 são representados no sistema binário. Embora possam parecer com os números 1, 10 e 11 do sistema decimal, quem entende o sistema binário sabe que esses números valem 1, 2 e 3.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Industriais',
         textoImpresso:1,
@@ -1461,7 +1461,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'O sistema binário é como um código secreto. Quem entende pode usar o sistema binário para se comunicar sem que as outras pessoas consigam decifrar.',
+        texto:'O sistema binário é como um código secreto. Aqueles que o compreendem podem usá-lo para se comunicar sem que outras pessoas consigam decifrar.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
@@ -1472,7 +1472,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Para representar quantidades maior que 3, o sistema binário vai acrescentando mais zeros ou uns à esquerda, valendo duas vezes mais que o anterior.<p>Os números em binário ficam grandes, mas podem representar qualquer quantidade, assim como os decimais.',
+        texto:'Para representar quantidades maiores que 3, o sistema binário vai acrescentando mais zeros ou uns à esquerda, sendo que cada posição vale o dobro da anterior.',
         urlAudioTexto:'',
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
@@ -1483,7 +1483,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'Os números em binário ficam grandes, mas podem representar qualquer quantidade, assim como os decimais.',
+        texto:'Embora os números em binário possam se tornar grandes, é possível representar qualquer quantidade utilizando o sistema binário, assim como os números decimais.',
         urlAudioTexto:'',
         textoSimplificado:'Sphero',
         textoImpresso:1,
@@ -1494,7 +1494,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Já começamos a desvendar como o computador trabalha com números, letras e palavras. Mas e quanto aos vídeos, sons e imagens, por exemplo? Como vimos, eles também são armazenados pelo computador como código binário, ou seja, como zeros e uns.',
+        texto:'Já começamos a desvendar como os computadores trabalham com números, letras e palavras. Mas e quanto aos vídeos, sons e imagens, por exemplo? Eles também são armazenados pelo computador como código binário, ou seja, como zeros e uns.',
         urlAudioTexto:'',
         textoSimplificado:'Mecânica',
         textoImpresso:1,
@@ -1505,7 +1505,7 @@ let livro_csx ={
 
         {ordem:10,
         predecessor:9,          
-        texto:'Não entendeu muito bem ainda? Não se preocupe, você va aprender a contar em código binário, tal como os computadores, com um divertido jogo de cartas!',
+        texto:'Se você ainda não entendeu muito bem, não se preocupe! Você vai aprender a contar em código binário, assim como os computadores, com um divertido jogo de cartas!',
         urlAudioTexto:'',
         textoSimplificado:'Eletrônica',
         textoImpresso:1,
@@ -1518,11 +1518,11 @@ let livro_csx ={
         ]
       }
     },
-      licao10:{},
-      licao11:{},
-      licao12:{},
-      licao13:{},
-      licao14:{},
+    licao10:{},
+    licao11:{},
+    licao12:{},
+    licao13:{},
+    licao14:{},
 	  
   },
   
@@ -1746,7 +1746,198 @@ let livro_csx ={
     licao23:{},
     licao24:{},
     licao25:{},
-    licao26:{},
+    licao26:{		  
+      id:'CSXAULA26CODE',
+      /** padroesCurriculares: 
+      titulo:'Lição 26. Trilha de Impressão em Jogos Digitais',**/
+      infografico:{titulo:'Rastro Digital',
+      tituloSimplificado:'Rastro Digital',
+      estiloPadrao:'basicoPaisagem',
+      /** urlVideo:'',
+      urlPodcast:'', **/
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'Imagine que você é um detetive tentando solucionar um roubo.<p>Você persegue o rastro deixado pelo ladrão começando por pegadas que ele deixou no local. Como você é experiente, só com isso já consegue dizer em que direção ele foi, com que velocidade, seu tamanho e peso estimados, o tipo de sapato que ele estava usando e muito mais. Essas informações são decisivas para você resolver o caso, mas o ladrão nem imaginava que estava deixando tantas pistas para trás. Algo parecido acontece conosco quando usamos a internet.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sistemas computacionais',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Duas imagens: um computador e um robÔs',
+        textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
+
+        {ordem:2,
+        predecessor:1,
+        texto:'Sempre que visitamos sites, fazemos pesquisas por informações, deixamos comentários, carregamos vídeos ou damos like, deixamos uma pegada digital, um tipo de rastro que permite a empresas e pessoas habilitadas, via programação, desvendarem muito sobre nós.',
+        urlAudioTexto:'',
+        textoSimplificado:'Números',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Desenho da cabeça de uma professora e de um quadro negro, com algumas operações matemáticas simples', 
+        textoDescritivoImagem:'Robô autômato.', },
+
+        {ordem:3,
+        predecessor:2,
+        texto:'As empresas investem nesses programas porque assim conseguem apresentar ofertas, anúncios, produtos e conteúdos personalizados, que variam para cada usuário conforme suas pegadas digitais. Algumas organizações, inclusive, vendem suas pegadas digitais para anunciantes. No fim das contas, a sua pegada digital é salva, investigada e comercializada porque é muito valiosa.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sistema decimal',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter de unidade para dezena e de dezena para centena',
+        textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+
+        {ordem:4,
+        predecessor:3,
+        texto:'Deixar essas pegadas enquanto navega na maioria das vezes é inevitável e também inofensivo. Mas, suas pegadas digitais também podem lhe trazer problemas. Diferente de uma pegada deixada na rua, que some com a chuva, uma pegada digital é copiada, compartilhada e pode existir por muito mais tempo do que você imagina. Com o tempo, suas pegadas digitais acumuladas acabam sendo usadas por algoritmos para formar uma imagem de quem você é.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sistema binário',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Três imagens. Robô Industrial. Robô cirurgião. Robô explorador',  //três imagens (serão usadas a seguir)
+        textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+
+        {ordem:5,
+        predecessor:4,
+        texto:'.',
+        urlAudioTexto:'O problema começa quando elas são usadas para tomar decisões importantes que te afetam. Por exemplo, quando você se candidata a entrar em uma escola ou empresa. O que parecia apenas um vídeo engraçado de compartilhar há alguns anos, hoje pode ser altamente inapropriado e te atrapalhar a conseguir um emprego. Mas se as pegadas digitais são inevitáveis, o que você pode fazer?',
+        textoSimplificado:'Robôs Industriais',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Robô industrial', 
+        textoDescritivoImagem:'Robô industrial.', },
+
+        {ordem:6,
+        predecessor:5,
+        texto:'Mantenha uma boa imagem online, escolhendo respeitar e ser responsável em cada ação. Antes de postar alguma coisa em um site ou aplicativo, imagine como isso pode parecer para um futuro empregador ou se aparecesse na primeira página de um jornal. Segundo, proteja sua privacidade.',
+        urlAudioTexto:'',
+        textoSimplificado:'Robôs Exploradores',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Robô Explorador', 
+        textoDescritivoImagem:'Robô Explorador.', },
+
+        {ordem:7,
+        predecessor:6,
+        texto:'Para isso, entenda como os sites coletam e usam suas pegadas digitais, entenda o que são cookies e autorize um nível de uso deles que funcione para você. Terceiro, considere ter mais de uma conta ou persona online. Você pode ter uma conta de usuário profissional e outra pessoal separadas em uma rede social, por exemplo. Usando cada conta com consciência, você consegue manter suas informações privadas enquanto tem outra presença online para ser encontrada facilmente.',
+        urlAudioTexto:'',
+        textoSimplificado:'Controlar robô',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Robô com controle remoto', 
+        textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
+
+        {ordem:8,
+        predecessor:7,          
+        texto:'Lembre-se, sempre que usa internet, suas ações estão sendo acompanhadas. É sua responsabilidade prevenir agora para evitar problemas futuros.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sphero',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Sphero', 
+        textoDescritivoImagem:'Robô Sphero.', },
+
+        ]
+      
+      /*cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'Cookies HTTP<p>Imagine viver sem memória.<p>Para cada pessoa que reencontrar, você teria que perguntar quem ela é, seu nome, tudo o que já fizeram juntos. Seria exatamente assim com os sites da internet se não fossem os cookies HTTP. Ah, claro, cookies em inglês são biscoitinhos.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sistemas computacionais',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Duas imagens: um computador e um robÔs',
+        textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
+
+        {ordem:2,
+        predecessor:1,
+        texto:'Mas os cookies HTTP não são comestíveis. São pequenos arquivos de dados que vivem na memória de seu computador. Enquanto navega pela internet, os dados dos cookies são enviados para os sites juntamente com as mensagens que você envia ou links que acessa. Basicamente, os cookies HTTP servem para relembrar aos sites quem você é.',
+        urlAudioTexto:'',
+        textoSimplificado:'Números',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Desenho da cabeça de uma professora e de um quadro negro, com algumas operações matemáticas simples', 
+        textoDescritivoImagem:'Robô autômato.', },
+
+        {ordem:3,
+        predecessor:2,
+        texto:'Se não fossem eles, um serviço de jogo online multi-usuário, por exemplo, não saberia qual dos usuários está fazendo uma jogada. Seria impossível comprar produtos na internet, marcar favoritos ou usar sites que exijam login. Falando assim de sua importância, os cookies HTTP podem parecer algo tecnicamente complicado. Mas, na verdade, são apenas pequenos arquivos de texto contendo um nome e um valor.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sistema decimal',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter de unidade para dezena e de dezena para centena',
+        textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+
+        {ordem:4,
+        predecessor:3,
+        texto:'O texto do cookie em si varia conforme cada site.<p>Um site pode gerar um cookie para saber quem você é. E outros para se lembrar de cada página que você acessou. Deste modo, quando você retorna ao site dias depois, ele pode te apresentar informações ou anúncios de seu interesse logo de cara em destaque. Um site que você visita pode repassar seus cookies para outros sites que você nem conhece. Se você costuma ouvir sua banda preferida em um site de música, por exemplo.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sistema binário',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Três imagens. Robô Industrial. Robô cirurgião. Robô explorador',  //três imagens (serão usadas a seguir)
+        textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+
+        {ordem:5,
+        predecessor:4,
+        texto:'.',
+        urlAudioTexto:'Não será coincidência ao visitar um site de ingressos online pela primeira vez ver em destaque o próximo show de sua banda. Por tudo isso, para melhorar seus serviços, os sites estão constantemente gerando, armazenando e compartilhando seus cookies. Com o uso crescente da internet, a capacidade de descobrir o perfil de uma pessoa somente com base nos seus cookies, mesmo sem saber seu nome, se tornou incrível.',
+        textoSimplificado:'Robôs Industriais',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Robô industrial', 
+        textoDescritivoImagem:'Robô industrial.', },
+
+        {ordem:6,
+        predecessor:5,
+        texto:'Por isso, embora necessários, os cookies passaram a ser cobiçados e usados para interesses maliciosos. Os cookies HTTP são um dos principais tipos de pegada digital que você deixa, mesmo sem notar, enquanto navega pela internet.',
+        urlAudioTexto:'',
+        textoSimplificado:'Robôs Exploradores',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Robô Explorador', 
+        textoDescritivoImagem:'Robô Explorador.', },
+
+        {ordem:7,
+        predecessor:6,
+        texto:'Uma navegação por curiosidade ou equívoco em sites simpatizantes de extremistas, do nazismo ou de práticas preconceituosas, pode se tornar um transtorno real e duradouro. Embora leis venham sendo criadas para tentar impedir o uso abusivo dos cookies, sua melhor proteção é seu conhecimento sobre eles. Aprender a analisar e programar cookies te tornará um navegador online mais consciente e capaz de se proteger.',
+        urlAudioTexto:'',
+        textoSimplificado:'Controlar robô',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Robô com controle remoto', 
+        textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
+
+        {ordem:8,
+        predecessor:7,          
+        texto:'Então, mãos à obra! Quem gosta de biscoitinhos?',
+        urlAudioTexto:'',
+        textoSimplificado:'Sphero',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Sphero', 
+        textoDescritivoImagem:'Robô Sphero.', },
+
+        ]*/
+      }
+    },
     licao27:{},
     licao28:{},	 
 	  
