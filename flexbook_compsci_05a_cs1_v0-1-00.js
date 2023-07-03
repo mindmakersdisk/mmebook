@@ -566,7 +566,7 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Os robôs podem ter corpos feito de metal, plástico ou outros materiais e geralmente possuem sensores para ajudá-los a "entender" o mundo ao seu redor.',
+        texto:'Os robôs podem ter corpos feitos de metal, plástico ou outros materiais e geralmente possuem sensores para ajudá-los a "entender" o mundo ao seu redor.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -641,7 +641,7 @@ let livro_cs1 ={
 
         {ordem:12,
         predecessor:11,
-        texto:'Por exemplo, podemos programar um robô para desenhar figuras ou jogar um jogo com a gente. É muito divertido!',
+        texto:'Por exemplo, podemos programar um robô para desenhar figuras ou jogar um jogo conosco. É muito divertido!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
