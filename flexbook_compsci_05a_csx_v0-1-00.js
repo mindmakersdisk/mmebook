@@ -1632,7 +1632,132 @@ let livro_csx ={
       }
     },
     licao17:{},
-    licao18:{},
+    licao18:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 18. Listas.',**/
+		  infografico:{titulo:'Listas',
+      tituloSimplificado:'Animação',
+      estiloPadrao:'basicoPaisagem',
+      /** urlVideo:'',
+      urlPodcast:'', **/
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'Muitas vezes é útil agrupar informações em uma lista. Seja para lembrar as tarefas de um projeto. Sela para guardar os prêmios de um jogador em um programa de videogame, por exemplo. Ou ainda, listar as suas músicas prediletas no Spotify.',
+        urlAudioTexto:'',
+        textoSimplificado:'Listas',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Listas de atividades de um projeto e lista de músicas preferidas no Spotify', //enviar ao ilustrador
+        textoDescritivoImagem:'Lista de atividades de um projeto e lista de músicas preferidas no Spotify.', },
+
+        {ordem:2,
+        predecessor:1,
+        texto:'Em programação há dois tipos de listas, as estáticas e as dinâmicas. Uma lista é estática quando programador define os valores antecipadamente e eles não mudam durante a execução do programa. Por exemplo, no caso de uma lista contendo todas as fases possíveis de um videogame.',
+        urlAudioTexto:'',
+        textoSimplificado:'Lista Estática',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Lista com as fases do jogo de videogame Sonic The Hedgegog 2', //enviar ao ilustrador, vídeo 00:40
+        textoDescritivoImagem:'Lista contendo as fases do jogo de videogame Sonic The Hedgegog 2.', },
+
+        {ordem:3,
+        predecessor:2,
+        texto:'Já nas listas dinâmicas, seus valores vão sendo preenchidos durante a execução do programa. Por exemplo, no caso de uma lista de fases já vencidas pelo jogador corrente.',
+        urlAudioTexto:'',
+        textoSimplificado:'Lista Dinâmicas',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Lista com as fases vencidas do jogo de videogame Sonic The Hedgegog 2', //enviar ao ilustrador, vídeo 00:57
+        textoDescritivoImagem:'Lista contendo as fases vencidas do jogo de videogame Sonic The Hedgegog 2.', },
+
+        {ordem:4,
+        predecessor:3,
+        texto:'Linguagens de progamação com o Scratch e o AppInventor trazem blocos de comando que facilitam a criação e utilização de listas, sejam estáticas ou dinâmicas. Vamos ver alguns exemplos. Começaremos pelo Scratch. O primeiro passo é clicar no botão Criar uma lista dentro da seção Variáveis dos Scripts. E dar um nome a lista como fases. O Scratch então irá gerar uma série de comandos para manipular a lista criada.',
+        urlAudioTexto:'',	
+        textoSimplificado:'Listas no Scratch',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Programação no Scratch.', //enviar ao ilustrador, vídeo 01:36
+        textoDescritivoImagem:'Programação no Scratch.', },
+
+        {ordem:5,
+        predecessor:4,
+        texto:'No Scratch, se for uma lista estática podemos definir seus valores e exibí-los ou não no palco. Uma vez criadas as listas, temos várias maneiras de recuparar o valor de seus elementos. Se em algum ponto de nosso programa temos a posição na lista, por exemplo, 2 (dois) e queremos recuperar o nome da fase correspondente, podemos usar o comando item-de do Scratch.',
+        urlAudioTexto:'',
+        textoSimplificado:'Lista Estática Scratch',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Programação de Lista Estática no Scratch', //enviar ao ilustrador vídeo 2:10 + 2:15 + 3:15
+        textoDescritivoImagem:'Programação de Lista Estática no Scratch.', },
+
+        {ordem:6,
+        predecessor:5,
+        texto:'Podemos também percorrer todos os itens da lista que criamos usando laços. No exemplo a seguir, o gato Scratch lê todas as fases do jogo uma a uma, logo que ele é iniciado.',
+        urlAudioTexto:'',
+        textoSimplificado:'Lista e Laço Scratch',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Programação de Lista e Laço no Scratch', //enviar ao ilustrador vídeo 4:05
+        textoDescritivoImagem:'Programação de Lista e Laço no Scratch.', },
+
+        {ordem:7,
+        predecessor:6,
+        texto:'Para listas dinâmicas, que são modificadas durante o programa, existem comandos para adicionar e remover os itens da lista.',
+        urlAudioTexto:'',
+        textoSimplificado:'Lista Dinâmica Scratch',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Programação de Lista Dinâmica no Scratch', //enviar ao ilustrador vídeo 5:10 apenas códio Scratch
+        textoDescritivoImagem:'Programação de Lista Dinâmica no Scratch.', },
+
+        {ordem:8,
+        predecessor:7,
+        texto:'Vimos alguns exemplos de sensores eletrônicos que se aproximam da nossa visão, audição e tato. E quanto ao olfato e paladar? Será que já existem sensores para perceber um cheiro ou um gosto de alimento? Sim, eles já existem, mas são muito caros e de pouca utilidade por enquanto.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sensor Olfato e Paladar',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Cheiro chegando ao nariz de uma pessoa', //enviar ao ilustrador https://cienciahoje.org.br/artigo/as-mil-e-uma-aplicacoes-do-nariz-eletronico/
+        textoDescritivoImagem:'Cheiro chegando ao nariz de uma pessoa.', },
+
+        {ordem:9,
+        predecessor:8,
+        texto:'Mas não pensem que os robôs ou dispositivos eletrônicos ficam para trás. Eles também possuem sensores eletrônicos que superam os nossos sentidos humanos. Sensores de infravermelho, por exemplo, conseguem captar um tipo de luz que os nossos olhos não veem. Do mesmo modo, sensores de ultrassom são capazes de captar sons que não conseguimos ouvir.',
+        urlAudioTexto:'',
+        textoSimplificado:'Outros Sensores',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Luz infravermelha', 
+        textoDescritivoImagem:'Imagem com luz infravermelha', },
+
+        {ordem:10,
+        predecessor:9,
+        texto:'Existem centenas de sensores e com eles você pode criar aparelhos e robôs incríveis. Vamos experimentar?',
+        urlAudioTexto:'',
+        textoSimplificado:'Sensores Diversos',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Todos os tipos de sensores eletrônicos', 
+        textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
+
+				]
+		
+		  }			  
+		  
+	  },
+	
     licao19:{},
     licao20:{},
     licao21:{		  
