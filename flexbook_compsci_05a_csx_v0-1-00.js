@@ -436,7 +436,7 @@ let livro_csx ={
 		  id:'CSXAULA03CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 03. Algoritmos.',**/
-		  infografico:{titulo:'Algoritmos no dia a dia ',
+		  infografico:{titulo:'Algoritmos no Dia a Dia ',
 				tituloSimplificado:'Algoritmos',
 				estiloPadrao:'basicoPaisagem',
 				/** urlVideo:'',
@@ -476,7 +476,7 @@ let livro_csx ={
           predecessor:3,
           texto:'Outras usam diagramas, que são formados por quadrados, círculos e outras formas geométricas ligadas por linhas e contendo texto.',
           urlAudioTexto:'',
-          textoSimplificado:'Algoritmos com diagramas',
+          textoSimplificado:'Algoritmos com Diagramas',
 		  textoImpresso:1,
           urlImagem:'',
           promptImagem:'Fluxograma de como assar o pão no forno', 
