@@ -1412,8 +1412,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Duas imagens: um computador e um robÔs',
-        textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
+        promptImagem:'Imagem de um computador<p>Imagem de um robô',
+        textoDescritivoImagem:'Duas imagens, na primeira um computador e na segunda um robô humanóide.', },
 
         {ordem:2,
         predecessor:1,
@@ -1423,47 +1423,47 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Desenho da cabeça de uma professora e de um quadro negro, com algumas operações matemáticas simples', 
-        textoDescritivoImagem:'Robô autômato.', },
+        promptImagem:'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
+        textoDescritivoImagem:'Duas imagens, na primeira uma professora e na segunda um quadro negro, em que foram escritas algumas operações matemáticas simples, de somas, subtrações, multiplicações e divisões.', },
 
         {ordem:3,
         predecessor:2,
         texto:'Nosso sistema preferido é chamado de sistema decimal. Ele utiliza dez símbolos, de zero a nove. Quando colocamos um número ao lado do outro, o da esquerda vale dez vezes mais.',
         urlAudioTexto:'',
-        textoSimplificado:'Sistema decimal',
+        textoSimplificado:'tabela de valores posicionais',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
         promptImagem:'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter de unidade para dezena e de dezena para centena',
-        textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+        textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito uma tabela de valor posicional para ensinar como se converter 10 unidades em uma dezena e 10 dezenas em um centena.', },
 
         {ordem:4,
         predecessor:3,
         texto:'No entanto, nos computadores, o sistema utilizado é o mais simples: o sistema binário. Nele, são usados apenas dois símbolos, o zero e o um. Ao colocar dois números um ao lado do outro, o da esquerda vale apenas duas vezes mais...',
         urlAudioTexto:'',
-        textoSimplificado:'Sistema binário',
+        textoSimplificado:'Número 4 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Três imagens. Robô Industrial. Robô cirurgião. Robô explorador',  //três imagens (serão usadas a seguir)
-        textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
+        promptImagem:'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',  //três imagens (serão usadas a seguir)
+        textoDescritivoImagem:'Imagem de quadro negro, em que foram escritas as operações matemáticas para converter o número 4 do sistema decimal para o sistema binário.', },
 
         {ordem:5,
         predecessor:4,
         texto:'Observe como os números 1, 2 e 3 são representados no sistema binário. Embora possam parecer com os números 1, 10 e 11 do sistema decimal, quem entende o sistema binário sabe que esses números valem 1, 2 e 3.',
         urlAudioTexto:'',
-        textoSimplificado:'Robôs Industriais',
+        textoSimplificado:'Números 1, 2 e 3 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Robô industrial', 
-        textoDescritivoImagem:'Robô industrial.', },
+        promptImagem:'Quadro negro com escritas dos números 1, 2 e 3 em sistema binário', 
+        textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito os números 1, 2 e 3 em sistema decimal e em sistema binário.', },
 
         {ordem:6,
         predecessor:5,
         texto:'O sistema binário é como um código secreto. Aqueles que o compreendem podem usá-lo para se comunicar sem que outras pessoas consigam decifrar.',
         urlAudioTexto:'',
-        textoSimplificado:'Robôs Exploradores',
+        textoSimplificado:'Robôs Exploradores', //TODO continuar daqui
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
@@ -1542,7 +1542,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'SClock – o coração do computador.<p>O que uma orquestra, uma equipe de remo e um computador possuem em comum. Todos precisam de uma forte marcação de ritmo para que seus componentes funcionem em sincronia perfeita. Em uma orquestra, o ritmo é garantido pelo maestro. Em uma equipe de remo, pelo timoneiro. E nos computadores, por um cristal de quartzo, que oscila próximo ao seu processador.',
+        texto:'Clock - O coração do computador.<p>O que uma orquestra, uma equipe de remo e um computador possuem em comum? Todos precisam de uma marcação de ritmo forte para que seus componentes funcionem em perfeita sincronia. Em uma orquestra, o ritmo é garantido pelo maestro. Em uma equipe de remo, pelo timoneiro. E nos computadores, por um cristal de quartzo que oscila próximo ao processador.',
         urlAudioTexto:'',
         textoSimplificado:'Sistemas computacionais',
         textoImpresso:1,
@@ -1553,7 +1553,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Chamado de System Clock, Internal Clock ou simplesmente Clock, esse minúsculo componente também pode ser comparado com o nosso coração.<p>Seu papel é pulsar, fazendo o processador trabalhar em microciclos organizados. Assim como o coração bombeia o sangue para alimentar nossas células.',
+        texto:'Chamado de System Clock, Internal Clock ou simplesmente Clock, esse minúsculo componente também pode ser comparado ao nosso coração. Seu papel é pulsar, fazendo o processador trabalhar em microciclos organizados, assim como o coração bombeia o sangue para alimentar nossas células.',
         urlAudioTexto:'',
         textoSimplificado:'Números',
         textoImpresso:1,
@@ -1564,7 +1564,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Cada pulso do clock faz o processador executar uma instrução de máquina. Como uma linha de código que escrevemos no Scratch, dependendo do comando, pode gerar dez, cem ou até milhares de instruções de máquina, são necessários vários ciclos de clock para o computador processar uma única linha de código.',
+        texto:'Cada pulso do clock faz o processador executar uma instrução de máquina. Assim como uma linha de código que escrevemos no Scratch, dependendo do comando, pode gerar dez, cem ou até milhares de instruções de máquina, são necessários vários ciclos de clock para o computador processar uma única linha de código.',
         urlAudioTexto:'',
         textoSimplificado:'Sistema decimal',
         textoImpresso:1,
@@ -1575,8 +1575,8 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'',
-        urlAudioTexto:'Mas, felizmente, os clocks são bem rápidos.<p>O primeiro computador eletrônico, o ENIAC, usava um clock de 100 kHz, o que significa que executava instruções a uma taxa de 100 mil ciclos por segundo. Já o primeiro computador pessoal, algumas décadas depois, usava um processador Intel 8080, que vinha com um clock de 2 MHz, capaz de executar 2 milhões de instruções de máquina por segundo. A velocidade dos computadores continuou evoluindo.',
+        texto:'Felizmente, os clocks são bem rápidos. O primeiro computador eletrônico, o ENIAC, usava um clock de 100 kHz, o que significa que executava instruções a uma taxa de 100 mil ciclos por segundo. Já o primeiro computador pessoal, algumas décadas depois, usava um processador Intel 8080, que vinha com um clock de 2 MHz, capaz de executar 2 milhões de instruções de máquina por segundo. A velocidade dos computadores continuou evoluindo.',
+        urlAudioTexto:'',
         textoSimplificado:'Sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
@@ -1597,7 +1597,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Mas todo esse avanço vem a um custo.<p>Como continuar aumentando a capacidade dos computadores e evitar problemas de superaquecimento.',
+        texto:'Mas todo esse avanço vem com um custo. Como continuar aumentando a capacidade dos computadores e evitar problemas de superaquecimento?',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
@@ -1608,7 +1608,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'A solução foi acrescentar mais núcleos de processamento a uma única CPU, evitando aumentar o clock ainda mais. Isso permitiu ganhos de velocidade no processamento graças ao paralelismo. Surgiram, então, computadores com sistemas dual-core, dois núcleos, e o quad-core, quatro núcleos, por exemplo.',
+        texto:'A solução foi acrescentar mais núcleos de processamento a uma única CPU, evitando aumentar ainda mais o clock. Isso permitiu ganhos de velocidade no processamento graças ao paralelismo. Surgiram, então, computadores com sistemas dual-core, dois núcleos, e quad-core, quatro núcleos, por exemplo.',
         urlAudioTexto:'',
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
@@ -1619,7 +1619,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'Mas, para entender de verdade a importância dos clocks e o mecanismo interno dos computadores, é preciso vestir a camisa. Ou melhor, os processadores.<p>Qual sistema será o mais eficiente? Um dual-core com clock de 1 GHz ou um single-core com 2 GHz?',
+        texto:'Mas, para entender verdadeiramente a importância dos clocks e o mecanismo interno dos computadores, é preciso vestir a camisa. Ou melhor, os processadores. Qual sistema será o mais eficiente? Um dual-core com clock de 1 GHz ou um single-core com 2 GHz?',
         urlAudioTexto:'',
         textoSimplificado:'Sphero',
         textoImpresso:1,
@@ -1772,7 +1772,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Compressão de arquivos digitais.<p>Já vimos que computadores armazenam textos, números, imagens, fotos, sons e vídeos em códigos binários, o que chamamos de sistema digital. Como o sistema binário só usa dois dígitos, ou bits, zero e um, ele é facilmente representado por transistores eletrônicos em estado desligado e ligado, respectivamente. Mas manter tudo em sistema binário ocupa muito espaço, facilmente bilhões ou trilhões de bits.',
+        texto:'Compressão de arquivos digitais.<p>Já vimos que os computadores armazenam textos, números, imagens, fotos, sons e vídeos em códigos binários, o que chamamos de sistema digital. Como o sistema binário usa apenas dois dígitos, ou bits - zero e um - ele pode ser facilmente representado por transistores eletrônicos em estado desligado e ligado, respectivamente. No entanto, manter tudo no sistema binário ocupa muito espaço, chegando facilmente a bilhões ou trilhões de bits.',
         urlAudioTexto:'',
         textoSimplificado:'Sistemas computacionais',
         textoImpresso:1,
@@ -1783,7 +1783,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Por exemplo, uma música em qualidade 16 bits de 3 minutos em formato digital ocupa 30 MB e um vídeo HD de alta definição de 1 hora 800 GB. Por isso, na vida real, esses arquivos digitais são comprimidos. Um arquivo de música de 30 MB pode ser comprimido usando o formato MP3 para 3 MB. E um arquivo de vídeo de 800 GB pode ser comprimido usando o formato MP4 para 1 GB.',
+        texto:'Por exemplo, uma música em qualidade de 16 bits, com duração de 3 minutos e em formato digital, ocupa 30 MB, enquanto um vídeo de alta definição em HD, com duração de 1 hora, ocupa 800 GB. Por isso, na prática, esses arquivos digitais são comprimidos. Um arquivo de música de 30 MB pode ser comprimido usando o formato MP3, reduzindo seu tamanho para 3 MB. Da mesma forma, um arquivo de vídeo de 800 GB pode ser comprimido usando o formato MP4, ocupando apenas 1 GB.',
         urlAudioTexto:'',
         textoSimplificado:'Números',
         textoImpresso:1,
@@ -1794,7 +1794,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Chamamos uma técnica de compressão de compressão com perda quando, para economizar espaço, ela descarta parte da informação. Por exemplo, quando reduzimos a qualidade de uma imagem, música ou vídeo. Ainda assim, é uma compressão útil, pois mesmo perdendo algumas informações, o olho ou o ouvido humano às vezes nem percebem a diferença entre o arquivo original e o comprimido.',
+        texto:'Chamamos de compressão com perda aquela técnica de compressão que descarta parte das informações para economizar espaço. Por exemplo, quando reduzimos a qualidade de uma imagem, música ou vídeo. Apesar disso, essa compressão ainda é útil, pois mesmo com a perda de algumas informações, muitas vezes o olho ou o ouvido humano não percebem a diferença entre o arquivo original e o comprimido.',
         urlAudioTexto:'',
         textoSimplificado:'Sistema decimal',
         textoImpresso:1,
@@ -1805,7 +1805,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Você consegue distinguir qual dessas imagens tem menor tamanho?', //TODO precisa ser editado
+        texto:'Você consegue distinguir qual dessas imagens tem o menor tamanho?', //TODO precisa ser editado
         urlAudioTexto:'',
         textoSimplificado:'Sistema binário',
         textoImpresso:1,
@@ -1816,7 +1816,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Manfred Schröder, físico alemão, propôs na década de 1970 técnicas de compressão de áudio que descartam do arquivo digital as frequências de som que o ouvido humano não distingue bem. Hoje, suas técnicas são largamente usadas nos arquivos de áudio digitais mais comuns como o MP3. Quando uma técnica de compressão não descarta nenhuma parte da informação, ela é chamada de compressão sem perda.',
+        texto:'Manfred Schröder, físico alemão, propôs técnicas de compressão de áudio na década de 1970, nas quais as frequências de som que o ouvido humano não distingue bem são descartadas do arquivo digital. Atualmente, suas técnicas são amplamente utilizadas nos formatos de áudio digital mais comuns, como o MP3. Quando uma técnica de compressão não descarta nenhuma informação, ela é chamada de compressão sem perda.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Industriais',
         textoImpresso:1,
@@ -1827,7 +1827,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para conseguir realizar compressão sem perda, um algoritmo de compressão precisa identificar padrões repetitivos e representá-los de modo mais eficiente. Por exemplo, imagine um arquivo que traga somente os resultados verdadeiro e falso para 30 questões de uma prova. Em um formato sem compressão, ele poderia ser lido assim.',
+        texto:'Para realizar a compressão sem perda, um algoritmo de compressão precisa identificar padrões repetitivos e representá-los de forma mais eficiente. Por exemplo, imagine um arquivo que contenha apenas os resultados verdadeiro e falso para 30 questões de uma prova. Em um formato sem compressão, ele poderia ser lido da seguinte maneira:', //TODO precisa ser revisado
         urlAudioTexto:'',
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
@@ -1838,7 +1838,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Mas um algoritmo de compressão poderia trocar as repetições por números, como em um laço, para diminuir o tamanho do arquivo sem perda.<p>O primeiro desafio de um bom algoritmo de compressão sem perda é, portanto, identificar os padrões repetitivos que ocupam mais espaço para então substituí-los até reduzir o tamanho do arquivo ao menor número possível de bytes.',
+        texto:'Um algoritmo de compressão poderia substituir as repetições por números, como em um laço, para diminuir o tamanho do arquivo sem perda.<p>O primeiro desafio de um bom algoritmo de compressão sem perda é, portanto, identificar os padrões repetitivos que ocupam mais espaço e substituí-los até reduzir o tamanho do arquivo ao menor número possível de bytes.',
         urlAudioTexto:'',
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
@@ -1849,7 +1849,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'Você está preparado para criar uma técnica de compressão?<p>Vejamos quem consegue a melhor técnica de compressão!',
+        texto:'Você está preparado para criar uma técnica de compressão?<p>Vamos ver quem consegue desenvolver a melhor técnica de compressão!',
         urlAudioTexto:'',
         textoSimplificado:'Sphero',
         textoImpresso:1,
