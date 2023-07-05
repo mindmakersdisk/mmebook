@@ -2306,7 +2306,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Imagem com pessoas falando, uma carta e um outdoor.', //enviar ao ilustrador vídeo 00:18
+        promptImagem:'Uma ilustração colorida e dinâmica que representa as diversas formas de comunicação no mundo atualmente, feita para encantar pessoas de 12 a 14 anos. Mostra um grupo diversificado de jovens, cada um usando uma forma diferente de comunicação: um menino enviando um emoji em um smartphone, uma garota escrevendo em um blog no laptop, um adolescente falando através de um headset de videojogo, uma menina mandando uma carta à moda antiga, e um menino falando através de linguagem de sinais. Ao fundo, balões de diálogo, emojis, posts e símbolos de email flutuam no ar, criando um cenário cheio de vida e energia.', 
         textoDescritivoImagem:'Imagem com pessoas falando, uma carta e um outdoor .', },
 
         {ordem:2,
@@ -2317,7 +2317,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos', 	
+        promptImagem:'Uma ilustração vibrante de adolescentes usando várias formas de comunicação digital. Eles estão envolvidos em smartphones, computadores e tablets, compartilhando emojis, postagens e fazendo chamadas de vídeo. Bolhas de conversa, emojis e ícones de redes sociais preenchem o ar ao redor.', 	
         textoDescritivoImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos.', },
 
         {ordem:3,
@@ -2328,7 +2328,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Ética Digital', //Uma ilustração complexa que simboliza a ética digital. Inclui uma mão humana estendida segurando um globo de luz digital que contém vários ícones de pessoas, computadores, smartphones e símbolos de privacidade. Em torno do globo, existem palavras como 'Responsabilidade', 'Respeito', 'Privacidade' e 'Integridade' flutuando em nuvens de código binário. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre ética digital.
+        promptImagem:'Ilustração colorida mostrando jovens interagindo respeitosamente online. Eles estão cercados por símbolos digitais e palavras como Respeito, Privacidade e Responsabilidade, destacando o conceito de ética digital.',
         textoDescritivoImagem:'Ética Digital.', },
 
         {ordem:4,
@@ -2339,7 +2339,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Respeito.', //Uma ilustração vibrante mostrando um cenário digital onde avatares de pessoas de diversas idades, etnias e habilidades estão interagindo em harmonia dentro de uma rede de conexões online. Cada avatar está envolto em um escudo transparente representando privacidade e respeito. No fundo, grandes palavras 'Respeito' e 'Ética Digital' são visíveis, conectadas por linhas de luz aos avatares, simbolizando a importância do respeito no universo digital. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre respeito no contexto da ética digital.
+        promptImagem:'Ilustração colorida e divertida de jovens avatares online respeitando o espaço um do outro, com escudos de privacidade e palavras como Respeito e Ética Digital flutuando ao redor, enfatizando a importância do respeito na esfera digital.', 
         textoDescritivoImagem:'Respeito.', },
 
         {ordem:5,
@@ -2350,7 +2350,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Segurança', //Uma ilustração vívida e simbólica da segurança na ética digital. No centro, um castelo digital sólido e brilhante é protegido por um escudo transparente, simbolizando a segurança de dados. O castelo é cercado por diversos ícones, como um cadeado, uma chave, um firewall e uma nuvem de computador, representando diferentes aspectos da segurança digital. Acima do castelo, a palavra 'Segurança' é visível, conectada a todos esses elementos através de linhas de luz, demonstrando a importância da segurança no contexto da ética digital. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre segurança no contexto da ética digital.
+        promptImagem:'Ilustração colorida retratando jovens navegando em um navio digital protegido por um escudo, navegando em um mar de códigos. Ícones como cadeados e firewalls aparecem, simbolizando a segurança na ética digital.', 
         textoDescritivoImagem:'Segurança.', },
 
         {ordem:6,
@@ -2361,7 +2361,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Desconfie', //Uma ilustração impactante representando o desafio das fake news e deepfakes na ética digital. No centro, uma tela de computador exibe uma notícia claramente falsa ao lado de uma imagem deepfake, ambas sendo desmascaradas por uma grande lupa que simboliza o escrutínio e a busca pela verdade. Ao redor da tela, símbolos de alerta, interrogações e ícones de fact-checking reforçam a necessidade de questionar e verificar as informações recebidas. No topo, a frase 'Ética Digital contra Fake News e Deepfakes' é escrita em letras destacadas. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre fake news e/ou deep fake no contexto da ética digital.
+        promptImagem:'Desconfie',
         textoDescritivoImagem:'Desconfie.', },
 
         {ordem:7,
@@ -2372,7 +2372,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Não julgue o livro pela capa', //Uma ilustração criativa que representa a frase 'não julgue o livro pela capa' no contexto da ética digital. Mostra uma pessoa segurando um tablet que exibe a imagem de um avatar digital. Dentro do avatar, há uma série de camadas que revelam atributos e qualidades variadas, simbolizando a complexidade e profundidade do indivíduo por trás do avatar digital. Através das camadas, palavras como 'Empatia', 'Respeito', 'Integridade' e 'Verdade' são visíveis, reforçando a ideia de que não devemos fazer julgamentos precipitados na esfera digital. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre "não julgue o livro pela capa" no contexto da ética digital.
+        promptImagem:'Não julgue o livro pela capa', 
         textoDescritivoImagem:'Não julgue o livro pela capa.', },
 
         {ordem:8,
@@ -2383,7 +2383,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Sucesso na rede mundial', //Uma ilustração inspiradora que representa a frase 'Uma comunicação bem feita acompanhada de uma forte ética digital é a chave para o seu sucesso na rede mundial'. No centro, um indivíduo segura uma grande chave brilhante, cujo topo é formado por ícones de um balão de diálogo e um escudo representando comunicação e ética, respectivamente. Esta chave está sendo inserida em uma fechadura em forma de globo terrestre com linhas de conexão representando a rede mundial. Em torno do indivíduo, palavras como 'Respeito', 'Honestidade', 'Transparência' e 'Integridade' reforçam a mensagem de ética digital. #PROMPT CHATGPT Proponha um prompt para o dall-e para expressar "Uma comunicação bem feita acompanhada de uma forte ética digital é a chave para o seu sucesso na rede mundial".
+        promptImagem:'Ilustração colorida de um adolescente segurando uma chave brilhante composta por ícones de comunicação e um escudo de ética. A chave se encaixa em um globo digital, simbolizando o sucesso na rede mundial através da comunicação ética.', 
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
 				]
