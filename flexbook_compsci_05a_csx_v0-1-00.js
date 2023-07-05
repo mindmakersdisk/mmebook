@@ -1644,18 +1644,18 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Muitas vezes é útil agrupar informações em uma lista. Seja para lembrar as tarefas de um projeto. Sela para guardar os prêmios de um jogador em um programa de videogame, por exemplo. Ou ainda, listar as suas músicas prediletas no Spotify.',
+        texto:'Muitas vezes é útil agrupar informações em uma lista. Seja para lembrar as tarefas do dia-a-dia, como arrumar o seu quarto, levar o lixo para fora e estudar. Seja para guardar os prêmios de um jogador em um programa de videogame, por exemplo. ',
         urlAudioTexto:'',
         textoSimplificado:'Listas',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Listas de atividades de um projeto e lista de músicas preferidas no Spotify', //enviar ao ilustrador
-        textoDescritivoImagem:'Lista de atividades de um projeto e lista de músicas preferidas no Spotify.', },
+        promptImagem:'Listas de atividades para arrumar o quarto.', //enviar ao ilustrador
+        textoDescritivoImagem:'Lista de atividades para arrumar o quarto.', },
 
         {ordem:2,
         predecessor:1,
-        texto:'Em programação há dois tipos de listas, as estáticas e as dinâmicas. Uma lista é estática quando programador define os valores antecipadamente e eles não mudam durante a execução do programa. Por exemplo, no caso de uma lista contendo todas as fases possíveis de um videogame.',
+        texto:'Em programação há dois tipos de listas, as estáticas e as dinâmicas. <p>Uma lista é estática quando o programador define os valores antecipadamente e eles não mudam durante a execução do programa. Por exemplo, no caso de uma lista contendo todas as fases possíveis de um videogame.',
         urlAudioTexto:'',
         textoSimplificado:'Lista Estática',
         textoImpresso:1,
@@ -1677,18 +1677,18 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Linguagens de progamação com o Scratch e o AppInventor trazem blocos de comando que facilitam a criação e utilização de listas, sejam estáticas ou dinâmicas. Vamos ver alguns exemplos. Começaremos pelo Scratch. O primeiro passo é clicar no botão Criar uma lista dentro da seção Variáveis dos Scripts. E dar um nome a lista como fases. O Scratch então irá gerar uma série de comandos para manipular a lista criada.',
+        texto:'Linguagens de progamação como o Scratch e o App Inventor trazem blocos de comando que facilitam a criação e utilização de listas, sejam estáticas ou dinâmicas. <p>Vamos ver alguns exemplos. Começaremos pelo Scratch. O primeiro passo é clicar no botão "criar uma lista" dentro da seção Variáveis dos Scripts. E dar um nome a lista como "fases". O Scratch então irá gerar uma série de comandos para manipular a lista criada.',
         urlAudioTexto:'',	
         textoSimplificado:'Listas no Scratch',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Programação no Scratch.', //enviar ao ilustrador, vídeo 01:36
-        textoDescritivoImagem:'Programação no Scratch.', },
+        promptImagem:'Programação de Listas no Scratch.', //enviar ao ilustrador, vídeo 01:36
+        textoDescritivoImagem:'Programação de Listas no Scratch.', },
 
         {ordem:5,
         predecessor:4,
-        texto:'No Scratch, se for uma lista estática podemos definir seus valores e exibí-los ou não no palco. Uma vez criadas as listas, temos várias maneiras de recuparar o valor de seus elementos. Se em algum ponto de nosso programa temos a posição na lista, por exemplo, 2 (dois) e queremos recuperar o nome da fase correspondente, podemos usar o comando item-de do Scratch.',
+        texto:'No Scratch, se for uma lista estática podemos definir seus valores e exibí-los ou não no palco. Uma vez criadas as listas, temos várias maneiras de recuparar o valor de seus elementos. <p>Se em algum ponto de nosso programa temos a posição na lista, por exemplo, 2 (dois) e queremos recuperar o nome da fase correspondente, podemos usar o comando "item de" no Scratch.',
         urlAudioTexto:'',
         textoSimplificado:'Lista Estática Scratch',
         textoImpresso:1,
@@ -1710,47 +1710,69 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Para listas dinâmicas, que são modificadas durante o programa, existem comandos para adicionar e remover os itens da lista.',
+        texto:'Agora vamos ver alguns exemplos de uso de listas com o App Inventor. O primeiro passo é inicializar uma variável global definindo o nome da lista no comando "inicializar global para". E então, mover o comando "criar lista vazia" para a declaração, a partir da seção de blocos internos chamada de Listas.',
         urlAudioTexto:'',
-        textoSimplificado:'Lista Dinâmica Scratch',
+        textoSimplificado:'Listas no App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Programação de Lista Dinâmica no Scratch', //enviar ao ilustrador vídeo 5:10 apenas códio Scratch
-        textoDescritivoImagem:'Programação de Lista Dinâmica no Scratch.', },
+        promptImagem:'Programação no App Inventor', //enviar ao ilustrador vídeo 1:57 e/ou 2:05
+        textoDescritivoImagem:'Programação no App Inventor.', },
 
         {ordem:8,
         predecessor:7,
-        texto:'Vimos alguns exemplos de sensores eletrônicos que se aproximam da nossa visão, audição e tato. E quanto ao olfato e paladar? Será que já existem sensores para perceber um cheiro ou um gosto de alimento? Sim, eles já existem, mas são muito caros e de pouca utilidade por enquanto.',
+        texto:'Para criar listas estáticas usamos o bloco "criar lista" logo na declaração da variável para informar todos os elementos. <p>Para criar uma lista com mais de dois elementos usamos a engrenagem que vem no comando arrastando tantos itens quanto forem precisos para a lista. ',
         urlAudioTexto:'',
-        textoSimplificado:'Sensor Olfato e Paladar',
+        textoSimplificado:'Lista App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Cheiro chegando ao nariz de uma pessoa', //enviar ao ilustrador https://cienciahoje.org.br/artigo/as-mil-e-uma-aplicacoes-do-nariz-eletronico/
-        textoDescritivoImagem:'Cheiro chegando ao nariz de uma pessoa.', },
+        promptImagem:'Programação de Lista Estática no App Inventor', //enviar ao ilustrador vídeo 2:52
+        textoDescritivoImagem:'Programação de Lista Estática no App Inventor', },
 
         {ordem:9,
         predecessor:8,
-        texto:'Mas não pensem que os robôs ou dispositivos eletrônicos ficam para trás. Eles também possuem sensores eletrônicos que superam os nossos sentidos humanos. Sensores de infravermelho, por exemplo, conseguem captar um tipo de luz que os nossos olhos não veem. Do mesmo modo, sensores de ultrassom são capazes de captar sons que não conseguimos ouvir.',
+        texto:'Uma vez criada as listas, temos várias maneiras de recuperar seus elementos, como por exemplo usar o comando "selecionar item da lista". <p>Se ocorrer o inverso, e em algum ponto de nosso programa soubermos o nome da fase e quisermos saber qual é sua posição, podemos usar o comando "índice na lista". Se o valor não for encontrado em um item da lista, este comando retorna zero.',
         urlAudioTexto:'',
-        textoSimplificado:'Outros Sensores',
+        textoSimplificado:'Recuperar elemento App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Luz infravermelha', 
-        textoDescritivoImagem:'Imagem com luz infravermelha', },
+        promptImagem:'Programação para recuperar elemento da lista no App Inventor', //enviar ao ilustrador vídeo 3:24 + 3:40
+        textoDescritivoImagem:'Programação para recuperar elemento da lista no App Inventor.', },
 
         {ordem:10,
         predecessor:9,
-        texto:'Existem centenas de sensores e com eles você pode criar aparelhos e robôs incríveis. Vamos experimentar?',
+        texto:'O App Inventor traz uma série de elementos que podem ser populados a partir de listas com um único comando. Como o "VisualizadorDeListas". <p>Primeiro arrastamos o componente para a tela, depois programamos para mover os elementos de nossa lista para os elementos do visualizador com um único comando. Somente com este código, todas as fases do nosso exemplo aparecem na tela do aplicativo.',
         urlAudioTexto:'',
-        textoSimplificado:'Sensores Diversos',
+        textoSimplificado:'Popular Listas',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'Todos os tipos de sensores eletrônicos', 
-        textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
+        promptImagem:'Programação para popular listas no App Inventor', //enviar ao ilustrador vídeo 4:46
+        textoDescritivoImagem:'Programação para popular listas no App Inventor.', },
+
+        {ordem:11,
+        predecessor:10,
+        texto:'Para listas dinâmicas, que são modificadas durante o programa, existem comandos no Scratch e App Inventod para adicionar e remover itens da lista. .',
+        urlAudioTexto:'',
+        textoSimplificado:'Lista Dinâmicas',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Programação de lista dinâmicas no Scrtch e App Inventor', //enviar ao ilustrador vídeo 5:14
+        textoDescritivoImagem:'Programação de lista dinâmicas no Scrtch e App Inventor.', },
+
+        {ordem:12,
+        predecessor:11,
+        texto:'Listas são recursos de programação muito úteis e poderosos que precisamos dominar.',
+        urlAudioTexto:'',
+        textoSimplificado:'Listas',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Listas', //enviar ao ilustrador vídeo 5:14
+        textoDescritivoImagem:'Listas.', },
 
 				]
 		
@@ -1759,7 +1781,88 @@ let livro_csx ={
 	  },
 	
     licao19:{},
-    licao20:{},
+    licao20:{
+	
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 20. A Linguagem de Programação Scratch.',**/
+		  infografico:{titulo:'A Linguagem de Programação Scratch',
+      tituloSimplificado:'Scratch',
+      estiloPadrao:'basicoPaisagem',
+      /** urlVideo:'',
+      urlPodcast:'', **/
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'O Scratch é uma linguagem de programação completa, voltada para a criação de jogos e histórias animadas. <p>Seu uso é gratuito e permite o compartilhamento de programas com Scratchers de todo o mundo! ',
+        urlAudioTexto:'',
+        textoSimplificado:'Scratch',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Gatinho do Scratch', 
+        textoDescritivoImagem:'Gatinho do Scratch.', },
+
+        {ordem:2,
+        predecessor:1,
+        texto:'No Scratch, os personagens são chamados de atores. Um ator pode ter várias fantasias, que são posições ou roupas diferentes que ele pode assumir em determinado momento de um jogo ou história.',
+        urlAudioTexto:'',
+        textoSimplificado:'Personagens e Fantasias',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Personagem e suas fantasias no ambiente Scratch', 
+        textoDescritivoImagem:'Personagem e suas fantasias no ambiente Scratch.', },
+
+        {ordem:3,
+        predecessor:2,
+        texto:'Você poderá incluir efeitos especiais em seu jogo ou história acrescentando músicas e sons diversos (barulhos diversos, como porta fechando, buzina etc.).',
+        urlAudioTexto:'',
+        textoSimplificado:'Música e Som',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Gato DJ', 
+        textoDescritivoImagem:'Gato DJ', },
+
+        {ordem:4,
+        predecessor:3,
+        texto:'O palco é onde tudo acontece. É no palco, uma espécie de retângulo, que todos os personagens se movimentam.<p> O palco pode ter um pano de fundo. E você irá encontrar vários deles já prontos, que vão transportar seus atores para o espaço, estádios de futebol, para neve ou casas, por exemplo.',
+        urlAudioTexto:'',	
+        textoSimplificado:'Palco',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Possibilidades de placos do Scratch', 
+        textoDescritivoImagem:'Possibilidades de placos do Scratch.', },
+
+        {ordem:5,
+        predecessor:4,
+        texto:'Você também poderá tirar uma foto e usar a sua própria casa ou escola para usar como pano de fundo de um jogo.<p>Para ficar ainda mais interessante, você pode trocar o pano de fundo do palco quantas vezes quiser durante um jogo. Em uma mudança de fase, por exemplo.',
+        urlAudioTexto:'',
+        textoSimplificado:'Mudança de Palco',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Mundaça de palco no Scratch', 
+        textoDescritivoImagem:'Mundaça de palco no Scratch.', },
+
+        {ordem:6,
+        predecessor:5,
+        texto:'E finalmente só falta você dar vida ao seu show, reunindo todos os elementos do Scratch com muita programação! <p>Afinal, é com a programação que você move os atores, troca panos de fundo, emite sons, enfim faz acontecer. <p>Então chega de teoria, pois é hora de ação!',
+        urlAudioTexto:'',
+        textoSimplificado:'Programação no Scratch',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Show no Scratch', 
+        textoDescritivoImagem:'Show no Scratch.', },
+
+				]
+		
+		  }			  
+		
+	},
     licao21:{		  
       id:'CSXAULA21CODE',
       /** padroesCurriculares: 
@@ -1874,7 +1977,7 @@ let livro_csx ={
     licao26:{		  
       id:'CSXAULA26CODE',
       /** padroesCurriculares: 
-      titulo:'Lição 26. Trilha de Impressão em Jogos Digitais',**/
+      titulo:'Lição 25. Trilha de Impressão em Jogos Digitais',**/
       infografico:{titulo:'Rastro Digital',
       tituloSimplificado:'Rastro Digital',
       estiloPadrao:'basicoPaisagem',
@@ -2063,7 +2166,111 @@ let livro_csx ={
         ]*/
       }
     },
-    licao27:{},
+
+    licao27:{
+		  id:'CSXAULA07CODE',
+		  /** padroesCurriculares: 
+		  titulo:'Lição 26. Comunicação e Ética Digital.',**/
+		  infografico:{titulo:'Comunicação e Ética Digital',
+      tituloSimplificado:'Comunicação e Ética Digital',
+      estiloPadrao:'basicoPaisagem',
+      /** urlVideo:'',
+      urlPodcast:'', **/
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'Olá! Já vivemos que saber se comunicar bem é essencial para vivermos em sociedade. Nos módulos anteriores descobrimos como se comunicar bem por diversos meios, como conversa falada, escrita e a comunicação visual é importante. ',
+        urlAudioTexto:'',
+        textoSimplificado:'Comunicação',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Imagem com pessoas falando, uma carta e um outdoor.', //enviar ao ilustrador vídeo 00:18
+        textoDescritivoImagem:'Imagem com pessoas falando, uma carta e um outdoor .', },
+
+        {ordem:2,
+        predecessor:1,
+        texto:'Uma das formas de comunicação mais utilizadas hoje em dia é a digital. Usamos smartphones, computadores e redes sociais para nos comunicar com uma ou várias pessoas ao mesmo tempo sobre os mais diversos assuntos.',
+        urlAudioTexto:'',
+        textoSimplificado:'Comunicação Digital',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos', 	
+        textoDescritivoImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos.', },
+
+        {ordem:3,
+        predecessor:2,
+        texto:'Mas esse poder de comunicação vem com um preço: a ética digital. Você sabe o que é isso?<P>A ética digital estabelece formas corretas de tratarmos outras pessoas e de nos mostrarmos para elas em sites e redes sociais. E também a maneira que devemos reagir quando nos deparamos com confitos em conversações.',
+        urlAudioTexto:'',
+        textoSimplificado:'Ética Digital',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Ética Digital', //Uma ilustração complexa que simboliza a ética digital. Inclui uma mão humana estendida segurando um globo de luz digital que contém vários ícones de pessoas, computadores, smartphones e símbolos de privacidade. Em torno do globo, existem palavras como 'Responsabilidade', 'Respeito', 'Privacidade' e 'Integridade' flutuando em nuvens de código binário. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre ética digital.
+        textoDescritivoImagem:'Ética Digital.', },
+
+        {ordem:4,
+        predecessor:3,
+        texto:'Vamos conhecer agora dicas importantes para a ética digital.<p>1. Respeito: respeite a si mesmo e as outras pessoas. Tenha cuidado com o que você posta nas redes sociais e o que fala de si mesmo e dos outros. Evite fazer comentários desnecessários ou desagradáveis.',
+        urlAudioTexto:'',	
+        textoSimplificado:'Respeito',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Respeito.', //Uma ilustração vibrante mostrando um cenário digital onde avatares de pessoas de diversas idades, etnias e habilidades estão interagindo em harmonia dentro de uma rede de conexões online. Cada avatar está envolto em um escudo transparente representando privacidade e respeito. No fundo, grandes palavras 'Respeito' e 'Ética Digital' são visíveis, conectadas por linhas de luz aos avatares, simbolizando a importância do respeito no universo digital. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre respeito no contexto da ética digital.
+        textoDescritivoImagem:'Respeito.', },
+
+        {ordem:5,
+        predecessor:4,
+        texto:'2. Segurança: mantenha-se protegido. Não digite dados pessoais em sites desconhecidos ou que não confie. Não mande fotos ou dados pessoais para pessoas com quem você não se relaciona pessoalmente.',
+        urlAudioTexto:'',
+        textoSimplificado:'Segurança',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Segurança', //Uma ilustração vívida e simbólica da segurança na ética digital. No centro, um castelo digital sólido e brilhante é protegido por um escudo transparente, simbolizando a segurança de dados. O castelo é cercado por diversos ícones, como um cadeado, uma chave, um firewall e uma nuvem de computador, representando diferentes aspectos da segurança digital. Acima do castelo, a palavra 'Segurança' é visível, conectada a todos esses elementos através de linhas de luz, demonstrando a importância da segurança no contexto da ética digital. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre segurança no contexto da ética digital.
+        textoDescritivoImagem:'Segurança.', },
+
+        {ordem:6,
+        predecessor:5,
+        texto:'3. Não acredite em tudo que está na internet: nem tudo que lemos ou vemos na internet é verdade. Não seja enganado! Antes de acreditar em uma informação, pesquise de onde veio e outros pontos de vista sobre o assunto.',
+        urlAudioTexto:'',
+        textoSimplificado:'Desconfie',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Desconfie', //Uma ilustração impactante representando o desafio das fake news e deepfakes na ética digital. No centro, uma tela de computador exibe uma notícia claramente falsa ao lado de uma imagem deepfake, ambas sendo desmascaradas por uma grande lupa que simboliza o escrutínio e a busca pela verdade. Ao redor da tela, símbolos de alerta, interrogações e ícones de fact-checking reforçam a necessidade de questionar e verificar as informações recebidas. No topo, a frase 'Ética Digital contra Fake News e Deepfakes' é escrita em letras destacadas. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre fake news e/ou deep fake no contexto da ética digital.
+        textoDescritivoImagem:'Desconfie.', },
+
+        {ordem:7,
+        predecessor:6,
+        texto:'4. Não julgue o livro pela capa: você nem sempre vai ter muitos likes e comentários em um projeto ou jogo que publicou, o que não quer dizer que ele seja ruim! Persista, continue programando e se divertindo.',
+        urlAudioTexto:'',
+        textoSimplificado:'Likes',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Não julgue o livro pela capa', //Uma ilustração criativa que representa a frase 'não julgue o livro pela capa' no contexto da ética digital. Mostra uma pessoa segurando um tablet que exibe a imagem de um avatar digital. Dentro do avatar, há uma série de camadas que revelam atributos e qualidades variadas, simbolizando a complexidade e profundidade do indivíduo por trás do avatar digital. Através das camadas, palavras como 'Empatia', 'Respeito', 'Integridade' e 'Verdade' são visíveis, reforçando a ideia de que não devemos fazer julgamentos precipitados na esfera digital. #PROMPT CHATGPT Proponha um prompt para o dall-e apresentar uma ilustração sobre "não julgue o livro pela capa" no contexto da ética digital.
+        textoDescritivoImagem:'Não julgue o livro pela capa.', },
+
+        {ordem:8,
+        predecessor:7,
+        texto:'Uma comunicação bem feita acompanhada de uma forte ética digital é a chave para o seu sucesso na rede mundial.',
+        urlAudioTexto:'',
+        textoSimplificado:'Sucesso na rede',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Sucesso na rede mundial', //Uma ilustração inspiradora que representa a frase 'Uma comunicação bem feita acompanhada de uma forte ética digital é a chave para o seu sucesso na rede mundial'. No centro, um indivíduo segura uma grande chave brilhante, cujo topo é formado por ícones de um balão de diálogo e um escudo representando comunicação e ética, respectivamente. Esta chave está sendo inserida em uma fechadura em forma de globo terrestre com linhas de conexão representando a rede mundial. Em torno do indivíduo, palavras como 'Respeito', 'Honestidade', 'Transparência' e 'Integridade' reforçam a mensagem de ética digital. #PROMPT CHATGPT Proponha um prompt para o dall-e para expressar "Uma comunicação bem feita acompanhada de uma forte ética digital é a chave para o seu sucesso na rede mundial".
+        textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
+
+				]
+		
+		  }			  
+		  
+	  },
+
     licao28:{},	 
 	  
   },
