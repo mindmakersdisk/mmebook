@@ -1023,8 +1023,8 @@ let livro_csx ={
         textoSimplificado:'Sistemas computacionais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagem de um computador<p>Imagem de um robô',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_1.jpg',
+        promptImagem:'Create a 2D illustration with depth that resembles a 3D real industrial robot<p>Create a 2D illustration with depth that resembles a 3D personal computer', //'Imagem de um computador<p>Imagem de um robô',
         textoDescritivoImagem:'Duas imagens, na primeira um computador e na segunda um robô humanóide.', },
 
         {ordem:2,
@@ -1034,8 +1034,8 @@ let livro_csx ={
         textoSimplificado:'Números',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_2.png',
+        promptImagem: 'Draw an illustration featuring a teacher, depicting her head. Next to it, draw a blackboard with some simple mathematical operations.', //'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
         textoDescritivoImagem:'Duas imagens, na primeira uma professora e na segunda um quadro negro, em que foram escritas algumas operações matemáticas simples, de somas, subtrações, multiplicações e divisões.', },
 
         {ordem:3,
@@ -1045,8 +1045,8 @@ let livro_csx ={
         textoSimplificado:'tabela de valores posicionais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_3.jpeg',
+        promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito uma tabela de valor posicional para ensinar como se converter 10 unidades em uma dezena e 10 dezenas em uma centena.', },
 
         {ordem:4,
@@ -1056,8 +1056,8 @@ let livro_csx ={
         textoSimplificado:'Número 4 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',  //três imagens (serão usadas a seguir)
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        promptImagem:'Draw a blackboard with mathematical operations written to convert the number 4 from binary to decimal system.',  //'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',
         textoDescritivoImagem:'Imagem de quadro negro, em que foram escritas as operações matemáticas para converter o número 4 do sistema decimal para o sistema binário.', },
 
         {ordem:5,
@@ -1067,7 +1067,7 @@ let livro_csx ={
         textoSimplificado:'Números 1, 2 e 3 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
         promptImagem:'Quadro negro com escritas dos números 1, 2 e 3 em sistema binário', 
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito os números 1, 2 e 3 em sistema decimal e em sistema binário.', },
 
@@ -1078,8 +1078,8 @@ let livro_csx ={
         textoSimplificado:'Código secreto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Envelope de carta com selo de conteúdo secreto', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_6.jpg',
+        promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
         textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
 
         {ordem:7,
@@ -1089,7 +1089,7 @@ let livro_csx ={
         textoSimplificado:'Representação de sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
         promptImagem:'Quadro negro com escrita de um byte e de números abaixo de cada algaritimo do byte, indicando o valor, em sistema decimal, de cada uma das casas do sistema binário', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito um dado em código binário do tamanho de um byte _ ou seja, um código binário composto por oito casas de valores binários. Abaixo do código binário, há os números 0, 1, 2, 4 e 8, escritos da direita para a esquerda, para indicar o valor, em sistema decimal, de cada uma das casas do byte.', },
 
@@ -1100,7 +1100,7 @@ let livro_csx ={
         textoSimplificado:'Exemplos de números em binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
         promptImagem:'Quadro negro com escrita de diversos valores em binário, como 16, 42, 120 e 1024.', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito diversos números em sistema binário, como 16, 42, 120 e 1024.', },
 
@@ -1111,8 +1111,8 @@ let livro_csx ={
         textoSimplificado:'Mecânica',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagem de uma televisão, reproduzindo um vídeo<p>Imagem de um tablet, exibindo a curva de um som musical<p>Imagem de um monitor, exibindo uma imagem em 3d digital', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_9.jpg',
+        promptImagem:'Create an image with three figures in the same scene. The first figure is a television playing a video. The second figure is a tablet displaying the waveform of a musical sound. The third figure is a monitor displaying a digital 3D image.', //'Imagem de uma televisão, reproduzindo um vídeo<p>Imagem de um tablet, exibindo a curva de um som musical<p>Imagem de um monitor, exibindo uma imagem em 3d digital', 
         textoDescritivoImagem:'Imagem de uma televisão, reproduzindo um vídeo.Imagem de um tablet, exibindo a curva de um som musical.E imagem um monitor, exibindo uma imagem em 3d digital.', },
 
         {ordem:10,
@@ -1122,8 +1122,8 @@ let livro_csx ={
         textoSimplificado:'Baralho binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagens de cartas do jogo chamado baralho binário', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.jpg',
+        promptImagem:'Create blank cards for the game called "Binary Deck". The cards should be represented with no visible content, completely blank.', // 'Imagens de cartas do jogo chamado baralho binário', 
         textoDescritivoImagem:'Imagens de cartas do jogo chamado baralho binário. Algumas cartas contém pontinhos pretos, em quantidade diversas, como um ponto, dois pontos, quatro pontos ou oito pontos. Outras cartas contém os numerais 0 ou 1.', },
 
         ]
