@@ -2324,7 +2324,7 @@ let livro_csx ={
         textoSimplificado:'Comunicação',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_1.jpg',
         promptImagem:'Ilustração colorida e animada de jovens utilizando diversas formas de comunicação: smartphones, computadores, cartas e linguagem de sinais. Bolhas de conversa, emojis e postagens nas redes sociais preenchem o ar vibrante.', 
         textoDescritivoImagem:'Imagem com pessoas falando, uma carta e um outdoor.', },
 
@@ -2335,7 +2335,7 @@ let livro_csx ={
         textoSimplificado:'Comunicação Digital',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_2.jpg',
         promptImagem:'Uma ilustração vibrante de adolescentes usando várias formas de comunicação digital. Eles estão envolvidos em smartphones, computadores e tablets, compartilhando emojis, postagens e fazendo chamadas de vídeo. Bolhas de conversa, emojis e ícones de redes sociais preenchem o ar ao redor.', 	
         textoDescritivoImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos.', },
 
@@ -2346,7 +2346,7 @@ let livro_csx ={
         textoSimplificado:'Ética Digital',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_3.jpg',
         promptImagem:'Ilustração colorida mostrando jovens interagindo respeitosamente online. Eles estão cercados por símbolos digitais e palavras como Respeito, Privacidade e Responsabilidade, destacando o conceito de ética digital.',
         textoDescritivoImagem:'Ética Digital.', },
 
@@ -2357,7 +2357,7 @@ let livro_csx ={
         textoSimplificado:'Respeito',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_4.jpg',
         promptImagem:'Ilustração colorida e divertida de jovens avatares online respeitando o espaço um do outro, com escudos de privacidade e palavras como Respeito e Ética Digital flutuando ao redor, enfatizando a importância do respeito na esfera digital.', 
         textoDescritivoImagem:'Respeito.', },
 
@@ -2368,7 +2368,7 @@ let livro_csx ={
         textoSimplificado:'Segurança',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_5.jpg',
         promptImagem:'Ilustração colorida retratando jovens navegando em um navio digital protegido por um escudo, navegando em um mar de códigos. Ícones como cadeados e firewalls aparecem, simbolizando a segurança na ética digital.', 
         textoDescritivoImagem:'Segurança.', },
 
@@ -2379,7 +2379,7 @@ let livro_csx ={
         textoSimplificado:'Desconfie',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_6.jpg',
         promptImagem:'Ilustração colorida mostrando jovens com lupas ampliando a tela de um computador, revelando a etiqueta Fake News e Deepfake. Ícones de verificação de fatos circulam, reforçando a ideia de vigilância na era digital.',
         textoDescritivoImagem:'Desconfie.', },
 
@@ -2390,7 +2390,7 @@ let livro_csx ={
         textoSimplificado:'Likes',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_7.jpg',
         promptImagem:'Ilustração colorida de um jovem segurando um livro com um avatar na capa. Dentro do avatar, camadas revelam atributos como Respeito e Empatia, ressaltando a mensagem não julgue o livro pela capa na ética digital.', 
         textoDescritivoImagem:'Não julgue o livro pela capa.', },
 
@@ -2401,7 +2401,7 @@ let livro_csx ={
         textoSimplificado:'Sucesso na rede',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I27_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_8.jpg',
         promptImagem:'Ilustração colorida de um adolescente segurando uma chave brilhante composta por ícones de comunicação. A chave se encaixa em um globo digital, simbolizando o sucesso na rede mundial através da comunicação ética.', 
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
