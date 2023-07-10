@@ -274,7 +274,7 @@ let livro_csx ={
           textoSimplificado:'Eletricidade em nossas vidas e Circuito elétrico',
           textoImpresso:1,
           urlImagem:'',
-          promptImagem:'Apresente lado a lado a imagem de um laptop, um braço robótico, um celuar do tipo smartphone, e abaixo, centralizado, uma imagem de um circuito elétrico simples com uma pilha, fios condutores que acendem uma lâmpada acesa. ', 
+          promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
           textoDescritivoImagem:'Laptop, braço robotizado, celular, circuito elétrico simples demonstrando uma pilha acendendo uma lâmpada.', },
               
           {ordem:2,
@@ -283,7 +283,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Eletricidade e Raio',
           urlImagem:'',
-          promptImagem:'céu com vários raios', 
+          promptImagem:'"Foto impressionante de um céu dramático sob uma tempestade intensa. Nuvens cinzentas carregadas de chuva cobrem o céu, enquanto raios brilhantes e sinuosos rasgam a escuridão, iluminando a paisagem de forma espetacular.Raios e Raios.', 
           textoDescritivoImagem:'Céu com chuva e raios', },
 
           {ordem:3,
@@ -294,7 +294,7 @@ let livro_csx ={
           textoImpresso:1,
           textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
           urlImagem:'',
-          promptImagem:'plugue elétrico sendo ligado à tomada', 
+          promptImagem:'Foto nítida de um plugue elétrico de três pinos próximo a uma tomada. A imagem clara e simples serve como uma representação visual direta da conexão elétrica, uma base para a compreensão da eletricidade.', 
           textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
 
           {ordem:4,
@@ -303,7 +303,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Círculo e Fórmula 1',
           urlImagem:'',
-          promptImagem:'circuito de fórmula 1', 
+          promptImagem:'Foto aérea vibrante de um circuito de Fórmula 1: a pista sinuosa e bem marcada se estende à vista, com carros de corrida espalhados ao longo do caminho, representando visualmente a ideia de um circuito na prática real.', 
           textoDescritivoImagem:'Pista de asfalto do circuito de Fórmula 1', },
 
           {ordem:5,
@@ -314,7 +314,7 @@ let livro_csx ={
           textoImpresso:1,
           textoImpressoRecriado:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1. <p>Um circuito elétrico é um conjunto formado por um gerador, um condutor e aparelhos que utilizam a energia para funcionar.', 
           urlImagem:'',
-          promptImagem:'Um circuito elétrico com um gerador, um condutor e um aparelho conectado', 
+          promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
           textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
 
           {ordem:6,
@@ -324,7 +324,7 @@ let livro_csx ={
           textoSimplificado:'Gerador',
 		      textoImpresso:1,
           urlImagem:'',
-          promptImagem:'Pilha e bateria', 
+          promptImagem:'Foto detalhada de um grande gerador de corrente alternada ao lado de pilhas e baterias menores. Cada item é claramente rotulado como Corrente Alternada e Corrente Contínua, ilustrando visualmente as diferentes fontes de energia elétrica.', 
           textoDescritivoImagem:'Pilha e Bateria', },
 
           {ordem:7,
@@ -334,7 +334,7 @@ let livro_csx ={
           textoSimplificado:'Condutor',
 		      textoImpresso:1,
           urlImagem:'',
-          promptImagem:'Fio elétrico com cobre e plástico', 
+          promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como 'Condutor' e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
           textoDescritivoImagem:'Fio elétrico e suas partes, fio de cobre envolto no plástico', },
 
           {ordem:8,
@@ -344,7 +344,7 @@ let livro_csx ={
           textoSimplificado:'Aparelhos que utilizam energia',
 		      textoImpresso:1,
           urlImagem:'',
-          promptImagem:'luminária com a lâmpada acesa', 
+          promptImagem:'Foto colorida mostrando vários aparelhos que utilizam energia elétrica para funcionar: uma lâmpada acesa, um ventilador em movimento e vários pequenos eletrodomésticos, como uma torradeira e um liquidificador, todos conectados a tomadas na parede', 
           textoDescritivoImagem:'Uma luminária com a lâmpada acesa', },
 
           {ordem:9,
@@ -353,7 +353,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Dispositivos de controle',
           urlImagem:'',
-          promptImagem:'imagem com um interruptor de luz  e um botão para volume de som', 
+          promptImagem:'Foto detalhada mostrando um alto-falante com o botão de volume no máximo, resultando em notas musicais saindo dele, e uma lâmpada com o dimmer ligado, mostrando uma luz brilhante. As ações dos botões e seus respectivos resultados são claramente visíveis', 
           textoDescritivoImagem:'Interruptor de luz e botão para volume de som', },
   
           {ordem:10,
@@ -364,8 +364,7 @@ let livro_csx ={
           textoImpresso:1,
           textoImpressoRecriado:'É também muito comum que circuitos elétricos contenham dispositivos de controle, como os botões de ligar e desligar ou de aumentar e diminuir o som. <p>Esses dispositivos nos permitem controlar melhor a quantidade de eletricidade que circula em cada parte do circuito para não termos que conectar e desconectar fios condutores para ligar ou desligar uma lâmpada, por exemplo.', 
           urlImagem:'',
-          promptImagem:'um prédio alto céu espelhado visto de cima para baixo',  
-			    //não sei se seria o caso de adicionar a caixa de texto com a frase, precisaria testar.
+          promptImagem:'"Foto de um arranha-céu espelhado impressionante, com ícones flutuantes de IoT - termostato, iluminação, segurança, elevadores - para ilustrar como a tecnologia controla o funcionamento do edifício. Cada ícone é conectado ao edifício por linhas de luz digital',  
           textoDescritivoImagem:'Um prédio alto espelhado com um balão de diálogo expressando a fala de uma pessoa dizendo: Ei! Eu estou aqui dentro usando a Internet. Sem os circuitos elétricos do prédio, não ia rolar... E eu ainda ia ter que subir 50 andares de Escada!', },
   
           {ordem:11,
@@ -375,12 +374,10 @@ let livro_csx ={
           textoSimplificado:'Cientista criativo',
 		      textoImpresso:1,
           urlImagem:'',
-          promptImagem:'cientista soldando uma placa de circuito elétrico', 
+          promptImagem:'Foto mostrando uma cientista jovem e inspirador no seu laboratório, cercada por uma variedade de dispositivos que ilustram o controle da energia elétrica: um circuito simples, vários condutores, botões de controle, um kit de robótica e ícones de IoT', 
           textoDescritivoImagem:'Cientista soldando uma placa de circuito elétrico ', },
-		
-		    //Não incluí a parte do somosBits no Impresso.
-          
-		      {ordem:12,
+	            
+	      {ordem:12,
           predecessor:11,
           texto:'E para isso, começaremos usando os somosBits, pequenos componentes eletrônicos usados para montar circuitos de forma rápida e segura.',
           urlAudioTexto:'',
@@ -726,7 +723,7 @@ let livro_csx ={
 		  
 		  id:'CSXAULA06CODE',
 		  /** padroesCurriculares: 
-		  titulo:'Lição 06. Expressão Lógica e Condicionais.',**/
+		  titulo:'Lição 06. Robôs.',**/
 		  infografico:{titulo:'Robôs',
 				tituloSimplificado:'Robôs',
 				estiloPadrao:'basicoPaisagem',
@@ -740,8 +737,8 @@ let livro_csx ={
           textoSimplificado:'Robôs',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Três imagens: robô versátil, robô humanóide, robô estranho', //três imagens 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.jpg',
+          promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica', 
           textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
 
           {ordem:2,
@@ -751,8 +748,8 @@ let livro_csx ={
           textoSimplificado:'Autômatos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Robô autômato', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_2.jpg',
+          promptImagem:'Ilustração mostrando a evolução dos robôs. Começa com um autômato antigo, um boneco mecânico movendo-se com engrenagens visíveis. Ele gradualmente se transforma em um robô moderno, simbolizando a transição da engenharia manual para a robótica avançada.', 
           textoDescritivoImagem:'Robô autômato.', },
 
           {ordem:3,
@@ -762,8 +759,8 @@ let livro_csx ={
           textoSimplificado:'Robôs de hoje',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Três imagens. Robô Industrial. Robô cirurgião. Robô explorador',  //três imagens (serão usadas a seguir)
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_3.jpg',
+          promptImagem:'Ilustração mostrando três tipos de robôs: um robusto Robô Industrial com braços mecânicos, um preciso Robô Cirurgião com instrumentos cirúrgicos e um aventureiro Robô Explorador equipado para exploração de terrenos difíceis.',
           textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
 
           {ordem:4,
@@ -773,7 +770,7 @@ let livro_csx ={
           textoSimplificado:'Robôs Industriais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_4.jpg',
           promptImagem:'Robô industrial', 
           textoDescritivoImagem:'Robô industrial.', },
 
@@ -784,8 +781,8 @@ let livro_csx ={
           textoSimplificado:'Robôs Cirurgiões',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Robô cirurgião.', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_5.jpg',
+          promptImagem:'Uma ilustração de um cirurgião robô realizando uma cirurgia no cérebro de um ser humano.', 
           textoDescritivoImagem:'Robô cirurgião.', },
 
           {ordem:6,
@@ -795,8 +792,8 @@ let livro_csx ={
           textoSimplificado:'Robôs Exploradores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Robô Explorador', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_6.jpg',
+          promptImagem:'Ilustração de um Robô Explorador aventureiro em ação em Marte: o robô equipado com rodas e instrumentos científicos está navegando pelo terreno rochoso e vermelho de Marte, com o céu estrelado e o planeta Terra visíveis ao fundo.', 
           textoDescritivoImagem:'Robô Explorador.', },
 
           {ordem:7,
@@ -806,7 +803,7 @@ let livro_csx ={
           textoSimplificado:'Controlar robô',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_7-1.jpg',//tem a opção 7 também.
           promptImagem:'Robô com controle remoto', 
           textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
 
@@ -817,8 +814,8 @@ let livro_csx ={
           textoSimplificado:'Sphero',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Sphero', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8.jpg',
+          promptImagem:'Ilustração robô Sphero', 
           textoDescritivoImagem:'Robô Sphero.', },
 
           {ordem:9,
@@ -828,8 +825,8 @@ let livro_csx ={
           textoSimplificado:'Mecânica',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Kit robótica com materiais da mecânica do robô', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_9.jpg',
+          promptImagem:'Ilustração colorida de um Kit de Robótica empolgante espalhado sobre uma mesa: engrenagens, rodas, placas eletrônicas, fios, parafusos e uma pequena ferramenta, prontos para serem montados em um robô por mãos jovens e entusiasmadas', 
           textoDescritivoImagem:'Um kit com peças da mecânica para montar um robô.', },
 
           {ordem:10,
@@ -839,8 +836,8 @@ let livro_csx ={
           textoSimplificado:'Eletrônica',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Kit robótica com materiais de eletrônica', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_10.jpg',
+          promptImagem:'Ilustração de um Kit de Eletrônica para Robótica sobre uma mesa: circuitos, baterias, fios, LEDs, motores e um manual de instruções. As peças estão prontas para serem montadas por um jovem entusiasmado para criar seu próprio robô.', 
           textoDescritivoImagem:'Um kit com peças de eletrônica para montar um robô.', },
 
 				]
