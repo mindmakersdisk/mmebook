@@ -334,7 +334,7 @@ let livro_csx ={
           textoSimplificado:'Condutor',
 		      textoImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_7.jpg',
-          promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como 'Condutor' e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
+          promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como "Condutor" e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
           textoDescritivoImagem:'Fio elétrico e suas partes, fio de cobre envolto no plástico', },
 
           {ordem:8,
