@@ -313,7 +313,7 @@ let livro_csx ={
           textoSimplificado:'Circuito elétrico e suas partes',
           textoImpresso:1,
           textoImpressoRecriado:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1. <p>Um circuito elétrico é um conjunto formado por um gerador, um condutor e aparelhos que utilizam a energia para funcionar.', 
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_5.jpg',
           promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
           textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
 
@@ -334,7 +334,7 @@ let livro_csx ={
           textoSimplificado:'Condutor',
 		      textoImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_7.jpg',
-          promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como "Condutor" e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
+          promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como Condutor e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
           textoDescritivoImagem:'Fio elétrico e suas partes, fio de cobre envolto no plástico', },
 
           {ordem:8,
