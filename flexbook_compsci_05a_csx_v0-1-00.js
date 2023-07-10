@@ -273,7 +273,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Eletricidade em nossas vidas e Circuito elétrico',
           textoImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_1.jpg',
           promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
           textoDescritivoImagem:'Laptop, braço robotizado, celular, circuito elétrico simples demonstrando uma pilha acendendo uma lâmpada.', },
               
@@ -282,7 +282,7 @@ let livro_csx ={
           texto:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes.',
           urlAudioTexto:'',
           textoSimplificado:'Eletricidade e Raio',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_2.jpg',
           promptImagem:'"Foto impressionante de um céu dramático sob uma tempestade intensa. Nuvens cinzentas carregadas de chuva cobrem o céu, enquanto raios brilhantes e sinuosos rasgam a escuridão, iluminando a paisagem de forma espetacular.Raios e Raios.', 
           textoDescritivoImagem:'Céu com chuva e raios', },
 
@@ -293,7 +293,7 @@ let livro_csx ={
           textoSimplificado:'Eletricidade e Tomada',
           textoImpresso:1,
           textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_3.jpg',
           promptImagem:'Foto nítida de um plugue elétrico de três pinos próximo a uma tomada. A imagem clara e simples serve como uma representação visual direta da conexão elétrica, uma base para a compreensão da eletricidade.', 
           textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
 
@@ -302,7 +302,7 @@ let livro_csx ={
           texto:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1.',
           urlAudioTexto:'',
           textoSimplificado:'Círculo e Fórmula 1',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_4.jpg',
           promptImagem:'Foto aérea vibrante de um circuito de Fórmula 1: a pista sinuosa e bem marcada se estende à vista, com carros de corrida espalhados ao longo do caminho, representando visualmente a ideia de um circuito na prática real.', 
           textoDescritivoImagem:'Pista de asfalto do circuito de Fórmula 1', },
 
@@ -313,7 +313,7 @@ let livro_csx ={
           textoSimplificado:'Circuito elétrico e suas partes',
           textoImpresso:1,
           textoImpressoRecriado:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1. <p>Um circuito elétrico é um conjunto formado por um gerador, um condutor e aparelhos que utilizam a energia para funcionar.', 
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_4.jpg',
           promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
           textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
 
@@ -323,7 +323,7 @@ let livro_csx ={
 		      urlAudioTexto:'',
           textoSimplificado:'Gerador',
 		      textoImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_6.jpg',
           promptImagem:'Foto detalhada de um grande gerador de corrente alternada ao lado de pilhas e baterias menores. Cada item é claramente rotulado como Corrente Alternada e Corrente Contínua, ilustrando visualmente as diferentes fontes de energia elétrica.', 
           textoDescritivoImagem:'Pilha e Bateria', },
 
@@ -333,7 +333,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Condutor',
 		      textoImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_7.jpg',
           promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como 'Condutor' e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
           textoDescritivoImagem:'Fio elétrico e suas partes, fio de cobre envolto no plástico', },
 
@@ -343,7 +343,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Aparelhos que utilizam energia',
 		      textoImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_8.jpg',
           promptImagem:'Foto colorida mostrando vários aparelhos que utilizam energia elétrica para funcionar: uma lâmpada acesa, um ventilador em movimento e vários pequenos eletrodomésticos, como uma torradeira e um liquidificador, todos conectados a tomadas na parede', 
           textoDescritivoImagem:'Uma luminária com a lâmpada acesa', },
 
@@ -352,7 +352,7 @@ let livro_csx ={
           texto:'É também muito comum que circuitos elétricos contenham dispositivos de controle, como os botões de ligar e desligar ou de aumentar e diminuir o som.',
           urlAudioTexto:'',
           textoSimplificado:'Dispositivos de controle',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_9.jpg',
           promptImagem:'Foto detalhada mostrando um alto-falante com o botão de volume no máximo, resultando em notas musicais saindo dele, e uma lâmpada com o dimmer ligado, mostrando uma luz brilhante. As ações dos botões e seus respectivos resultados são claramente visíveis', 
           textoDescritivoImagem:'Interruptor de luz e botão para volume de som', },
   
@@ -363,7 +363,7 @@ let livro_csx ={
           textoSimplificado:'Dispositivos de controle',
           textoImpresso:1,
           textoImpressoRecriado:'É também muito comum que circuitos elétricos contenham dispositivos de controle, como os botões de ligar e desligar ou de aumentar e diminuir o som. <p>Esses dispositivos nos permitem controlar melhor a quantidade de eletricidade que circula em cada parte do circuito para não termos que conectar e desconectar fios condutores para ligar ou desligar uma lâmpada, por exemplo.', 
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_10.jpg',
           promptImagem:'"Foto de um arranha-céu espelhado impressionante, com ícones flutuantes de IoT - termostato, iluminação, segurança, elevadores - para ilustrar como a tecnologia controla o funcionamento do edifício. Cada ícone é conectado ao edifício por linhas de luz digital',  
           textoDescritivoImagem:'Um prédio alto espelhado com um balão de diálogo expressando a fala de uma pessoa dizendo: Ei! Eu estou aqui dentro usando a Internet. Sem os circuitos elétricos do prédio, não ia rolar... E eu ainda ia ter que subir 50 andares de Escada!', },
   
@@ -373,7 +373,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Cientista criativo',
 		      textoImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_11.jpg',
           promptImagem:'Foto mostrando uma cientista jovem e inspirador no seu laboratório, cercada por uma variedade de dispositivos que ilustram o controle da energia elétrica: um circuito simples, vários condutores, botões de controle, um kit de robótica e ícones de IoT', 
           textoDescritivoImagem:'Cientista soldando uma placa de circuito elétrico ', },
 	            
