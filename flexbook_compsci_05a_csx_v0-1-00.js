@@ -1652,8 +1652,14 @@ let livro_csx ={
         textoSimplificado:'Uma Orquesta, uma equipe de remo e a placa mãe de um computador',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto de uma orquesta, destacando um maestro, marcando o ritmo da música<p>Foto de uma equipe de remo<p>Foto da placa mãe de um computador, com um seta apontando para o local em que fica o cristal de quarzto',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_1.jpg',
+        promptImagem:`Create a realistic photograph of an orchestra, with a focus on the conductor who is setting the rhythm and tempo of the music. The image should be vibrant and convey the emotion of the musical performance. The conductor should be in the center of the image, leading the orchestra with a baton. Use soft lighting to create a chiaroscuro effect and highlight the warm and joyful atmosphere of the moment. The composition can include subtle elements of fantasy, such as randomly colored hair or differently colored eyes, inspired by renowned artists. The color palette should be bright and vibrant, in the style of Leonardo da Vinci. Create a visually striking and emotionally powerful representation of the scene.
+
+        <p>Create a realistic photograph of a rowing team in action, highlighting the motion of the athletes' strokes. The image should convey the energy and harmony of the team, with intense and vibrant colors to create a warm and joyful atmosphere. The characters should be depicted in full body, with hyper-realistic details, capturing the essence of their personalities and emotions.The rowers should be aligned, moving their oars in sync as they are in the middle of a stroke. Use soft lighting to create a chiaroscuro effect and emphasize the hyper-realistic details of the characters, capturing their personalities and emotions. The composition can include subtle elements of fantasy, such as randomly colored hair or differently colored eyes, inspired by renowned artists. Use a bright and vibrant color palette in the style of Leonardo da Vinci to create a visually striking and emotionally powerful representation of the scene. The result should be an incredibly realistic image.
+
+        <p>Create a realistic photograph of a computer motherboard, with a focus on the electronic component called the oscillator crystal. The image should convey the complexity and precision of the motherboard's internal components. Use intense and vibrant colors to emphasize the hyper-realistic details of the electronic components. The lighting should be soft and luminous, creating a chiaroscuro effect that highlights the importance of the oscillator crystal. Add subtle elements of fantasy, such as 3D illustration details, inspired by renowned artists. Use fractal and isometric detailing techniques to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The goal is to create a visually accurate and impactful representation of a real motherboard.
+
+        `,
         textoDescritivoImagem:'Três imagens. Na primeira uma uma orquesta, com destaque no maestro, que está marcando o ritmo da música. Na segunda uma equipe de remo, em que os atletas estão remando de modo sincronizado. Na terceira a placa mãe de um computador, com uma seta apontando para o local em que se encontra o cristal de quartzo.', },
 
         {ordem:2,
@@ -1663,8 +1669,12 @@ let livro_csx ={
         textoSimplificado:'O system clock',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagem esquemática do sistema circulátório humano, com destque sobre o coração<p>Foto de um cristal de quartzo fixado na placa mãe de um computador', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_2.jpg',
+        promptImagem:`Create a schematic image of the human circulatory system, with a focus on the heart, for an infographic aimed at teaching 7th grade students. Use a typical biology class diagram style with neutral yet vibrant colors. Position the organs and other parts of the circulatory system according to their location in the human body, presenting hyper-realistic details that capture their actual physical characteristics. The lighting should be soft and luminous, creating a chiaroscuro effect that highlights the importance of the heart. Add subtle elements of fantasy, inspired by diagrams used in medical sciences. Draw inspiration from real diagrams found in books and educational materials, incorporating fractal and isometric details to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The ultimate goal is to create an accurate and visually impactful schematic of the human circulatory system, with an emphasis on the heart.
+
+        <p>Create a realistic photograph of a computer motherboard, with a focus on the electronic component called the oscillator crystal. The image should convey the complexity and precision of the motherboard's internal components. Use intense and vibrant colors to emphasize the hyper-realistic details of the electronic components. The lighting should be soft and luminous, creating a chiaroscuro effect that highlights the importance of the oscillator crystal. Add subtle elements of fantasy, such as 3D illustration details, inspired by renowned artists. Use fractal and isometric detailing techniques to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The goal is to create a visually accurate and impactful representation of a real motherboard.
+
+        `, 
         textoDescritivoImagem:'Duas imagens. Na primeira, a ilustração do sistema circulátório humano, com um círculo de destaque ao redor do coração. Na segunda, a foto de cristal de quartzo que está fixado na placa mãe de um computador.', },
 
         {ordem:3,
@@ -1674,7 +1684,7 @@ let livro_csx ={
         textoSimplificado:'Diagrama com o processamento de uma linha de código',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_3.jpg',
         promptImagem:'Imagem de um script de um programa na linguagem Scratch, contendo dois blocos, para que o programa aguarde 2 segundos e então registre em uma variavel o valor da soma de 2 mais 2<p>Imagem das instruções de máquinas escritas em Assembly que corresponde ao script do programa em linguagem Scratch<p>Imagem de diagrama, indicando que foram necessários 5 ciclos de clock para processar uma das linhas do programa escrito em linguagem Assembly.',
         textoDescritivoImagem:'Três imagens. Na primeira um script de um programa codificado em linguagem Scratch, que contém dois blocos de programação para que o computador aguarde 2 segundos e então registre em uma variavel o valor da soma de 2 mais 2. Na segunda um programa em linguagem Assembly, que correspondem ao as instruções de máquinas necessárias para que o computador execute o programa codificado em linguagem Scratch. Na terceira um diagrama esquemático, que indica que são necessários 5 ciclos de clock para processar uma das linhas do programa escrito em linguagem Assembly.', },
 
@@ -1685,7 +1695,7 @@ let livro_csx ={
         textoSimplificado:'Clock do primeiro computador e do primeiro computador pessoal da história',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_4.jpg',
         promptImagem:'Foto do computador ENIAC<p>Foto do computador ALTAIR',
         textoDescritivoImagem:'Duas imagens. Na primeira uma foto do primeiro computador, chamado ENIAC, com um texto indicando que seu clock tinha operava na frequência de 100kHz. Na segunda uma foto do primeiro computador pessoal da história, chamado ALTAIR, com um texto indicando que seu processador, o 8080, operava com um clock de 2MHz.  tinha operava na frequência de 100kHz.', },
 
@@ -1696,7 +1706,7 @@ let livro_csx ={
         textoSimplificado:'Crescimento da velocidade dos processadores ao longo do anos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_5.jpg',
         promptImagem:'Gráfico da curva exponencial do crescimento da frequência do clock dos processadores ao longo dos anos', 
         textoDescritivoImagem:'Imagem de um gráfico que exibe a curva exponencial do crescimento da frequência do clock dos processadores ao longo dos anos.', },
 
@@ -1707,8 +1717,8 @@ let livro_csx ={
         textoSimplificado:'Aquecimento do system clock',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto do system clock de uma placa mãe, com componentes e trilhas avermelhados para indicar seu superaquecimento', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_6.jpg',
+        promptImagem:'Create a photograph of a computer motherboard, highlighting the electronic components of the System Clock, for an infographic aimed at teaching 6th and 7th grade students. Position the motherboard in the center of the image, with a focus on the oscillator crystal. Around the electronic tracks near the System Clock, include visual indications of overheating. Use a palette of intense and vibrant colors to create soft and luminous lighting with a chiaroscuro effect. Explore subtle elements of fantasy, such as details from 3D illustrations. Draw inspiration from renowned artists and incorporate fractal and isometric details to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The ultimate goal is to create an incredibly realistic image that depicts the heating of the oscillator crystal and the electronic tracks near the components of the System Clock.', 
         textoDescritivoImagem:'Imagem da foto do system clock de uma placa mãe, em que o cristal de quatzo e os componentes eletrônicos e as trilhas do circuito estão avermelhados, indicando o superaquecimento do system clock.', },
 
         {ordem:7,
@@ -1718,7 +1728,7 @@ let livro_csx ={
         textoSimplificado:'Processadores multinúcleo',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_7.jpg',
         promptImagem:'Ilustração de um processador, exibindo seus dois núcleos<p>Foto de um computador Dual-core<p>Foto de um computador Quad-core', 
         textoDescritivoImagem:'Ilustração de um processador, exibindo seus dois núcleos<p>Foto de um computador Dual-core<p>Foto de um computador Quad-core', },
 
@@ -1729,8 +1739,8 @@ let livro_csx ={
         textoSimplificado:'Ilustração de uma placa mãe',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Ilustração 3D digital de uma placa mãe,com o System Clock centralizado na imagem.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_8.jpg',
+        promptImagem:'Create a photograph of a computer motherboard, highlighting the electronic components of the System Clock, for an infographic aimed at teaching 6th and 7th grade students. Position the motherboard in the center of the image, with a focus on the oscillator crystal. Around the electronic tracks near the System Clock, include visual indications of overheating. Use a palette of intense and vibrant colors to create soft and luminous lighting with a chiaroscuro effect. Explore subtle elements of fantasy, such as details from 3D illustrations. Draw inspiration from renowned artists and incorporate fractal and isometric details to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The ultimate goal is to create an incredibly realistic image that depicts the heating of the oscillator crystal and the electronic tracks near the components of the System Clock.', 
         textoDescritivoImagem:'Imagem em 3D digital de uma placa-mãe, com o System Clock centralizado na imagem.', },
 
         ]
