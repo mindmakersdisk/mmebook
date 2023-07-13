@@ -756,7 +756,7 @@ let livro_csx ={
           textoSimplificado:'Autômatos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_2.png',
           promptImagem:'Ilustração mostrando a evolução dos robôs. Começa com um autômato antigo, um boneco mecânico movendo-se com engrenagens visíveis. Ele gradualmente se transforma em um robô moderno, simbolizando a transição da engenharia manual para a robótica avançada.', 
           textoDescritivoImagem:'Robô autômato.', },
 
@@ -778,7 +778,7 @@ let livro_csx ={
           textoSimplificado:'Robôs Industriais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_4.png',
           promptImagem:'Robô industrial', 
           textoDescritivoImagem:'Robô industrial.', },
 
@@ -789,7 +789,7 @@ let livro_csx ={
           textoSimplificado:'Robôs Cirurgiões',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_5.png',
           promptImagem:'Uma ilustração de um cirurgião robô realizando uma cirurgia no cérebro de um ser humano.', 
           textoDescritivoImagem:'Robô cirurgião.', },
 
@@ -822,7 +822,7 @@ let livro_csx ={
           textoSimplificado:'Sphero',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_8.png',
           promptImagem:'Ilustração robô Sphero', 
           textoDescritivoImagem:'Robô Sphero.', },
 
