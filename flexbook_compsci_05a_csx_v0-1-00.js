@@ -69,7 +69,7 @@ let livro_csx ={
 				cenas:[				
           {ordem:1,
           predecessor:0,
-          texto:'.Hoje você vai descobrir como é divertido programar computadores e montar circuitos elétricos. Serão seus primeiros passos na ciência da computação.',
+          texto:'Hoje você vai descobrir como é divertido programar computadores e montar circuitos elétricos. Serão seus primeiros passos na ciência da computação.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
           textoSimplificado:'Primeiros passos',
           textoImpresso:1,
