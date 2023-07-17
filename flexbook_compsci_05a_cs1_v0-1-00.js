@@ -57,60 +57,60 @@ let livro_cs1 ={
 				{ordem:1,
 				predecessor:0,
 				texto:'Você sabe o que é uma sequência? Já ouviu essa palavra antes?',
-				urlAudioTexto:'',
+				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
 				textoSimplificado:'Sequências',
-				urlImagem:'',
-				promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*opc*/
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_1.jpg',
+				promptImagem:'uma imagem fofa de personagem feminina, negra, com semblante pensativo', /*opc*/
 				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
 					 
 				{ordem:2,
 				predecessor:1,
 				texto:'Sequência é a ordem em que os objetos estão, ou a ordem em que aconteceu alguma coisa.',
-				urlAudioTexto:'',
+				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/2.mp3',
 				textoSimplificado:'Sequência é ordem',
-				urlImagem:'',
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_2.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
-				promptImagem:'Arte digital de três ursos de pelúcia. Um grande à esquerda, roxo, um médio no meio, amarelo e um pequeno à direita, azul', /*opc*/
+				promptImagem:'uma imagem fofa de três ursos de pelúcia, todos com tamanhos diferentes', /*opc*/
 				textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
         predecessor:2,
         texto:'Essa ordem é saber o que é primeiro, o que vem depois do primeiro, e assim por diante.',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/3.mp3',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de três ursos de pelúcia. Um grande à esquerda, roxo e com o símbolo 1 logo abaixo, um médio no meio, amarelo e com o símbolo 2 logo abaixo e um pequeno à direita, azul e com o símbolo 3 logo abaixo', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_3.jpg',
+        promptImagem:'uma imagem fofa de uma fila com cinco bolas coloridas sobre uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:4,
         predecessor:3,
         texto:'Com as sequências, você pode colocar tudo em ordem: palavras, bihos de pelúcia, acontecimentos do dia...',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/4.mp3',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de três imagens lado a lado que mostram no quadro à esquerda uma larva, no quadro do meio uma pupa e no quadro à direita uma borboleta', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_4.png',
+        promptImagem:'uma imagem fofa de uma larva em cima de uma folha; uma imagem fofa de uma pupa pendurada numa folha; uma imagem fofa de uma borboleta pousada em uma folha', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:5,
         predecessor:4,
         texto:'Por exemplo: qual é sequência de acontecimentos no seu dia?',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/5.mp3',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_5.png',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'QUAL É SEQUÊNCIA DE ACONTECIMENTOS NO SEU DIA?',
-        promptImagem:'Arte digital de quatro imagens que mostram no quadro acima e à esquerda um personagem sentado almoçando, no quadro acima e à direita, dois personagens, um menino e uma menia saindo da escola, no quadro abaixo à esquerda um perspnagem se espreguiçando na cama ao acordar e no quadro abaixo e à direita um personagem tomando uma banho de espuma numa banheira', /*opc*/
+        promptImagem:'uma imagem fofa de um personagem sentado à mesa, almoçando; uma imagem fofa de dois personagens saindo de um prédio, vestidos com uniformes escolares; uma imagem fofa de um personagem humano se espreguiçando na cama de manhã; uma imagem fofa de uma personagem humana em uma banheira cheia de espuma', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:6,
         predecessor:5,
         texto:'Para saber como ordenar as coisas em uma sequência, você também precisa de um critério. Repita comigo: Critério.',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/6.mp3',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'VOCÊ PRECISA DE UM CRITÉRIO.',
@@ -120,64 +120,64 @@ let livro_cs1 ={
         {ordem:7,
         predecessor:6,
         texto:'Mas o que é um critério?',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/7.mp3',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_7.jpg',
+        promptImagem:'imagem fofa de personagem masculino, com semblante pensativo', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:8,
         predecessor:7,
         texto:'Um critério é a regra que vai definir como as coisas vão ser organizadas dentro da sequência.',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/8.mp3',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_8.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'CRITÉRIO = REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS.',
-        promptImagem:'Arte digital de uma placa de trânsito triangular, com a borda vermelha e o fundo branco e um ponto de exclamação preto bem no meio da placa', /*opc*/
+        promptImagem:'uma imagem fofa de uma placa de de trânsito triangular, com a borda vermelha e o fundo branco e um ponto de exclamação preto bem no meio da placa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:9,
         predecessor:8,
         texto:'Por exemplo: Para colocar os alunos em sequência, do menor para o maior, o critério será a altura de cada um.',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/9.mp3',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_9.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA: ALUNOS <p>CRITÉRIO: ALTURA - DO MENOR PARA O MAIOR.',
-        promptImagem:'Arte digital de três crianças em fila, olhando para frente, com alturas diferentes. A da esquerda deve ser a maior, a do meio deve ser menor que a da esquerda e a da direita deve ser menor que a do meio', /*opc*/
+        promptImagem:'imagem fofa de três personagens humanos de alturas diferentes em fila, olhando para frente', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:10,
         predecessor:9,
         texto:'Aprender sobre sequências é muito importante, pois com elas você vai poder organizar tudo e entender o mundo ao seu redor.',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/10.mp3',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Imagem digital de um quebra cabeças coma  figura do planeta terra e que está faltando algumas peças para completar, que se encontram espalhadas ao redor da imagem principal', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_10.jpg',
+        promptImagem:'imagem fofa de peças de um quebra cabeças espalhadas sobre uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:11,
         predecessor:10,
         texto:'Vamos tentar mais uma vez? Qual a sequência das figuras? <p>O que aconteceu primeiro?',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/11.mp3',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_11.png',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'QUAL A SEQUÊNCIA DAS FIGURAS? O QUE ACONTECEU PRIMEIRO?',
-        promptImagem:'Arte digital com cinco imagens. Na imagem da esquerda, há um casulo marrom de borboleta num galho, na imagem seguinte, uma borboleta pousada numa flor, na imagem seguinte, um casulo verde de borboleta pendurado num galho, na imagem seguinte, uma folha com ovos de borboleta e na última imagem uma folha com uma lagarta', /*opc*/
+        promptImagem:'uma imagem fofa de uma larva em cima de uma folha; uma imagem fofa de uma pupa pendurada numa folha; uma imagem fofa de uma borboleta pousada em uma folha; uma imagem fofa de uma pupa marrom e seca pendurada numa folha; uma imagem fofa de uma folha cheia de ovos de borboleta', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:12,
         predecessor:11,
         texto:'Está preparado para o mundo das sequências? Vamos lá!',
-        urlAudioTexto:'',
+        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/12.mp3',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital com uma maçã, um quebra cabeças, uma prancheta vermelha com um papel e no papel tem um símbolo verde de checagem, um urso de pelúcia roxo e uma borboleta', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_12.jpg',
+        promptImagem:'uma imagem fofa de cubos empilhados em cima de uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 			]}},
 	  
