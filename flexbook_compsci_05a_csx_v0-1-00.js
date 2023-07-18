@@ -73,8 +73,8 @@ let livro_csx ={
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
           textoSimplificado:'Primeiros passos',
           textoImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_1.jpg',
-          promptImagem:'A programmer with a computer in a green background, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_1.jpg',
+          promptImagem:'Digital art of a teenager with wide, excited eyes, sitting at her desk in front of her laptop. Bright, vibrant colors emanate from the screen, suggesting that she is creating something exciting and inspiring on her device.', 
           textoDescritivoImagem:'Programador em frente ao computador',},
       
           {ordem:2,
@@ -82,8 +82,8 @@ let livro_csx ={
           texto:'Você aprenderá a criar videogames, robôs e outras invenções que desejar.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_2.mp3',
           textoSimplificado:'Videogames, robôs e resolução de problemas.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_2.jpg',
-          promptImagem:'A videogame and a robot in a green background, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_2.jpg',
+          promptImagem:'"Digital art of a teenage boy deeply engaged in building his own robot. The scene is filled with tools, robot parts, and a laptop showing blueprints. The robot, in various stages of assembly, stands by his side, reflecting his excitement and focus.', 
           textoDescritivoImagem:'Robô sentado no sofá em frente a uma televisão e um videogame',},
 
           {ordem:3,
@@ -94,8 +94,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_3.jpg',
-          promptImagem:'A group of people thinking about a problem in a green background, digital art',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_3.jpg',
+          promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
           textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
           {ordem:4,
@@ -103,8 +103,8 @@ let livro_csx ={
           texto:'Mas vamos dar um passo de cada vez: Para começar, o que é mesmo um computador?',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_4.mp3',
           textoSimplificado:'O que é um computador',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_4.jpg',
-          promptImagem:'computer with questionmarks', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_4.jpg',
+          promptImagem:'Digital art showing a sleek modern computer, with vibrant 3D question marks emanating from the screen. The scene conveys the idea of a computer as a tool for searching information and solving queries.', 
           textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
 
           {ordem:5,
@@ -115,8 +115,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Mas vamos dar um passo de cada vez: <p>Para começar, o que é mesmo um computador? <p>Você mal se deu por gente e já tentava tocar o teclado de um computador ou talvez na tela de um celular.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_5.jpg',
-          promptImagem:'baby trying to type in a computer, green background, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_5.jpg',
+          promptImagem:'Digital art of a cute baby girl sitting on the floor, reaching out towards a big, colorful laptop that is fully visible in front of her. The baby curiosity and fascination with technology are clearly displayed in the scene', 
           textoDescritivoImagem:'Bebê tentando digitar em um computador', },
 
           {ordem:6,
@@ -124,8 +124,8 @@ let livro_csx ={
           texto:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes:',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_6.mp3',
           textoSimplificado:'Desktop e suas partes',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_6.jpg',
-          promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6.jpg',
+          promptImagem:'Digital art of a desktop computer, prominently featuring the monitor, keyboard, mouse, and CPU. Each of these components is clearly delineated and brightly highlighted, emphasizing their distinct roles within the system.', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
 
           {ordem:7,
@@ -172,7 +172,7 @@ let livro_csx ={
           texto:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos, como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. As possibilidades são infinitas.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_11.mp3',
           textoSimplificado:'Outros dispositivos',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_11.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_11.jpg',
           promptImagem:'Computer connected to different devices, such as printers and sound system in a green bachground, digital art', 
           textoDescritivoImagem:'Computador conectado a diferentes dispositivos, como impressoras e caixas de som', },
   
@@ -184,8 +184,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. <p>As possibilidades são infinitas. <p>Nos últimos anos, os criativos fabricantes conseguiram juntar todas as partes do computador de mesa em um só aparelho, pequeno o suficiente para carregarmos conosco: são os celulares e tablets, também conhecidos como computadores móveis.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_12.jpg',
-          promptImagem:'a cellphone with different media icons coming out of it in a green bachground, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_12.jpg',
+          promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
           textoDescritivoImagem:'Telefone celular com vários ícones de redes sociais diferentes saindo da tela', },
   
           {ordem:13,
@@ -195,8 +195,8 @@ let livro_csx ={
           textoSimplificado:'Internet das Coisas',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_13.jpg',
-          promptImagem:'computer embedded in a car in a green background, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_13.jpg',
+          promptImagem:'Digital art showing a detailed cross-section of a car with various embedded technology elements highlighted. These may include GPS, sensors for temperature and pressure, connectivity modules, and autonomous driving systems, all interconnected, representing the application of the Internet of Things in automotive technology.', 
           textoDescritivoImagem:'Computador embutido em um carro', },
   
           {ordem:14,
@@ -204,8 +204,8 @@ let livro_csx ={
           texto:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
           textoSimplificado:'Computadores embutidos',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_14.jpg',
-          promptImagem:'green soft background showing different tech icons, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_14.jpg',
+          promptImagem:'Digital art displaying various everyday objects such as a car, refrigerator, and watch, each glowing with vibrant tech icons like microchips, code brackets, and gears. These icons emanate from the objects, symbolizing the embedded computers that enhance their functionality, illustrating their transformation into smart devices.', 
           textoDescritivoImagem:'Imagem com diferentes ícones relacionados à tecnologia', },
   
           {ordem:15,
@@ -216,8 +216,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia. E prepare-se, em um futuro próximo, também encontraremos computadores em roupas, móveis, sapatos. <p>Enfim, em todas as coisas!',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_15.jpg',
-          promptImagem:'futuristic shoes, with computers embedded on them, green background, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_15.jpg',
+          promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
           textoDescritivoImagem:'Sapatos futurísticos, com computadores embutidos', },
   
           {ordem:16,
@@ -225,8 +225,8 @@ let livro_csx ={
           texto:'Mas então, o que é realmente um computador?',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_16.mp3',
           textoSimplificado:'O que é um commputador',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_16.jpg',
-          promptImagem:'computer with questionmarks', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_16.jpg',
+          promptImagem:'Digital art of a full desktop setup, including a monitor, keyboard, mouse, and CPU, with vivid 3D question marks emerging from the monitor screen. The setup is seen from a perspective that showcases all the elements clearly, illustrating the computer as a tool for problem-solving and knowledge exploration.', 
           textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
   
           {ordem:17,
@@ -234,8 +234,8 @@ let livro_csx ={
           texto:'Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_17.mp3',
           textoSimplificado:'',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_17.jpg',
-          promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_17.jpg',
+          promptImagem:'Digital art of a computer with symbols representing various uses flowing out from the screen. Symbols could include a video game controller, a film clapper, a camera, a musical note, a book, a car, a robot, and a city skyline. This depiction illustrates the versatility of a computer as a powerful tool for creation, control, and entertainment.', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
   
           {ordem:18,
@@ -246,8 +246,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Mas então, o que é realmente um computador? <p>Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades. <p>E o mais legal é que vamos aprender a fazer tudo isso neste curso!',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_18.jpg',
-          promptImagem:'computer programming, digital art', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_18.jpg',
+          promptImagem:'Digital art of a joyful black girl sitting at her computer, a broad smile on her face as she is programming. Bright, colorful lines of code are displayed on the screen, reflecting in her wide, enthusiastic eyes. The scene exudes positivity, creativity, and the powerful potential of coding', 
           textoDescritivoImagem:'Laptop com uma mão em segundo plano, dando a entender que a pessoa está programando', },
 				]
 				
@@ -453,8 +453,8 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmos',
           textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Um robô seguindo uma sequência de passos do ponto A até o ponto B', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_1.jpg',
+          promptImagem:'Desenho preto e branco mostrando uma figura humana e um robô lado a lado, ambos seguindo uma trilha de pegadas numeradas. As pegadas representam a sequência de instruções de um algoritmo, conduzindo-os através de uma tarefa, simbolizando a natureza passo a passo dos algoritmos.', 
           textoDescritivoImagem:'Robô se locomovendo conforme uma sequência de passos que indicam o caminho a ser percorrido', },
 
           {ordem:2,
@@ -463,8 +463,8 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmos e suas linguagens',
           textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Fluxograma de como assar o pão no forno', //enviar ao ilustrador
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_2.jpg',
+          promptImagem:'Desenho em preto e branco de um fluxograma de como assar o pão no forno', //enviar ao ilustrador
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno',},
 
           {ordem:3,
@@ -473,8 +473,8 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmos com imagens',
 		      textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Imagens do passo a passo de como fazer uma avião de papel com instruções escritas', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_3.jpg',
+          promptImagem:'Desenho em preto e branco do passo a passo de como fazer uma avião de papel com instruções escritas', 
           textoDescritivoImagem:'Uma sequência de imagens demonstranto como fazer um avião de papel', },
 
           {ordem:4,
@@ -483,7 +483,7 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmos com Diagramas',
 		      textoImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_4.jpg',
           promptImagem:'Fluxograma de como assar o pão no forno', 
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno', },
 
@@ -493,9 +493,9 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algortimo com desenho e texto',
 		      textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Folder de treino na cadeira em doze passos com instruções', //enviar ao ilustrador
-          textoDescritivoImagem:'Imagens com uma sequência de exercícioos físicos enumerados de 1 até 12.', },
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_5.jpg',
+          promptImagem:'Desenho preto e branco de um folder de treino, com doze imagens sequenciais mostrando uma figura humana simplificada realizando uma série de exercícios diferentes em uma cadeira. Cada imagem é numerada e apresenta setas ou linhas indicativas para guiar os movimentos', 
+          textoDescritivoImagem:'Imagens com uma sequência de exercícios físicos enumerados de 1 até 12.', },
 
           {ordem:6,
           predecessor:5,
@@ -503,8 +503,8 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmo simples',
 		      textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Passo a passo de como construir um boneco de neve', //enviar ao ilustrador
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_6.jpg',
+          promptImagem:'Desenho preto e branco mostrando um passo a passo para construir um boneco de neve. Três painéis mostram progressivamente o boneco sendo criado: o primeiro com uma bola de neve grande, o segundo adicionando uma bola de neve média, e o terceiro adicionando uma pequena bola de neve e os detalhes finais', 
           textoDescritivoImagem:'Lista com a sequência de ações para construir um boneco de neve', },
 
           {ordem:7,
@@ -513,8 +513,8 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Algoritmo complexo',
 		      textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Astronauta mulher dentro de espaçonave consertando um equipamento', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_7.jpg',
+          promptImagem:'Desenho preto e branco de uma astronauta mulher dentro de uma espaçonave, flutuando em gravidade zero. Ela está concentrada, usando ferramentas para consertar um equipamento complexo que apresenta alguns painéis abertos e cabos visíveis', 
           textoDescritivoImagem:'Astronauta mulher dentro de espaçonave consertando um equipamento', },
 
           {ordem:8,
@@ -523,8 +523,8 @@ let livro_csx ={
           urlAudioTexto:'',
           textoSimplificado:'Programa de computador',
 		      textoImpresso:1,
-          urlImagem:'',
-          promptImagem:'Tela de laptop mostrando um código de programação', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_8.jpg',
+          promptImagem:'Desenho preto e branco de uma tela de laptop aberta, exibindo um código de programação. Linhas de texto representam o código, com certos elementos, como loops ou funções, destacados para indicar a estrutura do programa.', 
           textoDescritivoImagem:'Laptop com a tela apresentando um código de programação, ou seja, um algoritmo', },
 
 
