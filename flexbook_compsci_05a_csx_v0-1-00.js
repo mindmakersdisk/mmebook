@@ -665,7 +665,7 @@ let livro_csx ={
           textoSimplificado:'Expressões Condicionais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_1.jpg',
           promptImagem:'Minimalist digital art featuring three panels: one showing a simple silhouette of a student holding an umbrella under stylized rain, the second depicting the same student under a radiant sun, and the third one featuring a large ? symbol to represent the concept of a conditional expression.', 
           textoDescritivoImagem:'Duas imagens, na primeira um aluno com um guarda-chuva debaixo da chuva e na outra o mesmo aluno sem guarda-chuva em um dia ensoladrado.', },
 
@@ -676,7 +676,7 @@ let livro_csx ={
           textoSimplificado:'Condições',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
           promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
           textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -687,7 +687,7 @@ let livro_csx ={
           textoSimplificado:'Condicionais em todo lugar',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_3.jpg',
           promptImagem:'Minimalist digital art featuring three panels: the first one displaying a simple, stylized figure of a female programmer at her computer, the second one showing a simplified, iconic representation of a computer processor, and the third one presenting a circuit-like pattern to represent an electronic circuit.', 
           textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
 
@@ -698,7 +698,7 @@ let livro_csx ={
           textoSimplificado:'Sinais de carro e pedestre',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_4.jpg',
           promptImagem:'A minimalist art showcasing a traffic light for cars. The art should capture the essential features of the traffic light - red, yellow, and green signals - in a clear urban setting.', 
           textoDescritivoImagem:'Sinal de carro e sinal de pedestre.', },
 
@@ -709,7 +709,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmo de Trânsito',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_5.jpg',
           promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
           textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
@@ -720,7 +720,7 @@ let livro_csx ={
           textoSimplificado:'Sinais da Matemática',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_6.jpg',
           promptImagem:'Realistic yet minimalist digital art showcasing a car speeding past a traffic sign that clearly displays a maximum speed limit of 80 km/h. The motion of the vehicle and the importance of the speed limit sign should be clearly conveyed in the artwork.', 
           textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
 
@@ -731,7 +731,7 @@ let livro_csx ={
           textoSimplificado:'Operadores Lógicos',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_7.jpg',
           promptImagem:'Minimalist art portraying the use of logical operators in algorithms. The artwork could depict an open laptop with an abstract, stylized representation of code featuring symbols of logical operators (such as AND, OR, NOT) highlighted on its screen.', 
           textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
@@ -742,7 +742,7 @@ let livro_csx ={
           textoSimplificado:'Expressão Lógica e Condicionais',
 		  textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_8.jpg',
           promptImagem:'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
           textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
 
@@ -770,7 +770,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.jpg',
-          promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica', 
+          promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica.', 
           textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
 
           {ordem:2,
@@ -905,8 +905,8 @@ let livro_csx ={
           textoSimplificado:'Primórdios das Animações',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Arte na pré-história', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_1.jpg',
+          promptImagem:'Realistic digital art illustrating the origins of animation. The artwork could depict a prehistoric scene with early humans painting sequential images on a cave wall, attempting to create an illusion of movement. This should give a nod to the earliest forms of animation in human history.', 
           textoDescritivoImagem:'Arte na pré-história.', },
 
           {ordem:2,
@@ -916,8 +916,8 @@ let livro_csx ={
           textoSimplificado:'Animação na pré-história',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Arte em movimento na pré-história', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_2.jpg',
+          promptImagem:'Realistic digital art illustrating prehistoric "moving art". The scene could depict a cave interior, where early humans have drawn animals with duplicated limbs on the wall. As a torchlight moves across the drawing, the shadowy flicker creates an illusion of the animals in motion', 
           textoDescritivoImagem:'Arte na pré-história simulando movimento.', },
 
           {ordem:3,
@@ -927,8 +927,8 @@ let livro_csx ={
           textoSimplificado:'Pintura Egípcia',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Arte egípcia pintura',  
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_3.jpg',
+          promptImagem:'Realistic digital art illustrating ancient Egyptian wall paintings. The artwork could depict a series of sequential images drawn on a wall, each showing people in slightly different positions. This arrangement, similar to modern comic strips, would give the impression of movement as ones gaze moves from one drawing to the nex',  
           textoDescritivoImagem:'Pintura egípcia na parece.', },
 
           {ordem:4,
@@ -938,8 +938,8 @@ let livro_csx ={
           textoSimplificado:'Arte XXX',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Vaso antigo com imagem em movimento', //melhorar!
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4.jpg',
+          promptImagem:'Realistic digital art illustrating an ancient vase with sequential drawings around it. The vase should depict an intricate scene where a moose jumps to reach leaves on a tree. The design should be such that, when the vase is spun, it creates an illusion of the moose in motion.', 
           textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
 
           {ordem:5,
@@ -949,8 +949,8 @@ let livro_csx ={
           textoSimplificado:'Folioscópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Folheando um flipbook.', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5.jpg',
+          promptImagem:'Digital artwork of a colorful flip book mid-flip, held by a person hands. The book is open and pages are actively flipping, revealing the progression of a simple hand-drawn animation of a bird flying across the pages.', 
           textoDescritivoImagem:'Um flipbook ou folioscópio sendo folheado.', },
 
           {ordem:6,
@@ -960,8 +960,8 @@ let livro_csx ={
           textoSimplificado:'Traumatrópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Traumatrópio', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6.jpg',
+          promptImagem:'Realistic digital art of a 19th-century Thaumatrope in action, with two sides visible due to spinning: one side depicting a bird and the other side a cage. The rapid spinning creates an illusion of the bird being inside the cage, symbolizing how the Thaumatrope blends separate images into one.', 
           textoDescritivoImagem:'Traumatrópio da gaiola vazia e com o passarinho dentro.', },//ao definir a imagem, a descrição deverá ser alterada
 
           {ordem:7,
@@ -971,9 +971,9 @@ let livro_csx ={
           textoSimplificado:'Fenaquistiscópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Fenaquistiscópio', 
-          textoDescritivoImagem:'Fenaquistiscópio.', },//ao definir a imagem, a descrição deverá ser alterada
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_7.jpg',
+          promptImagem:'Create a realistic digital artwork of a Phenakistoscope in action. The artwork should depict a disc with series of images that when spun, creates an illusion of a moving picture due to persistence of vision.', 
+          textoDescritivoImagem:'Fenaquistiscópio.', },
 
           {ordem:8,
           predecessor:7,
@@ -982,9 +982,9 @@ let livro_csx ={
           textoSimplificado:'Zootrópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Zootrópio', 
-          textoDescritivoImagem:'Zootrópio.', },//ao definir a imagem, a descrição deverá ser alterada
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8.jpg',
+          promptImagem:'Create a realistic digital art representation of a Zoetrope.', 
+          textoDescritivoImagem:'Zootrópio.', },
 
           {ordem:9,
           predecessor:8,
@@ -993,9 +993,9 @@ let livro_csx ={
           textoSimplificado:'Zootrópio 3D',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Zootrópio 3D', 
-          textoDescritivoImagem:'Zootrópio 3D.', },//ao definir a imagem, a descrição deverá ser alterada
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9.jpg',
+          promptImagem:'Create a realistic digital art representation of a 3D Zoetrope in action', 
+          textoDescritivoImagem:'Zootrópio 3D.', },
 
           {ordem:10,
           predecessor:9,
@@ -1004,9 +1004,9 @@ let livro_csx ={
           textoSimplificado:'Praxinoscópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Praxinoscópio', 
-          textoDescritivoImagem:'Praxinoscópio.', },//ao definir a imagem, a descrição deverá ser alterada
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_10.jpg',
+          promptImagem:'Create a realistic digital art depiction of a Praxinoscope in action.', 
+          textoDescritivoImagem:'Praxinoscópio.', },
 
           {ordem:11,
           predecessor:10,
@@ -1015,8 +1015,8 @@ let livro_csx ={
           textoSimplificado:'Cinema',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Sala de cinema', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_11.jpg',
+          promptImagem:'Create a vibrant and realistic digital art depiction of a modern cinema hall. In the scene, there should be a large projector screen displaying vivid and engaging scenes from a movie. The layout of the theater with dimmed lights, comfortable seats and audience absorbed in the movie should be clearly visible', 
           textoDescritivoImagem:'Sala de cinema.', },
 
           {ordem:12,
@@ -1026,8 +1026,8 @@ let livro_csx ={
           textoSimplificado:'Revisão',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Resumo Imagem minuto 11:58',  //enviar ao ilustrador
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_12-1.jpg',
+          promptImagem:'Digital art depicting a museum exhibit showcasing the evolution of early animation, featuring exhibits for the Flip-book, Thaumatrope, Phenakistoscope, Zoetrope, 3D Zoetrope, and Praxinoscope. Each exhibit should have the respective device and a small plaque indicating its name',  //Resumo Imagem minuto 11:58
           textoDescritivoImagem:'Resumo Imagem minuto 11:58.', },
 
 
