@@ -1191,8 +1191,8 @@ let livro_csx ={
           textoSimplificado:'Imagens Digitais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Personagens star wars em pixels', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_1.jpg',
+          promptImagem:'Create a pixel art illustration featuring iconic Star Wars characters. The image should be colourful and playful, representing characters like Luke Skywalker, Princess Leia, Darth Vader, and Yoda in their signature outfits and poses, all in a style reminiscent of 8-bit video game graphics', 
           textoDescritivoImagem:'Imagem dos personagens de Star Wars desenhados com pixels.', },
 
           {ordem:2,
@@ -1202,8 +1202,8 @@ let livro_csx ={
           textoSimplificado:'Pixel',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Imagem com pouco e muito pixels', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_2.jpg',
+          promptImagem:'Create two images to illustrate the concept of pixels for students from 5th to 9th grades. The first image should be a realistic digital art illustration of a colorful butterfly. The second image should be a replication of the first image but in pixel art style, clearly showing the individual square blocks of colors, representing pixels', 
           textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
 
           {ordem:3,
@@ -1213,9 +1213,9 @@ let livro_csx ={
           textoSimplificado:'Telas antigas',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Imagem jogo mario bros com pixels',  
-          textoDescritivoImagem:'Imagem do jogo Mario Bros com pixels.', },//ao definir a imagem, a descrição deverá ser melhorada
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_3.jpg',
+          promptImagem:'Create a colorful pixel art scene inspired by the iconic Mario Bros game. The scene should include characters like Mario, power-ups like mushrooms or stars, and the iconic brick blocks and tubes, against a backdrop of the games classic blue sky with cloud',  
+          textoDescritivoImagem:'Imagem do jogo Mario Bros com pixels.', },
 
           {ordem:4,
           predecessor:3,
@@ -1224,8 +1224,8 @@ let livro_csx ={
           textoSimplificado:'Cores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Foto Maxwell 1:41 e ao lado seu experimento 1:54', //enviar ilustrador
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_4.jpg',
+          promptImagem:'Create a pixel art depiction of James Clerk Maxwell along with his color experiments', //enviar ilustrador Foto Maxwell 1:41 e ao lado seu experimento 1:54
           textoDescritivoImagem:'Foto de Maxwell e seu experimento com as cores.', },
 
           {ordem:5,
@@ -1235,8 +1235,8 @@ let livro_csx ={
           textoSimplificado:'Cores Primárias',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Cores primárias em tinta.', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_5.jpg',
+          promptImagem:'Create a digital art depiction of three separate paint buckets, each filled with one of the primary colors: red, yellow, and blue', 
           textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta vermelha, o segundo com tinta verde e o último tubo com tinta amarela.', },
 
           {ordem:6,
@@ -1246,8 +1246,8 @@ let livro_csx ={
           textoSimplificado:'Sistema RGB',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Sistema RGB', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_6.jpg',
+          promptImagem:'Create a pixel art of an open laptop screen displaying the RGB color model, with distinct sections showcasing the primary colors: Red, Green, and Blue', 
           textoDescritivoImagem:'Sistema RGB de cores.', },
 
           {ordem:7,
@@ -1258,8 +1258,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'Teste daltonismo', 
-          textoDescritivoImagem:'Imagem para testar daltonismo.', },//ao definir a imagem, a descrição deverá ser melhorada
+          promptImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_7.jpg', 
+          textoDescritivoImagem:'Imagem para testar daltonismo.', },
 
           {ordem:8,
           predecessor:7,
@@ -1268,7 +1268,7 @@ let livro_csx ={
           textoSimplificado:'Curiosidade',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_8.jpg',
           promptImagem:'Vestido azul e preto ou branco e dourado', 
           textoDescritivoImagem:'Vestido azul e preto ou branco e dourado, a depender de quem está olhando a imagem.', },
 
