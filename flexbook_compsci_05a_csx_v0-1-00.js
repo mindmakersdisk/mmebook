@@ -1257,8 +1257,8 @@ let livro_csx ={
           textoSimplificado:'Daltonismo',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_7.jpg', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_7.jpg',
+          promptImagem:'Teste Daltonismo', 
           textoDescritivoImagem:'Imagem para testar daltonismo.', },
 
           {ordem:8,
