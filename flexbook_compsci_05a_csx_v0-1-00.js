@@ -382,7 +382,7 @@ let livro_csx ={
           textoSimplificado:'Cientista criativo',
 	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_11.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_11.png',
           promptImagem:'Foto mostrando uma cientista jovem e inspirador no seu laboratório, cercada por uma variedade de dispositivos que ilustram o controle da energia elétrica: um circuito simples, vários condutores, botões de controle, um kit de robótica e ícones de IoT', 
           textoDescritivoImagem:'Cientista soldando uma placa de circuito elétrico ', },
 	            
@@ -771,7 +771,7 @@ let livro_csx ={
           textoSimplificado:'Robôs',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.png',
           promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica.', 
           textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
 
@@ -837,20 +837,20 @@ let livro_csx ={
           textoSimplificado:'Controlar robô',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_7-1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_7-1.png',
           promptImagem:'Robô com controle remoto', 
           textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
 
-          /*{ordem:8,
+          {ordem:8,
           predecessor:7,
-          texto:'Conheça o primeiro robô que você irá programar. O Sphero! Ele se locomove como o BB-8 do Star Wars. O Sphero atua como um motor que se locomove conforme você programar. Além disso, ele pode mudar de cor, saltar, puxar objetos e até nadar.',
+          texto:'Conheça o primeiro robô que você irá programar. O mBot! Ele é muito fácil de montar e existem muitos módulos disponíveis que você pode programar, usando a aplicação Makeblock para realizar ótimas experiências.',
           urlAudioTexto:'',
-          textoSimplificado:'Sphero',
+          textoSimplificado:'mBot',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_8.png',
-          promptImagem:'Ilustração robô Sphero', 
-          textoDescritivoImagem:'Robô Sphero.', },*/
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8.png',
+          promptImagem:'Ilustração robô mBot', 
+          textoDescritivoImagem:'Robô mBot.', },
 
           {ordem:8,
           predecessor:7,
@@ -1110,7 +1110,7 @@ let livro_csx ={
         textoSimplificado:'Número 4 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx2_I9_4.png',
         promptImagem:'Draw a blackboard with mathematical operations written to convert the number 4 from binary to decimal system.',  //'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',
         textoDescritivoImagem:'Imagem de quadro negro, em que foram escritas as operações matemáticas para converter o número 4 do sistema decimal para o sistema binário.', },
 
@@ -1132,7 +1132,7 @@ let livro_csx ={
         textoSimplificado:'Código secreto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_6.png',
         promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
         textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
 
@@ -2223,7 +2223,7 @@ let livro_csx ={
         textoSimplificado:'Anúncios online',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_3.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/C2csx_I26_3.png',
         promptImagem:'Create an illustration in shades of cyan, red, purple, black, or white, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that offer advertisements through HTTP cookies. Include a video site, a social network, an email inbox, and an e-commerce website.', //'Foto de anúncio exibido em um site de vídeos<p>Foto de anúncios exibidos em uma rede social<p>Foto de anúncio exibido na caixa de entrada de e-mails<p>Foto de anúncios exibidos na barra lateral de um site de e-commerce<p>Foto de uma pessoa bem expressiva, de boca aberta, apontando para cima',
         textoDescritivoImagem:'Imagem com várias fotos de anúncios exibidos em sites de vídeos, redes sociais, caixa de entrada de e-mails e barra lateral de sites de e-commerce. Ao lado dessas fotos, uma pessoa está apontando para os anúncios, perguntando se você já reparou que muitas vezes recebe anúncios do seu interesse, mesmo antes de fazer login ou informar suas preferências.', },
 
@@ -2475,7 +2475,7 @@ let livro_csx ={
         textoSimplificado:'Desconfie',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_6.png',
         promptImagem:'Ilustração colorida mostrando jovens com lupas ampliando a tela de um computador, revelando a etiqueta Fake News e Deepfake. Ícones de verificação de fatos circulam, reforçando a ideia de vigilância na era digital.',
         textoDescritivoImagem:'Desconfie.', },
 
@@ -2486,7 +2486,7 @@ let livro_csx ={
         textoSimplificado:'Likes',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_7.png',
         promptImagem:'Ilustração colorida de um jovem segurando um livro com um avatar na capa. Dentro do avatar, camadas revelam atributos como Respeito e Empatia, ressaltando a mensagem não julgue o livro pela capa na ética digital.', 
         textoDescritivoImagem:'Não julgue o livro pela capa.', },
 
