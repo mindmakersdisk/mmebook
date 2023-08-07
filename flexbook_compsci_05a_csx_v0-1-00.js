@@ -125,7 +125,7 @@ let livro_csx ={
           texto:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes:',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_6.mp3',
           textoSimplificado:'Desktop e suas partes',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6-sahilcomputers%20ulfat%20shaikh_Flickr.jpg',
           promptImagem:'Digital art of a desktop computer, prominently featuring the monitor, keyboard, mouse, and CPU. Each of these components is clearly delineated and brightly highlighted, emphasizing their distinct roles within the system.', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
 
@@ -226,7 +226,7 @@ let livro_csx ={
           texto:'Mas então, o que é realmente um computador?',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_16.mp3',
           textoSimplificado:'O que é um commputador',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_16.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_16-Flickr.jpg',
           promptImagem:'Digital art of a full desktop setup, including a monitor, keyboard, mouse, and CPU, with vivid 3D question marks emerging from the monitor screen. The setup is seen from a perspective that showcases all the elements clearly, illustrating the computer as a tool for problem-solving and knowledge exploration.', 
           textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
   
@@ -589,7 +589,7 @@ let livro_csx ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Um laço pode envolver vários comandos que são repetidos juntos. Por exemplo: no vídeo do relógio cuco, note quantas coisas se repetem juntas demonstrando que todas elas estão dentro do laço.',
+          texto:'Um laço pode envolver vários comandos que são repetidos juntos. Por exemplo, ao desenvolver um jogo de videogame que simula as regras de trânsito, quando o sinal para veículos está vermelho, o sinal para os pedestres está verde e um sinal sonoro também é emitido para pessoas com dificuldades visuais.',//OLD - Por exemplo: no vídeo do relógio cuco, note quantas coisas se repetem juntas demonstrando que todas elas estão dentro do laço.
           urlAudioTexto:'',
           textoSimplificado:'Vários comandos',
 	      textoImpresso:1,
@@ -600,14 +600,14 @@ let livro_csx ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Em várias atividades, como no esporte e na dança, os laços são muito comuns. Quando queremos que algo se repita por um número específico de vezes, definimos o número de vezes no laço.',
+          texto:'Em várias atividades, como no esporte e na dança, os laços são muito comuns. Quando queremos que algo se repita por um número específico de vezes, definimos o número de vezes no laço. Por exemplo, na imagem podemos indicar um laça com 5 repetições de pirueta para a bailarina.',
           urlAudioTexto:'',
           textoSimplificado:'Laços pelo Mundo',
 	      textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_5.jpg',
           promptImagem:'Realistic art portraying a graceful ballerina in the midst of executing a series of pirouettes. The fluidity and elegance of her movements should be captured vividly, bringing to life the art of ballet.', 
-          textoDescritivoImagem:'Uma bailarina executando dez piruetas.', },
+          textoDescritivoImagem:'Uma bailarina executando cinco piruetas.', },
 
           {ordem:6,
           predecessor:5,
@@ -676,7 +676,8 @@ let livro_csx ={
           textoSimplificado:'Condições',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2-Nextvoyage_Pexels.jpg',
           promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
           textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -709,7 +710,8 @@ let livro_csx ={
           textoSimplificado:'Algoritmo de Trânsito',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_5.jpg',
+		  //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_5.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_4-Guilherme%20Rossi-Pexels.jpg',
           promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
           textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
@@ -905,7 +907,8 @@ let livro_csx ={
           textoSimplificado:'Primórdios das Animações',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_1.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_1.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7-1-9_Bisonte_Magdaleniense_pol%C3%ADcromo_WP.jpg',
           promptImagem:'Realistic digital art illustrating the origins of animation. The artwork could depict a prehistoric scene with early humans painting sequential images on a cave wall, attempting to create an illusion of movement. This should give a nod to the earliest forms of animation in human history.', 
           textoDescritivoImagem:'Arte na pré-história.', },
 
@@ -916,7 +919,8 @@ let livro_csx ={
           textoSimplificado:'Animação na pré-história',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_2.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_2.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_2-Clemens%20Schmillen_WP_2.jpg',
           promptImagem:'Realistic digital art illustrating prehistoric "moving art". The scene could depict a cave interior, where early humans have drawn animals with duplicated limbs on the wall. As a torchlight moves across the drawing, the shadowy flicker creates an illusion of the animals in motion', 
           textoDescritivoImagem:'Arte na pré-história simulando movimento.', },
 
@@ -927,7 +931,8 @@ let livro_csx ={
           textoSimplificado:'Pintura Egípcia',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_3.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_3.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_3-Tomb-of-Nakht-(2)_WikiCommon.jpg',
           promptImagem:'Realistic digital art illustrating ancient Egyptian wall paintings. The artwork could depict a series of sequential images drawn on a wall, each showing people in slightly different positions. This arrangement, similar to modern comic strips, would give the impression of movement as ones gaze moves from one drawing to the nex',  
           textoDescritivoImagem:'Pintura egípcia na parece.', },
 
@@ -938,7 +943,8 @@ let livro_csx ={
           textoSimplificado:'Arte XXX',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4--600px-Animation_vase_2-WikiCommon.jpg',
           promptImagem:'Realistic digital art illustrating an ancient vase with sequential drawings around it. The vase should depict an intricate scene where a moose jumps to reach leaves on a tree. The design should be such that, when the vase is spun, it creates an illusion of the moose in motion.', 
           textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
 
@@ -949,7 +955,9 @@ let livro_csx ={
           textoSimplificado:'Folioscópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5.jpg',
+		  //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5-pierre-bamin_unsplash.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5-Technische%20Sammlungen%20der%20Stadt%20Dresden_WP.jpg',
           promptImagem:'Digital artwork of a colorful flip book mid-flip, held by a person hands. The book is open and pages are actively flipping, revealing the progression of a simple hand-drawn animation of a bird flying across the pages.', 
           textoDescritivoImagem:'Um flipbook ou folioscópio sendo folheado.', },
 
@@ -960,7 +968,8 @@ let livro_csx ={
           textoSimplificado:'Traumatrópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6-RonnySergio_AStock.jpg',
           promptImagem:'Realistic digital art of a 19th-century Thaumatrope in action, with two sides visible due to spinning: one side depicting a bird and the other side a cage. The rapid spinning creates an illusion of the bird being inside the cage, symbolizing how the Thaumatrope blends separate images into one.', 
           textoDescritivoImagem:'Traumatrópio da gaiola vazia e com o passarinho dentro.', },//ao definir a imagem, a descrição deverá ser alterada
 
@@ -971,7 +980,8 @@ let livro_csx ={
           textoSimplificado:'Fenaquistiscópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_7.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_7.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_7-1_3.jpg',
           promptImagem:'Create a realistic digital artwork of a Phenakistoscope in action. The artwork should depict a disc with series of images that when spun, creates an illusion of a moving picture due to persistence of vision.', 
           textoDescritivoImagem:'Fenaquistiscópio.', },
 
@@ -982,8 +992,9 @@ let livro_csx ={
           textoSimplificado:'Zootrópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8.jpg',
-          promptImagem:'Create a realistic digital art representation of a Zoetrope.', 
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8-Zern%20Liew_AStock.jpg',
+		  promptImagem:'Create a realistic digital art representation of a Zoetrope.', 
           textoDescritivoImagem:'Zootrópio.', },
 
           {ordem:9,
@@ -993,7 +1004,8 @@ let livro_csx ={
           textoSimplificado:'Zootrópio 3D',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9-1_3.jpg',
           promptImagem:'Create a realistic digital art representation of a 3D Zoetrope in action', 
           textoDescritivoImagem:'Zootrópio 3D.', },
 
@@ -1004,7 +1016,8 @@ let livro_csx ={
           textoSimplificado:'Praxinoscópio',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_10.jpg',
+          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_10.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_10_3.JPG',
           promptImagem:'Create a realistic digital art depiction of a Praxinoscope in action.', 
           textoDescritivoImagem:'Praxinoscópio.', },
 
@@ -1268,7 +1281,7 @@ let livro_csx ={
           textoSimplificado:'Curiosidade',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_8.jpg', // Fonte - https://s2-glamour.glbimg.com/8JY5eegdykXGjywnDRUXh3OMf4I=/0x0:607x417/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2021/r/Z/EaFJReSwW71kXaGOAPBg/2015-02-27-vestido-1.jpg
           promptImagem:'Vestido azul e preto ou branco e dourado', 
           textoDescritivoImagem:'Vestido azul e preto ou branco e dourado, a depender de quem está olhando a imagem.', },
 
@@ -1294,7 +1307,7 @@ let livro_csx ={
           textoSimplificado:'Laços',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_1.jpg',
           promptImagem:'Comando repita em linguagem de bloco', 
           textoDescritivoImagem:'Comando repita no blockly.', }, //enviar ao ilustrador imagem 00:14
 
@@ -1305,7 +1318,7 @@ let livro_csx ={
           textoSimplificado:'Laços Alinhados',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_2.jpg',
           promptImagem:'Comando repita em linguagem de bloco com três execuções', 
           textoDescritivoImagem:'Comando repita em linguagem de bloco com três execuções.', },//enviar ao ilustrador imagem 00:35
 
@@ -1316,7 +1329,7 @@ let livro_csx ={
           textoSimplificado:'Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3.jpg',
           promptImagem:'Dj tocando música',  
           textoDescritivoImagem:'Dj tocando música.', },
 
@@ -1338,7 +1351,7 @@ let livro_csx ={
           textoSimplificado:'Programa Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_5.jpg',
           promptImagem:'Imagem personagem andando no SCRATCH.', 
           textoDescritivoImagem:'Personagem andando em um cenário SCRATCH.', },
 
@@ -1349,7 +1362,7 @@ let livro_csx ={
           textoSimplificado:'Programas Poderosos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_6.jpg',
           promptImagem:'Comando enquanto e repita em linguagem de bloco', 
           textoDescritivoImagem:'Comando Enquanto e Repita usados simultaneamente.', },//enviar ao ilustrador imagem 01:55
 
