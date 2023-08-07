@@ -1387,20 +1387,20 @@ let livro_csx ={
           textoSimplificado:'Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Notícia do jornal sobre o lançamento de um foguete', //https://g1.globo.com/globonews/conexao-globonews/video/veja-imagens-do-lancamento-da-starship-foguete-mais-poderoso-da-historia-11550834.ghtml
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_1.jpg',
+          promptImagem:'Create a realistic digital art representation of a breaking news scene depicting the launch of a rocket. The scene should include a rocket soaring skyward, a news anchor reporting live, and a headline ticker at the bottom of the screen saying Rocket Launch Success', 
           textoDescritivoImagem:'Lançamento de um foguete.', }, 
 
           {ordem:2,
           predecessor:1,
-          texto:'Um evento é um acontecimento ou ação eventual que pode mudar uma rotina, ao provocar reações em resposta. Você está estudando concentrado quando, de repente, o seu celular toca. Qual é a sua reação a esse evento?',
+          texto:'Um evento é um acontecimento ou ação eventual que pode mudar uma rotina, ao provocar reações em resposta. Você está estudando concentrado quando, de repente, o seu gato sobre em cima da mesa. Qual é a sua reação a esse evento?',
           urlAudioTexto:'',
           textoSimplificado:'Eventos e Reações',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Estudante estudando e celular tocando', //enviar ao ilustrador 
-          textoDescritivoImagem:'Um estudante lendo um livro e o celular começa a tocar.', },
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_2.jpg',
+          promptImagem:'Create a realistic digital art of a focused girl studying at a table filled with books. An inquisitive cat is sitting on the table next to her, meowing for her attention, but she remains absorbed in her studies.',
+          textoDescritivoImagem:'Uma garota estudando e seu gato sobe em cima da sua mesa.', },
 
           {ordem:3,
           predecessor:2,
@@ -1409,8 +1409,8 @@ let livro_csx ={
           textoSimplificado:'Reação', 
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'Digitando no teclado e clicando no mouse',  //enviar ao ilustrador imagem 1:00
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_3.jpg',
+          promptImagem:'Create a realistic digital art of a person sitting at a desk, multitasking on a computer: one hand is actively typing on the keyboard while the other hand is clicking the mouse. The person focus is on the computer screen. The entire person and computer setup should be visible',  
           textoDescritivoImagem:'À esquerda, uma pessoa digitando no teclado, e à direita outra pessoa clicando no mouse.', },
 
           {ordem:4,
@@ -1420,7 +1420,7 @@ let livro_csx ={
           textoSimplificado:'Exemplos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_4-Freepik.jpg',
           promptImagem:'Smartphone, tablet, smartwatch.', 
           textoDescritivoImagem:'Imagem de um smartphone (celular inteligente), um tablet e um smartwatch (relógio inteligente)', },
 
@@ -1431,7 +1431,7 @@ let livro_csx ={
           textoSimplificado:'Sem Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_5-Ilustrador.jpg',
           promptImagem:'Frase: Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick', //enviar ao ilustrador imagem 1:08	
           textoDescritivoImagem:'Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick.', },
 
@@ -1442,7 +1442,7 @@ let livro_csx ={
           textoSimplificado:'Sensores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_6.jpg',
           promptImagem:'Celular ao sol esquentando com alerta da temperatura alta', //enviar ao ilustrador 
           textoDescritivoImagem:'Um celular inteligente ao sol apresentando na tela uma alerta de temperatura alta e informando ao usuário a necessidade de esfriá-lo.', },
 
