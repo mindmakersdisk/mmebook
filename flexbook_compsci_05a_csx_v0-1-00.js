@@ -1099,7 +1099,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Para entender o sistema interno dos computadores, vamos primeiro lembrar de como nós, humanos, gostamos de lidar com números. Nosso sistema preferido é chamado de sistema decimal. Ele utiliza dez símbolos, de zero a nove. Quando colocamos um número ao lado do outro, o da esquerda vale dez vezes mais.',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_3.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_3.png',
         promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito uma tabela de valor posicional para ensinar como se converter 10 unidades em uma dezena e 10 dezenas em uma centena.', },
 
@@ -1121,7 +1121,7 @@ let livro_csx ={
         textoSimplificado:'Números 1, 2 e 3 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-2.png',
         promptImagem:'Quadro negro com escritas dos números 1, 2 e 3 em sistema binário', 
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito os números 1, 2 e 3 em sistema decimal e em sistema binário.', },
 
@@ -1143,7 +1143,7 @@ let livro_csx ={
         textoSimplificado:'Representação de sistema binário',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-3.png',
         promptImagem:'Quadro negro com escrita de um byte e de números abaixo de cada algaritimo do byte, indicando o valor, em sistema decimal, de cada uma das casas do sistema binário', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito um dado em código binário do tamanho de um byte _ ou seja, um código binário composto por oito casas de valores binários. Abaixo do código binário, há os números 0, 1, 2, 4 e 8, escritos da direita para a esquerda, para indicar o valor, em sistema decimal, de cada uma das casas do byte.', },
 
@@ -1157,7 +1157,7 @@ let livro_csx ={
         textoImpressoRecriado:`Para representar quantidades maiores que 3, o sistema binário vai acrescentando mais zeros ou uns à esquerda, sendo que cada posição vale o dobro da anterior.
 
         Embora os números em binário possam se tornar grandes, é possível representar qualquer quantidade utilizando o sistema binário, assim como os números decimais.`,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-4.png',
         promptImagem:'Quadro negro com escrita de diversos valores em binário, como 16, 42, 120 e 1024.', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito diversos números em sistema binário, como 16, 42, 120 e 1024.', },
 
@@ -1179,7 +1179,7 @@ let livro_csx ={
         textoSimplificado:'Baralho binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.png',
         promptImagem:'Create blank cards for the game called "Binary Deck". The cards should be represented with no visible content, completely blank.', // 'Imagens de cartas do jogo chamado baralho binário', 
         textoDescritivoImagem:'Imagens de cartas do jogo chamado baralho binário. Algumas cartas contém pontinhos pretos, em quantidade diversas, como um ponto, dois pontos, quatro pontos ou oito pontos. Outras cartas contém os numerais 0 ou 1.', },
 
