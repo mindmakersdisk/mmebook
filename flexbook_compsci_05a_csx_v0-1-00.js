@@ -466,7 +466,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmos e suas linguagens',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_2.png',
           promptImagem:'Desenho em preto e branco de um fluxograma de como assar o pão no forno', //enviar ao ilustrador
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno',},
 
