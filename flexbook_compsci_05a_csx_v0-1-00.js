@@ -173,7 +173,7 @@ let livro_csx ={
           texto:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos, como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. As possibilidades são infinitas.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_11.mp3',
           textoSimplificado:'Outros dispositivos',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_11.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_11-roberto-nickson-7238759_Pexels.jpg',
           promptImagem:'Computer connected to different devices, such as printers and sound system in a green bachground, digital art', 
           textoDescritivoImagem:'Computador conectado a diferentes dispositivos, como impressoras e caixas de som', },
   
@@ -1270,7 +1270,7 @@ let livro_csx ={
           textoSimplificado:'Daltonismo',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_7.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_7-Sakurambo_WP.jpg',
           promptImagem:'Teste Daltonismo', 
           textoDescritivoImagem:'Imagem para testar daltonismo.', },
 
@@ -1281,7 +1281,7 @@ let livro_csx ={
           textoSimplificado:'Curiosidade',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_8.jpg', // Fonte - https://s2-glamour.glbimg.com/8JY5eegdykXGjywnDRUXh3OMf4I=/0x0:607x417/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2021/r/Z/EaFJReSwW71kXaGOAPBg/2015-02-27-vestido-1.jpg
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_8.jpg', 
           promptImagem:'Vestido azul e preto ou branco e dourado', 
           textoDescritivoImagem:'Vestido azul e preto ou branco e dourado, a depender de quem está olhando a imagem.', },
 
@@ -1309,7 +1309,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_1.jpg',
           promptImagem:'Comando repita em linguagem de bloco', 
-          textoDescritivoImagem:'Comando repita no blockly.', }, //enviar ao ilustrador imagem 00:14
+          textoDescritivoImagem:'Comando repita no blockly.', },
 
           {ordem:2,
           predecessor:1,
@@ -1320,7 +1320,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_2.jpg',
           promptImagem:'Comando repita em linguagem de bloco com três execuções', 
-          textoDescritivoImagem:'Comando repita em linguagem de bloco com três execuções.', },//enviar ao ilustrador imagem 00:35
+          textoDescritivoImagem:'Comando repita em linguagem de bloco com três execuções.', },
 
           {ordem:3,
           predecessor:2,
@@ -1341,7 +1341,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'Jogador de futebol chutando a bola', 
+          promptImagem:'Create a digital illustration of a soccer game in action, with players on the field and a prominent scoreboard or banner displaying the message Jogue Futebol."', 
           textoDescritivoImagem:'Jogador de futebol chutando a bola.', },
 
           {ordem:5,
