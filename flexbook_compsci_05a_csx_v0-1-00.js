@@ -95,7 +95,7 @@ let livro_csx ={
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_3.mp3',
           textoSimplificado:'Resolução de problemas',
           textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_3.png',
           promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
           textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
@@ -185,7 +185,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. <p>As possibilidades são infinitas. <p>Nos últimos anos, os criativos fabricantes conseguiram juntar todas as partes do computador de mesa em um só aparelho, pequeno o suficiente para carregarmos conosco: são os celulares e tablets, também conhecidos como computadores móveis.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_12.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_12.png',
           promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
           textoDescritivoImagem:'Telefone celular com vários ícones de redes sociais diferentes saindo da tela', },
   
@@ -572,7 +572,7 @@ let livro_csx ={
           textoSimplificado:'Laço',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_2%20(1).png',
           promptImagem:'Realistic art of a child instructing a small robot shaped like a pen to draw a square on a piece of paper. Next to them, a list of commands written in a loop format is visible, illustrating the steps the robot takes to repeatedly draw the square under the child guidance.', 
           textoDescritivoImagem:'Criança ensinando uma caneta robô a desenhar um quadrado.', },
 
@@ -1215,7 +1215,7 @@ let livro_csx ={
           textoSimplificado:'Pixel',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_2.png',
           promptImagem:'Create two images to illustrate the concept of pixels for students from 5th to 9th grades. The first image should be a realistic digital art illustration of a colorful butterfly. The second image should be a replication of the first image but in pixel art style, clearly showing the individual square blocks of colors, representing pixels', 
           textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
 
@@ -1387,7 +1387,7 @@ let livro_csx ={
           textoSimplificado:'Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_1.png',
           promptImagem:'Create a realistic digital art representation of a breaking news scene depicting the launch of a rocket. The scene should include a rocket soaring skyward, a news anchor reporting live, and a headline ticker at the bottom of the screen saying Rocket Launch Success', 
           textoDescritivoImagem:'Lançamento de um foguete.', }, 
 
@@ -1398,7 +1398,7 @@ let livro_csx ={
           textoSimplificado:'Eventos e Reações',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_2%20%20edit.png',
           promptImagem:'Create a realistic digital art of a focused girl studying at a table filled with books. An inquisitive cat is sitting on the table next to her, meowing for her attention, but she remains absorbed in her studies.',
           textoDescritivoImagem:'Uma garota estudando e seu gato sobe em cima da sua mesa.', },
 
@@ -1442,7 +1442,7 @@ let livro_csx ={
           textoSimplificado:'Sensores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_6.png',
           promptImagem:'Celular ao sol esquentando com alerta da temperatura alta', //enviar ao ilustrador 
           textoDescritivoImagem:'Um celular inteligente ao sol apresentando na tela uma alerta de temperatura alta e informando ao usuário a necessidade de esfriá-lo.', },
 
@@ -2246,7 +2246,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Deixar essas pegadas enquanto navega na maioria das vezes é inevitável e também inofensivo. Mas, suas pegadas digitais também podem lhe trazer problemas. Diferente de uma pegada deixada na rua, que some com a chuva, uma pegada digital é copiada, compartilhada e pode existir por muito mais tempo do que você imagina.',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_5%20edit.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict, through a pictogram, a dangerous use of the internet that has left a negative digital footprint on a users online reputation. In the image, a young girl is sitting in a chair, hunched over her knees, with her head down. She is in front of a computer screen in a dark room.', //'Pictograma de uma pessoa sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada, em um quarto escuro, em frente à tela de um computador pessoal<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
         textoDescritivoImagem:'Imagem de um pictograma que ilustra o uso perigoso da internet. No pictograma, uma pessoa jovem está sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada. Ela está em frente à tela de um computador, em um quarto escuro.', },
 
