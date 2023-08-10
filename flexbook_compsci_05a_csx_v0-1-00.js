@@ -226,7 +226,7 @@ let livro_csx ={
           texto:'Mas então, o que é realmente um computador?',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_16.mp3',
           textoSimplificado:'O que é um commputador',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_16-Flickr.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6-sahilcomputers%20ulfat%20shaikh_Flickr.jpg',
           promptImagem:'Digital art of a full desktop setup, including a monitor, keyboard, mouse, and CPU, with vivid 3D question marks emerging from the monitor screen. The setup is seen from a perspective that showcases all the elements clearly, illustrating the computer as a tool for problem-solving and knowledge exploration.', 
           textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
   
@@ -496,7 +496,7 @@ let livro_csx ={
           predecessor:4,
           texto:'Alguns algoritmos podem misturar desenho e texto para ensinar, por exemplo, como fazer exercícios físicos de modo correto.',
           urlAudioTexto:'',
-          textoSimplificado:'Algortimo com desenho e texto',
+          textoSimplificado:'Algoritmo com desenho e texto',
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_5.jpg',
@@ -516,7 +516,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Os algortimos também podem ser muito grandes e complexos. <p>Por exemplo, para orientar astronautas a resolver certos problemas no espaço.',
+          texto:'Os algoritmos também podem ser muito grandes e complexos. <p>Por exemplo, para orientar astronautas a resolver certos problemas no espaço.',
           urlAudioTexto:'',
           textoSimplificado:'Algoritmo complexo',
           textoImpresso:1,
@@ -548,7 +548,7 @@ let livro_csx ={
 		  id:'CSXAULA04CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 04. Laço em Algoritmos.',**/
-		  infografico:{titulo:'Laço em Algortimos',
+		  infografico:{titulo:'Laço em Algoritmos',
 				tituloSimplificado:'Laço',
 				estiloPadrao:'basicoPaisagem',
 				/** urlVideo:'',
@@ -567,7 +567,7 @@ let livro_csx ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Os Laços são comandos que nos permitem instruir o computador a executar repetidamente comandos ou grupo de comandos, sem precisar repeti-los no algortimo.',
+          texto:'Os Laços são comandos que nos permitem instruir o computador a executar repetidamente comandos ou grupo de comandos, sem precisar repeti-los no algoritmo.',
           urlAudioTexto:'',
           textoSimplificado:'Laço',
           textoImpresso:1,
@@ -705,7 +705,7 @@ let livro_csx ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Usamos os termos Se, Então e Senão para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algortimo a seguir. Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito. <p><code>Se "sinal = verde" então "prossiga" <br/>Se "sinal = amarelo" então <br/>&nbsp;&nbsp;Se "está muito próximo ao sinal" então "prossiga" senão "pare" <br/> Se "sinal = vermelho" então "pare"</code>',
+          texto:'Usamos os termos Se, Então e Senão para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir. Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito. <p><code>Se "sinal = verde" então "prossiga" <br/>Se "sinal = amarelo" então <br/>&nbsp;&nbsp;Se "está muito próximo ao sinal" então "prossiga" senão "pare" <br/> Se "sinal = vermelho" então "pare"</code>',
           urlAudioTexto:'',	
           textoSimplificado:'Algoritmo de Trânsito',
 	      textoImpresso:1,
