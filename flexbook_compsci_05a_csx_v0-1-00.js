@@ -95,7 +95,7 @@ let livro_csx ={
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_3.mp3',
           textoSimplificado:'Resolução de problemas',
           textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_3.png',
           promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
           textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
@@ -185,7 +185,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. <p>As possibilidades são infinitas. <p>Nos últimos anos, os criativos fabricantes conseguiram juntar todas as partes do computador de mesa em um só aparelho, pequeno o suficiente para carregarmos conosco: são os celulares e tablets, também conhecidos como computadores móveis.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_12.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_12.png',
           promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
           textoDescritivoImagem:'Telefone celular com vários ícones de redes sociais diferentes saindo da tela', },
   
@@ -382,7 +382,7 @@ let livro_csx ={
           textoSimplificado:'Cientista criativo',
 	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_11.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_11.png',
           promptImagem:'Foto mostrando uma cientista jovem e inspirador no seu laboratório, cercada por uma variedade de dispositivos que ilustram o controle da energia elétrica: um circuito simples, vários condutores, botões de controle, um kit de robótica e ícones de IoT', 
           textoDescritivoImagem:'Cientista soldando uma placa de circuito elétrico ', },
 	            
@@ -466,7 +466,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmos e suas linguagens',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_2.png',
           promptImagem:'Desenho em preto e branco de um fluxograma de como assar o pão no forno', //enviar ao ilustrador
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno',},
 
@@ -572,7 +572,7 @@ let livro_csx ={
           textoSimplificado:'Laço',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_2%20(1).png',
           promptImagem:'Realistic art of a child instructing a small robot shaped like a pen to draw a square on a piece of paper. Next to them, a list of commands written in a loop format is visible, illustrating the steps the robot takes to repeatedly draw the square under the child guidance.', 
           textoDescritivoImagem:'Criança ensinando uma caneta robô a desenhar um quadrado.', },
 
@@ -771,7 +771,7 @@ let livro_csx ={
           textoSimplificado:'Robôs',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.png',
           promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica.', 
           textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
 
@@ -837,20 +837,20 @@ let livro_csx ={
           textoSimplificado:'Controlar robô',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_7-1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_7-1.png',
           promptImagem:'Robô com controle remoto', 
           textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
 
-          /*{ordem:8,
+          {ordem:8,
           predecessor:7,
-          texto:'Conheça o primeiro robô que você irá programar. O Sphero! Ele se locomove como o BB-8 do Star Wars. O Sphero atua como um motor que se locomove conforme você programar. Além disso, ele pode mudar de cor, saltar, puxar objetos e até nadar.',
+          texto:'Conheça o primeiro robô que você irá programar. O mBot! Ele é muito fácil de montar e existem muitos módulos disponíveis que você pode programar, usando a aplicação Makeblock para realizar ótimas experiências.',
           urlAudioTexto:'',
-          textoSimplificado:'Sphero',
+          textoSimplificado:'mBot',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_8.png',
-          promptImagem:'Ilustração robô Sphero', 
-          textoDescritivoImagem:'Robô Sphero.', },*/
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8.png',
+          promptImagem:'Ilustração robô mBot', 
+          textoDescritivoImagem:'Robô mBot.', },
 
           {ordem:8,
           predecessor:7,
@@ -1099,7 +1099,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Para entender o sistema interno dos computadores, vamos primeiro lembrar de como nós, humanos, gostamos de lidar com números. Nosso sistema preferido é chamado de sistema decimal. Ele utiliza dez símbolos, de zero a nove. Quando colocamos um número ao lado do outro, o da esquerda vale dez vezes mais.',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_3.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_3.png',
         promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito uma tabela de valor posicional para ensinar como se converter 10 unidades em uma dezena e 10 dezenas em uma centena.', },
 
@@ -1110,7 +1110,7 @@ let livro_csx ={
         textoSimplificado:'Número 4 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx2_I9_4.png',
         promptImagem:'Draw a blackboard with mathematical operations written to convert the number 4 from binary to decimal system.',  //'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',
         textoDescritivoImagem:'Imagem de quadro negro, em que foram escritas as operações matemáticas para converter o número 4 do sistema decimal para o sistema binário.', },
 
@@ -1121,7 +1121,7 @@ let livro_csx ={
         textoSimplificado:'Números 1, 2 e 3 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-2.png',
         promptImagem:'Quadro negro com escritas dos números 1, 2 e 3 em sistema binário', 
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito os números 1, 2 e 3 em sistema decimal e em sistema binário.', },
 
@@ -1132,7 +1132,7 @@ let livro_csx ={
         textoSimplificado:'Código secreto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_6.png',
         promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
         textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
 
@@ -1143,7 +1143,7 @@ let livro_csx ={
         textoSimplificado:'Representação de sistema binário',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-3.png',
         promptImagem:'Quadro negro com escrita de um byte e de números abaixo de cada algaritimo do byte, indicando o valor, em sistema decimal, de cada uma das casas do sistema binário', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito um dado em código binário do tamanho de um byte _ ou seja, um código binário composto por oito casas de valores binários. Abaixo do código binário, há os números 0, 1, 2, 4 e 8, escritos da direita para a esquerda, para indicar o valor, em sistema decimal, de cada uma das casas do byte.', },
 
@@ -1157,7 +1157,7 @@ let livro_csx ={
         textoImpressoRecriado:`Para representar quantidades maiores que 3, o sistema binário vai acrescentando mais zeros ou uns à esquerda, sendo que cada posição vale o dobro da anterior.
 
         Embora os números em binário possam se tornar grandes, é possível representar qualquer quantidade utilizando o sistema binário, assim como os números decimais.`,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-4.png',
         promptImagem:'Quadro negro com escrita de diversos valores em binário, como 16, 42, 120 e 1024.', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito diversos números em sistema binário, como 16, 42, 120 e 1024.', },
 
@@ -1179,7 +1179,7 @@ let livro_csx ={
         textoSimplificado:'Baralho binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.png',
         promptImagem:'Create blank cards for the game called "Binary Deck". The cards should be represented with no visible content, completely blank.', // 'Imagens de cartas do jogo chamado baralho binário', 
         textoDescritivoImagem:'Imagens de cartas do jogo chamado baralho binário. Algumas cartas contém pontinhos pretos, em quantidade diversas, como um ponto, dois pontos, quatro pontos ou oito pontos. Outras cartas contém os numerais 0 ou 1.', },
 
@@ -1215,7 +1215,7 @@ let livro_csx ={
           textoSimplificado:'Pixel',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_2.png',
           promptImagem:'Create two images to illustrate the concept of pixels for students from 5th to 9th grades. The first image should be a realistic digital art illustration of a colorful butterfly. The second image should be a replication of the first image but in pixel art style, clearly showing the individual square blocks of colors, representing pixels', 
           textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
 
@@ -1387,7 +1387,7 @@ let livro_csx ={
           textoSimplificado:'Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_1.png',
           promptImagem:'Create a realistic digital art representation of a breaking news scene depicting the launch of a rocket. The scene should include a rocket soaring skyward, a news anchor reporting live, and a headline ticker at the bottom of the screen saying Rocket Launch Success', 
           textoDescritivoImagem:'Lançamento de um foguete.', }, 
 
@@ -1398,7 +1398,7 @@ let livro_csx ={
           textoSimplificado:'Eventos e Reações',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_2%20%20edit.png',
           promptImagem:'Create a realistic digital art of a focused girl studying at a table filled with books. An inquisitive cat is sitting on the table next to her, meowing for her attention, but she remains absorbed in her studies.',
           textoDescritivoImagem:'Uma garota estudando e seu gato sobe em cima da sua mesa.', },
 
@@ -1442,7 +1442,7 @@ let livro_csx ={
           textoSimplificado:'Sensores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_6.png',
           promptImagem:'Celular ao sol esquentando com alerta da temperatura alta', //enviar ao ilustrador 
           textoDescritivoImagem:'Um celular inteligente ao sol apresentando na tela uma alerta de temperatura alta e informando ao usuário a necessidade de esfriá-lo.', },
 
@@ -2223,7 +2223,7 @@ let livro_csx ={
         textoSimplificado:'Anúncios online',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_3.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/C2csx_I26_3.png',
         promptImagem:'Create an illustration in shades of cyan, red, purple, black, or white, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that offer advertisements through HTTP cookies. Include a video site, a social network, an email inbox, and an e-commerce website.', //'Foto de anúncio exibido em um site de vídeos<p>Foto de anúncios exibidos em uma rede social<p>Foto de anúncio exibido na caixa de entrada de e-mails<p>Foto de anúncios exibidos na barra lateral de um site de e-commerce<p>Foto de uma pessoa bem expressiva, de boca aberta, apontando para cima',
         textoDescritivoImagem:'Imagem com várias fotos de anúncios exibidos em sites de vídeos, redes sociais, caixa de entrada de e-mails e barra lateral de sites de e-commerce. Ao lado dessas fotos, uma pessoa está apontando para os anúncios, perguntando se você já reparou que muitas vezes recebe anúncios do seu interesse, mesmo antes de fazer login ou informar suas preferências.', },
 
@@ -2246,7 +2246,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Deixar essas pegadas enquanto navega na maioria das vezes é inevitável e também inofensivo. Mas, suas pegadas digitais também podem lhe trazer problemas. Diferente de uma pegada deixada na rua, que some com a chuva, uma pegada digital é copiada, compartilhada e pode existir por muito mais tempo do que você imagina.',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_5%20edit.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict, through a pictogram, a dangerous use of the internet that has left a negative digital footprint on a users online reputation. In the image, a young girl is sitting in a chair, hunched over her knees, with her head down. She is in front of a computer screen in a dark room.', //'Pictograma de uma pessoa sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada, em um quarto escuro, em frente à tela de um computador pessoal<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
         textoDescritivoImagem:'Imagem de um pictograma que ilustra o uso perigoso da internet. No pictograma, uma pessoa jovem está sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada. Ela está em frente à tela de um computador, em um quarto escuro.', },
 
@@ -2475,7 +2475,7 @@ let livro_csx ={
         textoSimplificado:'Desconfie',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_6.png',
         promptImagem:'Ilustração colorida mostrando jovens com lupas ampliando a tela de um computador, revelando a etiqueta Fake News e Deepfake. Ícones de verificação de fatos circulam, reforçando a ideia de vigilância na era digital.',
         textoDescritivoImagem:'Desconfie.', },
 
@@ -2486,7 +2486,7 @@ let livro_csx ={
         textoSimplificado:'Likes',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_7.png',
         promptImagem:'Ilustração colorida de um jovem segurando um livro com um avatar na capa. Dentro do avatar, camadas revelam atributos como Respeito e Empatia, ressaltando a mensagem não julgue o livro pela capa na ética digital.', 
         textoDescritivoImagem:'Não julgue o livro pela capa.', },
 
