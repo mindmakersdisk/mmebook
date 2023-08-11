@@ -1329,9 +1329,9 @@ let livro_csx ={
           textoSimplificado:'Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3-1.jpg',
           promptImagem:'Dj tocando música',  
-          textoDescritivoImagem:'Dj tocando música.', },
+          textoDescritivoImagem:'Dj tocando música e uma pessoa dançando.', },
 
           {ordem:4,
           predecessor:3,
@@ -1340,7 +1340,7 @@ let livro_csx ={
           textoSimplificado:'Exemplo Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_4.jpg',
           promptImagem:'Create a digital illustration of a soccer game in action, with players on the field and a prominent scoreboard or banner displaying the message Jogue Futebol."', 
           textoDescritivoImagem:'Jogador de futebol chutando a bola.', },
 
@@ -1382,7 +1382,7 @@ let livro_csx ={
 				cenas:[				
           {ordem:1,
           predecessor:0,
-          texto:'Eventos.<p>Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados ou que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em determinado horário, por exemplo.',
+          texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados ou que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em determinado horário, por exemplo.',
           urlAudioTexto:'',
           textoSimplificado:'Eventos',
           textoImpresso:1,
@@ -1426,18 +1426,18 @@ let livro_csx ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Você pode criar um programa que roda sem interferência de eventos de qualquer tipo, mas esses programas são raros. A maior parte dos programas são dirigidos por eventos, como os jogos ou aplicativos de redes sociais.',
+          texto:'Você pode criar um programa que roda sem interferência de eventos de qualquer tipo, mas esses programas são raros. A maior parte dos programas são dirigidos por eventos, como os jogos ou aplicativos de redes sociais.</p>Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick',
           urlAudioTexto:'',
           textoSimplificado:'Sem Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_5-Ilustrador.jpg',
-          promptImagem:'Frase: Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick', //enviar ao ilustrador imagem 1:08	
-          textoDescritivoImagem:'Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick.', },
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_5.jpg',
+          promptImagem:'Create a realistic digital portrayal of a teenager engrossed in playing an arcade machine', 
+          textoDescritivoImagem:'Um garoto jogando arcade.', },
 
           {ordem:6,
           predecessor:5,
-          texto:'Os dispositivos móveis (smartphone, tablet, smartwatch) também possuem muitos sensores capazes de gerar eventos que não dependem do usuário, mas podem ser usados por programadores experientes. <br/> Note que os smartphones já são programados para medir a temperatura do aparelho e enviar alerta ao usuário quando é necessário resfriá-los. <br/> Agora é a sua vez. Vamos programar?',
+          texto:'Os dispositivos móveis (smartphone, tablet, smartwatch) também possuem muitos sensores capazes de gerar eventos que não dependem do usuário, mas podem ser usados por programadores experientes. <br/> Note que os smartphones já são programados para medir a temperatura do aparelho e enviar alerta ao usuário quando é necessário resfriá-los. <p> Agora é a sua vez. Vamos programar?',
           urlAudioTexto:'',
           textoSimplificado:'Sensores',
           textoImpresso:1,
