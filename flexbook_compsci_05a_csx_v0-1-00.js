@@ -665,7 +665,7 @@ let livro_csx ={
           textoSimplificado:'Expressões Condicionais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_1.png',
           promptImagem:'Minimalist digital art featuring three panels: one showing a simple silhouette of a student holding an umbrella under stylized rain, the second depicting the same student under a radiant sun, and the third one featuring a large ? symbol to represent the concept of a conditional expression.', 
           textoDescritivoImagem:'Duas imagens, na primeira um aluno com um guarda-chuva debaixo da chuva e na outra o mesmo aluno sem guarda-chuva em um dia ensoladrado.', },
 
@@ -733,7 +733,7 @@ let livro_csx ={
           textoSimplificado:'Operadores Lógicos',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_7.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_7.png',
           promptImagem:'Minimalist art portraying the use of logical operators in algorithms. The artwork could depict an open laptop with an abstract, stylized representation of code featuring symbols of logical operators (such as AND, OR, NOT) highlighted on its screen.', 
           textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
@@ -1259,7 +1259,7 @@ let livro_csx ={
           textoSimplificado:'Sistema RGB',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6.png',
           promptImagem:'Create a pixel art of an open laptop screen displaying the RGB color model, with distinct sections showcasing the primary colors: Red, Green, and Blue', 
           textoDescritivoImagem:'Sistema RGB de cores.', },
 
@@ -2257,7 +2257,7 @@ let livro_csx ={
         textoSimplificado:'Perfil de usuário reconhecido pelo seu uso da internet',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_6.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should feature various pictograms to express how an algorithm recognizes a users profile through their digital footprints.In the drawing, include pictograms representing responsible and harmless internet use, such as a Rock & Roll fan, an anime enthusiast, and a follower of a digital influencer. These uses should be recognized as positive.However, also include pictograms representing dangerous and harmful user behavior, such as posts with prejudiced content and cyberbullying. These uses should be recognized as negative, immoral, and criminal, tarnishing the users image.<p>', //'Ícone do avatar de uma pessoa<p>Pictograma de um fã de Rock & Roll<p>Pictograma de uma influencer digital<p>Pictograma de um robô mecha do universo otaku<p>Pictograma do usuário sofrendo cancelamento digital por postagens preconceituosas<p>Pictograma de um usuário praticando cyberbullying<p>Ilustração de um ícone de like<p>Ilustração de um ícone de check verde<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo do perfil de uma pessoa reconhecido por um algoritmo a partir de suas pegadas digitais. No diagrama, há diversos pictogramas que ilustram como esse usuário utilizou a internet de forma consciente e inofensiva, mas também de forma perigosa e prejudicial para sua reputação. O algoritmo reconheceu que o usuário é um fã de Rock & Roll, um aficionado animes e segue uma influenciadora digital. Esses usos são reconhecidos como positivos e inofensivos. No entanto, o algoritmo também reconheceu que o usuário publica postagens com conteúdo preconceituoso e pratica cyberbullying. Esses usos são reconhecidos como negativos, imorais e criminosos, prejudicando a imagem do usuário.', },
 
