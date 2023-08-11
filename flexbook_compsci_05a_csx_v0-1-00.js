@@ -125,7 +125,7 @@ let livro_csx ={
           texto:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes:',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_6.mp3',
           textoSimplificado:'Desktop e suas partes',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6-sahilcomputers%20ulfat%20shaikh_Flickr.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6.png',
           promptImagem:'Digital art of a desktop computer, prominently featuring the monitor, keyboard, mouse, and CPU. Each of these components is clearly delineated and brightly highlighted, emphasizing their distinct roles within the system.', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
 
