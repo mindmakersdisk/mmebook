@@ -1837,7 +1837,7 @@ let livro_csx ={
         textoSimplificado:'Listas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_1-brgfx_Frrepik.jpg',
         promptImagem:'Listas de atividades para arrumar o quarto.', //enviar ao ilustrador
         textoDescritivoImagem:'Lista de atividades para arrumar o quarto.', },
 
@@ -1848,7 +1848,7 @@ let livro_csx ={
         textoSimplificado:'Lista Estática',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_2.jpg',
         promptImagem:'Lista com as fases do jogo de videogame Sonic The Hedgegog 2', //enviar ao ilustrador, vídeo 00:40
         textoDescritivoImagem:'Lista contendo as fases do jogo de videogame Sonic The Hedgegog 2.', },
 
@@ -1859,7 +1859,7 @@ let livro_csx ={
         textoSimplificado:'Lista Dinâmicas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_3.jpg',
         promptImagem:'Lista com as fases vencidas do jogo de videogame Sonic The Hedgegog 2', //enviar ao ilustrador, vídeo 00:57
         textoDescritivoImagem:'Lista contendo as fases vencidas do jogo de videogame Sonic The Hedgegog 2.', },
 
@@ -1870,7 +1870,7 @@ let livro_csx ={
         textoSimplificado:'Listas no Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_4.jpg',
         promptImagem:'Programação de Listas no Scratch.', //enviar ao ilustrador, vídeo 01:36
         textoDescritivoImagem:'Programação de Listas no Scratch.', },
 
@@ -1881,7 +1881,7 @@ let livro_csx ={
         textoSimplificado:'Lista Estática Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_5.jpg',
         promptImagem:'Programação de Lista Estática no Scratch', //enviar ao ilustrador vídeo 2:10 + 2:15 + 3:15
         textoDescritivoImagem:'Programação de Lista Estática no Scratch.', },
 
@@ -1892,7 +1892,7 @@ let livro_csx ={
         textoSimplificado:'Lista e Laço Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_6.jpg',
         promptImagem:'Programação de Lista e Laço no Scratch', //enviar ao ilustrador vídeo 4:05
         textoDescritivoImagem:'Programação de Lista e Laço no Scratch.', },
 
@@ -1903,7 +1903,7 @@ let livro_csx ={
         textoSimplificado:'Listas no App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_7.jpg',
         promptImagem:'Programação no App Inventor', //enviar ao ilustrador vídeo 1:57 e/ou 2:05
         textoDescritivoImagem:'Programação no App Inventor.', },
 
@@ -1914,7 +1914,7 @@ let livro_csx ={
         textoSimplificado:'Lista App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_8.jpg',
         promptImagem:'Programação de Lista Estática no App Inventor', //enviar ao ilustrador vídeo 2:52
         textoDescritivoImagem:'Programação de Lista Estática no App Inventor', },
 
@@ -1925,7 +1925,7 @@ let livro_csx ={
         textoSimplificado:'Recuperar elemento App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_9.jpg',
         promptImagem:'Programação para recuperar elemento da lista no App Inventor', //enviar ao ilustrador vídeo 3:24 + 3:40
         textoDescritivoImagem:'Programação para recuperar elemento da lista no App Inventor.', },
 
@@ -1936,8 +1936,8 @@ let livro_csx ={
         textoSimplificado:'Popular Listas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Programação para popular listas no App Inventor', //enviar ao ilustrador vídeo 4:46
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_10.jpg',
+        promptImagem:'Programação para popular listas no App Inventor', 
         textoDescritivoImagem:'Programação para popular listas no App Inventor.', },
 
         {ordem:11,
@@ -1947,7 +1947,7 @@ let livro_csx ={
         textoSimplificado:'Lista Dinâmicas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_11.jpg',
         promptImagem:'Programação de lista dinâmicas no Scrtch e App Inventor', //enviar ao ilustrador vídeo 5:14
         textoDescritivoImagem:'Programação de lista dinâmicas no Scrtch e App Inventor.', },
 
@@ -1958,7 +1958,7 @@ let livro_csx ={
         textoSimplificado:'Listas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_12.jpg',
         promptImagem:'Listas', //enviar ao ilustrador vídeo 5:14
         textoDescritivoImagem:'Listas.', },
 
