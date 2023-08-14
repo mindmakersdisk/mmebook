@@ -1574,7 +1574,7 @@ let livro_csx ={
         textoSimplificado:'Órgãos sensoriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_1-TinaAnderson-CoreyAnderson-8421458_Freepik.jpg',
         promptImagem:'Órgãos sensoriais', 
         textoDescritivoImagem:'Imagem dos órgãos sensoriais: olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1585,19 +1585,19 @@ let livro_csx ={
         textoSimplificado:'Cérebro',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_2-8373318-FreePik.jpg',
         promptImagem:'Órgãos sensoriais e cérebro', 
         textoDescritivoImagem:'Imagem do cérebro e ao redor os órgãos sensoriais, olhos, ouvidos, boca, nariz e pele.', },
 
         {ordem:3,
         predecessor:2,
-        texto:'Tal como os seres humanos, os robôs e dispositivos eletrônicos também podem ser equipados com órgãos sensoriais, chamados sensores.<br/>Os sensores são componentes eletrônicos que, assim como os órgãos sensoriais humanos, captam sinais do meio ambiente. Esses sinais podem ser recebidos por um dispositivo computacional como um computador ou celular, ou ainda por um processador embutido em um robô.',
+        texto:'Tal como os seres humanos, os robôs e dispositivos eletrônicos também podem ser equipados com órgãos sensoriais, chamados sensores.<p/>Os sensores são componentes eletrônicos que, assim como os órgãos sensoriais humanos, captam sinais do meio ambiente. Esses sinais podem ser recebidos por um dispositivo computacional como um computador ou celular, ou ainda por um processador embutido em um robô.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Sensores eletrônicos',  //enviar ao ilustrador, incluindo as descrições de cada sensor
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_3-Macrovector-2_FreePik.JPG',
+        promptImagem:'Sensores eletrônicos',
         textoDescritivoImagem:'Imagens de sensores eletrônicos.', },
 
         {ordem:4,
@@ -1607,7 +1607,7 @@ let livro_csx ={
         textoSimplificado:'Sensores de Som',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_4-Designed%20by%20stories_%20%20Freepik.jpg',
         promptImagem:'Quadrinho ouvido recebendo som do rádio e enviando informação ao cérebro que responde como música.', //enviar ao ilustrador vídeo 1:27
         textoDescritivoImagem:'Quadrinho de um ouvido recebendo um som do rádio e enviando informação ao cérebro que processa o som, e responde informando que uma música bacana está tocando.', },
 
@@ -1618,8 +1618,8 @@ let livro_csx ={
         textoSimplificado:'Sensor de Luz',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Vaso antigo com imagem em movimento', //enviar ao ilustrador vídeo 1:33
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_5-StorySet-FreePik.jpg',
+        promptImagem:'Rapaz usando um câmera filmadora', 
         textoDescritivoImagem:'Quadrinho de um olho recebendo a luz do sol e enviando informação ao cérebro que processa a luz, e responde informando que é a luz do sol, indicando que é hora de acordar.', },
 
         {ordem:6,
@@ -1629,7 +1629,7 @@ let livro_csx ={
         textoSimplificado:'Sensores de Tato',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_6.jpg',
         promptImagem:'Tela do smartphone sendo tocada e um aplicativo abrindo', //enviar ao ilustrador vídeo 1:48
         textoDescritivoImagem:'Uma pessoa tocando no ícone de um aplicativo na tela de um celular e o aplicativo sendo aberto respondendo ao toque.', },
 
@@ -1640,7 +1640,7 @@ let livro_csx ={
         textoSimplificado:'Sensore de Temperatura',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_7-VectorJuice-FreePik.jpg',
         promptImagem:'Sensor de incêncio', 
         textoDescritivoImagem:'Sensor de incêndio.', },
 
@@ -1651,8 +1651,8 @@ let livro_csx ={
         textoSimplificado:'Sensor Olfato e Paladar',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Cheiro chegando ao nariz de uma pessoa', //enviar ao ilustrador https://cienciahoje.org.br/artigo/as-mil-e-uma-aplicacoes-do-nariz-eletronico/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_8-VectorJuice-FreePik.jpg',
+		promptImagem:'Cheiro chegando ao nariz de uma pessoa', 
         textoDescritivoImagem:'Cheiro chegando ao nariz de uma pessoa.', },
 
         {ordem:9,
@@ -1662,7 +1662,7 @@ let livro_csx ={
         textoSimplificado:'Outros Sensores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_9FreePik.jpg',
         promptImagem:'Luz infravermelha', 
         textoDescritivoImagem:'Imagem com luz infravermelha', },
 
@@ -1673,7 +1673,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Diversos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_10FreePik.jpg',
         promptImagem:'Todos os tipos de sensores eletrônicos', 
         textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
 
