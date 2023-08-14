@@ -71,27 +71,56 @@ function renderizaLivro(livro) {
 	document.body.appendChild(selectMenuContainer); 
 	
 	selectMenu.addEventListener('change', function() {
-	
-		 headerContainer.style.display = 'none';
-		 selectMenuContainer.style.display = 'none';
-		 
-		// Limpe o contêiner de infográficos antes de renderizar um novo
-		infograficosContainer.innerHTML = '';
-
-		// Localize a unidade e a lição do infográfico selecionado
-		let [unidade, licao] = this.value.split(':');
-		unidadeSel=unidade;
-		licaoSel = licao;
 		
-		renderizaLivroCorpo(unidade,licao,null,livro);
+		// Base da URL (sem parâmetros)
+		var baseURL = window.location.origin + window.location.pathname;
+
+		// Criação dos parâmetros
+		var params = {};
+		params["lv"] = livroParam;
+		params["l"] = this.value;
+		
+		// Constrói a URL com os parâmetros
+		var newURL = buildURLWithParams(baseURL, params);
+
+		// Redireciona o navegador para a nova URL
+		window.location.href = newURL;
 		
 		
 	});
+	
+	// Se recebeu livro na URL, já renderiza apropriadamente.
+	if (licaoParam) {
+		renderizaLicao(licaoParam,livro);
+	}
 
 }
 
+// Função para construir a URL com os parâmetros
+function buildURLWithParams(baseURL, params) {
+    var url = new URL(baseURL);
+    for (var key in params) {
+        if (params.hasOwnProperty(key)) {
+            url.searchParams.set(key, params[key]);
+        }
+    }
+    return url.toString();
+}
 
 
+function renderizaLicao(valor,livro) {
+	
+	infograficosContainer.innerHTML = '';
+	let [unidade, licao] = valor.split(':');
+	unidadeSel=unidade;
+	licaoSel = licao;
+
+	renderizaLivroCorpo(unidade,licao,null,livro);
+	
+	headerContainer.style.display = 'none';
+	selectMenuContainer.style.display = 'none';
+
+}
 
 function renderizaLivroCorpo(unidade,licao,modoArg,livro) {
 	
@@ -165,7 +194,8 @@ function renderizaLivroCorpo(unidade,licao,modoArg,livro) {
 				i.className="fas fa-home";
 				homeButton.appendChild(i);
 				homeButton.className="home";
-				homeButton.setAttribute("onclick","location.reload()");
+				homeButton.setAttribute("onclick",
+				"window.location.href = window.location.origin + window.location.pathname+'?lv='+livroParam;");
 				titleContainer.appendChild(homeButton);
 				
 				// impressao
@@ -366,9 +396,27 @@ function handleAudioEnd() {
 
 // Obtém a URL atual
 var url = window.location.href;
-var livroSufixo='csx';
-if (url.indexOf('livro=')>-1) {
-	livroSufixo= url.substring(url.indexOf('livro=')+6);
+
+// Função para extrair os parâmetros da URL
+function getURLParameter(name) {
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
+    var results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+//Verifica se o parâmetro "livro" está presente e obtém seu valor
+var livroParam = getURLParameter("lv");
+if (livroParam !== null) {
+    console.log("Parâmetro 'livro' presente. Valor: " + livroParam);
+} else
+	livroParam="csx";
+
+// Verifica se o parâmetro "l" (lição) está presente e obtém seu valor
+var licaoParam = getURLParameter("l");
+if (licaoParam !== null) {
+    console.log("Parâmetro 'l' presente. Valor: " + licaoParam);
 }
 
-renderizaLivro(eval('livro_'+livroSufixo));
+renderizaLivro(eval('livro_'+livroParam));
