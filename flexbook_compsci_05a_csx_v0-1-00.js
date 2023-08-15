@@ -1172,7 +1172,7 @@ let livro_csx ={
         promptImagem:'Create an image with three figures in the same scene. The first figure is a television playing a video. The second figure is a tablet displaying the waveform of a musical sound. The third figure is a monitor displaying a digital 3D image.', //'Imagem de uma televisão, reproduzindo um vídeo<p>Imagem de um tablet, exibindo a curva de um som musical<p>Imagem de um monitor, exibindo uma imagem em 3d digital', 
         textoDescritivoImagem:'Imagem de uma televisão, reproduzindo um vídeo.Imagem de um tablet, exibindo a curva de um som musical.E imagem um monitor, exibindo uma imagem em 3d digital.', },
 
-        {ordem:10,
+        /*{ordem:10,
         predecessor:9,          
         texto:'Se você ainda não entendeu muito bem, não se preocupe! Você vai aprender a contar em código binário, assim como os computadores, com um divertido jogo de cartas!',
         urlAudioTexto:'',
@@ -1181,7 +1181,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.png',
         promptImagem:'Create blank cards for the game called "Binary Deck". The cards should be represented with no visible content, completely blank.', // 'Imagens de cartas do jogo chamado baralho binário', 
-        textoDescritivoImagem:'Imagens de cartas do jogo chamado baralho binário. Algumas cartas contém pontinhos pretos, em quantidade diversas, como um ponto, dois pontos, quatro pontos ou oito pontos. Outras cartas contém os numerais 0 ou 1.', },
+        textoDescritivoImagem:'Imagens de cartas do jogo chamado baralho binário. Algumas cartas contém pontinhos pretos, em quantidade diversas, como um ponto, dois pontos, quatro pontos ou oito pontos. Outras cartas contém os numerais 0 ou 1.', },*/
 
         ]
       }
@@ -1276,7 +1276,7 @@ let livro_csx ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Você sabia que pessoas sem daltonismo podem enxergar as cores de um modo um pouco diferente das outras? Duvida? Faça esse teste. Você vê esse vestido em branco e dourado ou azul e preto?',
+          texto:'Você sabia que até pessoas sem daltonismo podem enxergar uma mesma cor de modo diferente? Faça o teste: você vê esse vestido em branco e dourado ou em azul e preto? Essa percepção varia conforme cada pessoa...',
           urlAudioTexto:'',
           textoSimplificado:'Curiosidade',
           textoImpresso:1,
@@ -1302,7 +1302,7 @@ let livro_csx ={
 				cenas:[				
           {ordem:1,
           predecessor:0,
-          texto:'Você já aprendeu a usar laços em algoritmos e programar usando o programa repita. Basta colocar o número de repetições desejadas no comando repita e em volta do grupo de comandos que deseja repetir. Está pronto o seu laço!',
+          texto:'Você já aprendeu a usar <b>laço em algoritmos</b>, programando com o comando repita. Basta colocar o número de repetições desejadas no <b>repita</b> e colocar os comandos que deseja repetir abaixo dele. Está pronto o seu laço!',
           urlAudioTexto:'',
           textoSimplificado:'Laços',
           textoImpresso:1,
@@ -1324,18 +1324,19 @@ let livro_csx ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Além do laço aninhado, outro tipo de laço é muito útil. O laço enquanto. Você usa esse laço quando não sabe exatamente o número de repetições e quer que os comandos se repitam enquanto uma condição for verdadeira. Veja o exemplo a seguir. Algoritmo Dj para pista de dança.<p><code>Enquanto "a música tocar" <br/> Faça "Dance"</code>',
+          texto:'Além do <b>laço aninhado</b>, outro tipo de laço é muito útil é o <b>laço enquanto</b>. Você usa esse laço quando não sabe previamente o número de repetições e quer que os comandos se repitam enquanto uma condição for verdadeira. Veja o exemplo a seguir. Algoritmo do DJ para pista de dança:<p><code>Enquanto "a música tocar" <br/> Faça "Dance"</code>',
           urlAudioTexto:'',
           textoSimplificado:'Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_3-1.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_3-1.jpg',
+		      //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3-1.jpg',
           promptImagem:'Dj tocando música',  
           textoDescritivoImagem:'Dj tocando música e uma pessoa dançando.', },
 
           {ordem:4,
           predecessor:3,
-          texto:'Outro exemplo. Algoritmo do jogador de futebol.<p><code>Enquanto "Jogo não acabar" <br/> Faça "Jogue futebol"</code>',
+          texto:'Outro exemplo - algoritmo do jogador de futebol:<p><code>Enquanto "Jogo não acabar" <br/> Faça "Jogue futebol"</code>',
           urlAudioTexto:'',
           textoSimplificado:'Exemplo Laço Enquanto',
           textoImpresso:1,
@@ -1346,7 +1347,7 @@ let livro_csx ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Se estiver programando, você precisa saber quais condições a sua linguagem de programação suporta. Veja o exemplo da linguagem Blockly usando o CODE.ORG ou SCRATCH. Para saber quando um personagem atinge o final do caminho, use o seguinte comando:<p><code>Enquanto "houver caminho em frente" <br/> Faça "Avance"</code>',
+          texto:'Se estiver programando, você precisa saber quais condições a sua linguagem de programação suporta. Veja exemplos na linguagem de blocos.',// TODO ver se precisa do seguinte trecho: Para saber quando um personagem atinge o final do caminho, use o seguinte comando:<p><code>Enquanto "houver caminho em frente" <br/> Faça "Avance"</code>',
           urlAudioTexto:'',	
           textoSimplificado:'Programa Laço Enquanto',
           textoImpresso:1,
@@ -1357,7 +1358,7 @@ let livro_csx ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Você pode combinar laços "repita", laços aninhados e laços "enquanto" para criar programas bem poderosos. Veja o exemplo a seguir: <p><code>Enquanto "houver caminho em frente" <br/> Faça "Avance" <br/> &nbsp;&nbsp;&nbsp;&nbsp;Repita "3" vezes<br/>&nbsp;&nbsp;&nbsp;&nbsp;Faça "Remova"</code><p>Vamos praticar?',
+          texto:'Você pode combinar laços "repita", laços aninhados e laços "enquanto" para criar programas bem poderosos. Vamos praticar? <p><code>Enquanto "houver caminho em frente" <br/> Faça "Avance" <br/> &nbsp;&nbsp;&nbsp;&nbsp;Repita "3" vezes<br/>&nbsp;&nbsp;&nbsp;&nbsp;Faça "Remova"</code><p>Vamos praticar?',
           urlAudioTexto:'',
           textoSimplificado:'Programas Poderosos',
           textoImpresso:1,
@@ -1415,7 +1416,7 @@ let livro_csx ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Os smartphones (celulares inteligentes), tablets e até smartwatches (relógios inteligentes) são computadores móveis que permitem novos eventos do usuário, como toques em sua tela ou movimento do dispositivo.',
+          texto:'Os smartphones (celulares inteligentes), tablets e até smartwatches (relógios inteligentes) são computadores móveis que permitem novos eventos do usuário, como toques em tela ou movimento do dispositivo.',
           urlAudioTexto:'',	
           textoSimplificado:'Exemplos',
           textoImpresso:1,
@@ -1426,7 +1427,7 @@ let livro_csx ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Você pode criar um programa que roda sem interferência de eventos de qualquer tipo, mas esses programas são raros. A maior parte dos programas são dirigidos por eventos, como os jogos ou aplicativos de redes sociais.</p>Um programa é dirigido por eventos quando ele reage a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick',
+          texto:'Você pode criar um programa que roda sem interferência de eventos de qualquer tipo, mas esses programas são raros. A maior parte dos programas são dirigidos por eventos, como os jogos ou aplicativos de redes sociais.</p>Eles reagem frequentemente a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick.',
           urlAudioTexto:'',
           textoSimplificado:'Sem Eventos',
           textoImpresso:1,
@@ -1437,7 +1438,7 @@ let livro_csx ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Os dispositivos móveis (smartphone, tablet, smartwatch) também possuem muitos sensores capazes de gerar eventos que não dependem do usuário, mas podem ser usados por programadores experientes. <br/> Note que os smartphones já são programados para medir a temperatura do aparelho e enviar alerta ao usuário quando é necessário resfriá-los. <p> Agora é a sua vez. Vamos programar?',
+          texto:'Os dispositivos móveis também possuem sensores capazes de gerar eventos que não dependem do usuário, mas podem ser usados por programadores experientes. Por exemplo, ao medir a temperatura de um aparelho, um programa pode enviar alerta ao usuário para resfriá-lo.<p> Agora é a sua vez. Vamos programar?',
           urlAudioTexto:'',
           textoSimplificado:'Sensores',
           textoImpresso:1,
@@ -1467,9 +1468,10 @@ let livro_csx ={
         textoSimplificado:'Imagens digitais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Fotos de um computador e um smartphone, em uma videocall<p>Foto de um tablet, tirando foto um objeto inanimado<p>Foto de um smartphone, tirando foto de uma bela passagem',
-        textoDescritivoImagem:'TrêS imagens. A primeira imagem exibe um computador e um smartphone, em que seus usuários estão em uma chamada de vídeo. A segunda imagem mostra um tablet, que está sendo utilizado para tirar uma foto um objeto inanimado. A terceira imagem mostra um smartphone, que está sendo utilizado para tirar uma foto de uma linda passagem.', },
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_1.jpg',
+        promptImagem:'Create an ultra-realistic image of a video call. In the image, the computer screen displays a white-skinned woman with black hair, brown eyes, and a bob haircut, and the smartphone screen displays a black man with a broad smile and graying hair. Highlight the details of the electronic devices. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding distinct touches.',
+        //promptImagem:'Fotos de um computador e um smartphone, em uma videocall<p>Foto de um tablet, tirando foto um objeto inanimado<p>Foto de um smartphone, tirando foto de uma bela passagem',
+        textoDescritivoImagem:'Três imagens. A primeira imagem exibe um computador e um smartphone, em que seus usuários estão em uma chamada de vídeo. A segunda imagem mostra um tablet, que está sendo utilizado para tirar uma foto um objeto inanimado. A terceira imagem mostra um smartphone, que está sendo utilizado para tirar uma foto de uma linda passagem.', },
 
         {ordem:2,
         predecessor:1,
@@ -1478,8 +1480,9 @@ let livro_csx ={
         textoSimplificado:'Scanner',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto de um scanner portátil, imprimindo um documento scaneado<p>Foto de um scanner, imprimindo uma foto scaneada<p>Foto de um scanner de mesa, fechado', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_2.jpg',
+        promptImagem:'Create a realistic photograph that displays: a handheld scanner printing a scanned document; a scanner printing a scanned photo; a desktop scanner with the lid closed. Highlight the finish of the devices with hyper-realistic details, capturing their physical features. Use vibrant colors and soft lighting. Draw inspiration from renowned artists, adding unique touches.',
+        //promptImagem:'Foto de um scanner portátil, imprimindo um documento scaneado<p>Foto de um scanner, imprimindo uma foto scaneada<p>Foto de um scanner de mesa, fechado', 
         textoDescritivoImagem:'Três imagens. Na primeira um scanner portátil, que está imprimindo um documento scaneado. Na segunda um scanner, que está imprimindo uma foto scaneada. E na terceira um scanner de mesa, fechado.', },
 
         {ordem:3,
@@ -1489,8 +1492,9 @@ let livro_csx ={
         textoSimplificado:'Ilustraçãos digitais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto de um ilustrador fazendo um pintura digital com uma mesa digitalizadora',
+        urlImagem:'https://storage.cloud.google.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_3.jpg',
+        promptImagem:'Create an ultra-realistic image of a woman using a graphics tablet to digitally paint on a computer monitor. In the illustration, the woman is a redhead with freckles, beautiful, with a slim face and curly hair. Highlight the details of the electronic devices. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches.',
+        //promptImagem:'Foto de um ilustrador fazendo um pintura digital com uma mesa digitalizadora',
         textoDescritivoImagem:'Imagem de um ilustrador, utilizando uma mesa digitalizadora para desenhar uma pintura digital na monitor de um computador.', },
 
         {ordem:4,
@@ -1500,8 +1504,9 @@ let livro_csx ={
         textoSimplificado:'Importando uma foto no computador',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto de um fotográfo, transferindo um foto de uma câmera digital para a memória de um notebook',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_4.jpg',
+        promptImagem:'Create an ultra-realistic image of a photographer transferring a photo from a digital camera to the memory of a notebook. In the illustration, the photographer is a Hispanic man with gray hair and a goatee. Highlight the details of the electronic devices. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches.',
+        //promptImagem:'Foto de um fotográfo, transferindo um foto de uma câmera digital para a memória de um notebook',
         textoDescritivoImagem:'Imagem de um fotográfo, que conectou uma câmera digital a um notebook atráves de um cabo USB C para transferir uma foto que está na memória da câmera para a memória do notebook.', },
 
         {ordem:5,
@@ -1511,8 +1516,9 @@ let livro_csx ={
         textoSimplificado:'Fotos modificadas digitalmente',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto de perfil de uma bela atriz, não maquiada, ao lado da imagem editada dessa foto, em que foram aplicados efeitos digitais para clarear a imagem, remover sardas e marcas de expressões faciais e aplicar maquiagem em seus olhos e boca<p>Foto de um jovem, se equilibrando com os dois pés sobre o tronco de uma árvore, ao lado da imagem editada a partir dessa foto, em que o jovem de dimensões gigantescas que está sobre um arranha-céu em Nova Iorque.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_5.jpg',
+        promptImagem:`Create an ultra-realistic image of a beautiful Japanese model with straight black hair, no makeup, next to the edited image of this photo where digital effects have been applied to lighten the image, remove freckles and facial expression marks, and apply makeup to her eyes and lips. Highlight the physical details of the model's face. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches.`,
+        //promptImagem:'Foto de perfil de uma bela atriz, não maquiada, ao lado da imagem editada dessa foto, em que foram aplicados efeitos digitais para clarear a imagem, remover sardas e marcas de expressões faciais e aplicar maquiagem em seus olhos e boca<p>Foto de um jovem, se equilibrando com os dois pés sobre o tronco de uma árvore, ao lado da imagem editada a partir dessa foto, em que o jovem de dimensões gigantescas que está sobre um arranha-céu em Nova Iorque.', 
         textoDescritivoImagem:'Duas imagens. A primeira exibe a foto de perfil de uma bela atriz, que não está maquiada. Ao lado dessa foto, há uma imagem editada a partir da foto, em que foram aplicados efeitos digitais para clarear a fato, para remover sardas e marcas de expressões faciais e para aplicar maquiagem ao redor de seus olhos e em sua boca. A segunda imagem exibe a foto de um jovem, se equilibrando com os dois pés sobre o tronco de uma árvore. Ao lado dessa foto, há imagem editada a partir dessa foto, em que o jovem aparenta possuir dimensões gigantescas e está se equilibrando com os dois pés sobre um dos arranha-céus de Nova Iorque.', },
 
         {ordem:6,
@@ -1539,7 +1545,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'O próximo passo é editar suas fotos para remover o fundo da imagem. Você vai aprender essa técnica nesta aula utilizando uma aplicação online gratuita para edição de fotos.<p>Programas de edição de imagens possuem diversos recursos, como a "varinha mágica", que são úteis para remover o fundo das suas fotos como num passe de mágica. Vamos praticar?',
+        texto:'O próximo passo é editar suas fotos para remover o fundo da imagem. Para isso, você pode usar uma aplicação online destinada à edição de fotos, que possuem diversos recursos, como a chamada "varinha mágica", que são úteis para remover o fundo das suas fotos.',
         urlAudioTexto:'',
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,
@@ -1548,8 +1554,21 @@ let livro_csx ={
         promptImagem:'Captura de tela de um programa de edição de imagens, em que o fundo amarelo de uma fotografia está sendo removido através do uso de uma ferramenta chamada "varinha mágica"', 
         textoDescritivoImagem:'Imagem de uma captura de tela, que está exibindo a tela de um programa de edição de imagens em que o fundo amarelo de uma fotografia está sendo removido através do uso da ferramenta chamada "varinha mágica".', },
 
+        {ordem:9,
+        predecessor:8,          
+        texto:'E não se esqueça que você também pode usar IA que remove o fundo de uma imagem automaticamente, como num passe de mágica.<p>Vamos praticar?',
+        urlAudioTexto:'',
+        textoSimplificado:'Programa de edição de imagens',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'Captura de tela de um aplicativo IA que permite remover o fundo de imagens automaticamente', 
+        textoDescritivoImagem:'Imagem de uma captura de tela, que está exibindo a tela de um programa IA que permite remover o fundo de imagens automaticamente', },
+
+
        ]
      },
+     
     },
 	  
   },
@@ -1591,7 +1610,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Tal como os seres humanos, os robôs e dispositivos eletrônicos também podem ser equipados com órgãos sensoriais, chamados sensores.<p/>Os sensores são componentes eletrônicos que, assim como os órgãos sensoriais humanos, captam sinais do meio ambiente. Esses sinais podem ser recebidos por um dispositivo computacional como um computador ou celular, ou ainda por um processador embutido em um robô.',
+        texto:'Tal como os seres humanos, os robôs e dispositivos eletrônicos podem ser equipados com sensores, componentes eletrônicos que, tal como os órgãos sensoriais humanos, captam sinais do meio ambiente. Esses sinais podem ser recebidos por um dispositivo computacional embutido em um computador, celular ou robô.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
@@ -1624,7 +1643,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Quando alguém cutuca o seu braço, você sente esse toque e o seu cérebro logo decide se virar para ver quem é. Esse é o sentido do tato em ação. Do mesmo modo funciona a tela de um celular: você toca e ela transmite o toque para o processador do celular, que é o seu computador interno. Um programa decide como reagir, abrindo um aplicativo, por exemplo.',
+        texto:'Quando alguém toca seu braço, seu cérebro recebe o sinal do toque, reagindo com o ato reflexo que te faz virar para ver quem o tocou. Esse é o sentido do tato em ação. A tela de um celular funciona de modo análogo: você toca e ela transmite o toque para o processador do celular, que é o seu computador interno. Um programa decide como reagir, por exemplo, abrindo um aplicativo.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores de Tato',
         textoImpresso:1,
