@@ -74,7 +74,7 @@ let livro_csx ={
           textoSimplificado:'Primeiros passos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_1.jpg',
           promptImagem:'Digital art of a teenager with wide, excited eyes, sitting at her desk in front of her laptop. Bright, vibrant colors emanate from the screen, suggesting that she is creating something exciting and inspiring on her device.', 
           textoDescritivoImagem:'Programador em frente ao computador',},
       
@@ -85,7 +85,7 @@ let livro_csx ={
           textoSimplificado:'Videogames, robôs e resolução de problemas.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_2.jpg',
           promptImagem:'"Digital art of a teenage boy deeply engaged in building his own robot. The scene is filled with tools, robot parts, and a laptop showing blueprints. The robot, in various stages of assembly, stands by his side, reflecting his excitement and focus.', 
           textoDescritivoImagem:'Robô sentado no sofá em frente a uma televisão e um videogame',},
 
@@ -95,7 +95,7 @@ let livro_csx ={
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_3.mp3',
           textoSimplificado:'Resolução de problemas',
           textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_3.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_3.png',
           promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
           textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
@@ -104,7 +104,7 @@ let livro_csx ={
           texto:'Mas vamos dar um passo de cada vez: Para começar, o que é mesmo um computador?',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_4.mp3',
           textoSimplificado:'O que é um computador',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_4.jpg',
           promptImagem:'Digital art showing a sleek modern computer, with vibrant 3D question marks emanating from the screen. The scene conveys the idea of a computer as a tool for searching information and solving queries.', 
           textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
 
@@ -116,7 +116,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Mas vamos dar um passo de cada vez: <p>Para começar, o que é mesmo um computador? <p>Você mal se deu por gente e já tentava tocar o teclado de um computador ou talvez na tela de um celular.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_5.jpg',
           promptImagem:'Digital art of a cute baby girl sitting on the floor, reaching out towards a big, colorful laptop that is fully visible in front of her. The baby curiosity and fascination with technology are clearly displayed in the scene', 
           textoDescritivoImagem:'Bebê tentando digitar em um computador', },
 
@@ -125,7 +125,7 @@ let livro_csx ={
           texto:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes:',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_6.mp3',
           textoSimplificado:'Desktop e suas partes',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_6.png',
           promptImagem:'Digital art of a desktop computer, prominently featuring the monitor, keyboard, mouse, and CPU. Each of these components is clearly delineated and brightly highlighted, emphasizing their distinct roles within the system.', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
 
@@ -134,7 +134,7 @@ let livro_csx ={
           texto:'A torre, ou CPU, que contém o cérebro do computador, também chamado de unidade de processamento.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_7.mp3',
           textoSimplificado:'CPU',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_7.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_i1_7.jpg',
           promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas e destacando a CPU com uma seta amarela', },
 
@@ -143,7 +143,7 @@ let livro_csx ={
           texto:'O teclado, no qual digitamos letras, números e símbolos que os programas de computador entendem.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_8.mp3',
           textoSimplificado:'Teclado',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_i1_8.jpg',
           promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas e destacando o teclado com uma seta amarela', },
 
@@ -152,7 +152,7 @@ let livro_csx ={
           texto:'O monitor, que é a tela do computador.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_9.mp3',
           textoSimplificado:'Monitor',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_9.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_i1_9.jpg',
           promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas e destacando a tela com uma seta amarela', },
 
@@ -164,7 +164,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes: <p>A torre, ou CPU, que contém o cérebro do computador, também chamado de unidade de processamento. <p>O teclado, no qual digitamos letras, números e símbolos que os programas de computador entendem. <p>O monitor, que é a tela do computador. <p>E o mouse, com o qual podemos abrir diferentes programas, clicando nas pequenas imagens e botões que aparecem na tela.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i1_10.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_i1_10.jpg',
           promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas e destacando o mouse com uma seta amarela', },
   
@@ -173,7 +173,7 @@ let livro_csx ={
           texto:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos, como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. As possibilidades são infinitas.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_11.mp3',
           textoSimplificado:'Outros dispositivos',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_11-roberto-nickson-7238759_Pexels.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_11-roberto-nickson-7238759_Pexels.jpg',
           promptImagem:'Computer connected to different devices, such as printers and sound system in a green bachground, digital art', 
           textoDescritivoImagem:'Computador conectado a diferentes dispositivos, como impressoras e caixas de som', },
   
@@ -185,7 +185,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. <p>As possibilidades são infinitas. <p>Nos últimos anos, os criativos fabricantes conseguiram juntar todas as partes do computador de mesa em um só aparelho, pequeno o suficiente para carregarmos conosco: são os celulares e tablets, também conhecidos como computadores móveis.',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_12.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_12.png',
           promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
           textoDescritivoImagem:'Telefone celular com vários ícones de redes sociais diferentes saindo da tela', },
   
@@ -196,7 +196,7 @@ let livro_csx ={
           textoSimplificado:'Internet das Coisas',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_13.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_13.jpg',
           promptImagem:'Digital art showing a detailed cross-section of a car with various embedded technology elements highlighted. These may include GPS, sensors for temperature and pressure, connectivity modules, and autonomous driving systems, all interconnected, representing the application of the Internet of Things in automotive technology.', 
           textoDescritivoImagem:'Computador embutido em um carro', },
   
@@ -205,7 +205,7 @@ let livro_csx ={
           texto:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
           textoSimplificado:'Computadores embutidos',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_14.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_14.jpg',
           promptImagem:'Digital art displaying various everyday objects such as a car, refrigerator, and watch, each glowing with vibrant tech icons like microchips, code brackets, and gears. These icons emanate from the objects, symbolizing the embedded computers that enhance their functionality, illustrating their transformation into smart devices.', 
           textoDescritivoImagem:'Imagem com diferentes ícones relacionados à tecnologia', },
   
@@ -217,7 +217,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia. E prepare-se, em um futuro próximo, também encontraremos computadores em roupas, móveis, sapatos. <p>Enfim, em todas as coisas!',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_15.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_15.jpg',
           promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
           textoDescritivoImagem:'Sapatos futurísticos, com computadores embutidos', },
   
@@ -226,7 +226,7 @@ let livro_csx ={
           texto:'Mas então, o que é realmente um computador?',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_16.mp3',
           textoSimplificado:'O que é um commputador',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6-sahilcomputers%20ulfat%20shaikh_Flickr.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_6-sahilcomputers%20ulfat%20shaikh_Flickr.jpg',
           promptImagem:'Digital art of a full desktop setup, including a monitor, keyboard, mouse, and CPU, with vivid 3D question marks emerging from the monitor screen. The setup is seen from a perspective that showcases all the elements clearly, illustrating the computer as a tool for problem-solving and knowledge exploration.', 
           textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
   
@@ -235,7 +235,7 @@ let livro_csx ={
           texto:'Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades.',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_17.mp3',
           textoSimplificado:'',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_17.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_17.jpg',
           promptImagem:'Digital art of a computer with symbols representing various uses flowing out from the screen. Symbols could include a video game controller, a film clapper, a camera, a musical note, a book, a car, a robot, and a city skyline. This depiction illustrates the versatility of a computer as a powerful tool for creation, control, and entertainment.', 
           textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
   
@@ -247,7 +247,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Mas então, o que é realmente um computador? <p>Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades. <p>E o mais legal é que vamos aprender a fazer tudo isso neste curso!',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_18.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i1/csx_I1_18.jpg',
           promptImagem:'Digital art of a joyful black girl sitting at her computer, a broad smile on her face as she is programming. Bright, colorful lines of code are displayed on the screen, reflecting in her wide, enthusiastic eyes. The scene exudes positivity, creativity, and the powerful potential of coding', 
           textoDescritivoImagem:'Laptop com uma mão em segundo plano, dando a entender que a pessoa está programando', },
 				]
@@ -275,7 +275,7 @@ let livro_csx ={
           textoSimplificado:'Eletricidade em nossas vidas e Circuito elétrico',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_1.jpg',
           promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
           textoDescritivoImagem:'Laptop, braço robotizado, celular, circuito elétrico simples demonstrando uma pilha acendendo uma lâmpada.', },
               
@@ -284,7 +284,7 @@ let livro_csx ={
           texto:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes.',
           urlAudioTexto:'',
           textoSimplificado:'Eletricidade e Raio',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_2.jpg',
           promptImagem:'"Foto impressionante de um céu dramático sob uma tempestade intensa. Nuvens cinzentas carregadas de chuva cobrem o céu, enquanto raios brilhantes e sinuosos rasgam a escuridão, iluminando a paisagem de forma espetacular.Raios e Raios.', 
           textoDescritivoImagem:'Céu com chuva e raios', },
 
@@ -296,7 +296,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_3.jpg',
           promptImagem:'Foto nítida de um plugue elétrico de três pinos próximo a uma tomada. A imagem clara e simples serve como uma representação visual direta da conexão elétrica, uma base para a compreensão da eletricidade.', 
           textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
 
@@ -305,7 +305,7 @@ let livro_csx ={
           texto:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1.',
           urlAudioTexto:'',
           textoSimplificado:'Círculo e Fórmula 1',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_4.jpg',
           promptImagem:'Foto aérea vibrante de um circuito de Fórmula 1: a pista sinuosa e bem marcada se estende à vista, com carros de corrida espalhados ao longo do caminho, representando visualmente a ideia de um circuito na prática real.', 
           textoDescritivoImagem:'Pista de asfalto do circuito de Fórmula 1', },
 
@@ -317,7 +317,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1. <p>Um circuito elétrico é um conjunto formado por um gerador, um condutor e aparelhos que utilizam a energia para funcionar.', 
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_5.jpg',
           promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
           textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
 
@@ -328,7 +328,7 @@ let livro_csx ={
           textoSimplificado:'Gerador',
 	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_6.jpg',
           promptImagem:'Foto detalhada de um grande gerador de corrente alternada ao lado de pilhas e baterias menores. Cada item é claramente rotulado como Corrente Alternada e Corrente Contínua, ilustrando visualmente as diferentes fontes de energia elétrica.', 
           textoDescritivoImagem:'Pilha e Bateria', },
 
@@ -339,7 +339,7 @@ let livro_csx ={
           textoSimplificado:'Condutor',
 	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_7.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_7.jpg',
           promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como Condutor e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
           textoDescritivoImagem:'Fio elétrico e suas partes, fio de cobre envolto no plástico', },
 
@@ -350,7 +350,7 @@ let livro_csx ={
           textoSimplificado:'Aparelhos que utilizam energia',
 	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_8.jpg',
           promptImagem:'Foto colorida mostrando vários aparelhos que utilizam energia elétrica para funcionar: uma lâmpada acesa, um ventilador em movimento e vários pequenos eletrodomésticos, como uma torradeira e um liquidificador, todos conectados a tomadas na parede', 
           textoDescritivoImagem:'Uma luminária com a lâmpada acesa', },
 
@@ -359,7 +359,7 @@ let livro_csx ={
           texto:'É também muito comum que circuitos elétricos contenham dispositivos de controle, como os botões de ligar e desligar ou de aumentar e diminuir o som.',
           urlAudioTexto:'',
           textoSimplificado:'Dispositivos de controle',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_9.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_9.jpg',
           promptImagem:'Foto detalhada mostrando um alto-falante com o botão de volume no máximo, resultando em notas musicais saindo dele, e uma lâmpada com o dimmer ligado, mostrando uma luz brilhante. As ações dos botões e seus respectivos resultados são claramente visíveis', 
           textoDescritivoImagem:'Interruptor de luz e botão para volume de som', },
   
@@ -371,7 +371,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           textoImpressoRecriado:'É também muito comum que circuitos elétricos contenham dispositivos de controle, como os botões de ligar e desligar ou de aumentar e diminuir o som. <p>Esses dispositivos nos permitem controlar melhor a quantidade de eletricidade que circula em cada parte do circuito para não termos que conectar e desconectar fios condutores para ligar ou desligar uma lâmpada, por exemplo.', 
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_10.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_10.jpg',
           promptImagem:'"Foto de um arranha-céu espelhado impressionante, com ícones flutuantes de IoT - termostato, iluminação, segurança, elevadores - para ilustrar como a tecnologia controla o funcionamento do edifício. Cada ícone é conectado ao edifício por linhas de luz digital',  
           textoDescritivoImagem:'Um prédio alto espelhado com um balão de diálogo expressando a fala de uma pessoa dizendo: Ei! Eu estou aqui dentro usando a Internet. Sem os circuitos elétricos do prédio, não ia rolar... E eu ainda ia ter que subir 50 andares de Escada!', },
   
@@ -382,7 +382,7 @@ let livro_csx ={
           textoSimplificado:'Cientista criativo',
 	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I2_11.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_11.png',
           promptImagem:'Foto mostrando uma cientista jovem e inspirador no seu laboratório, cercada por uma variedade de dispositivos que ilustram o controle da energia elétrica: um circuito simples, vários condutores, botões de controle, um kit de robótica e ícones de IoT', 
           textoDescritivoImagem:'Cientista soldando uma placa de circuito elétrico ', },
 	            
@@ -391,7 +391,7 @@ let livro_csx ={
           texto:'E para isso, começaremos usando os somosBits, pequenos componentes eletrônicos usados para montar circuitos de forma rápida e segura.',
           urlAudioTexto:'',
           textoSimplificado:'somosBits',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_i2_12.png',
           promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits', 
           textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -400,7 +400,7 @@ let livro_csx ={
           texto:'Cada peça do somosBits, chamada de bit, é como um componente dos circuitos elétricos que existem em nossa casa. Lembram-se do gerador, controlador, condutor e aparelho?',
           urlAudioTexto:'',
           textoSimplificado:'somosBits',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_i2_13.png',
           promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits', 
           textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -409,7 +409,7 @@ let livro_csx ={
           texto:'Cada bit é colorido para difereniciar a sua função em um circuito elétrico. Geradores possuem uma marcação azul, controladores rosa, condutores laranja e aparelhos verde.',
           urlAudioTexto:'',
           textoSimplificado:'somosBits',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_i2_14.png',
           promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits - tempo 2:23 do vídeo', 
           textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -418,7 +418,7 @@ let livro_csx ={
           texto:'E bits podem ser ligados uns aos outros através de imãs para fazermos circuitos rapidamente.',
           urlAudioTexto:'',
           textoSimplificado:'Bits conectados por imã',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_i2_15.png',
           promptImagem:'imagem criada com os somosBits conectados, similar a atual com somosBits - tempo 2:41 do vídeo', 
           textoDescritivoImagem:'bit interrupetor ligado ao bit controlador, que por sua vez, está ligado ao bit aparelho', },
   
@@ -427,7 +427,7 @@ let livro_csx ={
           texto:'Preparados para os primeiros desafios com circuitos elétricos? Mãos a obra.',
           urlAudioTexto:'',
           textoSimplificado:'Circuito Elétrico',
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i2/csx_I2_16.jpg',
           promptImagem:'Um circuito elétrico com um gerador, um condutor e um aparelho conectado', 
           textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
   
@@ -455,7 +455,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_1.jpg',
           promptImagem:'Desenho preto e branco mostrando uma figura humana e um robô lado a lado, ambos seguindo uma trilha de pegadas numeradas. As pegadas representam a sequência de instruções de um algoritmo, conduzindo-os através de uma tarefa, simbolizando a natureza passo a passo dos algoritmos.', 
           textoDescritivoImagem:'Robô se locomovendo conforme uma sequência de passos que indicam o caminho a ser percorrido', },
 
@@ -466,7 +466,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmos e suas linguagens',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_2.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_2.jpg',
           promptImagem:'Desenho em preto e branco de um fluxograma de como assar o pão no forno', //enviar ao ilustrador
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno',},
 
@@ -477,7 +477,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmos com imagens',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_3.jpg',
           promptImagem:'Desenho em preto e branco do passo a passo de como fazer uma avião de papel com instruções escritas', 
           textoDescritivoImagem:'Uma sequência de imagens demonstranto como fazer um avião de papel', },
 
@@ -488,7 +488,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmos com Diagramas',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_4.jpg',
           promptImagem:'Fluxograma de como assar o pão no forno', 
           textoDescritivoImagem:'Fluxograma com o passo a passoa para assar um pão no forno', },
 
@@ -499,7 +499,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmo com desenho e texto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_5.png',
           promptImagem:'Desenho preto e branco de um folder de treino, com doze imagens sequenciais mostrando uma figura humana simplificada realizando uma série de exercícios diferentes em uma cadeira. Cada imagem é numerada e apresenta setas ou linhas indicativas para guiar os movimentos', 
           textoDescritivoImagem:'Imagens com uma sequência de exercícios físicos enumerados de 1 até 12.', },
 
@@ -510,7 +510,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmo simples',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_6.jpg',
           promptImagem:'Desenho preto e branco mostrando um passo a passo para construir um boneco de neve. Três painéis mostram progressivamente o boneco sendo criado: o primeiro com uma bola de neve grande, o segundo adicionando uma bola de neve média, e o terceiro adicionando uma pequena bola de neve e os detalhes finais', 
           textoDescritivoImagem:'Lista com a sequência de ações para construir um boneco de neve', },
 
@@ -521,7 +521,7 @@ let livro_csx ={
           textoSimplificado:'Algoritmo complexo',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_7.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/CSX_i3_7.jpg',
           promptImagem:'Desenho preto e branco de uma astronauta mulher dentro de uma espaçonave, flutuando em gravidade zero. Ela está concentrada, usando ferramentas para consertar um equipamento complexo que apresenta alguns painéis abertos e cabos visíveis', 
           textoDescritivoImagem:'Astronauta mulher dentro de espaçonave consertando um equipamento', },
 
@@ -532,7 +532,7 @@ let livro_csx ={
           textoSimplificado:'Programa de computador',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I3_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i3/csx_i3_8.jpg',
           promptImagem:'Desenho preto e branco de uma tela de laptop aberta, exibindo um código de programação. Linhas de texto representam o código, com certos elementos, como loops ou funções, destacados para indicar a estrutura do programa.', 
           textoDescritivoImagem:'Laptop com a tela apresentando um código de programação, ou seja, um algoritmo', },
 
@@ -561,7 +561,7 @@ let livro_csx ={
           textoSimplificado:'Laço em Algoritmos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_1.jpg',
           promptImagem:'Realistic art of a continuous loop on a whiteboard, with representative symbols or diagrams of steps in an algorithm cycling along the loop. This image should visually convey the concept of a loop in programming, which involves repeating certain steps.', 
           textoDescritivoImagem:'Duas setas curvas formando um círculo. A seta localizada na parte superior do cículo  aponta para baixo e a seta localizada na parte inferior do círculo aponta para cima', },
 
@@ -572,7 +572,7 @@ let livro_csx ={
           textoSimplificado:'Laço',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_2%20(1).png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_2%20(1).png',
           promptImagem:'Realistic art of a child instructing a small robot shaped like a pen to draw a square on a piece of paper. Next to them, a list of commands written in a loop format is visible, illustrating the steps the robot takes to repeatedly draw the square under the child guidance.', 
           textoDescritivoImagem:'Criança ensinando uma caneta robô a desenhar um quadrado.', },
 
@@ -583,7 +583,7 @@ let livro_csx ={
           textoSimplificado:'Laços são poderosos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_3.jpg',
           promptImagem:'Realistic art of a robotic pen actively drawing a beautiful, intricate flower with numerous petals on a piece of paper. The robotic pen design should hint at advanced technology, as it gracefully constructs the complex floral pattern.', 
           textoDescritivoImagem:'Uma caneta robô desenhando uma flor com várias pétalas.', },
 
@@ -594,7 +594,7 @@ let livro_csx ={
           textoSimplificado:'Vários comandos',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_4-4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_4-4.jpg',
           promptImagem:'Realistic digital art showing four scenes in one: a traditional cuckoo clock at 11:59, cuckoo appearing at 12:00, the same moment with arrows highlighting actions (cuckoo, chime, hands), and finally the clock at 12:01.', 
           textoDescritivoImagem:'Relógio cuco fechado marcando 11:59. Relógio cuco aberto marcando meio dia. Relógio cuco fechado marcando 12:01.', },
 
@@ -605,7 +605,7 @@ let livro_csx ={
           textoSimplificado:'Laços pelo Mundo',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_5.jpg',
           promptImagem:'Realistic art portraying a graceful ballerina in the midst of executing a series of pirouettes. The fluidity and elegance of her movements should be captured vividly, bringing to life the art of ballet.', 
           textoDescritivoImagem:'Uma bailarina executando cinco piruetas.', },
 
@@ -616,7 +616,7 @@ let livro_csx ={
           textoSimplificado:'Laços na Fórmula 1',
 		  textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_6.jpg',
           promptImagem:'Realistic art capturing a Formula 1 racing car along the track during a heated race.', 
           textoDescritivoImagem:'Veículo de fórmula um competindo na pista.', },
 
@@ -627,7 +627,7 @@ let livro_csx ={
           textoSimplificado:'Aparelhos que funcionam com repetição',
 		  textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_7-1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_7-1.jpg',
           promptImagem:'Realistic art of fan. Realistic art of a large Ferris wheel in a park.', 
           textoDescritivoImagem:'Imagem de um ventilador de teto e uma roda gigante.', },
 
@@ -638,7 +638,7 @@ let livro_csx ={
           textoSimplificado:'Laços em Programas',
 		  textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_8.jpg',
           promptImagem:'Toca disco de vinil visto por cima', 
           textoDescritivoImagem:'Toca disco de vinil visto por cima, tocando um disco.', },
 
@@ -665,7 +665,7 @@ let livro_csx ={
           textoSimplificado:'Expressões Condicionais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_1.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_1.png',
           promptImagem:'Minimalist digital art featuring three panels: one showing a simple silhouette of a student holding an umbrella under stylized rain, the second depicting the same student under a radiant sun, and the third one featuring a large ? symbol to represent the concept of a conditional expression.', 
           textoDescritivoImagem:'Duas imagens, na primeira um aluno com um guarda-chuva debaixo da chuva e na outra o mesmo aluno sem guarda-chuva em um dia ensoladrado.', },
 
@@ -677,7 +677,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2-Nextvoyage_Pexels.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_2-Nextvoyage_Pexels.jpg',
           promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
           textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -793,7 +793,7 @@ let livro_csx ={
           textoSimplificado:'Robôs de hoje',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_3_new.jpg',
           promptImagem:'Ilustração mostrando três tipos de robôs: um robusto Robô Industrial com braços mecânicos, um preciso Robô Cirurgião com instrumentos cirúrgicos e um aventureiro Robô Explorador equipado para exploração de terrenos difíceis.',
           textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
 
@@ -826,13 +826,13 @@ let livro_csx ={
           textoSimplificado:'Robôs Exploradores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_6_new.jpg',
           promptImagem:'Ilustração de um Robô Explorador aventureiro em ação em Marte: o robô equipado com rodas e instrumentos científicos está navegando pelo terreno rochoso e vermelho de Marte, com o céu estrelado e o planeta Terra visíveis ao fundo.', 
           textoDescritivoImagem:'Robô Explorador.', },
 
           {ordem:7,
           predecessor:6,
-          texto:'Gostou? Pois você vai programar e criar seus primeiros robôs neste curso. <p> Quer começaçar? <p> O primeiro passo é aprender programação de computador para poder controlar um robô.',
+          texto:'Gostou? Pois você vai programar e criar seus primeiros robôs neste curso. <p> Quer começar? <p> O primeiro passo é aprender programação de computador para poder controlar um robô.',
           urlAudioTexto:'',
           textoSimplificado:'Controlar robô',
           textoImpresso:1,
@@ -843,12 +843,12 @@ let livro_csx ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Conheça o primeiro robô que você irá programar. O mBot! Ele é muito fácil de montar e existem muitos módulos disponíveis que você pode programar, usando a aplicação Makeblock para realizar ótimas experiências.',
+          texto:'Conheça o primeiro robô que você irá programar. O SomosBot! Ele é muito fácil de montar e super divertido. Com ele, você vai poder aprender sobre robõs e programação.',
           urlAudioTexto:'',
           textoSimplificado:'mBot',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8_new.png',
           promptImagem:'Ilustração robô mBot', 
           textoDescritivoImagem:'Robô mBot.', },
 
@@ -1110,7 +1110,7 @@ let livro_csx ={
         textoSimplificado:'Número 4 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx2_I9_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx2_I9_4.png',
         promptImagem:'Draw a blackboard with mathematical operations written to convert the number 4 from binary to decimal system.',  //'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',
         textoDescritivoImagem:'Imagem de quadro negro, em que foram escritas as operações matemáticas para converter o número 4 do sistema decimal para o sistema binário.', },
 
@@ -1204,7 +1204,7 @@ let livro_csx ={
           textoSimplificado:'Imagens Digitais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_1.jpg',
           promptImagem:'Create a pixel art illustration featuring iconic Star Wars characters. The image should be colourful and playful, representing characters like Luke Skywalker, Princess Leia, Darth Vader, and Yoda in their signature outfits and poses, all in a style reminiscent of 8-bit video game graphics', 
           textoDescritivoImagem:'Imagem dos personagens de Star Wars desenhados com pixels.', },
 
@@ -1215,7 +1215,7 @@ let livro_csx ={
           textoSimplificado:'Pixel',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_2.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_2.png',
           promptImagem:'Create two images to illustrate the concept of pixels for students from 5th to 9th grades. The first image should be a realistic digital art illustration of a colorful butterfly. The second image should be a replication of the first image but in pixel art style, clearly showing the individual square blocks of colors, representing pixels', 
           textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
 
@@ -1226,7 +1226,7 @@ let livro_csx ={
           textoSimplificado:'Telas antigas',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_3.jpg',
           promptImagem:'Create a colorful pixel art scene inspired by the iconic Mario Bros game. The scene should include characters like Mario, power-ups like mushrooms or stars, and the iconic brick blocks and tubes, against a backdrop of the games classic blue sky with cloud',  
           textoDescritivoImagem:'Imagem do jogo Mario Bros com pixels.', },
 
@@ -1237,7 +1237,7 @@ let livro_csx ={
           textoSimplificado:'Cores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_4.jpg',
           promptImagem:'Create a pixel art depiction of James Clerk Maxwell along with his color experiments', //enviar ilustrador Foto Maxwell 1:41 e ao lado seu experimento 1:54
           textoDescritivoImagem:'Foto de Maxwell e seu experimento com as cores.', },
 
@@ -1248,7 +1248,7 @@ let livro_csx ={
           textoSimplificado:'Cores Primárias',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_5.jpg',
           promptImagem:'Create a digital art depiction of three separate paint buckets, each filled with one of the primary colors: red, yellow, and blue', 
           textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta vermelha, o segundo com tinta verde e o último tubo com tinta amarela.', },
 
@@ -1259,7 +1259,7 @@ let livro_csx ={
           textoSimplificado:'Sistema RGB',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I1_6.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_6.jpg',
           promptImagem:'Create a pixel art of an open laptop screen displaying the RGB color model, with distinct sections showcasing the primary colors: Red, Green, and Blue', 
           textoDescritivoImagem:'Sistema RGB de cores.', },
 
@@ -1270,7 +1270,7 @@ let livro_csx ={
           textoSimplificado:'Daltonismo',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_7-Sakurambo_WP.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_7-Sakurambo_WP.jpg',
           promptImagem:'Teste Daltonismo', 
           textoDescritivoImagem:'Imagem para testar daltonismo.', },
 
@@ -1281,7 +1281,7 @@ let livro_csx ={
           textoSimplificado:'Curiosidade',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I11_8.jpg', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i11/csx_I11_8.jpg', 
           promptImagem:'Vestido azul e preto ou branco e dourado', 
           textoDescritivoImagem:'Vestido azul e preto ou branco e dourado, a depender de quem está olhando a imagem.', },
 
@@ -1307,7 +1307,7 @@ let livro_csx ={
           textoSimplificado:'Laços',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_1.jpg',
           promptImagem:'Comando repita em linguagem de bloco', 
           textoDescritivoImagem:'Comando repita no blockly.', },
 
@@ -1318,7 +1318,7 @@ let livro_csx ={
           textoSimplificado:'Laços Alinhados',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_2.jpg',
           promptImagem:'Comando repita em linguagem de bloco com três execuções', 
           textoDescritivoImagem:'Comando repita em linguagem de bloco com três execuções.', },
 
@@ -1329,7 +1329,7 @@ let livro_csx ={
           textoSimplificado:'Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3-1.jpg',
+		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_3-1.jpg',
           promptImagem:'Dj tocando música',  
           textoDescritivoImagem:'Dj tocando música e uma pessoa dançando.', },
 
@@ -1340,7 +1340,7 @@ let livro_csx ={
           textoSimplificado:'Exemplo Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_4.jpg',
           promptImagem:'Create a digital illustration of a soccer game in action, with players on the field and a prominent scoreboard or banner displaying the message Jogue Futebol."', 
           textoDescritivoImagem:'Jogador de futebol chutando a bola.', },
 
@@ -1351,7 +1351,7 @@ let livro_csx ={
           textoSimplificado:'Programa Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_5.jpg',
           promptImagem:'Imagem personagem andando no SCRATCH.', 
           textoDescritivoImagem:'Personagem andando em um cenário SCRATCH.', },
 
@@ -1362,7 +1362,7 @@ let livro_csx ={
           textoSimplificado:'Programas Poderosos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_6.jpg',
           promptImagem:'Comando enquanto e repita em linguagem de bloco', 
           textoDescritivoImagem:'Comando Enquanto e Repita usados simultaneamente.', },//enviar ao ilustrador imagem 01:55
 
@@ -1387,7 +1387,7 @@ let livro_csx ={
           textoSimplificado:'Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_1.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i13/Csx_I13_1.png',
           promptImagem:'Create a realistic digital art representation of a breaking news scene depicting the launch of a rocket. The scene should include a rocket soaring skyward, a news anchor reporting live, and a headline ticker at the bottom of the screen saying Rocket Launch Success', 
           textoDescritivoImagem:'Lançamento de um foguete.', }, 
 
@@ -1398,7 +1398,7 @@ let livro_csx ={
           textoSimplificado:'Eventos e Reações',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_2%20%20edit.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i13/Csx_I13_2%20%20edit.png',
           promptImagem:'Create a realistic digital art of a focused girl studying at a table filled with books. An inquisitive cat is sitting on the table next to her, meowing for her attention, but she remains absorbed in her studies.',
           textoDescritivoImagem:'Uma garota estudando e seu gato sobe em cima da sua mesa.', },
 
@@ -1409,7 +1409,7 @@ let livro_csx ={
           textoSimplificado:'Reação', 
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i13/Csx_I13_3.jpg',
           promptImagem:'Create a realistic digital art of a person sitting at a desk, multitasking on a computer: one hand is actively typing on the keyboard while the other hand is clicking the mouse. The person focus is on the computer screen. The entire person and computer setup should be visible',  
           textoDescritivoImagem:'À esquerda, uma pessoa digitando no teclado, e à direita outra pessoa clicando no mouse.', },
 
@@ -1420,7 +1420,7 @@ let livro_csx ={
           textoSimplificado:'Exemplos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_4-Freepik.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i13/Csx_I13_4-Freepik.jpg',
           promptImagem:'Smartphone, tablet, smartwatch.', 
           textoDescritivoImagem:'Imagem de um smartphone (celular inteligente), um tablet e um smartwatch (relógio inteligente)', },
 
@@ -1431,7 +1431,7 @@ let livro_csx ={
           textoSimplificado:'Sem Eventos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i13/Csx_I13_5.jpg',
           promptImagem:'Create a realistic digital portrayal of a teenager engrossed in playing an arcade machine', 
           textoDescritivoImagem:'Um garoto jogando arcade.', },
 
@@ -1442,7 +1442,7 @@ let livro_csx ={
           textoSimplificado:'Sensores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/Csx_I13_6.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i13/Csx_I13_6.png',
           promptImagem:'Celular ao sol esquentando com alerta da temperatura alta', //enviar ao ilustrador 
           textoDescritivoImagem:'Um celular inteligente ao sol apresentando na tela uma alerta de temperatura alta e informando ao usuário a necessidade de esfriá-lo.', },
 
@@ -1574,7 +1574,7 @@ let livro_csx ={
         textoSimplificado:'Órgãos sensoriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_1-TinaAnderson-CoreyAnderson-8421458_Freepik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_1-TinaAnderson-CoreyAnderson-8421458_Freepik.jpg',
         promptImagem:'Órgãos sensoriais', 
         textoDescritivoImagem:'Imagem dos órgãos sensoriais: olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1585,7 +1585,7 @@ let livro_csx ={
         textoSimplificado:'Cérebro',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_2-8373318-FreePik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_2-8373318-FreePik.jpg',
         promptImagem:'Órgãos sensoriais e cérebro', 
         textoDescritivoImagem:'Imagem do cérebro e ao redor os órgãos sensoriais, olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1596,7 +1596,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_3-Macrovector-2_FreePik.JPG',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_3-Macrovector-2_FreePik.JPG',
         promptImagem:'Sensores eletrônicos',
         textoDescritivoImagem:'Imagens de sensores eletrônicos.', },
 
@@ -1607,7 +1607,7 @@ let livro_csx ={
         textoSimplificado:'Sensores de Som',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_4-Designed%20by%20stories_%20%20Freepik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_4-Designed%20by%20stories_%20%20Freepik.jpg',
         promptImagem:'Quadrinho ouvido recebendo som do rádio e enviando informação ao cérebro que responde como música.', //enviar ao ilustrador vídeo 1:27
         textoDescritivoImagem:'Quadrinho de um ouvido recebendo um som do rádio e enviando informação ao cérebro que processa o som, e responde informando que uma música bacana está tocando.', },
 
@@ -1618,7 +1618,7 @@ let livro_csx ={
         textoSimplificado:'Sensor de Luz',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_5-StorySet-FreePik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_5-StorySet-FreePik.jpg',
         promptImagem:'Rapaz usando um câmera filmadora', 
         textoDescritivoImagem:'Quadrinho de um olho recebendo a luz do sol e enviando informação ao cérebro que processa a luz, e responde informando que é a luz do sol, indicando que é hora de acordar.', },
 
@@ -1629,7 +1629,7 @@ let livro_csx ={
         textoSimplificado:'Sensores de Tato',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_6.jpg',
         promptImagem:'Tela do smartphone sendo tocada e um aplicativo abrindo', //enviar ao ilustrador vídeo 1:48
         textoDescritivoImagem:'Uma pessoa tocando no ícone de um aplicativo na tela de um celular e o aplicativo sendo aberto respondendo ao toque.', },
 
@@ -1640,7 +1640,7 @@ let livro_csx ={
         textoSimplificado:'Sensore de Temperatura',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_7-VectorJuice-FreePik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_7-VectorJuice-FreePik.jpg',
         promptImagem:'Sensor de incêncio', 
         textoDescritivoImagem:'Sensor de incêndio.', },
 
@@ -1651,7 +1651,7 @@ let livro_csx ={
         textoSimplificado:'Sensor Olfato e Paladar',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_8-VectorJuice-FreePik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_8-VectorJuice-FreePik.jpg',
 		promptImagem:'Cheiro chegando ao nariz de uma pessoa', 
         textoDescritivoImagem:'Cheiro chegando ao nariz de uma pessoa.', },
 
@@ -1662,7 +1662,7 @@ let livro_csx ={
         textoSimplificado:'Outros Sensores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_9FreePik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_9FreePik.jpg',
         promptImagem:'Luz infravermelha', 
         textoDescritivoImagem:'Imagem com luz infravermelha', },
 
@@ -1673,7 +1673,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Diversos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I15_10FreePik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i15/csx_I15_10FreePik.jpg',
         promptImagem:'Todos os tipos de sensores eletrônicos', 
         textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
 
@@ -1700,7 +1700,7 @@ let livro_csx ={
         textoSimplificado:'Uma Orquesta, uma equipe de remo e a placa mãe de um computador',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_1.jpg',
         promptImagem:`Create a realistic photograph of an orchestra, with a focus on the conductor who is setting the rhythm and tempo of the music. The image should be vibrant and convey the emotion of the musical performance. The conductor should be in the center of the image, leading the orchestra with a baton. Use soft lighting to create a chiaroscuro effect and highlight the warm and joyful atmosphere of the moment. The composition can include subtle elements of fantasy, such as randomly colored hair or differently colored eyes, inspired by renowned artists. The color palette should be bright and vibrant, in the style of Leonardo da Vinci. Create a visually striking and emotionally powerful representation of the scene.
 
         <p>Create a realistic photograph of a rowing team in action, highlighting the motion of the athletes' strokes. The image should convey the energy and harmony of the team, with intense and vibrant colors to create a warm and joyful atmosphere. The characters should be depicted in full body, with hyper-realistic details, capturing the essence of their personalities and emotions.The rowers should be aligned, moving their oars in sync as they are in the middle of a stroke. Use soft lighting to create a chiaroscuro effect and emphasize the hyper-realistic details of the characters, capturing their personalities and emotions. The composition can include subtle elements of fantasy, such as randomly colored hair or differently colored eyes, inspired by renowned artists. Use a bright and vibrant color palette in the style of Leonardo da Vinci to create a visually striking and emotionally powerful representation of the scene. The result should be an incredibly realistic image.
@@ -1717,7 +1717,7 @@ let livro_csx ={
         textoSimplificado:'O system clock',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_2.jpg',
         promptImagem:`Create a schematic image of the human circulatory system, with a focus on the heart, for an infographic aimed at teaching 7th grade students. Use a typical biology class diagram style with neutral yet vibrant colors. Position the organs and other parts of the circulatory system according to their location in the human body, presenting hyper-realistic details that capture their actual physical characteristics. The lighting should be soft and luminous, creating a chiaroscuro effect that highlights the importance of the heart. Add subtle elements of fantasy, inspired by diagrams used in medical sciences. Draw inspiration from real diagrams found in books and educational materials, incorporating fractal and isometric details to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The ultimate goal is to create an accurate and visually impactful schematic of the human circulatory system, with an emphasis on the heart.
 
         <p>Create a realistic photograph of a computer motherboard, with a focus on the electronic component called the oscillator crystal. The image should convey the complexity and precision of the motherboard's internal components. Use intense and vibrant colors to emphasize the hyper-realistic details of the electronic components. The lighting should be soft and luminous, creating a chiaroscuro effect that highlights the importance of the oscillator crystal. Add subtle elements of fantasy, such as 3D illustration details, inspired by renowned artists. Use fractal and isometric detailing techniques to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The goal is to create a visually accurate and impactful representation of a real motherboard.
@@ -1732,7 +1732,7 @@ let livro_csx ={
         textoSimplificado:'Diagrama com o processamento de uma linha de código',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_3.jpg',
         promptImagem:'Imagem de um script de um programa na linguagem Scratch, contendo dois blocos, para que o programa aguarde 2 segundos e então registre em uma variavel o valor da soma de 2 mais 2<p>Imagem das instruções de máquinas escritas em Assembly que corresponde ao script do programa em linguagem Scratch<p>Imagem de diagrama, indicando que foram necessários 5 ciclos de clock para processar uma das linhas do programa escrito em linguagem Assembly.',
         textoDescritivoImagem:'Três imagens. Na primeira um script de um programa codificado em linguagem Scratch, que contém dois blocos de programação para que o computador aguarde 2 segundos e então registre em uma variavel o valor da soma de 2 mais 2. Na segunda um programa em linguagem Assembly, que correspondem ao as instruções de máquinas necessárias para que o computador execute o programa codificado em linguagem Scratch. Na terceira um diagrama esquemático, que indica que são necessários 5 ciclos de clock para processar uma das linhas do programa escrito em linguagem Assembly.', },
 
@@ -1743,7 +1743,7 @@ let livro_csx ={
         textoSimplificado:'Clock do primeiro computador da história',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_4.jpg',
         promptImagem:'Foto do computador ENIAC',
         textoDescritivoImagem:'Fotografia do primeiro computador, chamado ENIAC, com um texto indicando que seu clock tinha operava na frequência de 100kHz.', },
 
@@ -1755,7 +1755,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Felizmente, os clocks são bem rápidos. O primeiro computador eletrônico, o ENIAC, usava um clock de 100 kHz, o que significa que executava instruções a uma taxa de 100 mil ciclos por segundo. Já o primeiro computador pessoal, algumas décadas depois, usava um processador Intel 8080, que vinha com um clock de 2 MHz, capaz de executar 2 milhões de instruções de máquina por segundo.', //TODO Fundir imagens de slides 4 e 5 no livro impresso
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_5.jpg',
         promptImagem:'Foto do computador ALTAIR',
         textoDescritivoImagem:'Fotografia do primeiro computador pessoal da história, chamado ALTAIR, com um texto indicando que seu processador, o 8080, operava com um clock de 2MHz.', },
 
@@ -1766,7 +1766,7 @@ let livro_csx ={
         textoSimplificado:'Crescimento da velocidade dos processadores ao longo do anos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_6.jpg',
         promptImagem:'Gráfico da curva exponencial do crescimento da frequência do clock dos processadores ao longo dos anos', 
         textoDescritivoImagem:'Imagem de um gráfico que exibe a curva exponencial do crescimento da frequência do clock dos processadores ao longo dos anos.', },
 
@@ -1777,7 +1777,7 @@ let livro_csx ={
         textoSimplificado:'Aquecimento do system clock',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_7.jpg',
         promptImagem:'Create a photograph of a computer motherboard, highlighting the electronic components of the System Clock, for an infographic aimed at teaching 6th and 7th grade students. Position the motherboard in the center of the image, with a focus on the oscillator crystal. Around the electronic tracks near the System Clock, include visual indications of overheating. Use a palette of intense and vibrant colors to create soft and luminous lighting with a chiaroscuro effect. Explore subtle elements of fantasy, such as details from 3D illustrations. Draw inspiration from renowned artists and incorporate fractal and isometric details to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The ultimate goal is to create an incredibly realistic image that depicts the heating of the oscillator crystal and the electronic tracks near the components of the System Clock.', 
         textoDescritivoImagem:'Imagem da foto do system clock de uma placa mãe, em que o cristal de quatzo e os componentes eletrônicos e as trilhas do circuito estão avermelhados, indicando o superaquecimento do system clock.', },
 
@@ -1788,7 +1788,7 @@ let livro_csx ={
         textoSimplificado:'Processador multinúcleo',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_8.jpg',
         promptImagem:'Ilustração de um processador, exibindo seus dois núcleos', 
         textoDescritivoImagem:'Ilustração de um processador, exibindo seus dois núcleos.', },
 
@@ -1800,7 +1800,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'A solução foi acrescentar mais núcleos de processamento a uma única CPU, evitando aumentar ainda mais o clock. Isso permitiu ganhos de velocidade no processamento graças ao paralelismo. Surgiram, então, computadores com sistemas dual-core, dois núcleos, e quad-core, quatro núcleos, por exemplo.',  //TODO Fundir imagens de slides 8 e 9 no livro impresso
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_9.jpg',
         promptImagem:'Foto de um processador Dual-core<p>Foto de um processador Quad-core', 
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto de um processador Dual-core, que possui dois núcleos. Na segunda, uma foto de um processador Quad-core, que possui quatro núcleos.', },
   
@@ -1812,7 +1812,7 @@ let livro_csx ={
         textoSimplificado:'Ilustração de uma placa mãe',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I16_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i16/csx_I16_10.jpg',
         promptImagem:'Create a photograph of a computer motherboard, highlighting the electronic components of the System Clock, for an infographic aimed at teaching 6th and 7th grade students. Position the motherboard in the center of the image, with a focus on the oscillator crystal. Around the electronic tracks near the System Clock, include visual indications of overheating. Use a palette of intense and vibrant colors to create soft and luminous lighting with a chiaroscuro effect. Explore subtle elements of fantasy, such as details from 3D illustrations. Draw inspiration from renowned artists and incorporate fractal and isometric details to add a unique touch to the illustration. Start with a rough and bold sketch before refining the lines with more definition. The ultimate goal is to create an incredibly realistic image that depicts the heating of the oscillator crystal and the electronic tracks near the components of the System Clock.', 
         textoDescritivoImagem:'Imagem em 3D digital de uma placa-mãe, com o System Clock centralizado na imagem.', },
 
@@ -1837,7 +1837,7 @@ let livro_csx ={
         textoSimplificado:'Listas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_1-brgfx_Frrepik.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_1-brgfx_Frrepik.jpg',
         promptImagem:'Listas de atividades para arrumar o quarto.', //enviar ao ilustrador
         textoDescritivoImagem:'Lista de atividades para arrumar o quarto.', },
 
@@ -1848,7 +1848,7 @@ let livro_csx ={
         textoSimplificado:'Lista Estática',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_2.jpg',
         promptImagem:'Lista com as fases do jogo de videogame Sonic The Hedgegog 2', //enviar ao ilustrador, vídeo 00:40
         textoDescritivoImagem:'Lista contendo as fases do jogo de videogame Sonic The Hedgegog 2.', },
 
@@ -1859,7 +1859,7 @@ let livro_csx ={
         textoSimplificado:'Lista Dinâmicas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_3.jpg',
         promptImagem:'Lista com as fases vencidas do jogo de videogame Sonic The Hedgegog 2', //enviar ao ilustrador, vídeo 00:57
         textoDescritivoImagem:'Lista contendo as fases vencidas do jogo de videogame Sonic The Hedgegog 2.', },
 
@@ -1870,7 +1870,7 @@ let livro_csx ={
         textoSimplificado:'Listas no Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_4.jpg',
         promptImagem:'Programação de Listas no Scratch.', //enviar ao ilustrador, vídeo 01:36
         textoDescritivoImagem:'Programação de Listas no Scratch.', },
 
@@ -1881,7 +1881,7 @@ let livro_csx ={
         textoSimplificado:'Lista Estática Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_5.jpg',
         promptImagem:'Programação de Lista Estática no Scratch', //enviar ao ilustrador vídeo 2:10 + 2:15 + 3:15
         textoDescritivoImagem:'Programação de Lista Estática no Scratch.', },
 
@@ -1892,7 +1892,7 @@ let livro_csx ={
         textoSimplificado:'Lista e Laço Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_6.jpg',
         promptImagem:'Programação de Lista e Laço no Scratch', //enviar ao ilustrador vídeo 4:05
         textoDescritivoImagem:'Programação de Lista e Laço no Scratch.', },
 
@@ -1903,7 +1903,7 @@ let livro_csx ={
         textoSimplificado:'Listas no App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_7.jpg',
         promptImagem:'Programação no App Inventor', //enviar ao ilustrador vídeo 1:57 e/ou 2:05
         textoDescritivoImagem:'Programação no App Inventor.', },
 
@@ -1914,7 +1914,7 @@ let livro_csx ={
         textoSimplificado:'Lista App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_8.jpg',
         promptImagem:'Programação de Lista Estática no App Inventor', //enviar ao ilustrador vídeo 2:52
         textoDescritivoImagem:'Programação de Lista Estática no App Inventor', },
 
@@ -1925,7 +1925,7 @@ let livro_csx ={
         textoSimplificado:'Recuperar elemento App Inventor',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_9.jpg',
         promptImagem:'Programação para recuperar elemento da lista no App Inventor', //enviar ao ilustrador vídeo 3:24 + 3:40
         textoDescritivoImagem:'Programação para recuperar elemento da lista no App Inventor.', },
 
@@ -1936,7 +1936,7 @@ let livro_csx ={
         textoSimplificado:'Popular Listas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_10.jpg',
         promptImagem:'Programação para popular listas no App Inventor', 
         textoDescritivoImagem:'Programação para popular listas no App Inventor.', },
 
@@ -1947,7 +1947,7 @@ let livro_csx ={
         textoSimplificado:'Lista Dinâmicas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_11.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_11.jpg',
         promptImagem:'Programação de lista dinâmicas no Scrtch e App Inventor', //enviar ao ilustrador vídeo 5:14
         textoDescritivoImagem:'Programação de lista dinâmicas no Scrtch e App Inventor.', },
 
@@ -1958,7 +1958,7 @@ let livro_csx ={
         textoSimplificado:'Listas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I18_12.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i18/csx_I18_12.jpg',
         promptImagem:'Listas', //enviar ao ilustrador vídeo 5:14
         textoDescritivoImagem:'Listas.', },
 
@@ -2201,7 +2201,7 @@ let livro_csx ={
         textoSimplificado:'Detetive procurando por pistas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_1.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective in shades of cyan, targeted at the audience aged 12 to 14. In the image, a detective crouched on the ground is inspecting clues and the trail left by a criminal at a crime scene.<p>Create a 2D illustration with a 3D perspective in shades of cyan, targeted at the audience aged 12 to 14. In the image, a detective is sitting in an armchair, holding a pipe near his mouth, as if in a thoughtful pose.', //'Ilustração em 2D, com perspectiva, de um detetive agachado no chão, inspecionando pistas e o rastro deixado por um criminoso na cena de um crime<p>Ilustração em 2D, com fundo transperente, do detetive sentado em uma poltrona, segurando um cachimbo próximo à boca',
         textoDescritivoImagem:'Duas imagens. Na primeira, uma ilustração mostra um detetive agachado no chão, examinando as pistas e o rastro deixado por um criminoso na cena do crime. Na segunda, uma ilustração retrata o detetive sentado em uma poltrona, em uma posição pensativa. Ao lado dessa figura, há uma lista das pistas identificadas pelo detetive na cena do crime. Com base nas pistas, o detetive descobriu que o suspeito seguiu na direção sul. Ele também determinou que o suspeito está se movendo a uma velocidade de 10 km por hora. Pelas pegadas, ele sabe que o suspeito tem cerca de 1,85 m de altura e pesa aproximadamente 96 kg. O suspeito estava usando sapatos sociais de tamanho 43. Pelos fios de cabelo encontrados no local, ele sabe que o cabelo do suspeito é castanho, com fios grossos e de comprimento médio. E pela amostra de sangue encontrada no local, ele determinou que o suspeito tem tipo sanguíneo A+.', },
 
@@ -2212,7 +2212,7 @@ let livro_csx ={
         textoSimplificado:'O uso da internet deixa pegadas digitais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_2.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict various uses of the internet that leave digital traces, such as website visits, information searches, comments on posts, video uploads, and likes on social media, using pictograms.', //'Pictograma com duas pessoas navegando em sites por meio de um computador e um smartphone<p>Pictograma de uma pessoa fazendo uma pesquisa na internet<p>Pictograma de duas pessoas, utilizando seus smartphones para fazer comentários em um vídeo online<p>Pictograma com três pessoas: a primeira utilizando uma câmera para filmar a segunda, enquanto a terceira faz o upload do vídeo na internet<p>Pictograma om uma pessoa utilizando seu smartphone para deixar um link em uma postagem visualizada em uma rede social<p>Ilustração de duas pegadas, uma do pé direito e outra do pé esquerdo', 
         textoDescritivoImagem:' Imagem de um diagrama ilustrativo das pegadas digitais deixadas por usuários ao utilizarem a internet. No diagrama, há diversos pictogramas que ilustram pessoas fazendo pesquisas online, deixando comentários em sites de vídeos, carregando vídeos na internet e dando likes em postagens em redes sociais. Esses pictogramas estão conectados entre si por uma linha curvilínea formada por diversas pegadas.', },
 
@@ -2223,7 +2223,7 @@ let livro_csx ={
         textoSimplificado:'Anúncios online',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/C2csx_I26_3.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/C2csx_I26_3.png',
         promptImagem:'Create an illustration in shades of cyan, red, purple, black, or white, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that offer advertisements through HTTP cookies. Include a video site, a social network, an email inbox, and an e-commerce website.', //'Foto de anúncio exibido em um site de vídeos<p>Foto de anúncios exibidos em uma rede social<p>Foto de anúncio exibido na caixa de entrada de e-mails<p>Foto de anúncios exibidos na barra lateral de um site de e-commerce<p>Foto de uma pessoa bem expressiva, de boca aberta, apontando para cima',
         textoDescritivoImagem:'Imagem com várias fotos de anúncios exibidos em sites de vídeos, redes sociais, caixa de entrada de e-mails e barra lateral de sites de e-commerce. Ao lado dessas fotos, uma pessoa está apontando para os anúncios, perguntando se você já reparou que muitas vezes recebe anúncios do seu interesse, mesmo antes de fazer login ou informar suas preferências.', },
 
@@ -2234,7 +2234,7 @@ let livro_csx ={
         textoSimplificado:'Exemplos de usos inofensivos da internet',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_4.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict various responsible and mindful uses of the internet, leaving harmless digital footprints, using pictograms. Include people accessing websites, social media, online music apps, and emails. Ensure that all people are happy and that those accessing the content show approval of what they have seen.', //'Pictograma com duas pessoas felizes, navegando na internet por meio de um computador e um smartphone<p>Pictograma de uma pessoa feliz, ouvindo música por meio de um aplicativo de celular<p>Pictograma de duas pessoas caminhando com seu celular na mão, enquanto verifica sua caisa de e-mails<p>Ilustração de um ícone de like<p>Ilustração de um ícone de check verde', 
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo das pegadas digitais inofensivas deixadas por usuários ao utilizarem a internet. No diagrama, há diversos pictogramas que ilustram pessoas navegando na internet de modo consciente e responsável, enquanto acessam sites, redes sociais ou utilizam aplicativos de música online e e-mails. Todas elas estão felizes e tranquilas durante a navegação na internet.', },
 
@@ -2246,7 +2246,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Deixar essas pegadas enquanto navega na maioria das vezes é inevitável e também inofensivo. Mas, suas pegadas digitais também podem lhe trazer problemas. Diferente de uma pegada deixada na rua, que some com a chuva, uma pegada digital é copiada, compartilhada e pode existir por muito mais tempo do que você imagina.',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_5%20edit.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_5%20edit.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict, through a pictogram, a dangerous use of the internet that has left a negative digital footprint on a users online reputation. In the image, a young girl is sitting in a chair, hunched over her knees, with her head down. She is in front of a computer screen in a dark room.', //'Pictograma de uma pessoa sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada, em um quarto escuro, em frente à tela de um computador pessoal<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
         textoDescritivoImagem:'Imagem de um pictograma que ilustra o uso perigoso da internet. No pictograma, uma pessoa jovem está sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada. Ela está em frente à tela de um computador, em um quarto escuro.', },
 
@@ -2257,7 +2257,7 @@ let livro_csx ={
         textoSimplificado:'Perfil de usuário reconhecido pelo seu uso da internet',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_6.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_6.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should feature various pictograms to express how an algorithm recognizes a users profile through their digital footprints.In the drawing, include pictograms representing responsible and harmless internet use, such as a Rock & Roll fan, an anime enthusiast, and a follower of a digital influencer. These uses should be recognized as positive.However, also include pictograms representing dangerous and harmful user behavior, such as posts with prejudiced content and cyberbullying. These uses should be recognized as negative, immoral, and criminal, tarnishing the users image.<p>', //'Ícone do avatar de uma pessoa<p>Pictograma de um fã de Rock & Roll<p>Pictograma de uma influencer digital<p>Pictograma de um robô mecha do universo otaku<p>Pictograma do usuário sofrendo cancelamento digital por postagens preconceituosas<p>Pictograma de um usuário praticando cyberbullying<p>Ilustração de um ícone de like<p>Ilustração de um ícone de check verde<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo do perfil de uma pessoa reconhecido por um algoritmo a partir de suas pegadas digitais. No diagrama, há diversos pictogramas que ilustram como esse usuário utilizou a internet de forma consciente e inofensiva, mas também de forma perigosa e prejudicial para sua reputação. O algoritmo reconheceu que o usuário é um fã de Rock & Roll, um aficionado animes e segue uma influenciadora digital. Esses usos são reconhecidos como positivos e inofensivos. No entanto, o algoritmo também reconheceu que o usuário publica postagens com conteúdo preconceituoso e pratica cyberbullying. Esses usos são reconhecidos como negativos, imorais e criminosos, prejudicando a imagem do usuário.', },
 
@@ -2271,7 +2271,7 @@ let livro_csx ={
         textoImpressoRecriado:`Com o tempo, suas pegadas digitais acumuladas acabam sendo usadas por algoritmos para formar uma imagem de quem você é.
         
         O problema começa quando elas são usadas para tomar decisões importantes que te afetam. Por exemplo, quando você se candidata a entrar em uma escola ou empresa. O que parecia apenas um vídeo engraçado de compartilhar há alguns anos, hoje pode ser altamente inapropriado e te atrapalhar a conseguir um emprego.`,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_7.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, using shades of blue and purple, targeting an audience aged 12 to 14. The image should depict a recruiter sitting in a chair, facing a computer. The recruiter is reviewing the content of a video posted on a social media platform by one of the job applicants. In the recruiters right hand, they hold the candidates resume, which has been stamped in red with the word "rejected".', //'Ilustração em 3D de um recrutador, assentado em uma cadeira, de frente para um computador, verificando um vídeo postado em uma rede social pelo candidato a uma vaga de emprego. O candidato está localizado à frente do computador, mais ao fundo da imagem, e veste uma roupa social. Na mão direita, o recrutador segura o currículo do candidato, que possui um grande carimbo vermelho com a palavra "reprovado".', 
         textoDescritivoImagem:'Imagem de uma ilustração em que um recrutador está assentado em uma cadeira, de frente para um computador. O recrutador está verificando o conteúdo de um vídeo postado em uma rede social por um dos candidatos a uma vaga de emprego. O recrutador segura o currículo do candidato na mão direita, porém o currículo foi carimbado em vermelho com a palavra "reprovado".', },
 
@@ -2282,7 +2282,7 @@ let livro_csx ={
         textoSimplificado:'Mantenha uma boa reputação online',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_8.jpg',
         promptImagem:'Create a 2D pictogram with a 3D perspective, using shades of blue and purple, targeting an audience aged 12 to 14. The pictogram should depict two figures: a smiling young avatar and a pictogram representing responsible internet use. In the pictogram, the two figures are shaking hands, symbolizing mutual approval between people. In the background, depict a computer monitor displaying a users comments on a social media platform, receiving many likes.', //'Ícone do avatar de uma pessoa sorrindo<p>Pictograma com duas mãos se apertando em aprovação mútua, com fundo representando o uso responsável da internet<p>Ilustração de um ícone de check verde', 
         textoDescritivoImagem:'Duas imagens. Na primeira, o avatar de um jovem sorridente. Na segunda, um pictograma que ilustra o uso responsável da internet. No pictograma, duas mãos estão se apertando, simbolizando a aprovação mútua entre as pessoas. Ao fundo, é representado um monitor de computador que exibe os comentários de um usuário em uma rede social, recebendo muitos likes.', },
 
@@ -2293,7 +2293,7 @@ let livro_csx ={
         textoSimplificado:'Proteja a sua privacidade',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_9.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, using shades of blue and purple, targeting an audience aged 12 to 14. The image should depict an attempt to access a computer that is blocked by security measures. In the 3D scene, draw a desk with an all-in-one computer. On the computer monitor, display a page requesting authorization for the use of cookies. One arm reaches down in the image, attempting to access the computer keyboard, but another extended arm, coming out of a cloud with a padlock symbol, prevents the action.', //'Crie uma imagem em 3D com um computador all-in-one sobre uma escrivaninha, fundo monocromático. O monitor exibe uma página solicitando autorização para o uso de cookies. Um braço desce do topo da imagem, com uma mão tentando acessar o teclado do computador. Saindo de uma nuvem com um símbolo de cadeado, surge outro braço estendido segurando o braço que tenta pegar o teclado, impedindo-o.', 
         textoDescritivoImagem:'Imagem que representa a tentativa de acesso a um computador bloqueado por medidas de segurança. O cenário em 3D mostra uma escrivaninha com um computador all-in-one. No monitor, há uma página solicitando autorização para o uso de cookies. Um braço desce tentando acessar o teclado, mas outro braço estendido, saindo de uma nuvem com um símbolo de cadeado, impede a ação.', },
 
@@ -2304,7 +2304,7 @@ let livro_csx ={
         textoSimplificado:'Tenha várias personas online',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I26_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i26/csx_I26_10.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, using shades of cyan and aqua green, targeting an audience aged 12 to 14. The image should be divided into two halves to represent a persons two online personas. In the left half, with a cyan background, depict the professional life. Include a computer, a wall clock, and the upper body dressed in formal attire, holding a cellphone to the ear. In the right half, with an aqua green background, depict the personal life. In this part, the body is wearing sportswear and holding a bicycle.', //'Crie uma imagem 3D dividida em duas metades. Na metade esquerda, com fundo azul, represente a vida profissional de uma pessoa. Inclua um computador, um relógio de parede e metade do corpo vestido com roupa social, segurando um celular no ouvido. Na metade direita, com fundo verde, represente a vida pessoal da pessoa. Essa metade do corpo está vestindo traje esportivo e segurando uma bicicleta.', 
         textoDescritivoImagem:'Imagem em 3D dividida em duas metades para representar as duas personas online de uma pessoa. Na metade esquerda, com fundo azul, temos a representação da vida profissional. Nessa parte, há um computador, um relógio de parede e metade do corpo vestido com roupa social, segurando um celular no ouvido. Na metade direita, com fundo verde, temos a representação da vida pessoal. Nessa parte, o corpo está vestindo traje esportivo e segurando uma bicicleta.', },
 
