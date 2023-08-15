@@ -688,7 +688,7 @@ let livro_csx ={
           textoSimplificado:'Condicionais em todo lugar',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_3.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_3.jpg',
           promptImagem:'Minimalist digital art featuring three panels: the first one displaying a simple, stylized figure of a female programmer at her computer, the second one showing a simplified, iconic representation of a computer processor, and the third one presenting a circuit-like pattern to represent an electronic circuit.', 
           textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
 
@@ -697,9 +697,9 @@ let livro_csx ={
           texto:'Um bom exemplo são os sinais de carro e pedestre. Já reparou que conforme um deles fica verde, o outro fica sempre vermelho? Isso funciona sem falhas porque os circuitos eletrônicos de ambos os sinais estão interligados e porque os engenheiros projetaram os circuitos para que seja impossível que ambos tenham a mesma cor.',
           urlAudioTexto:'',
           textoSimplificado:'Sinais de carro e pedestre',
-	      textoImpresso:1,
+	        textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_4.jpg',
           promptImagem:'A minimalist art showcasing a traffic light for cars. The art should capture the essential features of the traffic light - red, yellow, and green signals - in a clear urban setting.', 
           textoDescritivoImagem:'Sinal de carro e sinal de pedestre.', },
 
@@ -708,10 +708,10 @@ let livro_csx ={
           texto:'Usamos os termos Se, Então e Senão para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir. Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito. <p><code>Se "sinal = verde" então "prossiga" <br/>Se "sinal = amarelo" então <br/>&nbsp;&nbsp;Se "está muito próximo ao sinal" então "prossiga" senão "pare" <br/> Se "sinal = vermelho" então "pare"</code>',
           urlAudioTexto:'',	
           textoSimplificado:'Algoritmo de Trânsito',
-	      textoImpresso:1,
+	        textoImpresso:1,
           imagemImpresso:1,
-		  //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_5.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I4_4-Guilherme%20Rossi-Pexels.jpg',
+		      //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_5.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i4/csx_I4_4-Guilherme%20Rossi-Pexels.jpg',
           promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
           textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
@@ -722,7 +722,7 @@ let livro_csx ={
           textoSimplificado:'Sinais da Matemática',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_6.jpg',
           promptImagem:'Realistic yet minimalist digital art showcasing a car speeding past a traffic sign that clearly displays a maximum speed limit of 80 km/h. The motion of the vehicle and the importance of the speed limit sign should be clearly conveyed in the artwork.', 
           textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
 
@@ -733,7 +733,7 @@ let livro_csx ={
           textoSimplificado:'Operadores Lógicos',
 	      textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_7.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_7.png',
           promptImagem:'Minimalist art portraying the use of logical operators in algorithms. The artwork could depict an open laptop with an abstract, stylized representation of code featuring symbols of logical operators (such as AND, OR, NOT) highlighted on its screen.', 
           textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
@@ -744,7 +744,7 @@ let livro_csx ={
           textoSimplificado:'Expressão Lógica e Condicionais',
 		  textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i5/csx_I5_8.jpg',
           promptImagem:'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
           textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
 
@@ -771,7 +771,7 @@ let livro_csx ={
           textoSimplificado:'Robôs',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_1.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_i6_1.png',
           promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica.', 
           textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
 
@@ -782,7 +782,7 @@ let livro_csx ={
           textoSimplificado:'Autômatos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_2.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_I6_2.png',
           promptImagem:'Ilustração mostrando a evolução dos robôs. Começa com um autômato antigo, um boneco mecânico movendo-se com engrenagens visíveis. Ele gradualmente se transforma em um robô moderno, simbolizando a transição da engenharia manual para a robótica avançada.', 
           textoDescritivoImagem:'Robô autômato.', },
 
@@ -793,7 +793,7 @@ let livro_csx ={
           textoSimplificado:'Robôs de hoje',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_3_new.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_i6_3_new.jpg',
           promptImagem:'Ilustração mostrando três tipos de robôs: um robusto Robô Industrial com braços mecânicos, um preciso Robô Cirurgião com instrumentos cirúrgicos e um aventureiro Robô Explorador equipado para exploração de terrenos difíceis.',
           textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
 
@@ -804,7 +804,7 @@ let livro_csx ={
           textoSimplificado:'Robôs Industriais',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_4.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_I6_4.png',
           promptImagem:'Robô industrial', 
           textoDescritivoImagem:'Robô industrial.', },
 
@@ -815,7 +815,7 @@ let livro_csx ={
           textoSimplificado:'Robôs Cirurgiões',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I6_5.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_I6_5.png',
           promptImagem:'Uma ilustração de um cirurgião robô realizando uma cirurgia no cérebro de um ser humano.', 
           textoDescritivoImagem:'Robô cirurgião.', },
 
@@ -826,7 +826,7 @@ let livro_csx ={
           textoSimplificado:'Robôs Exploradores',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_6_new.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_i6_6_new.jpg',
           promptImagem:'Ilustração de um Robô Explorador aventureiro em ação em Marte: o robô equipado com rodas e instrumentos científicos está navegando pelo terreno rochoso e vermelho de Marte, com o céu estrelado e o planeta Terra visíveis ao fundo.', 
           textoDescritivoImagem:'Robô Explorador.', },
 
@@ -837,7 +837,7 @@ let livro_csx ={
           textoSimplificado:'Controlar robô',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_7-1.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_i6_7-1.png',
           promptImagem:'Robô com controle remoto', 
           textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
 
@@ -848,7 +848,7 @@ let livro_csx ={
           textoSimplificado:'mBot',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_8_new.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_i6_8_new.png',
           promptImagem:'Ilustração robô mBot', 
           textoDescritivoImagem:'Robô mBot.', },
 
@@ -859,7 +859,7 @@ let livro_csx ={
           textoSimplificado:'Mecânica',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_9.jpg', //'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_10.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i6/csx_i6_9.jpg', //'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i6_10.jpg',
           promptImagem:'Ilustração colorida de um Kit de Robótica empolgante espalhado sobre uma mesa: engrenagens, rodas, placas eletrônicas, fios, parafusos e uma pequena ferramenta, prontos para serem montados em um robô por mãos jovens e entusiasmadas<p>Ilustração de um Kit de Eletrônica para Robótica sobre uma mesa: circuitos, baterias, fios, LEDs, motores e um manual de instruções. As peças estão prontas para serem montadas por um jovem entusiasmado para criar seu próprio robô.', 
           textoDescritivoImagem:'Um kit com peças da mecânica e de eletrônica para montar um robô.', },
 
@@ -908,7 +908,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_1.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7-1-9_Bisonte_Magdaleniense_pol%C3%ADcromo_WP.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7-1-9_Bisonte_Magdaleniense_pol%C3%ADcromo_WP.jpg',
           promptImagem:'Realistic digital art illustrating the origins of animation. The artwork could depict a prehistoric scene with early humans painting sequential images on a cave wall, attempting to create an illusion of movement. This should give a nod to the earliest forms of animation in human history.', 
           textoDescritivoImagem:'Arte na pré-história.', },
 
@@ -920,7 +920,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_2.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_2-Clemens%20Schmillen_WP_2.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_2-Clemens%20Schmillen_WP_2.jpg',
           promptImagem:'Realistic digital art illustrating prehistoric "moving art". The scene could depict a cave interior, where early humans have drawn animals with duplicated limbs on the wall. As a torchlight moves across the drawing, the shadowy flicker creates an illusion of the animals in motion', 
           textoDescritivoImagem:'Arte na pré-história simulando movimento.', },
 
@@ -932,7 +932,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_3.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_3-Tomb-of-Nakht-(2)_WikiCommon.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_3-Tomb-of-Nakht-(2)_WikiCommon.jpg',
           promptImagem:'Realistic digital art illustrating ancient Egyptian wall paintings. The artwork could depict a series of sequential images drawn on a wall, each showing people in slightly different positions. This arrangement, similar to modern comic strips, would give the impression of movement as ones gaze moves from one drawing to the nex',  
           textoDescritivoImagem:'Pintura egípcia na parece.', },
 
@@ -944,7 +944,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4--600px-Animation_vase_2-WikiCommon.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_4--600px-Animation_vase_2-WikiCommon.jpg',
           promptImagem:'Realistic digital art illustrating an ancient vase with sequential drawings around it. The vase should depict an intricate scene where a moose jumps to reach leaves on a tree. The design should be such that, when the vase is spun, it creates an illusion of the moose in motion.', 
           textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
 
@@ -956,8 +956,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5.jpg',
-		  //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5-pierre-bamin_unsplash.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5-Technische%20Sammlungen%20der%20Stadt%20Dresden_WP.jpg',
+		      //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_5-pierre-bamin_unsplash.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_5-Technische%20Sammlungen%20der%20Stadt%20Dresden_WP.jpg',
           promptImagem:'Digital artwork of a colorful flip book mid-flip, held by a person hands. The book is open and pages are actively flipping, revealing the progression of a simple hand-drawn animation of a bird flying across the pages.', 
           textoDescritivoImagem:'Um flipbook ou folioscópio sendo folheado.', },
 
@@ -969,7 +969,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6-RonnySergio_AStock.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_6-RonnySergio_AStock.jpg',
           promptImagem:'Realistic digital art of a 19th-century Thaumatrope in action, with two sides visible due to spinning: one side depicting a bird and the other side a cage. The rapid spinning creates an illusion of the bird being inside the cage, symbolizing how the Thaumatrope blends separate images into one.', 
           textoDescritivoImagem:'Traumatrópio da gaiola vazia e com o passarinho dentro.', },//ao definir a imagem, a descrição deverá ser alterada
 
@@ -981,7 +981,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_7.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_7-1_3.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_7-1_3.jpg',
           promptImagem:'Create a realistic digital artwork of a Phenakistoscope in action. The artwork should depict a disc with series of images that when spun, creates an illusion of a moving picture due to persistence of vision.', 
           textoDescritivoImagem:'Fenaquistiscópio.', },
 
@@ -993,8 +993,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8-Zern%20Liew_AStock.jpg',
-		  promptImagem:'Create a realistic digital art representation of a Zoetrope.', 
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_8-Zern%20Liew_AStock.jpg',
+		      promptImagem:'Create a realistic digital art representation of a Zoetrope.', 
           textoDescritivoImagem:'Zootrópio.', },
 
           {ordem:9,
@@ -1005,7 +1005,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9-1_3.jpg',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_9-1_3.jpg',
           promptImagem:'Create a realistic digital art representation of a 3D Zoetrope in action', 
           textoDescritivoImagem:'Zootrópio 3D.', },
 
@@ -1017,7 +1017,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_10.jpg',
-		  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_10_3.JPG',
+		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_10_3.JPG',
           promptImagem:'Create a realistic digital art depiction of a Praxinoscope in action.', 
           textoDescritivoImagem:'Praxinoscópio.', },
 
@@ -1028,7 +1028,7 @@ let livro_csx ={
           textoSimplificado:'Cinema',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_11.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_11.jpg',
           promptImagem:'Create a vibrant and realistic digital art depiction of a modern cinema hall. In the scene, there should be a large projector screen displaying vivid and engaging scenes from a movie. The layout of the theater with dimmed lights, comfortable seats and audience absorbed in the movie should be clearly visible', 
           textoDescritivoImagem:'Sala de cinema.', },
 
@@ -1039,7 +1039,7 @@ let livro_csx ={
           textoSimplificado:'Revisão',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_12-1.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i7/csx_I7_12-1.jpg',
           promptImagem:'Digital art depicting a museum exhibit showcasing the evolution of early animation, featuring exhibits for the Flip-book, Thaumatrope, Phenakistoscope, Zoetrope, 3D Zoetrope, and Praxinoscope. Each exhibit should have the respective device and a small plaque indicating its name',  //Resumo Imagem minuto 11:58
           textoDescritivoImagem:'Resumo Imagem minuto 11:58.', },
 
@@ -1076,7 +1076,7 @@ let livro_csx ={
         textoSimplificado:'Sistemas computacionais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_1.jpg',
         promptImagem:'Create a 2D illustration with depth that resembles a 3D real industrial robot<p>Create a 2D illustration with depth that resembles a 3D personal computer', //'Imagem de um computador<p>Imagem de um robô',
         textoDescritivoImagem:'Duas imagens, na primeira um computador e na segunda um robô humanóide.', },
 
@@ -1087,7 +1087,7 @@ let livro_csx ={
         textoSimplificado:'Números',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_2.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_2.png',
         promptImagem: 'Draw an illustration featuring a teacher, depicting her head. Next to it, draw a blackboard with some simple mathematical operations.', //'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
         textoDescritivoImagem:'Duas imagens, na primeira uma professora e na segunda um quadro negro, em que foram escritas algumas operações matemáticas simples, de somas, subtrações, multiplicações e divisões.', },
 
@@ -1099,7 +1099,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Para entender o sistema interno dos computadores, vamos primeiro lembrar de como nós, humanos, gostamos de lidar com números. Nosso sistema preferido é chamado de sistema decimal. Ele utiliza dez símbolos, de zero a nove. Quando colocamos um número ao lado do outro, o da esquerda vale dez vezes mais.',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_3.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_3.png',
         promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito uma tabela de valor posicional para ensinar como se converter 10 unidades em uma dezena e 10 dezenas em uma centena.', },
 
@@ -1121,7 +1121,7 @@ let livro_csx ={
         textoSimplificado:'Números 1, 2 e 3 em sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-2.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_4-2.png',
         promptImagem:'Quadro negro com escritas dos números 1, 2 e 3 em sistema binário', 
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito os números 1, 2 e 3 em sistema decimal e em sistema binário.', },
 
@@ -1132,7 +1132,7 @@ let livro_csx ={
         textoSimplificado:'Código secreto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_6.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_6.png',
         promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
         textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
 
@@ -1143,7 +1143,7 @@ let livro_csx ={
         textoSimplificado:'Representação de sistema binário',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-3.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_4-3.png',
         promptImagem:'Quadro negro com escrita de um byte e de números abaixo de cada algaritimo do byte, indicando o valor, em sistema decimal, de cada uma das casas do sistema binário', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito um dado em código binário do tamanho de um byte _ ou seja, um código binário composto por oito casas de valores binários. Abaixo do código binário, há os números 0, 1, 2, 4 e 8, escritos da direita para a esquerda, para indicar o valor, em sistema decimal, de cada uma das casas do byte.', },
 
@@ -1157,7 +1157,7 @@ let livro_csx ={
         textoImpressoRecriado:`Para representar quantidades maiores que 3, o sistema binário vai acrescentando mais zeros ou uns à esquerda, sendo que cada posição vale o dobro da anterior.
 
         Embora os números em binário possam se tornar grandes, é possível representar qualquer quantidade utilizando o sistema binário, assim como os números decimais.`,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_4-4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_4-4.png',
         promptImagem:'Quadro negro com escrita de diversos valores em binário, como 16, 42, 120 e 1024.', 
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito diversos números em sistema binário, como 16, 42, 120 e 1024.', },
 
@@ -1168,7 +1168,7 @@ let livro_csx ={
         textoSimplificado:'Mecânica',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_9.jpg',
         promptImagem:'Create an image with three figures in the same scene. The first figure is a television playing a video. The second figure is a tablet displaying the waveform of a musical sound. The third figure is a monitor displaying a digital 3D image.', //'Imagem de uma televisão, reproduzindo um vídeo<p>Imagem de um tablet, exibindo a curva de um som musical<p>Imagem de um monitor, exibindo uma imagem em 3d digital', 
         textoDescritivoImagem:'Imagem de uma televisão, reproduzindo um vídeo.Imagem de um tablet, exibindo a curva de um som musical.E imagem um monitor, exibindo uma imagem em 3d digital.', },
 
@@ -1179,7 +1179,7 @@ let livro_csx ={
         textoSimplificado:'Baralho binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I9_10.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i9/csx_I9_10.png',
         promptImagem:'Create blank cards for the game called "Binary Deck". The cards should be represented with no visible content, completely blank.', // 'Imagens de cartas do jogo chamado baralho binário', 
         textoDescritivoImagem:'Imagens de cartas do jogo chamado baralho binário. Algumas cartas contém pontinhos pretos, em quantidade diversas, como um ponto, dois pontos, quatro pontos ou oito pontos. Outras cartas contém os numerais 0 ou 1.', },
 
@@ -2420,7 +2420,7 @@ let livro_csx ={
         textoSimplificado:'Comunicação',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_1.jpg',
         promptImagem:'Ilustração colorida e animada de jovens utilizando diversas formas de comunicação: smartphones, computadores, cartas e linguagem de sinais. Bolhas de conversa, emojis e postagens nas redes sociais preenchem o ar vibrante.', 
         textoDescritivoImagem:'Imagem com pessoas falando, uma carta e um outdoor.', },
 
@@ -2431,7 +2431,7 @@ let livro_csx ={
         textoSimplificado:'Comunicação Digital',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_2.jpg',
         promptImagem:'Uma ilustração vibrante de adolescentes usando várias formas de comunicação digital. Eles estão envolvidos em smartphones, computadores e tablets, compartilhando emojis, postagens e fazendo chamadas de vídeo. Bolhas de conversa, emojis e ícones de redes sociais preenchem o ar ao redor.', 	
         textoDescritivoImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos.', },
 
@@ -2442,7 +2442,7 @@ let livro_csx ={
         textoSimplificado:'Ética Digital',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_3.jpg',
         promptImagem:'Ilustração colorida mostrando jovens interagindo respeitosamente online. Eles estão cercados por símbolos digitais e palavras como Respeito, Privacidade e Responsabilidade, destacando o conceito de ética digital.',
         textoDescritivoImagem:'Ética Digital.', },
 
@@ -2453,7 +2453,7 @@ let livro_csx ={
         textoSimplificado:'Respeito',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_4.jpg',
         promptImagem:'Ilustração colorida e divertida de jovens avatares online respeitando o espaço um do outro, com escudos de privacidade e palavras como Respeito e Ética Digital flutuando ao redor, enfatizando a importância do respeito na esfera digital.', 
         textoDescritivoImagem:'Respeito.', },
 
@@ -2464,7 +2464,7 @@ let livro_csx ={
         textoSimplificado:'Segurança',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_5.jpg',
         promptImagem:'Ilustração colorida retratando jovens navegando em um navio digital protegido por um escudo, navegando em um mar de códigos. Ícones como cadeados e firewalls aparecem, simbolizando a segurança na ética digital.', 
         textoDescritivoImagem:'Segurança.', },
 
@@ -2475,7 +2475,7 @@ let livro_csx ={
         textoSimplificado:'Desconfie',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_6.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_6.png',
         promptImagem:'Ilustração colorida mostrando jovens com lupas ampliando a tela de um computador, revelando a etiqueta Fake News e Deepfake. Ícones de verificação de fatos circulam, reforçando a ideia de vigilância na era digital.',
         textoDescritivoImagem:'Desconfie.', },
 
@@ -2486,7 +2486,7 @@ let livro_csx ={
         textoSimplificado:'Likes',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_7.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_7.png',
         promptImagem:'Ilustração colorida de um jovem segurando um livro com um avatar na capa. Dentro do avatar, camadas revelam atributos como Respeito e Empatia, ressaltando a mensagem não julgue o livro pela capa na ética digital.', 
         textoDescritivoImagem:'Não julgue o livro pela capa.', },
 
@@ -2497,7 +2497,7 @@ let livro_csx ={
         textoSimplificado:'Sucesso na rede',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_i27_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i27/csx_i27_8.jpg',
         promptImagem:'Ilustração colorida de um adolescente segurando uma chave brilhante composta por ícones de comunicação. A chave se encaixa em um globo digital, simbolizando o sucesso na rede mundial através da comunicação ética.', 
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
