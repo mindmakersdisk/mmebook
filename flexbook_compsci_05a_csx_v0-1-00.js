@@ -1533,7 +1533,7 @@ let livro_csx ={
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_9.png',
         promptImagem:'Captura de tela de um aplicativo IA que permite remover o fundo de imagens automaticamente', 
         textoDescritivoImagem:'Imagem de uma captura de tela, que está exibindo a tela de um programa IA que permite remover o fundo de imagens automaticamente', },
 
