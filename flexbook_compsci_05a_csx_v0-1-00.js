@@ -1509,8 +1509,9 @@ let livro_csx ={
         textoSimplificado:'Foto de uma pessoa em um fundo amarelo vivo',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Foto de duas pessoa em um fundo amarelo vivo. A primeira está sorrindo e está vestindo uma camisa roxa. A segunda está com uma leve expressão de tristeza e está vestindo uma camisa amarela, com tom muito semelhando à cor da parede de fundo.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_7.jpg',
+        promptImagem:'Create an image featuring two women against a vibrant yellow background. The woman on the right is slender and beautiful, with a smile on her face, wearing a purple shirt. The second woman is also beautiful, and has a slight expression of sadness and is wearing a yellow shirt that closely resembles the color of the background wall. Highlight the physical details of the faces of both individuals. Use vivid colors and soft lighting, drawing inspiration from renowned artists and adding unique touches to the composition.',
+        //promptImagem:'Foto de duas pessoa em um fundo amarelo vivo. A primeira está sorrindo e está vestindo uma camisa roxa. A segunda está com uma leve expressão de tristeza e está vestindo uma camisa amarela, com tom muito semelhando à cor da parede de fundo.', 
         textoDescritivoImagem:'Imagem da foto de duas pessoa, da altura do cintura até a cabeça, com uma parede amarelo vivo ao fundo. A primeira pessoa está sorrindo e está vestindo uma camisa roxa. A segunda pessoa está com uma leve expressão de tristeza e está vestindo uma camisa amarela, com tom muito semelhando à cor da parede de fundo.', },
 
         {ordem:8,
@@ -1520,8 +1521,9 @@ let livro_csx ={
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Captura de tela de um programa de edição de imagens, em que o fundo amarelo de uma fotografia está sendo removido através do uso de uma ferramenta chamada "varinha mágica"', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i14/csx_I14_8.png',
+        promptImagem:'Create an image featuring two women against a vibrant yellow background. The woman on the right is slender and beautiful, with a smile on her face, wearing a purple shirt. The second woman is also beautiful, and has a slight expression of sadness and is wearing a yellow shirt that closely resembles the color of the background wall. Highlight the physical details of the faces of both individuals. Use vivid colors and soft lighting, drawing inspiration from renowned artists and adding unique touches to the composition.',
+        //promptImagem:'Captura de tela de um programa de edição de imagens, em que o fundo amarelo de uma fotografia está sendo removido através do uso de uma ferramenta chamada "varinha mágica"', 
         textoDescritivoImagem:'Imagem de uma captura de tela, que está exibindo a tela de um programa de edição de imagens em que o fundo amarelo de uma fotografia está sendo removido através do uso da ferramenta chamada "varinha mágica".', },
 
         {ordem:9,
