@@ -1329,12 +1329,8 @@ let livro_csx ={
           textoSimplificado:'Laço Enquanto',
           textoImpresso:1,
           imagemImpresso:1,
-<<<<<<< Updated upstream
 		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/i12/csx_I12_3-1.jpg',
 		      //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3-1.jpg',
-=======
-		      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I12_3-1.jpg',
->>>>>>> Stashed changes
           promptImagem:'Dj tocando música',  
           textoDescritivoImagem:'Dj tocando música e uma pessoa dançando.', },
 
