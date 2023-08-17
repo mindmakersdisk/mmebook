@@ -892,7 +892,7 @@ let livro_csx ={
         textoSimplificado:'Sinais de carro e pedestre',
 	      textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'semáforo apenas com sinal vermelho e amarelo', //'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4_pxfuel.com.jpg', //'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4.jpg',
         promptImagem:'', //'A minimalist art showcasing a traffic light for cars. The art should capture the essential features of the traffic light - red, yellow, and green signals - in a clear urban setting.', 
         textoDescritivoImagem:'Sinal de carro e sinal de pedestre.', },
 
@@ -926,7 +926,7 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicionais',
 		    textoImpresso:1,
         imagemImpresso:1,
-        urlImagem: '', //https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_8.jpg',
+        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_flickr_edit.png', //https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_8.jpg',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
       ]}},
