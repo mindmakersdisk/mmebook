@@ -1124,7 +1124,7 @@ let livro_csx ={
     licao8:{
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
-      titulo:'Lição 07. Eventos.',**/
+      titulo:'Lição 08. Eventos.',**/
       infografico:{titulo:'Eventos',
       tituloSimplificado:'Evento',
       estiloPadrao:'basicoPaisagem',
@@ -1409,7 +1409,17 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-      ]}},	
+        {ordem:1,
+        predecessor:0,
+        texto:'TODO.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'', 
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+      ]}},
 
 
     licao13:{
@@ -1700,8 +1710,18 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-      ]}},	
-
+        {ordem:1,
+        predecessor:0,
+        texto:'TODO.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'', 
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+      ]}},
+      
     /*licao16:{		  
       id:'CSXAULA16CODE',
       // padroesCurriculares: 
@@ -1858,6 +1878,16 @@ let livro_csx ={
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'TODO.',
+          urlAudioTexto:'',
+          textoSimplificado:'TODO',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'', 
+          promptImagem:'TODO', 
+          textoDescritivoImagem:'TODO.', },
         ]}},
 
     /*licao18:{
@@ -2138,6 +2168,16 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
+        {ordem:1,
+        predecessor:0,
+        texto:'TODO.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'', 
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
       ]}},
     
     
@@ -2695,6 +2735,16 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
+        {ordem:1,
+        predecessor:0,
+        texto:'TODO.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'', 
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
       ]}},
   
     licao26:{		  
@@ -2707,6 +2757,16 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
+        {ordem:1,
+        predecessor:0,
+        texto:'TODO.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'', 
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
       ]}},
       
 
@@ -2720,6 +2780,16 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
+        {ordem:1,
+        predecessor:0,
+        texto:'TODO.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'', 
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
       ]}},
 
 
