@@ -892,7 +892,7 @@ let livro_csx ={
         textoSimplificado:'Sinais de carro e pedestre',
 	      textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4_pxfuel.com.jpg', //'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4_pxfuel_edit.jpg', //'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4.jpg',
         promptImagem:'', //'A minimalist art showcasing a traffic light for cars. The art should capture the essential features of the traffic light - red, yellow, and green signals - in a clear urban setting.', 
         textoDescritivoImagem:'Sinal de carro e sinal de pedestre.', },
 
