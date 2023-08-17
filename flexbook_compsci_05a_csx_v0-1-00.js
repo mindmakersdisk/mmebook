@@ -944,82 +944,84 @@ let livro_csx ={
       cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determiam quando um carro deve parar ou prosseguir?<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/>Se "o sinal estiver amarelo" então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"</code>',
+          texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determinam quando um carro deve parar ou prosseguir?<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'Condições',
           textoImpresso:1,
           imagemImpresso:1,
-          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_1.jpg',
           promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
           textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
+
   
           {ordem:2,
           predecessor:1,
-          texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo _ chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos _ chamados de <b>operadores relacionais</b> _, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/>Se "sinal = amarelo" <br/>&nbsp;&nbsp;então <br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "está muito próximo ao sinal" <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga" senão "pare" <br/>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"</code><br/>',
+          texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo _ chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos _ chamados de <b>operadores relacionais</b> _, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/></code>',
           urlAudioTexto:'',	
           textoSimplificado:'Algoritmo de Trânsito',
           textoImpresso:1,
           imagemImpresso:1,
-          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_5.jpg',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_2.jpg',
           promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
           textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
-  
+
+          
           {ordem:3,
           predecessor:2,
-          texto:'Para escrever condições, muitas vezes pegamos sinais emprestados da matemática. São os chamados operadores relacionais. Os sinais de operadores mais comuns são: <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code>Se "local atual = centro" <br/>&nbsp;&nbsp;&nbsp;então "pare" <br/>Se "velocidade do carro > 80 km" <br/>&nbsp;&nbsp;&nbsp;então "diminua a velocidade" <br/>Se "combustível do carro < 2 litros" <br/>&nbsp;&nbsp;&nbsp;então "coloque combustível"</code>',
+          texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluíndo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp; então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga"<br/>Se "sinal = amarelo" <br/>&nbsp;&nbsp; então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"<br/></code>',
           urlAudioTexto:'',
-          textoSimplificado:'Sinais da Matemática',
+          textoSimplificado:'Algoritmo de Trânsito',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6.jpg',
-          promptImagem:'Realistic yet minimalist digital art showcasing a car speeding past a traffic sign that clearly displays a maximum speed limit of 80 km/h. The motion of the vehicle and the importance of the speed limit sign should be clearly conveyed in the artwork.', 
-          textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_3.jpg',
+          promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
+          textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
+  
   
           {ordem:4,
           predecessor:3,
-          texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados Operadores Lógicos. Além deles, podemos também usar o NÃO para inverter uma decisão. Veja os exemplos:<p><code>Se "combustível < 2 litros e dinheiro > 5.00" <br/>&nbsp;&nbsp;&nbsp;então "abasteça" <br/>Se "tempos = chuva ou previsão do tempo = chuva" <br/>&nbsp;&nbsp;&nbsp;então "vá de carro" <br/>Se "não local atual = centro da cidade" <br/>&nbsp;&nbsp;&nbsp;então "prossiga"</code>',
+          texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp; então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga"<br/>Se "sinal = amarelo" e "já estiver passando sob o sinal"<br/>&nbsp;&nbsp; então "prossiga" <br/>&nbsp;&nbsp;&nbsp;senão "pare"<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'Operadores Lógicos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7.png',
-          promptImagem:'Minimalist art portraying the use of logical operators in algorithms. The artwork could depict an open laptop with an abstract, stylized representation of code featuring symbols of logical operators (such as AND, OR, NOT) highlighted on its screen.', 
+          urlImagem:'',
+          promptImagem:'Foto de trânsito, com veículo diante do sinal amarelo', 
           textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
+
 
           {ordem:5,
           predecessor:4,
-          texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determiam quando um carro deve parar ou prosseguir?<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/>Se "o sinal estiver amarelo" então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"</code>',
+          texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:.<p><code>Se "hora = 06h00" <br/>&nbsp;&nbsp; então <br/>&nbsp;&nbsp;&nbsp;&nbsp; Se "dia = sábado" ou "dia = domingo" <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então "posso dormir um pouco mais"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; senão "ir à escola"<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'Condições',
           textoImpresso:1,
           imagemImpresso:1,
-          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2.jpg',
-          promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
+          urlImagem:'',
+          promptImagem:'pessoa deitada em uma cama, apertando o botão para interromper o despertador de um relógio que está marcando 6h00', 
           textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
           {ordem:6,
           predecessor:5,
-          texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/>Se "o sinal estiver amarelo" então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"</code>',
+          texto:'Além dos operadores lógicos E/OU, podemos usar o <b>NÃO</b> para inverter uma decisão. Veja o exemplo:<p><code>Se "estiver com sede" então<br/>&nbsp;&nbsp;&nbsp; Se "não estiver de jejum" então "beba água"<br/></code>',
           urlAudioTexto:'',
-          textoSimplificado:'Condições',
+          textoSimplificado:'Operador Lógico NÃO',
           textoImpresso:1,
           imagemImpresso:1,
-          //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I5_2.jpg',
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2.jpg',
-          promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
-          textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
+          urlImagem:'',
+          promptImagem:'Pessoa bebendo uma garrafa de água', 
+          textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', }, 
+          
+
   
           {ordem:7,
           predecessor:6,
           texto:'Muita coisa nova, não é? Não se preocupe, você vai praticar muito a programação com condicionais, operadores relacionais e lógicos. E isso vai te levar longe!',
           urlAudioTexto:'',
-          textoSimplificado:'Expressão Lógica e Condicionais',
+          textoSimplificado:'Expressão Lógica e Condicional',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_8.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_7.jpg',
           promptImagem:'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
           textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
       ]}},			
@@ -1407,16 +1409,6 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-        {ordem:1,
-        predecessor:0,
-        texto:'TODO.',
-        urlAudioTexto:'',
-        textoSimplificado:'TODO',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
-        textoDescritivoImagem:'TODO.', },
       ]}},	
 
 
@@ -1708,16 +1700,6 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-        {ordem:1,
-        predecessor:0,
-        texto:'TODO.',
-        urlAudioTexto:'',
-        textoSimplificado:'TODO',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
-        textoDescritivoImagem:'TODO.', },
       ]}},	
 
     /*licao16:{		  
@@ -1863,16 +1845,6 @@ let livro_csx ={
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
-          {ordem:1,
-          predecessor:0,
-          texto:'TODO.',
-          urlAudioTexto:'',
-          textoSimplificado:'TODO',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'TODO', 
-          textoDescritivoImagem:'TODO.', },
         ]}},
 
 
@@ -1886,16 +1858,6 @@ let livro_csx ={
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
-          {ordem:1,
-          predecessor:0,
-          texto:'TODO.',
-          urlAudioTexto:'',
-          textoSimplificado:'TODO',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'TODO', 
-          textoDescritivoImagem:'TODO.', },
         ]}},
 
     /*licao18:{
@@ -2176,17 +2138,8 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-        {ordem:1,
-        predecessor:0,
-        texto:'TODO.',
-        urlAudioTexto:'',
-        textoSimplificado:'TODO',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
-        textoDescritivoImagem:'TODO.', },
       ]}},
+    
     
     licao21:{		  
       id:'CSXAULA21CODE',
@@ -2742,16 +2695,6 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-        {ordem:1,
-        predecessor:0,
-        texto:'TODO.',
-        urlAudioTexto:'',
-        textoSimplificado:'TODO',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
-        textoDescritivoImagem:'TODO.', },
       ]}},
   
     licao26:{		  
@@ -2764,16 +2707,6 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-        {ordem:1,
-        predecessor:0,
-        texto:'TODO.',
-        urlAudioTexto:'',
-        textoSimplificado:'TODO',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
-        textoDescritivoImagem:'TODO.', },
       ]}},
       
 
@@ -2787,16 +2720,6 @@ let livro_csx ={
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[
-        {ordem:1,
-        predecessor:0,
-        texto:'TODO.',
-        urlAudioTexto:'',
-        textoSimplificado:'TODO',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
-        textoDescritivoImagem:'TODO.', },
       ]}},
 
 
