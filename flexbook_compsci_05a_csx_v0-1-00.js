@@ -1215,7 +1215,7 @@ let livro_csx ={
           textoSimplificado:'Videogames famosos como o Minecraft e o Super Mario Bros.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_1_flickr.jpg',
           promptImagem:'Fotos de feira de games que contenham equipes de produtores ou vendedores e apresenta banners e telas de TV ou computadores que estão exibindo uma versão do Jogo Super Mario Bros. ou do Jogo Minecraft.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1226,7 +1226,7 @@ let livro_csx ={
           textoSimplificado:'Grande ideia.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_2.jpg',
           promptImagem:'Foto de uma pessoa jovem, com expressão de que teve uma ideia genial.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1237,7 +1237,7 @@ let livro_csx ={
           textoSimplificado:'Planejamento de um jogo.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_3_freepik.jpg',
           promptImagem:'Foto de um desenhista, trabalhando em um prancheta enquanto esboça os mínimos detalhes de um cenário complexo e belo.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1248,7 +1248,7 @@ let livro_csx ={
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_4_wallpaper_flare.jpg',
           promptImagem:'Fotos de jogos famosos, sendo jogados por fans, com expressão de profunda apreciação ou concentração enquanto jogam.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1259,7 +1259,7 @@ let livro_csx ={
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_5_flickr.jpg',
           promptImagem:'Foto de pessoas em uma fila, aguardando a abertura da loja para comprar um jogo na data de seu lançamento mundial.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1270,7 +1270,7 @@ let livro_csx ={
           textoSimplificado:'Aprimorando a experiência de jogo.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_6_flickr.jpg',
           promptImagem:'Foto de dois ou mais designers de games, trabalhando juntos em frente a um computador, como se estivessem discutindo os detalhes de uma parte do jogo.', 
           textoDescritivoImagem:'TODO.', },
 
@@ -1281,7 +1281,7 @@ let livro_csx ={
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_7_flickr.jpg',
           promptImagem:'Imagens de jogos famosos por suas histórias envolventes, como o Fanal Fantasy (Arcade) e o Chrono Cross do PlayStation.', 
           textoDescritivoImagem:'TODO.', },
 
@@ -1292,7 +1292,7 @@ let livro_csx ={
           textoSimplificado:'Criação de uma animação no computador.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_8_print.jpg',
           promptImagem:'Print de uma animação feita em linguagem Scratch.', 
           textoDescritivoImagem:'Captura de tela de uma animação feita em linguagem Scratch..', },
       ]}},
