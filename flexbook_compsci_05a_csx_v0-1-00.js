@@ -2145,7 +2145,7 @@ let livro_csx ={
         textoSimplificado:'O sistema binário.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_2.jpg',
         promptImagem:'Imagem da tela de um computador, complementamente preenchida por algarismos zeros e uns', 
         textoDescritivoImagem:'Imagem da tela de um computador, que está completamente preenchida por diversas sequências de números zeros e uns.', },
 
@@ -2157,7 +2157,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_3.jpg',
         promptImagem:'Print de tabela ASCII.',
         textoDescritivoImagem:'Imagem da tabela ASCII, usada em sistemas computacionais para armazenar letras, representando-as por sequências de zeros e uns.', },
 
@@ -2168,7 +2168,7 @@ let livro_csx ={
         textoSimplificado:'Letas A, C e S em código binário.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_4.png',
         promptImagem:'Imagem de uma tabela em que uma das colunas contém as letras A, C e S e outra das colunas apresenta como essas letras são representadas em código binário.',  
         textoDescritivoImagem:'Imagem de uma tabela, em que uma coluna exibe as letras A, C e S, enquanto a outra coluna mostra como essas letras são representadas no código binário.',  },
 
@@ -2179,7 +2179,7 @@ let livro_csx ={
         textoSimplificado:'Palavra CASA escrita em português e em código binário.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_5.png',
         promptImagem:'Imagem com fundo branco e escrita dos palavra CASA em português e em código binário', 
         textoDescritivoImagem:'Imagem com fundo, em exibe a palavra "CASA" em português, juntamente com sua correspondente representação em código binário.', },
 
@@ -2190,8 +2190,8 @@ let livro_csx ={
         textoSimplificado:'Armazenamento computacional de letras.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagem de uma televisão, exibindo um texto, em um ambiente futurista, em tons de azul e roxo. Ao fundo da imagem, estão escritas sequências de zeros e uns no ar',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_6.jpg',
+        promptImagem:'Imagem de uma televisão em um ambiente futurista, em tons de azul e roxo. Ao fundo da imagem, estão escritas sequências de zeros e uns no ar',
         textoDescritivoImagem:'Imagem de uma televisão, exibindo um texto.', },
 
         /*{ordem:10,
@@ -2223,7 +2223,7 @@ let livro_csx ={
         textoSimplificado:'Armazenamento computacional de letras.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_1.jpg',
         promptImagem:'Imagem de uma televisão, exibindo um texto, em um ambiente futurista, em tons de azul e roxo. Ao fundo da imagem, estão escritas sequências de zeros e uns no ar',
         textoDescritivoImagem:'Imagem de uma televisão, exibindo um texto.', },
 
