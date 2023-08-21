@@ -1424,7 +1424,7 @@ let livro_csx ={
         textoSimplificado:'Ilusão ótica de movimento',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_10_Cenveo_creative_commons.jpg',
         promptImagem:'Imagem retro de esquema que representa como as imagens entram pela retina do olho humano, sendo interpretadas pelo cerebro como corpos em movimento.', 
         textoDescritivoImagem:'.', },
   
@@ -1435,7 +1435,7 @@ let livro_csx ={
         textoSimplificado:'GIF animado',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_11.jpg',
         promptImagem:'Print de um app de edição de GIFs, que mostra que o GIF é composto por vários frames.', 
         textoDescritivoImagem:'Frames de um arquivo GIF animado', },
 
@@ -1446,7 +1446,7 @@ let livro_csx ={
         textoSimplificado:'Revisão',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_12_flickr.jpg',
         promptImagem:'Foto de trabalhos manuais de animação e capturas de tela de apps de criação de GIFs animados',
         textoDescritivoImagem:'', },
 
@@ -1626,9 +1626,9 @@ let livro_csx ={
         textoSimplificado:'Tipos de componentes eletrônicos.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagens de somosBits, exibindo e indicando alguns tipos de componentes eletrônicos, como fontes de energia, controladores e atuadores.', 
-        textoDescritivoImagem:'Imagens exibindo exemplos de tipos de componentes eletrônicos, como fontes de energia, controladores e atuadores.', },
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_1.jpg',
+        promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
+        textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
         predecessor:1,
