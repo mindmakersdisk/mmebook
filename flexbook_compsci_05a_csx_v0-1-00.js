@@ -1637,8 +1637,8 @@ let livro_csx ={
         textoSimplificado:'Condicionais e expressões lógicas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagem de pessoa usando guarda chuva.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_2.jpg',
+        promptImagem:'um personagem numa rua com chuva usando um guarda chuva', 
         textoDescritivoImagem:'Imagem de ambiente externo, em um dia chuvoso, destacando uma pessoa que está utilizando um guarda-chuva.', },
 
         {ordem:3,
@@ -1692,7 +1692,7 @@ let livro_csx ={
         textoSimplificado:'Diagrama de um circuito eletrônico com várias portas lógicas.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_7.png',
         promptImagem:'Print de um diagrama de um circuito eletrônico que utiliza portas lógicas do tipo AND, OR e NOT, apresentando 3 entradas e uma única saída. O circuito representado possui três entradas, nomeadas como A, B e C, e uma única saída.', 
         textoDescritivoImagem:'Imagem de um diagrama de um circuito eletrônico composto por uma porta lógica do tipo AND, uma do tipo OR e uma do tipo NOT. O circuito representado possui três entradas, nomeadas como A, B e C, e uma única saída.', },
 
@@ -1714,7 +1714,7 @@ let livro_csx ={
         textoSimplificado:'Tabelas Verdade',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_9.png',
         promptImagem:'Print das Tabelas Verdade das portas lógicas AND, OR e NOT.', 
         textoDescritivoImagem:'Imagem exibindo as tabelas verdades das portas lógicas AND, OR e NOT.', },
 
@@ -1725,7 +1725,7 @@ let livro_csx ={
         textoSimplificado:'Componentes eletrônicos com portas lógicas',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_10.jpg',
         promptImagem:'Imagem de componentes eletrônicos diversos, como televisores, smartphones e computadores.', 
         textoDescritivoImagem:'Imagem de componentes eletrônicos diversos que utilizam portas lógicas em seus circuitos eletrônicos, tais como televisores, smartphones e computadores.', },
 
@@ -2562,7 +2562,7 @@ let livro_csx ={
         textoSimplificado:'Compressão com perda',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_7.png',
         promptImagem:'Imagem de uma foto, em formato bitmap, não comprida.<p>Imagem da mesma foto, após ser comprimida no formato PNG',
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto não comprida, armazenda em formato bitmap. Na segunda, a mesma foto, após ser comprimida para um novo arquivo, em formato PNG.', },
 
