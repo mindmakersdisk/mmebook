@@ -2584,7 +2584,7 @@ let livro_csx ={
         textoSimplificado:'Resultado para 30 questões de uma prova de múltipla escolha',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_9.png',
         promptImagem:'Ilustração 2D de uma folha em que foram escritas as palavras "verdadeiro" e "falso".<p>Ilustração 2D de uma folha com 30 palavras escritas, alternando aleatoriamente entre as palavras "verdadeiro" e "falso".', 
         textoDescritivoImagem:'Duas imagens. Na primeira, uma ilustração 2D de uma folha em que foram escritas as palavras "verdadeiro" e "falso". Na segunda, uma ilustração 2D de uma folha com 30 palavras escritas, alternando aleatoriamente entre as palavras "verdadeiro" e "falso".' },
 
@@ -2595,7 +2595,7 @@ let livro_csx ={
         textoSimplificado:'Sumário do resultado para 30 questões de uma prova de múltipla escolha',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_10.png',
         promptImagem:'Ilustração 2D de uma folha em que foi escrito o sumário do resultado para 30 questões de uma prova de múltipla escolha.', 
         textoDescritivoImagem:'Ilustração 2D de uma folha em que foi escrito o resumo dos resultados para 30 questões de uma prova de múltipla escolha. Na primeira linha estão escritas as palavras "verdadeiro falso" e o número 8, indicando que essas duas palavras se repetiram 8 vezes nessa sequência. Na segunda linha está escrita a palavra "verdadeiro" e o número 10, indicando que essa palavra se repetiu 10 vezes antes da ocorrência da palavra "falso". Na terceira linha estão escritas as palavras "falso verdadeiro falso" e o número 22, indicando que essas três palavras se repetiram 22 vezes nessa sequência.', },
       ]}},
