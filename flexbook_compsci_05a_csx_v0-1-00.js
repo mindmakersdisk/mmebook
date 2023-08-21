@@ -1424,7 +1424,7 @@ let livro_csx ={
         textoSimplificado:'Ilusão ótica de movimento',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_10_Cenveo_creative_commons.jpg',
         promptImagem:'Imagem retro de esquema que representa como as imagens entram pela retina do olho humano, sendo interpretadas pelo cerebro como corpos em movimento.', 
         textoDescritivoImagem:'.', },
   
@@ -1626,8 +1626,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_1.jpg',
+        promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
