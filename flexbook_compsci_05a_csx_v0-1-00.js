@@ -1435,7 +1435,7 @@ let livro_csx ={
         textoSimplificado:'GIF animado',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_11.jpg',
         promptImagem:'Print de um app de edição de GIFs, que mostra que o GIF é composto por vários frames.', 
         textoDescritivoImagem:'Frames de um arquivo GIF animado', },
 
@@ -1446,7 +1446,7 @@ let livro_csx ={
         textoSimplificado:'Revisão',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_12_flickr.jpg',
         promptImagem:'Foto de trabalhos manuais de animação e capturas de tela de apps de criação de GIFs animados',
         textoDescritivoImagem:'', },
 
