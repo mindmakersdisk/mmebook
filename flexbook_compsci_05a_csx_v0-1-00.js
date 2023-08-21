@@ -2650,7 +2650,7 @@ let livro_csx ={
         textoSimplificado:'Tamanho em formato digital de uma vídeo de 60 minutos duração',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_4.png',
         promptImagem:'Diagrama ilustrativo do armazenamento de uma vídeo em formato digital na memória de um computador, em que uma ilustração de uma filmadora de está apontando para textos, em que está escrito "HD" e "60 minutos", e esses textos estão apontando para outro texto, em que está escrito "800 GB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de um vídeo em formato digital na memória de um computador. No diagrama, há uma ilustrações de uma filmadora, que está apontando, por meio de setas, para dois textos, que indicam que a vídeo filmado possui qualidade HD e uma duração de 60 minutos. Por sua vez, esses textos estão apontando para outro texto, que indica que vídeo ocupa 800 GB na espaço da memória do computador.', },
 
@@ -2661,7 +2661,7 @@ let livro_csx ={
         textoSimplificado:'Tamanho de um arquivo de música MP3.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_5.png',
         promptImagem:'Diagrama ilustrativo do armazenamento de um arquivo MP3 na memória de um computador, em que uma pasta com o tamanho de 30 MB está apontando para um ícone de música MP3 e o ícone de música MP3 está apontando para outro texto, em que está escrito "3 MB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo que representa o armazenamento de um arquivo MP3 na memória de um computador. No diagrama, há uma ilustração de uma pasta que indica que ela ocupa 30 MB da memória do computador. Essa pasta está apontando, por meio de uma seta, para uma imagem que indica que um arquivo de música de 30 MB foi comprimido para o formato MP3. Por sua vez, essa imagem está apontando para outro texto que indica que após ser comprimido para o formato MP3, o arquivo de música que ocupava 30 MB do espaço da memória do computador passou a ocupar 3 MB.', },
 
@@ -2672,7 +2672,7 @@ let livro_csx ={
         textoSimplificado:'Tamanho de um arquivo de vídeo MP4.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_6.png',
         promptImagem:'Diagrama ilustrativo do armazenamento de um arquivo MP4 na memória de um computador, em que uma pasta com o tamanho de 800 GB está apontando para um ícone de vídeo MP4 e o ícone de vídeo MP4 está apontando para outro texto, em que está escrito "1 GB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo que representa o armazenamento de um arquivo MP4 na memória de um computador. No diagrama, há uma ilustração de uma pasta que indica que ela ocupa 800 GB da memória do computador. Essa pasta está apontando, por meio de uma seta, para uma imagem que indica que um arquivo de vídeo de 800 GB foi comprimido para o formato MP4. Por sua vez, essa imagem está apontando para outro texto que indica que após ser comprimido para o formato MP4, o arquivo de vídeo que ocupava 800 GB do espaço da memória do computador passou a ocupar 1 GB.', },
 
@@ -2694,7 +2694,7 @@ let livro_csx ={
         textoSimplificado:'Manfred Schröder, físico alemão, e arquivos MP3',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_8_wikimedia_commons.jpg',
         promptImagem:'Foto de Manfred Schröder, físico alemão<p>Ilustração de arquivo de áudio MP3', 
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto de Manfred Schröder, físico alemão, que concebeu fotos de comproessão de áudio na década de 1970. Na segunda, a ilustração de um ícone de um arquivo de áudio MP3', },
 
