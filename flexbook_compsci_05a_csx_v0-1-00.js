@@ -1637,7 +1637,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_2.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -1648,7 +1648,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_3.png',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -1659,7 +1659,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_4_Miter-circuit-used-for-bypass-attack.png',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -1692,7 +1692,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_7.png',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -1703,7 +1703,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_8.png',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -1714,7 +1714,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_9.png',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -1725,7 +1725,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_10.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
