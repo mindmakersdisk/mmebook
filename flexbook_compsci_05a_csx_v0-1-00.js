@@ -1352,7 +1352,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4.jpg',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_4_vase.jpeg',
         promptImagem:'Realistic digital art illustrating an ancient vase with sequential drawings around it. The vase should depict an intricate scene where a moose jumps to reach leaves on a tree. The design should be such that, when the vase is spun, it creates an illusion of the moose in motion.', 
         textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
 
