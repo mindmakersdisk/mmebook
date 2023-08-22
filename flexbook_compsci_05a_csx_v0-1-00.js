@@ -1498,7 +1498,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Editando imagens digitais.<p>Uma imagem é chamada de digital quando está em um formato que pode ser usado por um programa de computador. Quando tiramos fotos usando um computador, tablet ou celular, elas já são criadas como arquivos em formato digital.',
+        texto:'Uma imagem é chamada de digital quando está em um formato que pode ser usado por um programa de computador. Quando tiramos fotos usando um computador, tablet ou celular, elas já são criadas como arquivos em formato digital.',
         urlAudioTexto:'',
         textoSimplificado:'Imagens digitais',
         textoImpresso:1,
