@@ -1334,7 +1334,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Milhões de anos depois, no Egito Antigo, alguns desenhos feitos em paredes representavam pessoas em posições muito próximas uma da outra, dando a impressão de movimento. Similar às atuais histórias em quadrinhos, diversas ilustrações eram postas lado a lado para simular movimentos.',
+        texto:'Milhares de anos depois, no Egito Antigo, alguns desenhos feitos em paredes representavam pessoas em posições muito próximas uma da outra, dando a impressão de movimento. Similar às atuais histórias em quadrinhos, diversas ilustrações eram postas lado a lado para simular movimentos.',
         urlAudioTexto:'',
         textoSimplificado:'Pintura Egípcia',
         textoImpresso:1,
