@@ -1015,7 +1015,7 @@ let livro_csx ={
         textoSimplificado:'Órgãos sensoriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_1_translate.png',
         promptImagem:'Órgãos sensoriais', 
         textoDescritivoImagem:'Imagem dos órgãos sensoriais: olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1081,7 +1081,7 @@ let livro_csx ={
         textoSimplificado:'Sensore de Temperatura',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_7-VectorJuice-FreePik.png',
         promptImagem:'Sensor de incêncio', 
         textoDescritivoImagem:'Sensor de incêndio.', },
 
@@ -1103,7 +1103,7 @@ let livro_csx ={
         textoSimplificado:'Outros Sensores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_9FreePik.png',
         promptImagem:'Luz infravermelha', 
         textoDescritivoImagem:'Imagem com luz infravermelha', },
 
