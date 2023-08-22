@@ -890,7 +890,7 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_5_pxhere.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_5_pxhere.png',
         promptImagem:'pessoa deitada em uma cama, apertando o botão para interromper o despertador de um relógio que está marcando 6h00', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -901,7 +901,7 @@ let livro_csx ={
         textoSimplificado:'Operador Lógico NÃO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_6_flickr.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_6_flickr.png',
         promptImagem:'Pessoa bebendo uma garrafa de água', 
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', }, 
           
