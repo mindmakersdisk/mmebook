@@ -198,7 +198,7 @@ let livro_csx ={
         texto:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
         textoSimplificado:'Computadores embutidos',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14-1.jpg',
         promptImagem:'Digital art displaying various everyday objects such as a car, refrigerator, and watch, each glowing with vibrant tech icons like microchips, code brackets, and gears. These icons emanate from the objects, symbolizing the embedded computers that enhance their functionality, illustrating their transformation into smart devices.', 
         textoDescritivoImagem:'Imagem com diferentes ícones relacionados à tecnologia', },
   
@@ -492,8 +492,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3.jpg',
-        promptImagem:'Foto nítida de um plugue elétrico de três pinos próximo a uma tomada. A imagem clara e simples serve como uma representação visual direta da conexão elétrica, uma base para a compreensão da eletricidade.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3-markus-spiske-218445_pexels.jpg',
+        promptImagem:'Foto nítida de um plugue elétrico.', 
         textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
 
         {ordem:4,
@@ -768,8 +768,8 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2.jpg',
-        promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.jpg',
+        promptImagem:'car in red ligth traffic', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
         {ordem:3,
@@ -1048,7 +1048,7 @@ let livro_csx ={
         textoSimplificado:'Sensores de Som',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_4-indomay33-FreePick.jpg',
         promptImagem:'Quadrinho ouvido recebendo som do rádio e enviando informação ao cérebro que responde como música.', //enviar ao ilustrador vídeo 1:27
         textoDescritivoImagem:'Quadrinho de um ouvido recebendo um som do rádio e enviando informação ao cérebro que processa o som, e responde informando que uma música bacana está tocando.', },
 
@@ -3100,14 +3100,14 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Ele descobriu que a partir da mistura de diferentes quantidades das três cores primárias, é possível criar todas as outras cores que nossa visão consegue distinguir. Você lembra quais são as cores primárias? Vermelho, verde e azul. Maxwell ainda descobriu que para tintas, as três cores primárias são diferentes; em vez do verde, você usa o amarelo.',
+        texto:'Ele descobriu que a partir da mistura de diferentes quantidades das três cores primárias, é possível criar todas as outras cores que nossa visão consegue distinguir. Você lembra quais são as cores primárias? Azul, verde e vermelho. Maxwell ainda descobriu que para tintas, as três cores primárias são diferentes; em vez do verde, você usa o amarelo.',
         urlAudioTexto:'',	
         textoSimplificado:'Cores Primárias',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_5.jpg',
         promptImagem:'Create a digital art depiction of three separate paint buckets, each filled with one of the primary colors: red, yellow, and blue', 
-        textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta vermelha, o segundo com tinta verde e o último tubo com tinta amarela.', },
+        textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta azul, o segundo com tinta verde e o último tubo com tinta vermelha.', },
 
         {ordem:6,
         predecessor:5,
