@@ -768,7 +768,7 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.jpg',
+		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
         promptImagem:'car in red ligth traffic', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -812,7 +812,7 @@ let livro_csx ={
         textoSimplificado:'Sinais da Matemática',
 	      textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6-Darkmoon_Art-Pixbay.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6-Darkmoon_Art-Pixbay.png',
         promptImagem:'Create a realistic image of a highway with cars driving on it and road signs indicating the maximum speed limit. The scene should depict cars traveling and the speed limit signs clearly visible.', 
         textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
 
@@ -823,7 +823,7 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicionais',
 		    textoImpresso:1,
         imagemImpresso:1,
-        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_flickr_edit.png',
+        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_flickr_edit.jpg',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
       ]}},
