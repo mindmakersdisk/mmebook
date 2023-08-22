@@ -1670,7 +1670,7 @@ let livro_csx ={
         textoSimplificado:'Portas AND, OR e NOT.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_5.png',
         promptImagem:'Imagens de somosBits, destacandos componentes lógicos do tipo AND, OR e NOT', 
         textoDescritivoImagem:'Imagens de somosBits, destacandos componentes lógicos do tipo AND, OR e NOT.', },
 
@@ -1681,7 +1681,7 @@ let livro_csx ={
         textoSimplificado:'Portas NAND, NOR, XOR e XNOR.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_6.png',
         promptImagem:'Imagens de somosBits, destacandos componentes lógicos do tipo NAND, NOR, XOR e XNOR', 
         textoDescritivoImagem:'Imagens de somosBits, destacandos componentes lógicos do tipo NAND, NOR, XOR e XNOR.', },
 
@@ -1736,7 +1736,7 @@ let livro_csx ={
         textoSimplificado:'Simulador de circuitos eletrônicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_11.png',
         promptImagem:'Print de simulador de circuitos eletrônicos', 
         textoDescritivoImagem:'Imagem de uma captura de tela, exibindo a página do Simulador de Circuitos, que permite que se simule a montagem de circuitos eletrônicos com somosBits.', },
   ]}},
