@@ -1643,7 +1643,8 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Ao interpretar uma expressão condicional, os computadores retornam o resultado "verdadeiro" ou "falso". Por exemplo: ao interpretar a seguinte expressão, [TODO expressão] se estiver chovendo, o computador retorna o resultado verdadeiro.', //TODO incluir expressão
+        texto:'Ao interpretar uma expressão condicional, os computadores retornam o resultado "verdadeiro" ou "falso".',
+        //texto:'Ao interpretar uma expressão condicional, os computadores retornam o resultado "verdadeiro" ou "falso". Por exemplo: ao interpretar a seguinte expressão, <p><code>Se eu costumo ir a pé para a escola e está chovendo, <br/>&nbsp;&nbsp;então eu levarei um guarda-chuva. <br/>&nbsp;&nbsp;Senão <br/>&nbsp;&nbsp;&nbsp;não será necessário levá-lo.</code> <br/><br/> se estiver chovendo, o computador retorna o resultado verdadeiro.',
         urlAudioTexto:'',
         textoSimplificado:'Verdadeiro ou falso.',
         textoImpresso:1,
