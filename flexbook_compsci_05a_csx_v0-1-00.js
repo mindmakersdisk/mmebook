@@ -1611,7 +1611,7 @@ let livro_csx ={
 
     licao16:{
       id:'CSXAULA16CODE',
-      /** padroesCurriculares: 
+      /** padroesCurriculares: TESTE
       titulo:'Lição 16. Circuitos Figital com Portas Lógicas.',**/
       infografico:{titulo:'Portas Lógicas',
       tituloSimplificado:'Portas Lógicas',
