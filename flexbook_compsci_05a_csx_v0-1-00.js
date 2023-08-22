@@ -1138,7 +1138,7 @@ let livro_csx ={
         textoSimplificado:'Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_1.png',
         promptImagem:'Gatinho do Scratch', 
         textoDescritivoImagem:'Gatinho do Scratch.', },
 
@@ -1193,7 +1193,7 @@ let livro_csx ={
         textoSimplificado:'Programação no Scratch',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_6.png',
         promptImagem:'Show no Scratch', 
         textoDescritivoImagem:'Show no Scratch.', },
       ]}},
