@@ -668,7 +668,7 @@ let livro_csx ={
         textoSimplificado:'Robôs de hoje',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_3_new.jpg',
         promptImagem:'Ilustração mostrando três tipos de robôs: um robusto Robô Industrial com braços mecânicos, um preciso Robô Cirurgião com instrumentos cirúrgicos e um aventureiro Robô Explorador equipado para exploração de terrenos difíceis.',
         textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
 
@@ -679,7 +679,7 @@ let livro_csx ={
         textoSimplificado:'Robôs Industriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_4_new.png',
         promptImagem:'Robô industrial', 
         textoDescritivoImagem:'Robô industrial.', },
 
@@ -690,7 +690,7 @@ let livro_csx ={
         textoSimplificado:'Robôs Cirurgiões',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_5.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_5_new.png',
         promptImagem:'Uma ilustração de um cirurgião robô realizando uma cirurgia no cérebro de um ser humano.', 
         textoDescritivoImagem:'Robô cirurgião.', },
 
@@ -701,7 +701,7 @@ let livro_csx ={
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_6_peakpx.jpg',
         promptImagem:'Ilustração de um Robô Explorador aventureiro em ação em Marte: o robô equipado com rodas e instrumentos científicos está navegando pelo terreno rochoso e vermelho de Marte, com o céu estrelado e o planeta Terra visíveis ao fundo.', 
         textoDescritivoImagem:'Robô Explorador.', },
 
