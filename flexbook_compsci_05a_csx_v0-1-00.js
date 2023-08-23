@@ -434,7 +434,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Comandos de Laços também podem ser utilizados dentro de outros comandos de Laço. Quando isso acontece, esses laçaos são chamados de <b>Laços Aninhados</b></p> Como um exemplo de Laço Aninhado, veja com atenção esse exemplo que usa um Laço "simples" para desenhar cada triângulo.',
+        texto:'Comandos de Laços também podem ser utilizados dentro de outros comandos de Laço. Quando isso acontece, esses laços são chamados de <b>Laços Aninhados</b></p> Como um exemplo de Laço Aninhado, veja com atenção esse exemplo que usa um Laço "simples" para desenhar cada quadrado.',
         urlAudioTexto:'',
         textoSimplificado:'Laços Alinhados',
         textoImpresso:1,
@@ -668,7 +668,7 @@ let livro_csx ={
         textoSimplificado:'Robôs de hoje',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_3_new.jpg',
         promptImagem:'Ilustração mostrando três tipos de robôs: um robusto Robô Industrial com braços mecânicos, um preciso Robô Cirurgião com instrumentos cirúrgicos e um aventureiro Robô Explorador equipado para exploração de terrenos difíceis.',
         textoDescritivoImagem:'Três imagens. Na primeira um robô industrial. Na segunda um robô cirurgião. Na terceira um robô explorador.', },
 
@@ -679,7 +679,7 @@ let livro_csx ={
         textoSimplificado:'Robôs Industriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_4.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_4_new.png',
         promptImagem:'Robô industrial', 
         textoDescritivoImagem:'Robô industrial.', },
 
@@ -690,7 +690,7 @@ let livro_csx ={
         textoSimplificado:'Robôs Cirurgiões',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_5.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_5_new.png',
         promptImagem:'Uma ilustração de um cirurgião robô realizando uma cirurgia no cérebro de um ser humano.', 
         textoDescritivoImagem:'Robô cirurgião.', },
 
@@ -701,7 +701,7 @@ let livro_csx ={
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_6_peakpx.jpg',
         promptImagem:'Ilustração de um Robô Explorador aventureiro em ação em Marte: o robô equipado com rodas e instrumentos científicos está navegando pelo terreno rochoso e vermelho de Marte, com o céu estrelado e o planeta Terra visíveis ao fundo.', 
         textoDescritivoImagem:'Robô Explorador.', },
 
@@ -1316,7 +1316,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_1.jpg',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_1_altamira-cave.jpg',
         promptImagem:'Realistic digital art illustrating the origins of animation. The artwork could depict a prehistoric scene with early humans painting sequential images on a cave wall, attempting to create an illusion of movement. This should give a nod to the earliest forms of animation in human history.', 
         textoDescritivoImagem:'Arte na pré-história.', },
 
@@ -1352,7 +1352,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_4.jpg',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_4_vase.jpeg',
         promptImagem:'Realistic digital art illustrating an ancient vase with sequential drawings around it. The vase should depict an intricate scene where a moose jumps to reach leaves on a tree. The design should be such that, when the vase is spun, it creates an illusion of the moose in motion.', 
         textoDescritivoImagem:'Vaso antigo com imagem em movimento.', },
 
@@ -1401,7 +1401,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_8.jpg',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_8.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_8_new.jpeg',
         promptImagem:'Create a realistic digital art representation of a Zoetrope.', 
         textoDescritivoImagem:'Zootrópio.', },
 
@@ -1413,7 +1413,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9.jpg',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_9_wikimedia_commons_edit.png',
         promptImagem:'Create a realistic digital art representation of a 3D Zoetrope in action', 
         textoDescritivoImagem:'Zootrópio 3D.', },
 
@@ -1424,7 +1424,7 @@ let livro_csx ={
         textoSimplificado:'Ilusão ótica de movimento',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_10_Cenveo_creative_commons.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_10_Cenveo_creative_commons_translate.jpg',
         promptImagem:'Imagem retro de esquema que representa como as imagens entram pela retina do olho humano, sendo interpretadas pelo cerebro como corpos em movimento.', 
         textoDescritivoImagem:'.', },
   
@@ -1563,7 +1563,7 @@ let livro_csx ={
         textoSimplificado:'Fotos editadas de um pai, uma mãe e o filho deles',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_6.png',
         promptImagem:'Foto de um pai, uma mãe e o filho deles, ao lado de uma imagem editada digitalmente, em que as cabeças do pai, da maãe e do filho foram inseridas no corpo de três personagem 3D', 
         textoDescritivoImagem:'Imagem de uma foto digital de uma família, composta pelo pai, pela  mãe e pelo filho deles. Ao lado da foto, há uma imagem editada digitalmente, que está sendo exibida no monitor de um computador, em que as cabeças do pai, da maãe e do filho foram inseridas no corpo de três personagem 3D de um jogo de computador.', },
 
@@ -2651,7 +2651,7 @@ let livro_csx ={
         textoSimplificado:'Tamanho em formato digital de uma vídeo de 60 minutos duração',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_4.png',
         promptImagem:'Diagrama ilustrativo do armazenamento de uma vídeo em formato digital na memória de um computador, em que uma ilustração de uma filmadora de está apontando para textos, em que está escrito "HD" e "60 minutos", e esses textos estão apontando para outro texto, em que está escrito "800 GB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de um vídeo em formato digital na memória de um computador. No diagrama, há uma ilustrações de uma filmadora, que está apontando, por meio de setas, para dois textos, que indicam que a vídeo filmado possui qualidade HD e uma duração de 60 minutos. Por sua vez, esses textos estão apontando para outro texto, que indica que vídeo ocupa 800 GB na espaço da memória do computador.', },
 
@@ -2662,7 +2662,7 @@ let livro_csx ={
         textoSimplificado:'Tamanho de um arquivo de música MP3.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_5.png',
         promptImagem:'Diagrama ilustrativo do armazenamento de um arquivo MP3 na memória de um computador, em que uma pasta com o tamanho de 30 MB está apontando para um ícone de música MP3 e o ícone de música MP3 está apontando para outro texto, em que está escrito "3 MB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo que representa o armazenamento de um arquivo MP3 na memória de um computador. No diagrama, há uma ilustração de uma pasta que indica que ela ocupa 30 MB da memória do computador. Essa pasta está apontando, por meio de uma seta, para uma imagem que indica que um arquivo de música de 30 MB foi comprimido para o formato MP3. Por sua vez, essa imagem está apontando para outro texto que indica que após ser comprimido para o formato MP3, o arquivo de música que ocupava 30 MB do espaço da memória do computador passou a ocupar 3 MB.', },
 
@@ -2673,7 +2673,7 @@ let livro_csx ={
         textoSimplificado:'Tamanho de um arquivo de vídeo MP4.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_6.png',
         promptImagem:'Diagrama ilustrativo do armazenamento de um arquivo MP4 na memória de um computador, em que uma pasta com o tamanho de 800 GB está apontando para um ícone de vídeo MP4 e o ícone de vídeo MP4 está apontando para outro texto, em que está escrito "1 GB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo que representa o armazenamento de um arquivo MP4 na memória de um computador. No diagrama, há uma ilustração de uma pasta que indica que ela ocupa 800 GB da memória do computador. Essa pasta está apontando, por meio de uma seta, para uma imagem que indica que um arquivo de vídeo de 800 GB foi comprimido para o formato MP4. Por sua vez, essa imagem está apontando para outro texto que indica que após ser comprimido para o formato MP4, o arquivo de vídeo que ocupava 800 GB do espaço da memória do computador passou a ocupar 1 GB.', },
 
@@ -2684,7 +2684,7 @@ let livro_csx ={
         textoSimplificado:'Compressão com perda',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_7.png',
         promptImagem:'Imagem de uma foto, em formato bitmap, não comprida.<p>Imagem da mesma foto, após ser comprimida no formato PNG',
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto não comprida, armazenda em formato bitmap. Na segunda, a mesma foto, após ser comprimida para um novo arquivo, em formato PNG.', },
 
@@ -2695,7 +2695,7 @@ let livro_csx ={
         textoSimplificado:'Manfred Schröder, físico alemão, e arquivos MP3',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_8_wikimedia_commons.jpg',
         promptImagem:'Foto de Manfred Schröder, físico alemão<p>Ilustração de arquivo de áudio MP3', 
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto de Manfred Schröder, físico alemão, que concebeu fotos de comproessão de áudio na década de 1970. Na segunda, a ilustração de um ícone de um arquivo de áudio MP3', },
 
@@ -2706,7 +2706,7 @@ let livro_csx ={
         textoSimplificado:'Resultado para 30 questões de uma prova de múltipla escolha',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_9.png',
         promptImagem:'Ilustração 2D de uma folha em que foram escritas as palavras "verdadeiro" e "falso".<p>Ilustração 2D de uma folha com 30 palavras escritas, alternando aleatoriamente entre as palavras "verdadeiro" e "falso".', 
         textoDescritivoImagem:'Duas imagens. Na primeira, uma ilustração 2D de uma folha em que foram escritas as palavras "verdadeiro" e "falso". Na segunda, uma ilustração 2D de uma folha com 30 palavras escritas, alternando aleatoriamente entre as palavras "verdadeiro" e "falso".' },
 
@@ -2717,7 +2717,7 @@ let livro_csx ={
         textoSimplificado:'Sumário do resultado para 30 questões de uma prova de múltipla escolha',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_10.png',
         promptImagem:'Ilustração 2D de uma folha em que foi escrito o sumário do resultado para 30 questões de uma prova de múltipla escolha.', 
         textoDescritivoImagem:'Ilustração 2D de uma folha em que foi escrito o resumo dos resultados para 30 questões de uma prova de múltipla escolha. Na primeira linha estão escritas as palavras "verdadeiro falso" e o número 8, indicando que essas duas palavras se repetiram 8 vezes nessa sequência. Na segunda linha está escrita a palavra "verdadeiro" e o número 10, indicando que essa palavra se repetiu 10 vezes antes da ocorrência da palavra "falso". Na terceira linha estão escritas as palavras "falso verdadeiro falso" e o número 22, indicando que essas três palavras se repetiram 22 vezes nessa sequência.', },
       ]}},
@@ -2777,7 +2777,7 @@ let livro_csx ={
         textoSimplificado:'Respeito',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_4_edit.png',
         promptImagem:'Ilustração colorida e divertida de jovens avatares online respeitando o espaço um do outro, com escudos de privacidade e palavras como Respeito e Ética Digital flutuando ao redor, enfatizando a importância do respeito na esfera digital.', 
         textoDescritivoImagem:'Respeito.', },
 
@@ -2788,7 +2788,7 @@ let livro_csx ={
         textoSimplificado:'Segurança',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_5_edit.png',
         promptImagem:'Ilustração colorida retratando jovens navegando em um navio digital protegido por um escudo, navegando em um mar de códigos. Ícones como cadeados e firewalls aparecem, simbolizando a segurança na ética digital.', 
         textoDescritivoImagem:'Segurança.', },
 
@@ -2799,7 +2799,7 @@ let livro_csx ={
         textoSimplificado:'Desconfie',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_6.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_6_edit.png',
         promptImagem:'Ilustração colorida mostrando jovens com lupas ampliando a tela de um computador, revelando a etiqueta Fake News e Deepfake. Ícones de verificação de fatos circulam, reforçando a ideia de vigilância na era digital.',
         textoDescritivoImagem:'Desconfie.', },
 
@@ -2810,7 +2810,7 @@ let livro_csx ={
         textoSimplificado:'Likes',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_7.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_7_new.png',
         promptImagem:'Ilustração colorida de um jovem segurando um livro com um avatar na capa. Dentro do avatar, camadas revelam atributos como Respeito e Empatia, ressaltando a mensagem não julgue o livro pela capa na ética digital.', 
         textoDescritivoImagem:'Não julgue o livro pela capa.', },
 
