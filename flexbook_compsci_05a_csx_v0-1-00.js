@@ -1413,7 +1413,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_9.jpg',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_9_wikimedia_commons_edit.png',
         promptImagem:'Create a realistic digital art representation of a 3D Zoetrope in action', 
         textoDescritivoImagem:'Zootrópio 3D.', },
 
