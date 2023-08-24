@@ -3427,7 +3427,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_3.png',
         promptImagem:'Foto que exibe a tela de um smartphone, em que o usuário fez uma pesquisa por voz, que ficou registrada na tela do computador. O software responde à solicitação do usuário, exibindo um manda para guiá-lo do local em que se encontra até o lanchonete mais próxima.', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3438,7 +3438,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_4.png',
         promptImagem:'Imagem de uma sala de estar com múltiplos aparelhos smart. Uma mulher está entrando pela porta da sala e está com a boca aberta, após emitir comandos por voz para que os aparelhos smart acendam a luz e liguem a televisão para exibir um canal de vídeos de sua predileção.', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3471,7 +3471,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_7.png',
         promptImagem:'Imagem de um usuário assentando em frente a um computador, em que o usuário está dialogando com a "máquina".', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3482,7 +3482,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_8.png',
         promptImagem:'Imagem de um usuário, utilizando um aplicativo de leitura de texto com recursos de text-to-speech para ouvir um livro ou PDF.', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3493,7 +3493,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_9.png',
         promptImagem:'Foto de pessoa utilizando um dispositivo Alexa para acionar dispositivos em um quarto smart.', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3504,7 +3504,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_10.png',
         promptImagem:'Imagem de usuário utilizado IA com recurso de programação por voz, como, por exemplo, o recurso do GitHub.', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3515,7 +3515,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_11.png',
         promptImagem:'Imagem com pessoa acessando um app de IA com recursos de voz e texto para estudar de modo remoto, em casa. Se possível, a imagem deve expressar como a IA pode servir para promover a inclusão digital, quando disponibilizada por pessoas em situações de risco ou por grupos de minorias ou baixa renda per capita.', 
         textoDescritivoImagem:'TODO.', },
   ]}},
