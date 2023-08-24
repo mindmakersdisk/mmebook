@@ -3405,7 +3405,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de um usuário, assentando diante de um bacanda, em frente a um computador. O usuário está com a boca aberta _ como quem está falando_ e o rosto voltado para o monitor do computador. O monitor exibe a tela de um software de assistente de voz, com a imagem de um avatar, sugerindo que uma IA está ouvindo o usuário e está respondendo o usuário', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3416,7 +3416,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem com ícone que representa a tecnologia de speech-to-text.',
+        //promptImagem:'Imagem de um usuário com um smartphone em sua mão, que está erguida em direção à sua boca. O usuário está utilizando o recurso do "OK Google" para fazer uma pesquisa por voz na internet.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3427,7 +3428,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Foto que exibe a tela de um smartphone, em que o usuário fez uma pesquisa por voz, que ficou registrada na tela do computador. O software responde à solicitação do usuário, exibindo um manda para guiá-lo do local em que se encontra até o lanchonete mais próxima.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:4,
@@ -3438,7 +3439,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de uma sala de estar com múltiplos aparelhos smart. Uma mulher está entrando pela porta da sala e está com a boca aberta, após emitir comandos por voz para que os aparelhos smart acendam a luz e liguem a televisão para exibir um canal de vídeos de sua predileção.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:5,
@@ -3449,7 +3450,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de um usuário cego, utilizando o recurso de Talkback para navegar em seu smartphone.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:6,
@@ -3460,7 +3461,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem com ícone que representa a tecnologia de text-to-speech.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:7,
@@ -3471,7 +3472,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de um usuário assentando em frente a um computador, em que o usuário está dialogando com a "máquina".', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:8,
@@ -3482,7 +3483,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de um usuário, utilizando um aplicativo de leitura de texto com recursos de text-to-speech para ouvir um livro ou PDF.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:9,
@@ -3493,7 +3494,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Foto de pessoa utilizando um dispositivo Alexa para acionar dispositivos em um quarto smart.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:10,
@@ -3504,7 +3505,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de usuário utilizado IA com recurso de programação por voz, como, por exemplo, o recurso do GitHub.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:11,
@@ -3515,7 +3516,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem com pessoa acessando um app de IA com recursos de voz e texto para estudar de modo remoto, em casa. Se possível, a imagem deve expressar como a IA pode servir para promover a inclusão digital, quando disponibilizada por pessoas em situações de risco ou por grupos de minorias ou baixa renda per capita.', 
         textoDescritivoImagem:'TODO.', },
   ]}},
       
