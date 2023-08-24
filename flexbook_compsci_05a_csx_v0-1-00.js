@@ -1373,7 +1373,7 @@ let livro_csx ={
         predecessor:5,
         texto:'O Taumatrópio também foi um brinquedo de animação muito popular no século XIX. Criava a ilusão de misturar duas imagens distintas, como colocar um pássaro na gaiola ou fazer uma princesa beijar um príncipe.',
         urlAudioTexto:'',
-        textoSimplificado:'Traumatrópio',
+        textoSimplificado:'Taumatrópio',
         textoImpresso:1,
         imagemImpresso:1,
         //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/csx_I7_6.jpg',
@@ -1383,7 +1383,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'O Traumatrópio inspirou outro invento de animação um pouco mais sofisticado, o Fenaquistoscópio ou Fenacistoscópio. Ele usa um círculo para criar a ilusão de um movimento contínuo, de maior duração. Consiste em vários desenhos de um mesmo objeto, em posições ligeiramente diferentes, distribuídos por uma placa circular lisa. Quando a placa gira em frente a um espelho, cria-se a ilusão de uma imagem em movimento.',
+        texto:'O taumatrópio inspirou outro invento, o Fenaquistoscópio. Ele usa um círculo para criar a ilusão de um movimento contínuo, de maior duração. Consiste em vários desenhos de um mesmo objeto, em posições ligeiramente diferentes, distribuídos por uma placa circular lisa. Quando a placa gira em frente a um espelho, cria-se a ilusão de uma imagem em movimento.',
         urlAudioTexto:'',
         textoSimplificado:'Fenaquistiscópio',
         textoImpresso:1,
@@ -1430,7 +1430,7 @@ let livro_csx ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Esse princípio é a base da animação moderna, incluindo os GIFs animados. Os GIFs são arquivos que contém várias imagens _ chamadas de <i><b>frames</b></i> _, que são exibidas rapidamente, criando uma ilusão de movimento semelhante a um vídeo.',
+        texto:'Esse princípio é a base da animação moderna, incluindo a digital, como nos GIFs animados. Os GIFs são arquivos que contém várias imagens _ chamadas de <i><b>frames</b></i> _, que são exibidas rapidamente, criando uma ilusão de movimento semelhante a um vídeo.',
         urlAudioTexto:'',
         textoSimplificado:'GIF animado',
         textoImpresso:1,
@@ -3390,16 +3390,16 @@ let livro_csx ={
     licao26:{		  
       id:'CSXAULA26CODE',
       /** padroesCurriculares: 
-      titulo:'Lição 26. IA - Fala e Audição Computacional',**/
-      infografico:{titulo:'Fala e Audição Computacional',
-      tituloSimplificado:'Audição Computacional',
+      titulo:'Lição 26. IA - Conversação Computacional',**/
+      infografico:{titulo:'Conversação Computacional',
+      tituloSimplificado:'Conversação Computacional',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'TODO',
+        texto:'Hoje, vamos explorar duas tecnologias surpreendentes no campo da Inteligência Artificial, que nos permitem interagir de forma muito natural com os computadores.',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
@@ -3410,7 +3410,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'TODO',
+        texto:'Primeiramente, a tecnologia "Speech-to-Text", que em português seria "Fala-para-Texto". Programas que empregam essa tecnologia são capazes de interpretar e transcrever o áudio das nossas palavras diretamente para formato de texto.',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
@@ -3421,7 +3421,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'TODO',
+        texto:'Uma vez em formato de texto, as informações podem ser entendidas por outros softwares de computador que executam ações ou respondem a perguntas.',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
@@ -3432,7 +3432,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'TODO',
+        texto:'A aplicação da tecnologia "Fala-para-Texto" nos permite controlar dispositivos computadorizados mesmo com as mãos ocupadas...',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
@@ -3443,7 +3443,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'TODO',
+        texto:'Além disso, ela facilita o uso de computadores por pessoas com dificuldades auditivas, visuais ou aquelas que enfrentam desafios no uso convencional.',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
@@ -3454,7 +3454,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'TODO',
+        texto:'A segunda tecnologia é o "Text-to-Speech", ou "Texto-para-Fala", em português. Ela consegue transformar um texto escrito em áudio que se assemelha à voz humana.',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
@@ -3462,7 +3462,62 @@ let livro_csx ={
         urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
-    ]}},
+
+        {ordem:7,
+        predecessor:6,
+        texto:'Com essa funcionalidade, os computadores podem conduzir uma conversa conosco de maneira similar à nossa comunicação cotidiana, desde tempos remotos.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+
+        {ordem:8,
+        predecessor:7,
+        texto:'A tecnologia "Texto-para-Fala" também é usada em audiobooks, mensagens de voz e em recursos de acessibilidade para pessoas com dificuldade de leitura.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+
+        {ordem:9,
+        predecessor:8,
+        texto:'Essas duas tecnologias, juntas, são os pilares por trás de assistentes de voz como o Google Assistente e a Siri, presentes em smartphones, e de dispositivos como a Alexa.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+
+        {ordem:10,
+        predecessor:9,
+        texto:'Você ficaria surpreso com a quantidade de tarefas que podem ser desencadeadas com apenas um comando de voz. Desde cálculos matemáticos até solicitar informações e instruções...',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+
+        {ordem:11,
+        predecessor:10,
+        texto:'Com a evolução da Inteligência Artificial, nossa interação com dispositivos computacionais se torna cada vez mais enriquecedora e inclusiva.',
+        urlAudioTexto:'',
+        textoSimplificado:'TODO',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'TODO', 
+        textoDescritivoImagem:'TODO.', },
+  ]}},
       
 
     licao27:{		  
