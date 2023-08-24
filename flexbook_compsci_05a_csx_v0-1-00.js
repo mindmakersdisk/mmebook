@@ -1904,7 +1904,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem pictográficaem 2D, dividada ao meio. Na parte esquerda, ícone ao fundo de uma plataforma de pretóleo, com imagens ilustrastivas à frente de produtos associados ao mercado pretolífero, como automóveis e indústrias térmicas. Na parte da direita, ícone ao fundo de uma pasta de arquivo digital, com imagens ilustrativas à frente de produtos associados ao digital, como bluetooth, AI, rede social e blockchain. Ligando as duas metadas da imagem, ícone ao centro do capital ou de PID, seja a anagrama PD&I ou ícone associado à inovação.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:3,
@@ -1915,7 +1915,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com três ícones de pastas de arquivos. Uma pasta possui ícone para indicar que é uma pasta em que estão armazenados caracteres numéricos; outra ícone para indicar que armazena caracteres alfabéticos; e outra ícone para indicar que armazena imagens.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:4,
@@ -1926,7 +1926,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com textos. Na linha superior, está escrito "Dado: 15", na linha inferior, está escrito Informação: temperatura = 15°. Junto a linha superior, um ícone de uma pasta, indicando que se trata de um dado. Junto à linha inferior, um ícone de um termômetro, indicando que se trata de uma informação sobre a temperatura ambiente em um determinado dia.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:5,
@@ -1937,7 +1937,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com textos, dividadas ao meio. Na metade direita, icóne do calendário de algum mês, em que a sigla dos dias da semana e o número do dia de cada estão estão claramente legíveis. Na metade esquerda, ícone da previsão do tempo de uma semana, mostrando quando é a previsão da temperatura máxima em cada um dos dias.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:6,
@@ -1948,7 +1948,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com fundo branco, com alguns exemplos de tipos de dado. Entre eles, representação de um dado do tipo número interior, para representar a idade de uma pessoa; representação de um dado do tipo decimal, para representar a altura de uma pessoa, em metros, com duas casas decimais.', 
           textoDescritivoImagem:'TODO.', },
 
           {ordem:7,
@@ -1959,7 +1959,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com fundo branco, com alguns exemplos de tipos de dado. Entre eles, representação de um dado do tipo número fotográfico, como uma fotografia digital; representação de um dado do tipo alfabético, como duas fontes, uma com caracteres latinos e outra com caracteres chineses.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:8,
@@ -1970,7 +1970,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com um ícone que representa uma lista.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:9,
@@ -1981,7 +1981,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com prints de aplicativos que utilizam listas, entre eles: YouTube, com listas de vídeos levantadas a partir de uma dada pesquisa temática; Spotify, com lista de música de uma playlist, Plataforma MM, com lista de arquivos salvos por um aluno na seção "Meus Arquivos".', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:10,
@@ -1992,7 +1992,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Três imagens: imagem de aplicativo de tarefas, como o Trello ou o Kanban. Imagem de uma lista manuscrita de compras a fazer em um supermercado. Imagem de Google Image, com o resultado da pesquisa de preço de passagens aéreas.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:11,
@@ -2003,7 +2003,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagens com print de dois ambientes de programação, exibindo exemplos de listas utilizadas em programação, tanto em programação de blocos (como na linguagem Scratch) quanto em programação em texto (como em listas html).', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:12,
@@ -2014,7 +2014,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Exemplo de uso de lista, como um programador manipulando big data para axuliar equipes médicas de sistema nacionais de saúde a identificar problemas de saúde crônicos associados a obesidade ou outra doenças, como cardiácas ou diabetes, e a tomar medidas públicas nacionais com o objetivo de prevenir tais enfermidades para diminuir o número de casos em médio e longo prazo.', 
           textoDescritivoImagem:'TODO.', },
       ]}},
 
@@ -2037,7 +2037,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Íconde de uma matriz, que evidencia a existencia de mais de uma linha e mais de uma coluna.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:2,
@@ -2048,7 +2048,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem de uma planilha de excel, com três linhas e três colunas, em que duas colunas contém dados. Em zoom, o destaque para um dos dados presente em uma das células.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:3,
@@ -2059,7 +2059,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Vista de topo de dois tabuleiros de jogos: xadrez (com destque sobre os nomes da linhas e das colunas do tabuleiro); e batalha naval (com destaque sobre os nomes das linhas e colunas)', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:4,
@@ -2070,7 +2070,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem de uma calendário mensal.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:5,
@@ -2081,7 +2081,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem com uma lista a direita e uma matriz à esquerda, exibindo os nome de todos os alunos de uma escola e os nomes de todos os alunos, de cada turma, uma a uma, com um total de 20 linhas (20 alunos por turma)', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:6,
@@ -2092,7 +2092,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem de uma calendário mensal, poluido, em que cada dia contém dados diversos além do seu número e dia da semana, como temperatura, agenda do usuário, data de aniversário de conhecidos.', 
           textoDescritivoImagem:'TODO.', },
 
           {ordem:7,
@@ -2103,7 +2103,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Ícone de um registro, exemplificando uma página de registro de um usuário, em que ele precisa adicionar dados seus em 4 campos.', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:8,
@@ -2114,7 +2114,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Print da página de registro de um usuário em uma rede social como o facebook', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:9,
@@ -2125,7 +2125,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagina com um usuário acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:10,
@@ -2136,7 +2136,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Imagem em que um programador está acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
           textoDescritivoImagem:'TODO.', },
   
           {ordem:11,
@@ -2147,7 +2147,7 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'TODO', 
+          promptImagem:'Print do simulador de Dados da Plataforma MM', 
           textoDescritivoImagem:'TODO.', },
       ]}},
 
