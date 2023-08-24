@@ -3404,7 +3404,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_1.png',
         promptImagem:'Imagem de um usuário, assentando diante de um bacanda, em frente a um computador. O usuário está com a boca aberta _ como quem está falando_ e o rosto voltado para o monitor do computador. O monitor exibe a tela de um software de assistente de voz, com a imagem de um avatar, sugerindo que uma IA está ouvindo o usuário e está respondendo o usuário', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3415,7 +3415,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_2.png',
         promptImagem:'Imagem com ícone que representa a tecnologia de speech-to-text.',
         //promptImagem:'Imagem de um usuário com um smartphone em sua mão, que está erguida em direção à sua boca. O usuário está utilizando o recurso do "OK Google" para fazer uma pesquisa por voz na internet.', 
         textoDescritivoImagem:'TODO.', },
@@ -3449,7 +3449,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_5.png',
         promptImagem:'Imagem de um usuário cego, utilizando o recurso de Talkback para navegar em seu smartphone.', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3460,7 +3460,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_6.png',
         promptImagem:'Imagem com ícone que representa a tecnologia de text-to-speech.', 
         textoDescritivoImagem:'TODO.', },
 
