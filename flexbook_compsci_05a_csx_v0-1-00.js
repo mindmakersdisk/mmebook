@@ -1892,7 +1892,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_1.jpg',
           promptImagem:'Foto de um usuário diante de uma tela do computador. Ao fundo, um quadro pregado na parede, com a foto de uma plataforma pretolífera. À frente da imagem, códigos, trechos de código transparentes, de cima abaixo.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2002,7 +2002,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_11.jpg',
           promptImagem:'Imagens com print de dois ambientes de programação, exibindo exemplos de listas utilizadas em programação, tanto em programação de blocos (como na linguagem Scratch) quanto em programação em texto (como em listas html).', 
           textoDescritivoImagem:'TODO.', },
   
