@@ -1903,7 +1903,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_2.jpg',
           promptImagem:'Imagem pictográficaem 2D, dividada ao meio. Na parte esquerda, ícone ao fundo de uma plataforma de pretóleo, com imagens ilustrastivas à frente de produtos associados ao mercado pretolífero, como automóveis e indústrias térmicas. Na parte da direita, ícone ao fundo de uma pasta de arquivo digital, com imagens ilustrativas à frente de produtos associados ao digital, como bluetooth, AI, rede social e blockchain. Ligando as duas metadas da imagem, ícone ao centro do capital ou de PID, seja a anagrama PD&I ou ícone associado à inovação.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2013,7 +2013,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_12.jpg',
           promptImagem:'Exemplo de uso de lista, como um programador manipulando big data para axuliar equipes médicas de sistema nacionais de saúde a identificar problemas de saúde crônicos associados a obesidade ou outra doenças, como cardiácas ou diabetes, e a tomar medidas públicas nacionais com o objetivo de prevenir tais enfermidades para diminuir o número de casos em médio e longo prazo.', 
           textoDescritivoImagem:'TODO.', },
       ]}},
