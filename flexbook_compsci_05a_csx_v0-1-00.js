@@ -3195,7 +3195,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_4.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3206,7 +3206,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_5.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3217,7 +3217,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_6.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3228,7 +3228,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_7.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3239,7 +3239,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_8.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3250,7 +3250,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_9.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3261,7 +3261,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_10.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3272,7 +3272,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_11.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3283,7 +3283,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_12.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3294,7 +3294,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_13.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3305,7 +3305,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_14.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3316,7 +3316,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_15.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3327,7 +3327,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_16.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3338,7 +3338,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_17.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3349,7 +3349,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_18.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3360,8 +3360,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_19.jpg',
+        promptImagem:'', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:20,
@@ -3371,7 +3371,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_20.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3382,7 +3382,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_21.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 ]}},
