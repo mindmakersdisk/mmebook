@@ -1914,7 +1914,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_3.png',
           promptImagem:'Imagem com três ícones de pastas de arquivos. Uma pasta possui ícone para indicar que é uma pasta em que estão armazenados caracteres numéricos; outra ícone para indicar que armazena caracteres alfabéticos; e outra ícone para indicar que armazena imagens.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1925,7 +1925,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_4.png',
           promptImagem:'Imagem com textos. Na linha superior, está escrito "Dado: 15", na linha inferior, está escrito Informação: temperatura = 15°. Junto a linha superior, um ícone de uma pasta, indicando que se trata de um dado. Junto à linha inferior, um ícone de um termômetro, indicando que se trata de uma informação sobre a temperatura ambiente em um determinado dia.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1936,7 +1936,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_5.png',
           promptImagem:'Imagem com textos, dividadas ao meio. Na metade direita, icóne do calendário de algum mês, em que a sigla dos dias da semana e o número do dia de cada estão estão claramente legíveis. Na metade esquerda, ícone da previsão do tempo de uma semana, mostrando quando é a previsão da temperatura máxima em cada um dos dias.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1947,7 +1947,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_6.png',
           promptImagem:'Imagem com fundo branco, com alguns exemplos de tipos de dado. Entre eles, representação de um dado do tipo número interior, para representar a idade de uma pessoa; representação de um dado do tipo decimal, para representar a altura de uma pessoa, em metros, com duas casas decimais.', 
           textoDescritivoImagem:'TODO.', },
 
@@ -1958,7 +1958,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_7.png',
           promptImagem:'Imagem com fundo branco, com alguns exemplos de tipos de dado. Entre eles, representação de um dado do tipo número fotográfico, como uma fotografia digital; representação de um dado do tipo alfabético, como duas fontes, uma com caracteres latinos e outra com caracteres chineses.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1969,7 +1969,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_8_bing.jpg',
           promptImagem:'Imagem com um ícone que representa uma lista.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1980,7 +1980,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_9.png',
           promptImagem:'Imagem com prints de aplicativos que utilizam listas, entre eles: YouTube, com listas de vídeos levantadas a partir de uma dada pesquisa temática; Spotify, com lista de música de uma playlist, Plataforma MM, com lista de arquivos salvos por um aluno na seção "Meus Arquivos".', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1991,7 +1991,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_10.jpg',
           promptImagem:'Três imagens: imagem de aplicativo de tarefas, como o Trello ou o Kanban. Imagem de uma lista manuscrita de compras a fazer em um supermercado. Imagem de Google Image, com o resultado da pesquisa de preço de passagens aéreas.', 
           textoDescritivoImagem:'TODO.', },
   
