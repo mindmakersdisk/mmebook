@@ -3163,7 +3163,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de um líder tribal, contando uma história em roda, a noite, aquecida por um fogueira.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3174,7 +3174,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Print de filme de animação computadorizada famoso.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3185,7 +3185,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        promptImagem:'Imagem de animação feita em Scratch, em que o usuário pode participar, para que a história animada siga em uma "direção" ou "outra".', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:4,
