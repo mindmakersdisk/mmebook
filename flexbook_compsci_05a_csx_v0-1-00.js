@@ -417,7 +417,7 @@ let livro_csx ={
         textoSimplificado:'Laços na Fórmula 1',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_6.png',
         promptImagem:'Realistic art capturing a Formula 1 racing car along the track during a heated race.', 
         textoDescritivoImagem:'Veículo de fórmula um competindo na pista.', },
 
