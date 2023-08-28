@@ -198,7 +198,7 @@ let livro_csx ={
         texto:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
         textoSimplificado:'Computadores embutidos',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14-1.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14-3.jpg',
         promptImagem:'Digital art displaying various everyday objects such as a car, refrigerator, and watch, each glowing with vibrant tech icons like microchips, code brackets, and gears. These icons emanate from the objects, symbolizing the embedded computers that enhance their functionality, illustrating their transformation into smart devices.', 
         textoDescritivoImagem:'Imagem com diferentes ícones relacionados à tecnologia', },
   
@@ -2047,7 +2047,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_2.png',
           promptImagem:'Imagem de uma planilha de excel, com três linhas e três colunas, em que duas colunas contém dados. Em zoom, o destaque para um dos dados presente em uma das células.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2058,7 +2058,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_3_shutterstock_1287853966.png',
           promptImagem:'Vista de topo de dois tabuleiros de jogos: xadrez (com destque sobre os nomes da linhas e das colunas do tabuleiro); e batalha naval (com destaque sobre os nomes das linhas e colunas)', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2069,7 +2069,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_4_shutterstock_1988573294.jpg',
           promptImagem:'Imagem de uma calendário mensal.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2091,7 +2091,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_6_shutterstock_1891119154.jpg',
           promptImagem:'Imagem de uma calendário mensal, poluido, em que cada dia contém dados diversos além do seu número e dia da semana, como temperatura, agenda do usuário, data de aniversário de conhecidos.', 
           textoDescritivoImagem:'TODO.', },
 
@@ -2113,7 +2113,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_8_shutterstock_1338120284.jpg',
           promptImagem:'Print da página de registro de um usuário em uma rede social como o facebook', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2124,7 +2124,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_9_shutterstock_116384734.jpg',
           promptImagem:'Imagina com um usuário acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2146,7 +2146,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_11.png',
           promptImagem:'Print do simulador de Dados da Plataforma MM', 
           textoDescritivoImagem:'TODO.', },
       ]}},
