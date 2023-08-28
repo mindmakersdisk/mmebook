@@ -92,14 +92,14 @@ let livro_csx ={
         promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
         textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
-        {ordem:4,
+        /*{ordem:4,
         predecessor:3,
         texto:'Mas vamos dar um passo de cada vez: Para começar, o que é mesmo um computador?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_4.mp3',
         textoSimplificado:'O que é um computador',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_4.jpg',
         promptImagem:'Digital art showing a sleek modern computer, with vibrant 3D question marks emanating from the screen. The scene conveys the idea of a computer as a tool for searching information and solving queries.', 
-        textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
+        textoDescritivoImagem:'Computador com diversos pontos de interrogação', },*/
 
         {ordem:5,
         predecessor:4,
@@ -214,18 +214,18 @@ let livro_csx ={
         promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
         textoDescritivoImagem:'Sapatos futurísticos, com computadores embutidos', },
   
-        {ordem:16,
+        /*{ordem:16,
         predecessor:15,
         texto:'Mas então, o que é realmente um computador?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_16.mp3',
         textoSimplificado:'O que é um commputador',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_6.png',
         promptImagem:'Digital art of a full desktop setup, including a monitor, keyboard, mouse, and CPU, with vivid 3D question marks emerging from the monitor screen. The setup is seen from a perspective that showcases all the elements clearly, illustrating the computer as a tool for problem-solving and knowledge exploration.', 
-        textoDescritivoImagem:'Computador com diversos pontos de interrogação', },
+        textoDescritivoImagem:'Computador com diversos pontos de interrogação', },*/
   
         {ordem:17,
         predecessor:16,
-        texto:'Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades.',
+        texto:'Mas então, o que é realmente um computador? Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_17.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_17.jpg',
