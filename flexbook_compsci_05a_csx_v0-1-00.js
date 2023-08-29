@@ -492,7 +492,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3-markus-spiske-218445_pexels.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3_shutterstock_1195050007.png',
         promptImagem:'Foto nítida de um plugue elétrico.', 
         textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
 
@@ -501,7 +501,7 @@ let livro_csx ={
         texto:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1.',
         urlAudioTexto:'',
         textoSimplificado:'Círculo e Fórmula 1',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_4_flickr.jpg',
         promptImagem:'Foto aérea vibrante de um circuito de Fórmula 1: a pista sinuosa e bem marcada se estende à vista, com carros de corrida espalhados ao longo do caminho, representando visualmente a ideia de um circuito na prática real.', 
         textoDescritivoImagem:'Pista de asfalto do circuito de Fórmula 1', },
 
@@ -587,7 +587,7 @@ let livro_csx ={
         texto:'E para isso, começaremos usando os somosBits, pequenos componentes eletrônicos usados para montar circuitos de forma rápida e segura.',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_12.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_12_new.png',
         promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits', 
         textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -596,7 +596,7 @@ let livro_csx ={
         texto:'Cada peça do somosBits, chamada de bit, é como um componente dos circuitos elétricos que existem em nossa casa. Lembram-se do gerador, controlador, condutor e aparelho?',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_13.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_13_new.png',
         promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits', 
         textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -605,7 +605,7 @@ let livro_csx ={
         texto:'Cada bit é colorido para difereniciar a sua função em um circuito elétrico. Geradores possuem uma marcação azul, controladores rosa, condutores laranja e aparelhos verde.',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_14.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_14_new.png',
         promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits - tempo 2:23 do vídeo', 
         textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -614,7 +614,7 @@ let livro_csx ={
         texto:'E bits podem ser ligados uns aos outros através de imãs para fazermos circuitos rapidamente.',
         urlAudioTexto:'',
         textoSimplificado:'Bits conectados por imã',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_15.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_15_new.png',
         promptImagem:'imagem criada com os somosBits conectados, similar a atual com somosBits - tempo 2:41 do vídeo', 
         textoDescritivoImagem:'bit interrupetor ligado ao bit controlador, que por sua vez, está ligado ao bit aparelho', },
   
@@ -1166,7 +1166,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'O palco é onde tudo acontece. É no palco, uma espécie de retângulo, que todos os personagens se movimentam.<p>O palco pode ter um cenário como pano de fundo. E você irá encontrar vários deles já prontos, que vão transportar seus atores para o espaço, estádios de futebol, para neve ou casas, por exemplo.',
+        texto:'O palco é onde tudo acontece. É no palco, uma espécie de retângulo, que todos os personagens se movimentam.<p>O palco pode ter um pano de fundo. E você irá encontrar vários deles já prontos, que vão transportar seus atores para o espaço, estádios de futebol, para neve ou casas, por exemplo.',
         urlAudioTexto:'',	
         textoSimplificado:'Palco',
         textoImpresso:1,
@@ -1243,7 +1243,7 @@ let livro_csx ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda? Isso é o que os profissionais chamam de "gameplay".',
+          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda?',
           urlAudioTexto:'',
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
@@ -1254,7 +1254,7 @@ let livro_csx ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando os detalhes imaginados.',
+          texto:'Isso é o que os profissionais chamam de "gameplay". Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando todos os detalhes imaginados.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
@@ -1265,7 +1265,7 @@ let livro_csx ={
   
           {ordem:6,
           predecessor:5,
-          texto:'Nos anos seguintes, eles dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
+          texto:'No entanto, eles também dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
           urlAudioTexto:'',
           textoSimplificado:'Aprimorando a experiência de jogo.',
           textoImpresso:1,
@@ -1276,7 +1276,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Histórias envolventes também são importantes para aprimorar o gameplay dos jogos.',
+          texto:'Muitos criadores de jogos inventam histórias envolventes para cativar os jogadores e, assim, aprimorar o gameplay de seus jogos.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
@@ -1287,7 +1287,7 @@ let livro_csx ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Está na hora de exercitar sua habilidade de criar histórias, programando uma animação no computador.',
+          texto:'E agora, que tal exercitarmos nossa habilidade de criar histórias? Vamos começar programando uma animação no computador.',
           urlAudioTexto:'',
           textoSimplificado:'Criação de uma animação no computador.',
           textoImpresso:1,
@@ -3582,7 +3582,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_5.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3593,7 +3593,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_6.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3604,7 +3604,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_7.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3615,7 +3615,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_8.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3626,7 +3626,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3637,7 +3637,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
