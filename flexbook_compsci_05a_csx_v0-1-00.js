@@ -3582,7 +3582,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_5.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3593,7 +3593,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_6.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3604,7 +3604,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_7.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3626,7 +3626,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_8.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3637,7 +3637,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
