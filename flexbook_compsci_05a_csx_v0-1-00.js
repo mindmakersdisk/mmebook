@@ -306,7 +306,7 @@ let livro_csx ={
         textoSimplificado:'Algoritmo com desenho e texto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Alg/img_5.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Alg/img_5_new.png',
         promptImagem:'Desenho preto e branco de um folder de treino, com doze imagens sequenciais mostrando uma figura humana simplificada realizando uma série de exercícios diferentes em uma cadeira. Cada imagem é numerada e apresenta setas ou linhas indicativas para guiar os movimentos', 
         textoDescritivoImagem:'Imagens com uma sequência de exercícios físicos enumerados de 1 até 12.', },
 
@@ -2036,7 +2036,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_1.png',
           promptImagem:'Íconde de uma matriz, que evidencia a existencia de mais de uma linha e mais de uma coluna.', 
           textoDescritivoImagem:'TODO.', },
   
