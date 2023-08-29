@@ -1166,7 +1166,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'O palco é onde tudo acontece. É no palco, uma espécie de retângulo, que todos os personagens se movimentam.<p>O palco pode ter um pano de fundo. E você irá encontrar vários deles já prontos, que vão transportar seus atores para o espaço, estádios de futebol, para neve ou casas, por exemplo.',
+        texto:'O palco é onde tudo acontece. É no palco, uma espécie de retângulo, que todos os personagens se movimentam.<p>O palco pode ter um cenário como pano de fundo. E você irá encontrar vários deles já prontos, que vão transportar seus atores para o espaço, estádios de futebol, para neve ou casas, por exemplo.',
         urlAudioTexto:'',	
         textoSimplificado:'Palco',
         textoImpresso:1,
@@ -1243,7 +1243,7 @@ let livro_csx ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda?',
+          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda? Isso é o que os profissionais chamam de "gameplay".',
           urlAudioTexto:'',
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
@@ -1254,7 +1254,7 @@ let livro_csx ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Isso é o que os profissionais chamam de "gameplay". Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando todos os detalhes imaginados.',
+          texto:'Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando os detalhes imaginados.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
@@ -1265,7 +1265,7 @@ let livro_csx ={
   
           {ordem:6,
           predecessor:5,
-          texto:'No entanto, eles também dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
+          texto:'Nos anos seguintes, eles dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
           urlAudioTexto:'',
           textoSimplificado:'Aprimorando a experiência de jogo.',
           textoImpresso:1,
@@ -1276,7 +1276,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Muitos criadores de jogos inventam histórias envolventes para cativar os jogadores e, assim, aprimorar o gameplay de seus jogos.',
+          texto:'Histórias envolventes também são importantes para aprimorar o gameplay dos jogos.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
@@ -1287,7 +1287,7 @@ let livro_csx ={
 
           {ordem:8,
           predecessor:7,
-          texto:'E agora, que tal exercitarmos nossa habilidade de criar histórias? Vamos começar programando uma animação no computador.',
+          texto:'Está na hora de exercitar sua habilidade de criar histórias, programando uma animação no computador.',
           urlAudioTexto:'',
           textoSimplificado:'Criação de uma animação no computador.',
           textoImpresso:1,
@@ -3615,7 +3615,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_8.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3626,7 +3626,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
