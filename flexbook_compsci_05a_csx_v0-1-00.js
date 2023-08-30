@@ -306,7 +306,7 @@ let livro_csx ={
         textoSimplificado:'Algoritmo com desenho e texto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Alg/img_5.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Alg/img_5_new.png',
         promptImagem:'Desenho preto e branco de um folder de treino, com doze imagens sequenciais mostrando uma figura humana simplificada realizando uma série de exercícios diferentes em uma cadeira. Cada imagem é numerada e apresenta setas ou linhas indicativas para guiar os movimentos', 
         textoDescritivoImagem:'Imagens com uma sequência de exercícios físicos enumerados de 1 até 12.', },
 
@@ -492,7 +492,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3-markus-spiske-218445_pexels.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3_shutterstock_1195050007.png',
         promptImagem:'Foto nítida de um plugue elétrico.', 
         textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
 
@@ -501,7 +501,7 @@ let livro_csx ={
         texto:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1.',
         urlAudioTexto:'',
         textoSimplificado:'Círculo e Fórmula 1',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_4_flickr.jpg',
         promptImagem:'Foto aérea vibrante de um circuito de Fórmula 1: a pista sinuosa e bem marcada se estende à vista, com carros de corrida espalhados ao longo do caminho, representando visualmente a ideia de um circuito na prática real.', 
         textoDescritivoImagem:'Pista de asfalto do circuito de Fórmula 1', },
 
@@ -587,7 +587,7 @@ let livro_csx ={
         texto:'E para isso, começaremos usando os somosBits, pequenos componentes eletrônicos usados para montar circuitos de forma rápida e segura.',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_12.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_12_new.png',
         promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits', 
         textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -596,7 +596,7 @@ let livro_csx ={
         texto:'Cada peça do somosBits, chamada de bit, é como um componente dos circuitos elétricos que existem em nossa casa. Lembram-se do gerador, controlador, condutor e aparelho?',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_13.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_13_new.png',
         promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits', 
         textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -605,7 +605,7 @@ let livro_csx ={
         texto:'Cada bit é colorido para difereniciar a sua função em um circuito elétrico. Geradores possuem uma marcação azul, controladores rosa, condutores laranja e aparelhos verde.',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_14.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_14_new.png',
         promptImagem:'imagem criada com os somosBits, similar a atual com os somosBits - tempo 2:23 do vídeo', 
         textoDescritivoImagem:'Tomada de dois pinos igual ao somosBits gerador na cor azul. Interruptor de luz igual ao somosBits controlador na cor rosa. Monte de fios igual ao somosBits condutora na cor laranja. Lâmpada igual ao somosBits aparelho na cor verde', },
   
@@ -614,7 +614,7 @@ let livro_csx ={
         texto:'E bits podem ser ligados uns aos outros através de imãs para fazermos circuitos rapidamente.',
         urlAudioTexto:'',
         textoSimplificado:'Bits conectados por imã',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_15.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_15_new.png',
         promptImagem:'imagem criada com os somosBits conectados, similar a atual com somosBits - tempo 2:41 do vídeo', 
         textoDescritivoImagem:'bit interrupetor ligado ao bit controlador, que por sua vez, está ligado ao bit aparelho', },
   
@@ -723,7 +723,7 @@ let livro_csx ={
         textoSimplificado:'mBot',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_8.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_8_new.png',
         promptImagem:'Ilustração robô mBot', 
         textoDescritivoImagem:'Robô mBot.', },
 
@@ -823,7 +823,7 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicionais',
 		    textoImpresso:1,
         imagemImpresso:1,
-        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_flickr_edit.jpg',
+        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_shutterstock_715246069.png',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
       ]}},
@@ -879,7 +879,7 @@ let livro_csx ={
         textoSimplificado:'Operadores Lógicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_4.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_4_edit.png',
         promptImagem:'Vista de uma rua movimentada com um semáforo com a luz amarela e um carro parado logo abaixo em frente ao semáforo', 
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
@@ -1015,7 +1015,7 @@ let livro_csx ={
         textoSimplificado:'Órgãos sensoriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_1_translate.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_1_Freepik_edit.jpg',
         promptImagem:'Órgãos sensoriais', 
         textoDescritivoImagem:'Imagem dos órgãos sensoriais: olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1026,7 +1026,7 @@ let livro_csx ={
         textoSimplificado:'Cérebro',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_2_freepik_edit.png',
         promptImagem:'Órgãos sensoriais e cérebro', 
         textoDescritivoImagem:'Imagem do cérebro e ao redor os órgãos sensoriais, olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1037,7 +1037,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_3.JPG',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_3_freepik_edit.png',
         promptImagem:'Sensores eletrônicos',
         textoDescritivoImagem:'Imagens de sensores eletrônicos.', },
 
@@ -1114,7 +1114,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Diversos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_10_freepik_edit.png',
         promptImagem:'Todos os tipos de sensores eletrônicos', 
         textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
       ]}},
@@ -1254,7 +1254,7 @@ let livro_csx ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda? Isso é o que os profissionais chamam de "gameplay".',
+          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda?',
           urlAudioTexto:'',
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
@@ -1265,7 +1265,7 @@ let livro_csx ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando os detalhes imaginados.',
+          texto:'Isso é o que os profissionais chamam de "gameplay". Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando todos os detalhes imaginados.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
@@ -1276,7 +1276,7 @@ let livro_csx ={
   
           {ordem:6,
           predecessor:5,
-          texto:'Nos anos seguintes, eles dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
+          texto:'No entanto, eles também dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
           urlAudioTexto:'',
           textoSimplificado:'Aprimorando a experiência de jogo.',
           textoImpresso:1,
@@ -1287,7 +1287,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Histórias envolventes também são importantes para aprimorar o gameplay dos jogos.',
+          texto:'Muitos criadores de jogos inventam histórias envolventes para cativar os jogadores e, assim, aprimorar o gameplay de seus jogos.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
@@ -1305,7 +1305,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_8.png',
           promptImagem:'Print de uma animação feita em linguagem Scratch.', 
-          textoDescritivoImagem:'Captura de tela de uma animação feita em linguagem Scratch..', },
+          textoDescritivoImagem:'Captura de tela de uma animação feita em linguagem Scratch.', },
       ]}},
 
 
@@ -1446,7 +1446,7 @@ let livro_csx ={
         textoSimplificado:'GIF animado',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_11.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_11_edit.jpg',
         promptImagem:'Print de um app de edição de GIFs, que mostra que o GIF é composto por vários frames.', 
         textoDescritivoImagem:'Frames de um arquivo GIF animado', },
 
@@ -2036,7 +2036,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_1.png',
           promptImagem:'Íconde de uma matriz, que evidencia a existencia de mais de uma linha e mais de uma coluna.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2080,7 +2080,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_5.png',
           promptImagem:'Imagem com uma lista a direita e uma matriz à esquerda, exibindo os nome de todos os alunos de uma escola e os nomes de todos os alunos, de cada turma, uma a uma, com um total de 20 linhas (20 alunos por turma)', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2102,7 +2102,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_7.png',
           promptImagem:'Ícone de um registro, exemplificando uma página de registro de um usuário, em que ele precisa adicionar dados seus em 4 campos.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2113,7 +2113,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_8_shutterstock_1338120284.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_8_new.jpg',
           promptImagem:'Print da página de registro de um usuário em uma rede social como o facebook', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2135,7 +2135,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_10_pexels-luis-gomes-546819.jpg',
           promptImagem:'Imagem em que um programador está acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2411,7 +2411,7 @@ let livro_csx ={
         textoSimplificado:'Números',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_2.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_2_edit.png',
         promptImagem: 'Draw an illustration featuring a teacher, depicting her head. Next to it, draw a blackboard with some simple mathematical operations.', //'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
         textoDescritivoImagem:'Duas imagens, na primeira uma professora e na segunda um quadro negro, em que foram escritas algumas operações matemáticas simples, de somas, subtrações, multiplicações e divisões.', },
 
@@ -3582,7 +3582,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_5.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3593,7 +3593,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_6.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3604,7 +3604,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_7.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3615,7 +3615,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_8.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3626,7 +3626,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3637,7 +3637,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
+        urlImagem:'',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
