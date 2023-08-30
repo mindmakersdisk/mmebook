@@ -2080,7 +2080,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_5.png',
           promptImagem:'Imagem com uma lista a direita e uma matriz à esquerda, exibindo os nome de todos os alunos de uma escola e os nomes de todos os alunos, de cada turma, uma a uma, com um total de 20 linhas (20 alunos por turma)', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2102,7 +2102,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_7.png',
           promptImagem:'Ícone de um registro, exemplificando uma página de registro de um usuário, em que ele precisa adicionar dados seus em 4 campos.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2113,7 +2113,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_8_shutterstock_1338120284.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_8_new.jpg',
           promptImagem:'Print da página de registro de um usuário em uma rede social como o facebook', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2135,7 +2135,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_10_pexels-luis-gomes-546819.jpg',
           promptImagem:'Imagem em que um programador está acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
           textoDescritivoImagem:'TODO.', },
   
