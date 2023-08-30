@@ -879,7 +879,7 @@ let livro_csx ={
         textoSimplificado:'Operadores Lógicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_4.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_4_edit.png',
         promptImagem:'Vista de uma rua movimentada com um semáforo com a luz amarela e um carro parado logo abaixo em frente ao semáforo', 
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
@@ -2411,7 +2411,7 @@ let livro_csx ={
         textoSimplificado:'Números',
         textoImpresso:0,
         imagemImpresso:0,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_2.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_2_edit.png',
         promptImagem: 'Draw an illustration featuring a teacher, depicting her head. Next to it, draw a blackboard with some simple mathematical operations.', //'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
         textoDescritivoImagem:'Duas imagens, na primeira uma professora e na segunda um quadro negro, em que foram escritas algumas operações matemáticas simples, de somas, subtrações, multiplicações e divisões.', },
 
