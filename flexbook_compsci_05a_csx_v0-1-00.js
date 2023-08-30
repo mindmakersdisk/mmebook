@@ -1160,7 +1160,7 @@ let livro_csx ={
         textoSimplificado:'Personagens e Fantasias',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_3.png',
         promptImagem:'Personagem e suas fantasias no ambiente mmScratch', 
         textoDescritivoImagem:'Personagem e suas fantasias no ambiente mmScratch.', },
 
