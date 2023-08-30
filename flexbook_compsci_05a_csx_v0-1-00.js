@@ -1435,7 +1435,7 @@ let livro_csx ={
         textoSimplificado:'GIF animado',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_11.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_11_edit.jpg',
         promptImagem:'Print de um app de edição de GIFs, que mostra que o GIF é composto por vários frames.', 
         textoDescritivoImagem:'Frames de um arquivo GIF animado', },
 
