@@ -823,7 +823,7 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicionais',
 		    textoImpresso:1,
         imagemImpresso:1,
-        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_flickr_edit.jpg',
+        urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_shutterstock_715246069.png',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
       ]}},
