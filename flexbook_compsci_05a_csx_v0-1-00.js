@@ -1015,7 +1015,7 @@ let livro_csx ={
         textoSimplificado:'Órgãos sensoriais',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_1_translate.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_1_Freepik_edit.jpg',
         promptImagem:'Órgãos sensoriais', 
         textoDescritivoImagem:'Imagem dos órgãos sensoriais: olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1026,7 +1026,7 @@ let livro_csx ={
         textoSimplificado:'Cérebro',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_2_freepik_edit.png',
         promptImagem:'Órgãos sensoriais e cérebro', 
         textoDescritivoImagem:'Imagem do cérebro e ao redor os órgãos sensoriais, olhos, ouvidos, boca, nariz e pele.', },
 
@@ -1037,7 +1037,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_3.JPG',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_3_freepik_edit.png',
         promptImagem:'Sensores eletrônicos',
         textoDescritivoImagem:'Imagens de sensores eletrônicos.', },
 
@@ -1114,7 +1114,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Diversos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_10.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_10_freepik_edit.png',
         promptImagem:'Todos os tipos de sensores eletrônicos', 
         textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
       ]}},
