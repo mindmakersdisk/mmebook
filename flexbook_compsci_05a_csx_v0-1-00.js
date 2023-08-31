@@ -1226,7 +1226,7 @@ let livro_csx ={
           textoSimplificado:'Videogames famosos como o Minecraft e o Super Mario Bros.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_1_flickr.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_1.jpg',
           promptImagem:'Fotos de feira de games que contenham equipes de produtores ou vendedores e apresenta banners e telas de TV ou computadores que estão exibindo uma versão do Jogo Super Mario Bros. ou do Jogo Minecraft.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1248,7 +1248,7 @@ let livro_csx ={
           textoSimplificado:'Planejamento de um jogo.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_3_freepik.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_3.jpg',
           promptImagem:'Foto de um desenhista, trabalhando em um prancheta enquanto esboça os mínimos detalhes de um cenário complexo e belo.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -1259,7 +1259,7 @@ let livro_csx ={
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_4_wallpaper_flare.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_4.jpg',
           promptImagem:'Fotos de jogos famosos, sendo jogados por fans, com expressão de profunda apreciação ou concentração enquanto jogam.', 
           textoDescritivoImagem:'TODO.', },
   
