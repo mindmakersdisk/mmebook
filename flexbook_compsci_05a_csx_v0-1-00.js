@@ -1574,7 +1574,7 @@ let livro_csx ={
         textoSimplificado:'Fotos editadas de um pai, uma mãe e o filho deles',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_6.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_6.jpg',
         promptImagem:'Foto de um pai, uma mãe e o filho deles, ao lado de uma imagem editada digitalmente, em que as cabeças do pai, da maãe e do filho foram inseridas no corpo de três personagem 3D', 
         textoDescritivoImagem:'Imagem de uma foto digital de uma família, composta pelo pai, pela  mãe e pelo filho deles. Ao lado da foto, há uma imagem editada digitalmente, que está sendo exibida no monitor de um computador, em que as cabeças do pai, da maãe e do filho foram inseridas no corpo de três personagem 3D de um jogo de computador.', },
 
