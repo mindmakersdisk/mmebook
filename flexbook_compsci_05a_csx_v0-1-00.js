@@ -1292,7 +1292,7 @@ let livro_csx ={
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_7_flickr.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img_7.jpg',
           promptImagem:'Imagens de jogos famosos por suas histórias envolventes, como o Fanal Fantasy (Arcade) e o Chrono Cross do PlayStation.', 
           textoDescritivoImagem:'TODO.', },
 
@@ -1551,7 +1551,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_4.jpg',
-        promptImagem:'Create an ultra-realistic image of a photographer transferring a photo from a digital camera to the memory of a notebook. In the illustration, the photographer is a Hispanic man with gray hair and a goatee. Highlight the details of the electronic devices. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches.',
+        promptImagem:'Create an ultra-realistic image: a digital camera on a table, displaying a photo of a woman on its screen. On the same table, an all-in-one computer shows the same image. Highlight details of the devices with vibrant colors and soft lighting. Take inspiration from renowned artists and add unique touches.',
         //promptImagem:'Foto de um fotográfo, transferindo um foto de uma câmera digital para a memória de um notebook',
         textoDescritivoImagem:'Imagem de um fotográfo, que conectou uma câmera digital a um notebook atráves de um cabo USB C para transferir uma foto que está na memória da câmera para a memória do notebook.', },
 
@@ -1563,7 +1563,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_5.jpg',
-        promptImagem:`Create an ultra-realistic image of a beautiful Japanese model with straight black hair, no makeup, next to the edited image of this photo where digital effects have been applied to lighten the image, remove freckles and facial expression marks, and apply makeup to her eyes and lips. Highlight the physical details of the model's face. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches.`,
+        promptImagem:`Create an ultra-realistic image of a beautiful Japanese model with straight black hair, no makeup, next to the edited image of this photo where digital effects have been applied to lighten the image, remove freckles and facial expression marks, and apply makeup to her eyes and lips. Highlight the physical details of the model's face. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches<p>Edit the reference image, removing all makeup, including lipstick, gloss, blush, and eye and lip colors.`,
         //promptImagem:'Foto de perfil de uma bela atriz, não maquiada, ao lado da imagem editada dessa foto, em que foram aplicados efeitos digitais para clarear a imagem, remover sardas e marcas de expressões faciais e aplicar maquiagem em seus olhos e boca<p>Foto de um jovem, se equilibrando com os dois pés sobre o tronco de uma árvore, ao lado da imagem editada a partir dessa foto, em que o jovem de dimensões gigantescas que está sobre um arranha-céu em Nova Iorque.', 
         textoDescritivoImagem:'Duas imagens. A primeira exibe a foto de perfil de uma bela atriz, que não está maquiada. Ao lado dessa foto, há uma imagem editada a partir da foto, em que foram aplicados efeitos digitais para clarear a fato, para remover sardas e marcas de expressões faciais e para aplicar maquiagem ao redor de seus olhos e em sua boca. A segunda imagem exibe a foto de um jovem, se equilibrando com os dois pés sobre o tronco de uma árvore. Ao lado dessa foto, há imagem editada a partir dessa foto, em que o jovem aparenta possuir dimensões gigantescas e está se equilibrando com os dois pés sobre um dos arranha-céus de Nova Iorque.', },
 
@@ -1597,8 +1597,8 @@ let livro_csx ={
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_8.png',
-        promptImagem:'Create an image featuring two women against a vibrant yellow background. The woman on the right is slender and beautiful, with a smile on her face, wearing a purple shirt. The second woman is also beautiful, and has a slight expression of sadness and is wearing a yellow shirt that closely resembles the color of the background wall. Highlight the physical details of the faces of both individuals. Use vivid colors and soft lighting, drawing inspiration from renowned artists and adding unique touches to the composition.',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_8.jpg',
+        promptImagem:'Create an image featuring two women against a vibrant yellow background. The woman on the right is slender and beautiful, with a smile on her face, wearing a purple shirt. The second woman is also beautiful, and has a slight expression of sadness and is wearing a yellow shirt that closely resembles the color of the background wall. Highlight the physical details of the faces of both individuals. Use vivid colors and soft lighting, drawing inspiration from renowned artists and adding unique touches to the composition.<p>A picturesque landscape of a waterfall surrounded by a lush forest, with a rainbow of colors in the sky.',
         //promptImagem:'Captura de tela de um programa de edição de imagens, em que o fundo amarelo de uma fotografia está sendo removido através do uso de uma ferramenta chamada "varinha mágica"', 
         textoDescritivoImagem:'Imagem de uma captura de tela, que está exibindo a tela de um programa de edição de imagens em que o fundo amarelo de uma fotografia está sendo removido através do uso da ferramenta chamada "varinha mágica".', },
       ]}},
