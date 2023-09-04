@@ -3088,7 +3088,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_3.jpg',
-        promptImagem:'Create a colorful pixel art scene inspired by the iconic Mario Bros game. The scene should include characters like Mario, power-ups like mushrooms or stars, and the iconic brick blocks and tubes, against a backdrop of the games classic blue sky with cloud',  
+        promptImagem:'Create a colorful pixel art.',  
         textoDescritivoImagem:'Imagem do jogo Mario Bros com pixels.', },
 
         {ordem:4,
@@ -3109,8 +3109,8 @@ let livro_csx ={
         textoSimplificado:'Cores Primárias',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_5.jpg',
-        promptImagem:'Create a digital art depiction of three separate paint buckets, each filled with one of the primary colors: red, yellow, and blue', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_5.jpeg',
+        promptImagem:'', //'Create a digital art depiction of three separate paint buckets, each filled with one of the primary colors: red, yellow, and blue', 
         textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta azul, o segundo com tinta verde e o último tubo com tinta vermelha.', },
 
         {ordem:6,
