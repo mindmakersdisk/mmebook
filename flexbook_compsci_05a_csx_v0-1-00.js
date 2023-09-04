@@ -2311,8 +2311,8 @@ let livro_csx ={
         textoSimplificado:'Sistemas computacionais.',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_1.jpg',
-        promptImagem:'Create a 2D illustration with depth that resembles a 3D real industrial robot<p>Create a 2D illustration with depth that resembles a 3D personal computer', //'Imagem de um computador<p>Imagem de um robô',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_1.jpeg',
+        promptImagem:'A detailed ink black and white illustration of a personal moder all in one computer, with realistic detail and a unique perspective. Use thick strokes to highlight parts of the computer, namely the all-in-one desktop, keyboard and mouse. Use white background.',
         textoDescritivoImagem:'Duas imagens, na primeira um computador e na segunda um robô humanóide.', },
 
         {ordem:2,
@@ -2401,7 +2401,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_1.jpg',
-        promptImagem:'Imagem de uma televisão, exibindo um texto, em um ambiente futurista, em tons de azul e roxo. Ao fundo da imagem, estão escritas sequências de zeros e uns no ar',
+        promptImagem:'A all-in-one computer sits in the center, neon-lit room, its black casing illuminated by a glowing blue and purple light. Binary code streams through the air, creating a mesmerizing backdrop.',
         textoDescritivoImagem:'Imagem de uma televisão, exibindo um texto.', },
 
         {ordem:2,
@@ -2867,8 +2867,8 @@ let livro_csx ={
         textoSimplificado:'Anúncios online',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_3.png',
-        promptImagem:'Create an illustration in shades of cyan, red, purple, black, or white, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that offer advertisements through HTTP cookies. Include a video site, a social network, an email inbox, and an e-commerce website.', //'Foto de anúncio exibido em um site de vídeos<p>Foto de anúncios exibidos em uma rede social<p>Foto de anúncio exibido na caixa de entrada de e-mails<p>Foto de anúncios exibidos na barra lateral de um site de e-commerce<p>Foto de uma pessoa bem expressiva, de boca aberta, apontando para cima',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_3.jpg',
+        promptImagem:'Create a 2D illustration with a 3D isometric perspective, in shades of white, predominantly cyan and purple, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that deliver advertisements through HTTP cookies. Include a video site, a social network, an email inbox, an e-commerce website, and a professional sitting in front of a personal computer.',//'Create an illustration in shades of cyan, red, purple, black, or white, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that offer advertisements through HTTP cookies. Include a video site, a social network, an email inbox, and an e-commerce website.'
         textoDescritivoImagem:'Imagem com várias fotos de anúncios exibidos em sites de vídeos, redes sociais, caixa de entrada de e-mails e barra lateral de sites de e-commerce. Ao lado dessas fotos, uma pessoa está apontando para os anúncios, perguntando se você já reparou que muitas vezes recebe anúncios do seu interesse, mesmo antes de fazer login ou informar suas preferências.', },
 
         {ordem:4,
