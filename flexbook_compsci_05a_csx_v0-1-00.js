@@ -2459,7 +2459,7 @@ let livro_csx ={
         textoSimplificado:'Código secreto',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_6.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_6.jpg',
         promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
         textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
 
