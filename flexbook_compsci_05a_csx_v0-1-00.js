@@ -2621,8 +2621,8 @@ let livro_csx ={
         textoSimplificado:'Sistema binário',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_1.jpg',
-        promptImagem:'Diagrama ilustrativo do armazenamento de um computador, em que ilustrações de um documento impresso, uma câmera digital, notas musicais e uma filmadora estão apontando para um computador e o computador está apontando para números binários',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_1.jpeg',
+        promptImagem: 'minimalistic vector art, a printed document, a digital camera, musical notes, and a camcorder pointing towards a computer',//'Create a digital painting inspired by van Gogh. Illustrate a printed document, a digital camera, musical notes, and a camcorder pointing towards a computer, all against a backdrop filled with binary numbers. Use loose brushes to capture motion and manipulate light and colors. The image should depict how computers store text, numbers, images, photos, sounds, and videos in binary code.',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de dados de um computador. No diagrama, há figuras de um documento impresso, de uma câmera digital, de notas musicais e de uma filmadora, que estão apontando, por meio de setas, para um computador. Por sua vez, o computador está apontando para alguns números binários.', },
 
         {ordem:2,
@@ -2632,8 +2632,8 @@ let livro_csx ={
         textoSimplificado:'Transistores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_2.jpg',
-        promptImagem:'Foto de um transistor, com um brilho amarelo ao redor, indicando que está energinzado<p>Foto do mesmo transistor, sem brilho ou qualquer cor de fundo, indicando que está desenergizado', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_2.jpeg',
+        promptImagem:'minimalistic vector art, eletronic transistor', //'Foto de um transistor, com um brilho amarelo ao redor, indicando que está energinzado<p>Foto do mesmo transistor, sem brilho ou qualquer cor de fundo, indicando que está desenergizado', 
         textoDescritivoImagem:'Duas imagens. Na primeira, a foto de um transistor, com um brilho amarelo ao redor, para indicar que esté energinzado. Ao lado da foto, há um texto, em que está escrito que o valor lógico o transistor ligado é igual a "1". Na segunda, a foto de um transistor, sem brilho ao redor, para indicar que não está energinzado. Ao lado da foto, há um texto, em que está escrito que o valor lógico o transistor desligado é igual a "0".', },
 
         {ordem:3,
@@ -2643,8 +2643,8 @@ let livro_csx ={
         textoSimplificado:'Tamanho em formato digital de uma música de 3 minutos duração',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_3.png',
-        promptImagem:'Diagrama ilustrativo do armazenamento de uma música em formato digital na memória de um computador, em que ilustrações de notas musicais estão apontando para textos, em que está escrito "16 bits" e "3 minutos", e esses textos estão apontando para outro texto, em que está escrito "30 MB"',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_3.jpeg',
+        promptImagem:'minimalistic vector art, digital music icon', //'Diagrama ilustrativo do armazenamento de uma música em formato digital na memória de um computador, em que ilustrações de notas musicais estão apontando para textos, em que está escrito "16 bits" e "3 minutos", e esses textos estão apontando para outro texto, em que está escrito "30 MB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de uma música em formato digital na memória de um computador. No diagrama, há ilustrações de notas musicais, que estão apontando, por meio de setas, para dois textos, que indicam que a música possui qualidade de 16 bits e uma duração de 3 minutos. Por sua vez, esses textos estão apontando para outro texto, que indica que música ocupa 30 MB na espaço da memória do computador.', },
 
         {ordem:4,
@@ -2654,8 +2654,8 @@ let livro_csx ={
         textoSimplificado:'Tamanho em formato digital de uma vídeo de 60 minutos duração',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_4.png',
-        promptImagem:'Diagrama ilustrativo do armazenamento de uma vídeo em formato digital na memória de um computador, em que uma ilustração de uma filmadora de está apontando para textos, em que está escrito "HD" e "60 minutos", e esses textos estão apontando para outro texto, em que está escrito "800 GB"',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_4.jpeg',
+        promptImagem: 'minimalistic vector art, digital hd video icon, illustration',//'Diagrama ilustrativo do armazenamento de uma vídeo em formato digital na memória de um computador, em que uma ilustração de uma filmadora de está apontando para textos, em que está escrito "HD" e "60 minutos", e esses textos estão apontando para outro texto, em que está escrito "800 GB"',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de um vídeo em formato digital na memória de um computador. No diagrama, há uma ilustrações de uma filmadora, que está apontando, por meio de setas, para dois textos, que indicam que a vídeo filmado possui qualidade HD e uma duração de 60 minutos. Por sua vez, esses textos estão apontando para outro texto, que indica que vídeo ocupa 800 GB na espaço da memória do computador.', },
 
         {ordem:5,
