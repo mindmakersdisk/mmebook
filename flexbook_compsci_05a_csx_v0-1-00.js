@@ -474,8 +474,10 @@ let livro_csx ={
         textoSimplificado:'Eletricidade em nossas vidas e Circuito elétrico',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1.jpg',
-        promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
+        //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1.jpg',
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1_new.jpg',
+        //promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
+		promptImagem:'Realistic photo of a laptop, a robot, and an electronic board placed side by side on a desk. Wires and circuits subtly highlight their interconnectedness. The setting is meant to introduce a book chapter on electrical circuits. ', 
         textoDescritivoImagem:'Laptop, braço robotizado, celular, circuito elétrico simples demonstrando uma pilha acendendo uma lâmpada.', },
               
         {ordem:2,
@@ -771,7 +773,7 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
         promptImagem:'car in red ligth traffic', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -802,9 +804,9 @@ let livro_csx ={
         texto:'Usamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir: <p><code>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"</code><br/>Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito.',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
-	      textoImpresso:1,
+	    textoImpresso:1,
         imagemImpresso:1,
-		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
         promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
         textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
@@ -813,9 +815,9 @@ let livro_csx ={
         texto:'Para escrever condições, muitas vezes pegamos sinais emprestados da matemática. São os chamados operadores relacionais. Os sinais de operadores mais comuns são: <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code>Se "local atual = centro" <br/>&nbsp;&nbsp;&nbsp;então "pare" <br/>Se "velocidade do carro > 80 km" <br/>&nbsp;&nbsp;&nbsp;então "diminua a velocidade" <br/>Se "combustível do carro < 2 litros" <br/>&nbsp;&nbsp;&nbsp;então "coloque combustível"</code>',
         urlAudioTexto:'',
         textoSimplificado:'Sinais da Matemática',
-	      textoImpresso:1,
+	    textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6-Darkmoon_Art-Pixbay.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6_shutterstock_716607445_edit.jpg',//banco de imagens pago
         promptImagem:'Create a realistic image of a highway with cars driving on it and road signs indicating the maximum speed limit. The scene should depict cars traveling and the speed limit signs clearly visible.', 
         textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
 
@@ -855,7 +857,7 @@ let livro_csx ={
   
         {ordem:2,
         predecessor:1,
-        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo _ chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos _ chamados de <b>operadores relacionais</b> _, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/></code>',
+        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos chamados de <b>operadores relacionais</b>, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/></code>',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
