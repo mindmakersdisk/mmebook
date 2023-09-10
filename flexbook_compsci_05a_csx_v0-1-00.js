@@ -19,7 +19,7 @@ let livro_csx ={
 
   // dados de adaptação
   versaoAdaptacao:'',
-  nomeAdaptacaoo: '',
+  nomeAdaptacao: '',
   autoresAdaptacao:[],
   local:'',
   escola:'',
