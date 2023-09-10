@@ -366,8 +366,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_1.jpg',
-        promptImagem:'Realistic art of a continuous loop on a whiteboard, with representative symbols or diagrams of steps in an algorithm cycling along the loop. This image should visually convey the concept of a loop in programming, which involves repeating certain steps.', 
-        textoDescritivoImagem:'Duas setas curvas formando um círculo. A seta localizada na parte superior do cículo  aponta para baixo e a seta localizada na parte inferior do círculo aponta para cima', },
+        promptImagem:'Realistic art portraying an infinity symbol.', 
+        textoDescritivoImagem:'Imagem do infinito.', },
 
         {ordem:2,
         predecessor:1,
@@ -377,8 +377,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_2.png',
-        promptImagem:'Realistic art of a child instructing a small robot shaped like a pen to draw a square on a piece of paper. Next to them, a list of commands written in a loop format is visible, illustrating the steps the robot takes to repeatedly draw the square under the child guidance.', 
-        textoDescritivoImagem:'Criança ensinando uma caneta robô a desenhar um quadrado.', },
+        promptImagem:'Realistic art showing a digital conveyor belt originating from a computer, where lines of code transform into tasks, circling back to be processed again, representing the repetitive nature of programming loops.', 
+        textoDescritivoImagem:'Uma espiral com pequenas imagens para demonstrar o potencial da programação em laços.', },
 
         {ordem:3,
         predecessor:2,
@@ -388,19 +388,19 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_3.jpg',
-        promptImagem:'Realistic art of a robotic pen actively drawing a beautiful, intricate flower with numerous petals on a piece of paper. The robotic pen design should hint at advanced technology, as it gracefully constructs the complex floral pattern.', 
-        textoDescritivoImagem:'Uma caneta robô desenhando uma flor com várias pétalas.', },
+        promptImagem:'A flower designed based on the result of the code.org artist program.', 
+        textoDescritivoImagem:'Uma flor com padrão de pétalas elípticas remetendo ao conceito de diversos laços.', },
 
         {ordem:4,
         predecessor:3,
-        texto:'Um laço pode envolver vários comandos que são repetidos juntos. Por exemplo, ao desenvolver um jogo de videogame que simula as regras de trânsito, quando o sinal para veículos está vermelho, o sinal para os pedestres está verde e um sinal sonoro também é emitido para pessoas com dificuldades visuais.',//OLD - Por exemplo: no vídeo do relógio cuco, note quantas coisas se repetem juntas demonstrando que todas elas estão dentro do laço.
+        texto:'Um laço pode envolver vários comandos que são repetidos juntos. Por exemplo, ao desenvolver um jogo de videogame que simula as regras de trânsito, quando o sinal para veículos está vermelho, o sinal para os pedestres está verde e um sinal sonoro também é emitido para pessoas com dificuldades visuais.',
         urlAudioTexto:'',
         textoSimplificado:'Vários comandos',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_4.jpg',
-        promptImagem:'Realistic digital art showing four scenes in one: a traditional cuckoo clock at 11:59, cuckoo appearing at 12:00, the same moment with arrows highlighting actions (cuckoo, chime, hands), and finally the clock at 12:01.', 
-        textoDescritivoImagem:'Relógio cuco fechado marcando 11:59. Relógio cuco aberto marcando meio dia. Relógio cuco fechado marcando 12:01.', },
+        promptImagem:'IMG 1 realistic image of a red signal for vehicles; IMG 2 realistic image of a green light for pedestrians; IMG 3 Realistic image of an audible pedestrian signal device at a crosswalk, activated to assist visually impaired individuals.', 
+        textoDescritivoImagem:'três imagens, sendo a primeira de um semáforo de automóveis com a luz vermelha acesa, a segunda imagem, o semáforo de pedestre verde, e a terceira imagem uma faixa de pedestre destacando o dispositivo sonoro de semáforo', },
 
         {ordem:5,
         predecessor:4,
@@ -474,8 +474,10 @@ let livro_csx ={
         textoSimplificado:'Eletricidade em nossas vidas e Circuito elétrico',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1.jpg',
-        promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
+        //urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1.jpg',
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1_new.jpg',
+        //promptImagem:'Foto apresentando lado a lado um laptop moderno, um braço robótico detalhado e um smartphone atual. Abaixo deles, centralizado, há a imagem de um circuito elétrico simples com uma pilha, fios condutores e uma lâmpada acesa, simbolizando a base da eletrônica. ', 
+		promptImagem:'Realistic photo of a laptop, a robot, and an electronic board placed side by side on a desk. Wires and circuits subtly highlight their interconnectedness. The setting is meant to introduce a book chapter on electrical circuits. ', 
         textoDescritivoImagem:'Laptop, braço robotizado, celular, circuito elétrico simples demonstrando uma pilha acendendo uma lâmpada.', },
               
         {ordem:2,
@@ -771,7 +773,7 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
         promptImagem:'car in red ligth traffic', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -802,9 +804,9 @@ let livro_csx ={
         texto:'Usamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir: <p><code>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"</code><br/>Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito.',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
-	      textoImpresso:1,
+	    textoImpresso:1,
         imagemImpresso:1,
-		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
+		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
         promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
         textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
@@ -813,9 +815,9 @@ let livro_csx ={
         texto:'Para escrever condições, muitas vezes pegamos sinais emprestados da matemática. São os chamados operadores relacionais. Os sinais de operadores mais comuns são: <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code>Se "local atual = centro" <br/>&nbsp;&nbsp;&nbsp;então "pare" <br/>Se "velocidade do carro > 80 km" <br/>&nbsp;&nbsp;&nbsp;então "diminua a velocidade" <br/>Se "combustível do carro < 2 litros" <br/>&nbsp;&nbsp;&nbsp;então "coloque combustível"</code>',
         urlAudioTexto:'',
         textoSimplificado:'Sinais da Matemática',
-	      textoImpresso:1,
+	    textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6-Darkmoon_Art-Pixbay.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6_shutterstock_716607445_edit.jpg',//banco de imagens pago
         promptImagem:'Create a realistic image of a highway with cars driving on it and road signs indicating the maximum speed limit. The scene should depict cars traveling and the speed limit signs clearly visible.', 
         textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
 
@@ -855,7 +857,7 @@ let livro_csx ={
   
         {ordem:2,
         predecessor:1,
-        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo _ chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos _ chamados de <b>operadores relacionais</b> _, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/></code>',
+        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos chamados de <b>operadores relacionais</b>, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/></code>',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
@@ -888,7 +890,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:.<p><code>Se "hora = 06h00" <br/>&nbsp;&nbsp; então <br/>&nbsp;&nbsp;&nbsp;&nbsp; Se "dia = sábado" ou "dia = domingo" <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então "posso dormir um pouco mais"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; senão "ir à escola"<br/></code>',
+        texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:<p><code>Se "hora = 06h00" <br/>&nbsp;&nbsp; então <br/>&nbsp;&nbsp;&nbsp;&nbsp; Se "dia = sábado" ou "dia = domingo" <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então "posso dormir um pouco mais"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; senão "ir à escola"<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -2770,7 +2772,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_3.jpg',
-        promptImagem:'Ilustração colorida mostrando jovens interagindo respeitosamente online. Eles estão cercados por símbolos digitais e palavras como Respeito, Privacidade e Responsabilidade, destacando o conceito de ética digital.',
+        promptImagem:'Ilustração vibrante com silhuetas estilizadas de crianças utilizando dispositivos eletrônicos. Ao redor, ícones de aplicativos de comunicação, intercalados por símbolos claros de ✔ (permissão) e ✖ (proibição).',
         textoDescritivoImagem:'Ética Digital.', },
 
         {ordem:4,
@@ -2825,7 +2827,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_8.jpg',
-        promptImagem:'Ilustração colorida de um adolescente segurando uma chave brilhante composta por ícones de comunicação. A chave se encaixa em um globo digital, simbolizando o sucesso na rede mundial através da comunicação ética.', 
+        promptImagem:'Ilustração colorida e vibrante de jovens ao redor do globo se comunicando. Apresente ícones de comunicação e ética.', 
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
       ]}},
