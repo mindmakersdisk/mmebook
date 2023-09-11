@@ -442,7 +442,7 @@ let livro_csx ={
         textoSimplificado:'Laços Alinhados',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_2-1_new.jpg',
         promptImagem:'Comando repita em linguagem de bloco com três execuções', 
         textoDescritivoImagem:'Comando repita em linguagem de bloco com três execuções.', },
 
