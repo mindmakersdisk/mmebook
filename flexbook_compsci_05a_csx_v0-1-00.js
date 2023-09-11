@@ -201,7 +201,7 @@ let livro_csx ={
         texto:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
         textoSimplificado:'Computadores embutidos',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14-3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_13_new.jpg',
         promptImagem:'Digital art displaying various everyday objects such as a car, refrigerator, and watch, each glowing with vibrant tech icons like microchips, code brackets, and gears. These icons emanate from the objects, symbolizing the embedded computers that enhance their functionality, illustrating their transformation into smart devices.', 
         textoDescritivoImagem:'Imagem com diferentes ícones relacionados à tecnologia', },
   
@@ -213,7 +213,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia. E prepare-se, em um futuro próximo, também encontraremos computadores em roupas, móveis, sapatos. <p>Enfim, em todas as coisas!',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_15.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14_new.jpg',
         promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
         textoDescritivoImagem:'Sapatos futurísticos, com computadores embutidos', },
   
