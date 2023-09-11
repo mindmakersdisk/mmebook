@@ -3167,8 +3167,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Imagem de um líder tribal, contando uma história em roda, a noite, aquecida por um fogueira.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_1.jpeg',
+        promptImagem:'spectacular image of a tribe gathered around a fire in one night. . Image with good lighting and vibrant colors, photo', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3178,8 +3178,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'Print de filme de animação computadorizada famoso.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_2.jpeg',
+        promptImagem:'tropical vector illustration of a cute adventure of a trastronaut, compositions inspired by space, dark and moody landscapes, rounded space landscapes, 3d render', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3189,7 +3189,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_3.jpeg',
         promptImagem:'Imagem de animação feita em Scratch, em que o usuário pode participar, para que a história animada siga em uma "direção" ou "outra".', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3543,7 +3543,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_1.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3554,7 +3554,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_2.jpg',
         promptImagem:'TODO', 
         textoDescritivoImagem:'TODO.', },
 
@@ -3565,8 +3565,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_3.jpg',
+        promptImagem:'A cute imagem that represents an automated irrigation system, which senses through sensors a change to rainy weather to turn off artificial irrigation in a raining day', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:4,
@@ -3577,7 +3577,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'',
-        promptImagem:'TODO', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_4.jpg',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:5,
@@ -3675,8 +3675,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'TODO', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_13.jpg',
+        promptImagem:'A cute imagem from a scientist studying the climate, surrounded by a flurry of data and charts, making predictions about the future of the environment.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:14,
