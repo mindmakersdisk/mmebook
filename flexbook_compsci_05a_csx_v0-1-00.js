@@ -365,7 +365,7 @@ let livro_csx ={
         textoSimplificado:'Laço em Algoritmos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_1_new.jpg',
         promptImagem:'Realistic art portraying an infinity symbol.', 
         textoDescritivoImagem:'Imagem do infinito.', },
 
@@ -376,7 +376,7 @@ let livro_csx ={
         textoSimplificado:'Laço',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_2.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_2_new.jpg',
         promptImagem:'Realistic art showing a digital conveyor belt originating from a computer, where lines of code transform into tasks, circling back to be processed again, representing the repetitive nature of programming loops.', 
         textoDescritivoImagem:'Uma espiral com pequenas imagens para demonstrar o potencial da programação em laços.', },
 
@@ -387,8 +387,8 @@ let livro_csx ={
         textoSimplificado:'Laços são poderosos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_3.jpg',
-        promptImagem:'A flower designed based on the result of the code.org artist program.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_3_new.jpg',
+        promptImagem:'Digital drawing of a basic flower using simple, unshaded elliptical strokes. The entire flower should be of a single color.', 
         textoDescritivoImagem:'Uma flor com padrão de pétalas elípticas remetendo ao conceito de diversos laços.', },
 
         {ordem:4,
@@ -398,8 +398,8 @@ let livro_csx ={
         textoSimplificado:'Vários comandos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_4.jpg',
-        promptImagem:'IMG 1 realistic image of a red signal for vehicles; IMG 2 realistic image of a green light for pedestrians; IMG 3 Realistic image of an audible pedestrian signal device at a crosswalk, activated to assist visually impaired individuals.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_4_new.jpg',
+        promptImagem:'Composta por banco de imagens', 
         textoDescritivoImagem:'três imagens, sendo a primeira de um semáforo de automóveis com a luz vermelha acesa, a segunda imagem, o semáforo de pedestre verde, e a terceira imagem uma faixa de pedestre destacando o dispositivo sonoro de semáforo', },
 
         {ordem:5,
@@ -826,7 +826,7 @@ let livro_csx ={
         texto:'Mas e quanto ao sinal amarelo? Como será que representamos esse sinal por meio de condicionais?<p>Deixaremos para aprender isso na próxima lição. Até lá, aproveite para praticar muito a programação com condicionais e operadores relacionais!',
         urlAudioTexto:'',
         textoSimplificado:'Expressão Lógica e Condicionais',
-		    textoImpresso:1,
+		textoImpresso:1,
         imagemImpresso:1,
         urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_shutterstock_715246069.png',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
@@ -917,9 +917,9 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicional',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_7.jpg',
-        promptImagem:'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
-        textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_shutterstock_2117681789.jpg',
+        promptImagem:'Banco de imgaens', 
+        textoDescritivoImagem:'Uma mulher sentada na cadeira de escritório olhando para frete entusiasmada e ao lado a mesa com computador e duas telas com código de programação.', },
       ]}},			
       
   },
@@ -1075,7 +1075,7 @@ let livro_csx ={
         textoSimplificado:'Sensores de Tato',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_6-FreePik.jpg',
         promptImagem:'Tela do smartphone sendo tocada e um aplicativo abrindo', //enviar ao ilustrador vídeo 1:48
         textoDescritivoImagem:'Uma pessoa tocando no ícone de um aplicativo na tela de um celular e o aplicativo sendo aberto respondendo ao toque.', },
 
@@ -1097,7 +1097,7 @@ let livro_csx ={
         textoSimplificado:'Sensor Olfato e Paladar',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_8-FreePik.jpg',
         promptImagem:'Cheiro chegando ao nariz de uma pessoa', 
         textoDescritivoImagem:'Cheiro chegando ao nariz de uma pessoa.', },
 
@@ -2771,7 +2771,7 @@ let livro_csx ={
         textoSimplificado:'Ética Digital',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_3_new.jpg',
         promptImagem:'Ilustração vibrante com silhuetas estilizadas de crianças utilizando dispositivos eletrônicos. Ao redor, ícones de aplicativos de comunicação, intercalados por símbolos claros de ✔ (permissão) e ✖ (proibição).',
         textoDescritivoImagem:'Ética Digital.', },
 
@@ -2826,7 +2826,7 @@ let livro_csx ={
         textoSimplificado:'Sucesso na rede',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_8_new.jpg',
         promptImagem:'Ilustração colorida e vibrante de jovens ao redor do globo se comunicando. Apresente ícones de comunicação e ética.', 
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
