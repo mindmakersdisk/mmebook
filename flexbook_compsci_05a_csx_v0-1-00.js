@@ -398,7 +398,7 @@ let livro_csx ={
         textoSimplificado:'Vários comandos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_4_new.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_4_nova.png',
         promptImagem:'Composta por banco de imagens', 
         textoDescritivoImagem:'três imagens, sendo a primeira de um semáforo de automóveis com a luz vermelha acesa, a segunda imagem, o semáforo de pedestre verde, e a terceira imagem uma faixa de pedestre destacando o dispositivo sonoro de semáforo', },
 
@@ -917,7 +917,7 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicional',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_shutterstock_2117681789.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_shutterstock_2117681789.png',
         promptImagem:'Banco de imgaens', 
         textoDescritivoImagem:'Uma mulher sentada na cadeira de escritório olhando para frete entusiasmada e ao lado a mesa com computador e duas telas com código de programação.', },
       ]}},			
@@ -1075,8 +1075,8 @@ let livro_csx ={
         textoSimplificado:'Sensores de Tato',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_6-FreePik.jpg',
-        promptImagem:'Tela do smartphone sendo tocada e um aplicativo abrindo', //enviar ao ilustrador vídeo 1:48
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_6_new_freepik.png',
+        promptImagem:'Tela do smartphone sendo tocada e um aplicativo abrindo', 
         textoDescritivoImagem:'Uma pessoa tocando no ícone de um aplicativo na tela de um celular e o aplicativo sendo aberto respondendo ao toque.', },
 
         {ordem:7,
