@@ -92,7 +92,7 @@ let livro_csx ={
         textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_3_new.jpg',
         //promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
-		promptImagem:'Digital art of a cozy room: a lively group of teenagers laughing, sharing moments both among themselves and engrossed in their colorful screens of laptops and tablets. The room blends the warmth of camaraderie with bright, playful hues from their devices, seamlessly merging tech fun with friendship.',
+		    promptImagem:'Digital art of a cozy room: a lively group of teenagers laughing, sharing moments both among themselves and engrossed in their colorful screens of laptops and tablets. The room blends the warmth of camaraderie with bright, playful hues from their devices, seamlessly merging tech fun with friendship.',
         textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
         /*{ordem:4,
@@ -366,7 +366,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/img_1.jpg',
-        promptImagem:'Realistic art of a continuous loop on a whiteboard, with representative symbols or diagrams of steps in an algorithm cycling along the loop. This image should visually convey the concept of a loop in programming, which involves repeating certain steps.', 
+        promptImagem:`Realistic art of a continuous loop on a whiteboard, with representative symbols or diagrams of steps in an algorithm cycling along the loop. This image should visually convey the concept of a loop in programming, which involves repeating certain steps.`, 
         textoDescritivoImagem:'Duas setas curvas formando um círculo. A seta localizada na parte superior do cículo  aponta para baixo e a seta localizada na parte inferior do círculo aponta para cima', },
 
         {ordem:2,
