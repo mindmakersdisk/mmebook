@@ -3544,7 +3544,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_1.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'a cute imagem from a scientist studying the climate, surrounded by a flurry of data and charts, making predictions about the future of the environment.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3555,7 +3555,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_2.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'a cute imagem that represents the passage of time, from sunrise to sunset, indicating when a person does their daily routines, their daily routine of waking up, taking a shower, having coffee.', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3576,8 +3576,8 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_4.jpg',
+        promptImagem:'A cute image that represents a simulation of climate events in a computer monitor',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:5,
