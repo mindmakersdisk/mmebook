@@ -757,7 +757,7 @@ let livro_csx ={
 			cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Já percebeu quantas decisões você tem que tomar em um dia comum de sua vida? Usar uma camiseta branca ou preta, estudar primeiro e depois brincar, jogar vôlei ou futebol. Você decide o que fazer verificando condições. Por exemplo: <p><code>Se eu costumo ir a pé para a escola e está chovendo, <br/>&nbsp;&nbsp;então eu levarei um guarda-chuva. <br/>&nbsp;&nbsp;Senão <br/>&nbsp;&nbsp;&nbsp;não será necessário levá-lo.</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são condicionantes.',
+        texto:'Já percebeu quantas decisões você tem que tomar em um dia comum de sua vida? Usar uma camiseta branca ou preta, estudar primeiro e depois brincar, jogar vôlei ou futebol. Você decide o que fazer verificando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são condicionantes.',
         urlAudioTexto:'',
         textoSimplificado:'Expressões Condicionais',
         textoImpresso:1,
@@ -768,12 +768,12 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/></code>',
+        texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
+		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
         promptImagem:'car in red ligth traffic', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
@@ -801,21 +801,21 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Usamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir: <p><code>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"</code><br/>Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito.',
+        texto:'Usamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code><br/>Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito.',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
-	    textoImpresso:1,
+	      textoImpresso:1,
         imagemImpresso:1,
-		urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
+		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
         promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
         textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
         {ordem:6,
         predecessor:5,
-        texto:'Para escrever condições, muitas vezes pegamos sinais emprestados da matemática. São os chamados operadores relacionais. Os sinais de operadores mais comuns são: <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code>Se "local atual = centro" <br/>&nbsp;&nbsp;&nbsp;então "pare" <br/>Se "velocidade do carro > 80 km" <br/>&nbsp;&nbsp;&nbsp;então "diminua a velocidade" <br/>Se "combustível do carro < 2 litros" <br/>&nbsp;&nbsp;&nbsp;então "coloque combustível"</code>',
+        texto:'Para escrever condições, muitas vezes pegamos sinais emprestados da matemática. São os chamados operadores relacionais. Os sinais de operadores mais comuns são: <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
         urlAudioTexto:'',
         textoSimplificado:'Sinais da Matemática',
-	    textoImpresso:1,
+	      textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6_shutterstock_716607445_edit.jpg',//banco de imagens pago
         promptImagem:'Create a realistic image of a highway with cars driving on it and road signs indicating the maximum speed limit. The scene should depict cars traveling and the speed limit signs clearly visible.', 
@@ -826,7 +826,7 @@ let livro_csx ={
         texto:'Mas e quanto ao sinal amarelo? Como será que representamos esse sinal por meio de condicionais?<p>Deixaremos para aprender isso na próxima lição. Até lá, aproveite para praticar muito a programação com condicionais e operadores relacionais!',
         urlAudioTexto:'',
         textoSimplificado:'Expressão Lógica e Condicionais',
-		textoImpresso:1,
+		    textoImpresso:1,
         imagemImpresso:1,
         urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_shutterstock_715246069.png',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
@@ -846,7 +846,7 @@ let livro_csx ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determinam quando um carro deve parar ou prosseguir?<p><code>Se "o sinal estiver vermelho" então "pare"<br/>Se "o sinal estiver verde" então "prossiga"<br/></code>',
+        texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determinam quando um carro deve parar ou prosseguir?<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -857,7 +857,7 @@ let livro_csx ={
   
         {ordem:2,
         predecessor:1,
-        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos chamados de <b>operadores relacionais</b>, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp;então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga" <br/></code>',
+        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos chamados de <b>operadores relacionais</b>, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code>',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
@@ -868,7 +868,7 @@ let livro_csx ={
   
         {ordem:3,
         predecessor:2,
-        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluíndo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp; então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga"<br/>Se "sinal = amarelo" <br/>&nbsp;&nbsp; então<br/>&nbsp;&nbsp;&nbsp;&nbsp;Se "já estiver passando sob o sinal"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então "prossiga"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;senão "pare"<br/></code>',
+        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluíndo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;<b> senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
@@ -879,7 +879,7 @@ let livro_csx ={
   
         {ordem:4,
         predecessor:3,
-        texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code>Se "sinal = vermelho" <br/>&nbsp;&nbsp; então "pare"<br/>Se "sinal = verde" <br/>&nbsp;&nbsp;então "prossiga"<br/>Se "sinal = amarelo" e "já estiver passando sob o sinal"<br/>&nbsp;&nbsp; então "prossiga" <br/>&nbsp;&nbsp;&nbsp;senão "pare"<br/></code>',
+        texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Operadores Lógicos',
         textoImpresso:1,
@@ -890,7 +890,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:<p><code>Se "hora = 06h00" <br/>&nbsp;&nbsp; então <br/>&nbsp;&nbsp;&nbsp;&nbsp; Se "dia = sábado" ou "dia = domingo" <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então "posso dormir um pouco mais"<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; senão "ir à escola"<br/></code>',
+        texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:<p><code><b>se</b> hora = 06h00 então <br/>&nbsp;&nbsp; <b>se</b> dia = sábado ou dia = domingo <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então durma um pouco mais<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>senão</b> vá para a escola<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -901,7 +901,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Além dos operadores lógicos E/OU, podemos usar o <b>NÃO</b> para inverter uma decisão. Veja o exemplo:<p><code>Se "estiver com sede" então<br/>&nbsp;&nbsp;&nbsp; Se "não estiver de jejum" então "beba água"<br/></code>',
+        texto:'Além dos operadores lógicos E/OU, podemos usar o <b>NÃO</b> para inverter uma decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede então<br/>&nbsp;&nbsp; <b>se</b> não estiver de jejum então beba água<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Operador Lógico NÃO',
         textoImpresso:1,
