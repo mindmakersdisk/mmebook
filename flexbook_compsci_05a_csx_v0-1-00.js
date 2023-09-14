@@ -728,7 +728,7 @@ let livro_csx ={
         textoSimplificado:'mBot',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_8_new.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_8_nova.png',
         promptImagem:'Ilustração robô mBot', 
         textoDescritivoImagem:'Robô mBot.', },
 
