@@ -717,7 +717,7 @@ let livro_csx ={
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_7.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_7_new.png',
         promptImagem:'Robô com controle remoto', 
         textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
 
