@@ -770,7 +770,98 @@ let livro_cs1 ={
   
   unidade2:{
 	  
-	  licao8:{},
+	  licao8:{/** padroesCurriculares: 
+    titulo:'Lição 08. Laços.',**/
+    infografico:{titulo:'Laços',
+    tituloSimplificado:'Laços',
+    estiloPadrao:'basicoPaisagem',
+    /** urlVideo:'',
+    urlPodcast:'', **/
+      cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'Sabe quando vocês fazem algo várias vezes, como pular ou bater palmas? Os computadores também podem fazer isso, e para isso eles usam os laços!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'OS LAÇOS SERVEM PARA O COMPUTADOR FAZER COISAS DE MODO REPETIDO.',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:2,
+      predecessor:1,
+      texto:'Os computadores têm uma espécie de "super memória" e conseguem lembrar de coisas muito bem. Quando queremos que um computador faça algo várias vezes, em vez de dizer para ele fazer a mesma coisa de novo e de novo, podemos usar os laços',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'É SÓ DAR A ORDEM PARA O COMPUTADOR: FAÇA DE NOVO, E DE NOVO...',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:3,
+      predecessor:2,
+      texto:'Nós dizemos ao computador quantas vezes ele deve fazer algo, e ele conta as vezes que fez. Quando atinge o número que dissemos, ele para de fazer a ação e continua com outras coisas.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'O COMPUTADOR CONTA QUANTAS VEZES PEDIMOS PARA ELE FAZER UMA AÇÃO E A REPETE NA QUANTIDADE CERTA.',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:4,
+      predecessor:3,
+      texto:'Vamos imaginar que você quer desenhar muitas carinhas sorridentes na tela do computador.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'SE VOCÊ QUER FAZER A MESMA COISA VÁRIAS VEZES.',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:5,
+      predecessor:4,
+      texto:'Em vez de dizer "desenhe uma carinha sorridente" de novo e de novo, você pode usar um laço e dizer: "Desenhe uma carinha sorridente 5 vezes!" O computador vai fazer isso rapidinho para você.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'O COMPUTADOR SABE CONTAR E ENTENDE QUANDO TEM QUE FAZER A MESMA COISA VÁRIAS VEZES.',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:6,
+      predecessor:5,
+      texto:'Os laços são como truques de repetição que ajudam o computador a ser mais rápido e eficiente. Eles dizem ao computador: "Faça isso várias vezes até eu dizer para parar.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'OS LAÇOS FAZEM OS SEUS ALGORITMOS MAIS RÁPIDOS E PODEROSOS.',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
+      texto:'Os laços ajudam o computador a fazer coisas repetitivas de um jeito muito inteligente. No futuro, quando você aprender mais sobre computação, os laços vão te ajudar a fazer coisas incríveis!',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      imagemImpresso:1,
+      textoImpressoRecriado:'OS LAÇOS VÃO TE AJUDAR A TORNAR SEUS ALGORITMOS AINDA MAIS INCRÍVEIS!',
+      promptImagem:'', /*opc*/
+      textoDescritivoImagem:'', /*opc*/},
+    ]}},
 	  
     licao9:{/** padroesCurriculares: 
     titulo:'Lição 09. Numerópolis.',**/
