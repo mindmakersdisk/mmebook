@@ -876,7 +876,7 @@ let livro_cs1 ={
       texto:'Olá, vocês já foram apresentados ao mundo dos robôs e já conheceram Robópolis, não é?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA',
@@ -888,7 +888,7 @@ let livro_cs1 ={
       texto:'Ótimo, porque hoje temos mais uma cidade para visitar.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -897,23 +897,23 @@ let livro_cs1 ={
       texto:'Hoje vamos conhecer Numerópolis.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'ESTA É NUMERÓPOLIS.',
-      promptImagem:'Arte digital de uma cidade futurística habitada por robôs que não possuem braços', /*opc*/
+      promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
       predecessor:3,
-      texto:'Os robôs de Numerópolis não possuem braços, mas fazem de tudo, são guardas, motoristas, fazendeiros. Eles dão um jeito em tudo! Só não conseguem ainda escrever, desenhar e pintar.',
+      texto:'Os robôs de Numerópolis fazem de tudo, são guardas, motoristas, fazendeiros. Eles dão um jeito em tudo! Só não conseguem ainda escrever, desenhar e pintar.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'EM NUMERÓPOLIS, OS ROBÔS FAZEM DE TUDO PARA MANTER A ENERGIA LÁ NO ALTO...',
-      promptImagem:'Arte digital de uma rua em uma cidade futurística com robôs que não possuem braços circulando, vestidos em roupas de diferentes profissões', /*opc*/
+      promptImagem:'Arte digital de uma rua em uma cidade futurística com robôscirculando, vestidos em roupas de diferentes profissões', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -921,7 +921,7 @@ let livro_cs1 ={
       texto:'E por aqui, como o nome da cidade já sugere, os robôs amam os números.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_5.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'E COMO O NOME SUGERE, OS ROBÔS DE NUMERÓPOLIS AMAM NÚMEROS!',
@@ -933,7 +933,7 @@ let livro_cs1 ={
       texto:'Mas tem um problema: está uma baita confusão em Numerópolis!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'MAS OS ROBÔS DE NUMERÓPOLIS ESTÃO COM UM BAITA PROBLEMA PARA TRANSITAR NA CIDADE.',
@@ -978,7 +978,7 @@ let livro_cs1 ={
       texto:'Será o fim da confusão em Numerópolis.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
       
@@ -1014,7 +1014,7 @@ let livro_cs1 ={
       texto:'Vamos ajudar os robôs de Numerópolis? Mãos à obra!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
