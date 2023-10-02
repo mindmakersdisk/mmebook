@@ -1032,7 +1032,7 @@ let livro_cs1 ={
       texto:'Olá, de novo! Estamos de volta a Robópolis, nessa cidade ultra robotizada.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
@@ -1044,7 +1044,7 @@ let livro_cs1 ={
       texto:'Robópolis depende da colaboração de todos os moradores para manter a energia sempre lá no alto. E isso também tem a ver com a limpeza da cidade.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_2.jpeg',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1053,7 +1053,7 @@ let livro_cs1 ={
       texto:'Aqui em Robópolis, todos colaboram para reciclar o lixo e conservar a natureza.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_3.jpeg',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*pode ser uma derivação da mesma imagem da ordem 2*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1062,7 +1062,7 @@ let livro_cs1 ={
       texto:'Mas algo de ruim está acontecendo, o lixo está se acumulando! Por que será?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'MAS O LIXO ESTÁ SE ACUMULANDO. POR QUÊ?',
@@ -1909,7 +1909,7 @@ let livro_cs1 ={
       texto:'Olá! Estamos de volta a Robópolis...',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'',
