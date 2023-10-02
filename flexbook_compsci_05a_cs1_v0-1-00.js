@@ -945,7 +945,7 @@ let livro_cs1 ={
       texto:'As ruas da cidade não têm placas, os robôs não sabem ao certo para onde estão indo.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_7.jpg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'AS RUAS DA CIDADE NÃO TEM PLACAS, ENTÃO OS ROBÔS FICAM PERDIDOS!',
@@ -957,7 +957,7 @@ let livro_cs1 ={
       texto:'Mas olha que ideia genial: que tal pintar números nas ruas, já que em Numerópolis todos adoram números?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_8.png',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'QUE TAL AJUDAR OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DOS NÚMEROS NAS RUAS?',
@@ -969,7 +969,7 @@ let livro_cs1 ={
       texto:'Com isso, os robôs vão poder dizer para qual rua querem ir somente falando o número da rua.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_9.jpeg',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -987,7 +987,7 @@ let livro_cs1 ={
       texto:'O que vocês acham? Será que conseguimos ajudar os robôs dessa cidade usando programação?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_11.jpg',
       promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -996,7 +996,7 @@ let livro_cs1 ={
       texto:'O robô também vai ter que ser capaz de segurar uma caneta para essa tarefa, não é mesmo?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_12.jpeg',
       promptImagem:'Arte digital de um robô desenhista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1005,7 +1005,7 @@ let livro_cs1 ={
       texto:'Vamos ver que ideias vocês têm para fazer isso acontecer!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_13.jpeg',
       promptImagem:'Arte digital de uma lâmpada acesa', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
