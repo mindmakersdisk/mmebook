@@ -48,24 +48,24 @@ let livro_cs1 ={
 		  id:'CS1AULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Sequências.',**/
-		  infografico:{titulo:'Sequências',
-			tituloSimplificado:'Sequências',
+		  infografico:{titulo:'SEQUÊNCIAS',
+			tituloSimplificado:'SEQUÊNCIAS',
 			estiloPadrao:'basicoPaisagem',
 			/** urlVideo:'',
 			urlPodcast:'', **/
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
-				texto:'Você sabe o que é uma sequência? Já ouviu essa palavra antes?',
+				texto:'VOCÊ SABE O QUE É UMA SEQUÊNCIA? JÁ OUVIU ESSA PALAVRA ANTES?',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
-				textoSimplificado:'Sequências',
+				textoSimplificado:'SEQUÊNCIAS',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_1.jpg',
 				promptImagem:'uma imagem fofa de personagem feminina, negra, com semblante pensativo', /*opc*/
 				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
 					 
 				{ordem:2,
 				predecessor:1,
-				texto:'Sequência é a ordem em que os objetos estão, ou a ordem em que aconteceu alguma coisa.',
+				texto:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/2.mp3',
 				textoSimplificado:'Sequência é ordem',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_2.jpg',
@@ -77,7 +77,7 @@ let livro_cs1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Essa ordem é saber o que é primeiro, o que vem depois do primeiro, e assim por diante.',
+        texto:'ESSA ORDEM É SABER O QUE É PRIMEIRO, O QUE VEM DEPOIS DO PRIMEIRO, E ASSIM POR DIANTE.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/3.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_3.jpg',
@@ -86,7 +86,7 @@ let livro_cs1 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Com as sequências, você pode colocar tudo em ordem: palavras, bihos de pelúcia, acontecimentos do dia...',
+        texto:'COM AS SEQUÊNCIAS, VOCÊ PODE COLOCAR TUDO EM ORDEM: PALAVRAS, BICHOS DE PELÚCIA, ACONTECIMENTOS DO DIA...',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/4.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_4.png',
@@ -95,7 +95,7 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Por exemplo: qual é sequência de acontecimentos no seu dia?',
+        texto:'POR EXEMPLO: QUAL É A SEQUÊNCIA DE ACONTECIMENTOS DO SEU DIA?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/5.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_5.png',
@@ -107,7 +107,7 @@ let livro_cs1 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para saber como ordenar as coisas em uma sequência, você também precisa de um critério. Repita comigo: Critério.',
+        texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA SEQUÊNCIA, VOCÊ TAMBÉM PRECISA DE UM CRITÉRIO. REPITA COMIGO: CRITÉRIO.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/6.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_6.jpg',
@@ -119,7 +119,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Mas o que é um critério?',
+        texto:'MAS O QUE É UM CRITÉRIO?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/7.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_7.jpg',
@@ -128,7 +128,7 @@ let livro_cs1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Um critério é a regra que vai definir como as coisas vão ser organizadas dentro da sequência.',
+        texto:'UM CRITÉRIO É A REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA SEQUÊNCIA.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/8.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_8.jpg',
@@ -140,7 +140,7 @@ let livro_cs1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Por exemplo: Para colocar os alunos em sequência, do menor para o maior, o critério será a altura de cada um.',
+        texto:'POR EXEMPLO: PARA COLOCAR OS ALUNOS EM SEQUÊNCIA, DO MENOR PARA O MAIOR, O CRITÉRIO SERÁ A ALTURA DE CADA UM.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/9.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_9.jpg',
@@ -152,7 +152,7 @@ let livro_cs1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Aprender sobre sequências é muito importante, pois com elas você vai poder organizar tudo e entender o mundo ao seu redor.',
+        texto:'APRENDER SOBRE SEQUÊNCIAS É MUITO IMPORTANTE, POIS COM ELAS VOCÊ VAI PODER ORGANIZAR TUDO E ENTENDER O MUNDO AO SEU REDOR.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/10.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_10.jpg',
@@ -161,7 +161,7 @@ let livro_cs1 ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Vamos tentar mais uma vez? Qual a sequência das figuras? <p>O que aconteceu primeiro?',
+        texto:'VAMOS TENTAR MAIS UMA VEZ? QUAL A SEQUÊNCIA DAS FIGURAS? <P>O QUE ACONTECEU PRIMEIRO?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/11.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_11.png',
@@ -173,7 +173,7 @@ let livro_cs1 ={
   
         {ordem:12,
         predecessor:11,
-        texto:'Está preparado para o mundo das sequências? Vamos lá!',
+        texto:'ESTÁ PREPARADO PARA O MUNDO DAS SEQUÊNCIAS? VAMOS LÁ!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/12.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_12.jpg',
@@ -184,15 +184,15 @@ let livro_cs1 ={
 	  licao2:{id:'CS1AULA02CODE',
     /** padroesCurriculares: 
     titulo:'Lição 02. Identificação de Padrões.',**/
-    infografico:{titulo:'Identificação de Padrões',
-    tituloSimplificado:'Padrões',
+    infografico:{titulo:'IDENTIFICAÇÃO DE PADRÕES',
+    tituloSimplificado:'PADRÕES',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Você sabe o que é um padrão? Já ouviu essa palavra antes?',
+        texto:'VOCÊ SABE O QUE É UM PADRÃO? JÁ OUVIU ESSA PALAVRA ANTES?',
         urlAudioTexto:'',
         textoSimplificado:'Padrões',
         urlImagem:'',
@@ -204,7 +204,7 @@ let livro_cs1 ={
          
         {ordem:2,
         predecessor:1,
-        texto:'Padrões são coisas que se repetem de maneira lógica. Por exemplo, o padrão que pode ser visto aqui é que existe uma maçã vermelha, ao lado de uma verde, e de novo, e de novo.',
+        texto:'PADRÕES SÃO COISAS QUE SE REPETEM DE MANEIRA LÓGICA. POR EXEMPLO, O PADRÃO QUE PODE SER VISTO AQUI É QUE EXISTE UMA MAÇÃ VERMELHA, AO LADO DE UMA VERDE, E DE NOVO, E DE NOVO.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões se repetem de forma lógica',
         urlImagem:'',
@@ -216,7 +216,7 @@ let livro_cs1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'O que você vê? Quais são as coisas que se repetem aqui?',
+        texto:'O QUE VOCÊ VÊ? QUAIS SÃO AS COISAS QUE SE REPETEM AQUI?',
         urlAudioTexto:'',
         textoSimplificado:'Observe o que se repete',
         urlImagem:'',
@@ -228,7 +228,7 @@ let livro_cs1 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Os padrões estão em muitas coisas a nosso redor, como cores, formas, desenhos e objetos.',
+        texto:'OS PADRÕES ESTÃO EM MUITAS COISAS A NOSSO REDOR, COMO CORES, FORMAS, DESENHOS E OBJETOS.',
         urlAudioTexto:'',
         textoSimplificado:'Observe o que se repete',
         urlImagem:'',
@@ -240,7 +240,7 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Os padrões nos ajudam a fazer previsões, porque eles nos ajudam a começar a entender o que vem a seguir. É assim, por exemplo, que os profissionais sabem quando vai chover. eles observam os padrões e fazem uma previsão.',
+        texto:'OS PADRÕES NOS AJUDAM A FAZER PREVISÕES, PORQUE ELES NOS AJUDAM A COMEÇAR A ENTENDER O QUE VEM A SEGUIR. É ASSIM, POR EXEMPLO, QUE OS PROFISSIONAIS SABEM QUANDO VAI CHOVER. ELES OBSERVAM OS PADRÕES E FAZEM UMA PREVISÃO.',
         urlAudioTexto:'',
         textoSimplificado:'Previsões com padrões',
         urlImagem:'',
@@ -252,7 +252,7 @@ let livro_cs1 ={
           
         {ordem:6,
         predecessor:5,
-        texto:'Reconhecer padrões também nos ajuda a resolver problemas, afinal, reconhecer um padrão é o primeiro passo para a solução.',
+        texto:'RECONHECER PADRÕES TAMBÉM NOS AJUDA A RESOLVER PROBLEMAS, AFINAL, RECONHECER UM PADRÃO É O PRIMEIRO PASSO PARA A SOLUÇÃO.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões resolvem problemas',
         urlImagem:'',
@@ -264,7 +264,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Um exemplo de padrão no nosso dia a dia é o nascer e por do sol e da lua. O sol nasce para começar o dia. No fim do dia ele se põe e a lua nasce. Quando a lua se põe, o sol volta para mais um dia.',
+        texto:'UM EXEMPLO DE PADRÃO NO NOSSO DIA A DIA É O NASCER E POR DO SOL E DA LUA. O SOL NASCE PARA COMEÇAR O DIA. NO FIM DO DIA ELE SE PÕE E A LUA NASCE. QUANDO A LUA SE PÕE, O SOL VOLTA PARA MAIS UM DIA.',
         urlAudioTexto:'',
         textoSimplificado:'O padrão do dia e da noite',
         urlImagem:'',
@@ -276,7 +276,7 @@ let livro_cs1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Quando você aprende os passos de uma dança, pode perceber também os padrões existentes.',
+        texto:'QUANDO VOCÊ APRENDE OS PASSOS DE UMA DANÇA, PODE PERCEBER TAMBÉM OS PADRÕES EXISTENTES.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões na dança',
         urlImagem:'',
@@ -288,7 +288,7 @@ let livro_cs1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'E quando você percebe os padrões, colocar tudo numa sequência fica muito mais fácil, você não acha?',
+        texto:'E QUANDO VOCÊ PERCEBE OS PADRÕES, COLOCAR TUDO NUMA SEQUÊNCIA FICA MUITO MAIS FÁCIL, VOCÊ NÃO ACHA?',
         urlAudioTexto:'',
         textoSimplificado:'Padrões e sequências',
         urlImagem:'',
@@ -300,7 +300,7 @@ let livro_cs1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Quando reconhecemos padrões, podemos ver ordem no caos. Os padrões podem ser encontrados em palavras, números, símbolos, horários, comportamentos e muito mais.',
+        texto:'QUANDO RECONHECEMOS PADRÕES, PODEMOS VER ORDEM NO CAOS. OS PADRÕES PODEM SER ENCONTRADOS EM PALAVRAS, NÚMEROS, SÍMBOLOS, HORÁRIOS, COMPORTAMENTOS E MUITO MAIS.',
         urlAudioTexto:'',
         textoSimplificado:'Ordem no caos',
         urlImagem:'',
@@ -313,15 +313,15 @@ let livro_cs1 ={
     licao4:{id:'CS1AULA01CODE',
 		/** padroesCurriculares: 
 		titulo:'Lição 04. Algoritmos.',**/
-		infografico:{titulo:'Algoritmos',
-		tituloSimplificado:'Os Algoritmos',
+		infografico:{titulo:'ALGORITMOS',
+		tituloSimplificado:'OS ALGORITMOS',
 		estiloPadrao:'basicoPaisagem',
 		/** urlVideo:'',
 		urlPodcast:'', **/
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
-				texto:'Você sabe o que é um algoritmo? Já ouviu essa palavra antes?',
+				texto:'VOCÊ SABE O QUE É UM ALGORITMO? JÁ OUVIU ESSA PALAVRA ANTES?',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos',
 				urlImagem:'',
@@ -330,7 +330,7 @@ let livro_cs1 ={
 					 
 				{ordem:2,
 				predecessor:1,
-				texto:'Os algoritmos estão em tudo o que nos rodeia, são aplicados em tudo e são usados em toda a tecnologia e em todas as decisões que tomamos diariamente.',
+				texto:'OS ALGORITMOS ESTÃO EM TUDO O QUE NOS RODEIA, SÃO APLICADOS EM TUDO E SÃO USADOS EM TODA A TECNOLOGIA E EM TODAS AS DECISÕES QUE TOMAMOS DIARIAMENTE.',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos em todos os lugares',
 				urlImagem:'',
@@ -342,7 +342,7 @@ let livro_cs1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:' Um algoritmo é uma instrução detalhada, com diferentes passos, ou a uma fórmula de resolver um problema ou completar uma tarefa.',
+        texto:'UM ALGORITMO É UMA INSTRUÇÃO DETALHADA, COM DIFERENTES PASSOS, OU A UMA FÓRMULA DE RESOLVER UM PROBLEMA OU COMPLETAR UMA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'O que é um algoritmo?',
         urlImagem:'',
@@ -354,7 +354,7 @@ let livro_cs1 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Na programação, os programadores escrevem algoritmos que dão ordens ao computador para que este realize uma determinada tarefa.',
+        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM ALGORITMOS QUE DÃO ORDENS AO COMPUTADOR PARA QUE ESTE REALIZE UMA DETERMINADA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e os computadores',
         urlImagem:'',
@@ -366,7 +366,7 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Mas os algoritmos não servem somente para os programadores e computadores.',
+        texto:'MAS OS ALGORITMOS NÃO SERVEM SOMENTE PARA OS PROGRAMADORES E COMPUTADORES.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e as pessoas',
         urlImagem:'',
@@ -378,7 +378,7 @@ let livro_cs1 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Uma receita de culinária é um algoritmo, o processo de dobrar uma camisa ou um par de calças também é um algoritmo.',
+        texto:'UMA RECEITA DE CULINÁRIA É UM ALGORITMO, O PROCESSO DE DOBRAR UMA CAMISA OU UM PAR DE CALÇAS TAMBÉM É UM ALGORITMO.',
         urlAudioTexto:'',
         textoSimplificado:'Uma receita é um algoritmo',
         urlImagem:'',
@@ -390,7 +390,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Até mesmo a rotina matinal pode ser considerada um algoritmo!',
+        texto:'ATÉ MESMO A ROTINA MATINAL PODE SER CONSIDERADA UM ALGORITMO!',
         urlAudioTexto:'',
         textoSimplificado:'Rotina matinal também é um algoritmo',
         urlImagem:'',
@@ -402,7 +402,7 @@ let livro_cs1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'E você pode criar algoritmos para as mais diversas tarefas do seu dia. Seja para você ou outra pessoa executar.',
+        texto:'E VOCÊ PODE CRIAR ALGORITMOS PARA AS MAIS DIVERSAS TAREFAS DO SEU DIA. SEJA PARA VOCÊ OU OUTRA PESSOA EXECUTAR.',
         urlAudioTexto:'',
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
         urlImagem:'',
@@ -414,7 +414,7 @@ let livro_cs1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Mas fique atento: se você está criando um algoritmo para que outra pessoa execute, você precisa deixar suas instruções o mais específicas possível.',
+        texto:'MAS FIQUE ATENTO: SE VOCÊ ESTÁ CRIANDO UM ALGORITMO PARA QUE OUTRA PESSOA EXECUTE, VOCÊ PRECISA DEIXAR SUAS INSTRUÇÕES O MAIS ESPECÍFICAS POSSÍVEL.',
         urlAudioTexto:'',
         textoSimplificado:'Especificar as instruções',
         urlImagem:'',
@@ -426,7 +426,7 @@ let livro_cs1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Os computadores e as outras pessoas não sabem quais as suas intenções e pensamentos, veja o exemplo do algoritmo para beber um copo de leite:',
+        texto:'OS COMPUTADORES E AS OUTRAS PESSOAS NÃO SABEM QUAIS AS SUAS INTENÇÕES E PENSAMENTOS, VEJA O EXEMPLO DO ALGORITMO PARA BEBER UM COPO DE LEITE:',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo para beber leite',
         urlImagem:'',
@@ -435,7 +435,7 @@ let livro_cs1 ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Passo 1: pegar um copo do armário',
+        texto:'PASSO 1: PEGAR UM COPO DO ARMÁRIO;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 1',
         urlImagem:'',
@@ -444,7 +444,7 @@ let livro_cs1 ={
   
         {ordem:12,
         predecessor:11,
-        texto:'Passo 2: colocar o copo em cima da mesa',
+        texto:'PASSO 2: COLOCAR O COPO EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 2',
         urlImagem:'',
@@ -453,7 +453,7 @@ let livro_cs1 ={
   
         {ordem:13,
         predecessor:12,
-        texto:'Passo 3: pegar o leite da geladeira',
+        texto:'PASSO 3: PEGAR O LEITE DA GELADEIRA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 3',
         urlImagem:'',
@@ -462,7 +462,7 @@ let livro_cs1 ={
   
         {ordem:14,
         predecessor:13,
-        texto:'Passo 4: colocar o leite dentro do copo que está em cima da mesa',
+        texto:'PASSO 4: COLOCAR O LEITE DENTRO DO COPO QUE ESTÁ EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 4',
         urlImagem:'',
@@ -471,7 +471,7 @@ let livro_cs1 ={
   
         {ordem:15,
         predecessor:14,
-        texto:'Passo 5: beber o leite que está no copo',
+        texto:'PASSO 5: BEBER O LEITE QUE ESTÁ NO COPO.',
         urlAudioTexto:'',
         textoSimplificado:'Passo 5',
         urlImagem:'',
@@ -480,7 +480,7 @@ let livro_cs1 ={
   
         {ordem:16,
         predecessor:15,
-        texto:'Imagine se não estivesse especificado que o leite precisa ir dentro do copo? Certamente ele iria parar no chão!',
+        texto:'IMAGINE SE NÃO ESTIVESSE ESPECIFICADO QUE O LEITE PRECISA IR DENTRO DO COPO? CERTAMENTE ELE IRIA PARAR NO CHÃO!',
         urlAudioTexto:'',
         textoSimplificado:'Instruções não especificadas geram erros',
         urlImagem:'',
@@ -492,7 +492,7 @@ let livro_cs1 ={
   
         {ordem:17,
         predecessor:16,
-        texto:'Então, os algoritmos nos ajudam a partir problemas grandes e complexos em problemas menores e mais fáceis de resolver.',
+        texto:'ENTÃO, OS ALGORITMOS NOS AJUDAM A PARTIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e resolução de problemas',
         urlImagem:'',
@@ -504,7 +504,7 @@ let livro_cs1 ={
   
         {ordem:18,
         predecessor:17,
-        texto:'Com os algoritmos, podemos tranformar soluções de problemas em passos claros e bem definidos, que podem ser seguidos por qualquer máquina ou pessoa.',
+        texto:'COM OS ALGORITMOS, PODEMOS TRANFORMAR SOLUÇÕES DE PROBLEMAS EM PASSOS CLAROS E BEM DEFINIDOS, QUE PODEM SER SEGUIDOS POR QUALQUER MÁQUINA OU PESSOA.',
         urlAudioTexto:'',
         textoSimplificado:'Instruções claras',
         urlImagem:'',
@@ -519,15 +519,15 @@ let livro_cs1 ={
     
     licao6:{/** padroesCurriculares: 
     titulo:'Lição 06. Robôs.',**/
-    infografico:{titulo:'Robôs',
-    tituloSimplificado:'Robôs',
+    infografico:{titulo:'ROBÔS',
+    tituloSimplificado:'ROBÔS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Hoje vamos conhecer o mundo dos robôs, que são máquinas incríveis e fascinantes.',
+        texto:'HOJE VAMOS CONHECER O MUNDO DOS ROBÔS, QUE SÃO MÁQUINAS INCRÍVEIS E FASCINANTES.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -536,7 +536,7 @@ let livro_cs1 ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os robôs são criados pelos seres humanos para nos ajudar em diversas tarefas e tornar nossas vidas mais fáceis e até mesmo mais divertidas.',
+        texto:'OS ROBÔS SÃO CRIADOS PELOS SERES HUMANOS PARA NOS AJUDAR EM DIVERSAS TAREFAS E TORNAR NOSSAS VIDAS MAIS FÁCEIS E ATÉ MESMO MAIS DIVERTIDAS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -545,7 +545,7 @@ let livro_cs1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Mas o que é um robô?',
+        texto:'MAS O QUE É UM ROBÔ?',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -557,7 +557,7 @@ let livro_cs1 ={
         
         {ordem:4,
         predecessor:3,
-        texto:'Um robô é uma máquina especial que pode fazer coisas diferentes sem a ajuda direta de uma pessoa.',
+        texto:'UM ROBÔ É UMA MÁQUINA ESPECIAL QUE PODE FAZER COISAS DIFERENTES SEM A AJUDA DIRETA DE UMA PESSOA.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -566,7 +566,7 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Os robôs podem ter corpos feitos de metal, plástico ou outros materiais e geralmente possuem sensores para ajudá-los a "entender" o mundo ao seu redor.',
+        texto:'OS ROBÔS PODEM TER CORPOS FEITOS DE METAL, PLÁSTICO OU OUTROS MATERIAIS E GERALMENTE POSSUEM SENSORES PARA AJUDÁ-LOS A "ENTENDER" O MUNDO AO SEU REDOR.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -578,7 +578,7 @@ let livro_cs1 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Existem muitos tipos diferentes de robôs. Alguns têm braços e pernas como os humanos, enquanto outros têm rodas ou até mesmo asas!',
+        texto:'EXISTEM MUITOS TIPOS DIFERENTES DE ROBÔS. ALGUNS TÊM BRAÇOS E PERNAS COMO OS HUMANOS, ENQUANTO OUTROS TÊM RODAS OU ATÉ MESMO ASAS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -590,7 +590,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Alguns robôs são usados em fábricas para ajudar a construir carros, brinquedos e outras coisas que usamos todos os dias.',
+        texto:'ALGUNS ROBÔS SÃO USADOS EM FÁBRICAS PARA AJUDAR A CONSTRUIR CARROS, BRINQUEDOS E OUTRAS COISAS QUE USAMOS TODOS OS DIAS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -599,7 +599,7 @@ let livro_cs1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Outros robôs são usados em hospitais para ajudar os médicos a fazer cirurgias com precisão ou para cuidar das pessoas quando estão doentes.',
+        texto:'OUTROS ROBÔS SÃO USADOS EM HOSPITAIS PARA AJUDAR OS MÉDICOS A FAZEREM CIRURGIAS COM PRECISÃO OU PARA CUIDAR DAS PESSOAS QUANDO ESTÃO DOENTES.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -608,7 +608,7 @@ let livro_cs1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Além disso, existem robôs que podemos programar para fazer tarefas específicas. Isso significa que podemos dar instruções a eles e eles as seguirão.',
+        texto:'ALÉM DISSO, EXISTEM ROBÔS QUE PODEMOS PROGRAMAR PARA FAZER TAREFAS ESPECÍFICAS. ISSO SIGNIFICA QUE PODEMOS DAR INSTRUÇÕES A ELES E ELES AS SEGUIRÃO.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -617,7 +617,7 @@ let livro_cs1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'É como se eles tivessem um cérebro que podemos controlar!',
+        texto:'É COMO SE ELES TIVESSEM UM CÉREBRO QUE PODEMOS CONTROLAR!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -629,7 +629,7 @@ let livro_cs1 ={
 
         {ordem:11,
         predecessor:10,
-        texto:'Os robôs são programados usando códigos e comandos especiais. É como ensinar um robô a fazer algo.',
+        texto:'OS ROBÔS SÃO PROGRAMADOS USANDO CÓDIGOS E COMANDOS ESPECIAIS. É COMO ENSINAR UM ROBÔ A FAZER ALGO.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -641,7 +641,7 @@ let livro_cs1 ={
 
         {ordem:12,
         predecessor:11,
-        texto:'Por exemplo, podemos programar um robô para desenhar figuras ou jogar um jogo conosco. É muito divertido!',
+        texto:'POR EXEMPLO, PODEMOS PROGRAMAR UM ROBÔ PARA DESENHAR FIGURAS OU JOGAR UM JOGO CONOSCO. É MUITO DIVERTIDO!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -650,7 +650,7 @@ let livro_cs1 ={
 
         {ordem:13,
         predecessor:12,
-        texto:'É importante lembrar que os robôs são apenas máquinas e não têm sentimentos como os seres humanos. Eles seguem nossas instruções, mas não podem pensar ou sentir como nós.',
+        texto:'É IMPORTANTE LEMBRAR QUE OS ROBÔS SÃO APENAS MÁQUINAS E NÃO TÊM SENTIMENTOS COMO OS SERES HUMANOS. ELES SEGUEM NOSSAS INSTRUÇÕES, MAS NÃO PODEM PENSAR OU SENTIR COMO NÓS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -662,7 +662,7 @@ let livro_cs1 ={
 
         {ordem:14,
         predecessor:13,
-        texto:'A tecnologia dos robôs está sempre evoluindo, e no futuro, eles poderão fazer coisas ainda mais incríveis.',
+        texto:'A TECNOLOGIA DOS ROBÔS ESTÁ SEMPRE EVOLUINDO, E NO FUTURO, ELES PODERÃO FAZER COISAS AINDA MAIS INCRÍVEIS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -671,7 +671,7 @@ let livro_cs1 ={
 
         {ordem:15,
         predecessor:14,
-        texto:'Agora, que tal explorarmos mais sobre os robôs e suas incríveis capacidades?',
+        texto:'AGORA, QUE TAL EXPLORARMOS MAIS SOBRE OS ROBÔS E SUAS INCRÍVEIS CAPACIDADES?',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -681,15 +681,15 @@ let livro_cs1 ={
     
       licao7:{/** padroesCurriculares: 
       titulo:'Lição 07. Robópolis.',**/
-      infografico:{titulo:'Robópolis',
-      tituloSimplificado:'Robópolis',
+      infografico:{titulo:'ROBÓPOLIS',
+      tituloSimplificado:'ROBÓPOLIS',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
       urlPodcast:'', **/
         cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Olá! Hoje vamos conhecer um país muito especial',
+        texto:'OLÁ! HOJE VAMOS CONHECER UM PAÍS MUITO ESPECIAL.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
@@ -701,7 +701,7 @@ let livro_cs1 ={
   
         {ordem:2,
         predecessor:1,
-        texto:'A Robolândia! Nesse país incrível só vivem robôs!',
+        texto:'A ROBOLÂNDIA! NESSE PAÍS INCRÍVEL SÓ VIVEM ROBÔS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_2.jpg',
@@ -713,7 +713,7 @@ let livro_cs1 ={
   
         {ordem:3,
         predecessor:2,
-        texto:'O primeiro lugar da Robolândia que vamos conhecer é a sua capital, a principal cidade do país.',
+        texto:'O PRIMEIRO LUGAR DA ROBOLÂNDIA QUE VAMOS CONHECER É A SUA CAPITAL, A PRINCIPAL CIDADE DO PAÍS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
@@ -722,7 +722,7 @@ let livro_cs1 ={
           
         {ordem:4,
         predecessor:3,
-        texto:'Chamada Robópolis! Em Robópolis, os robôs habitantes são muito empenhados em trabalhar para manter a cidade funcionando.',
+        texto:'CHAMADA ROBÓPOLIS! EM ROBÓPOLIS, OS ROBÔS HABITANTES SÃO MUITO EMPENHADOS EM TRABALHAR PARA MANTER A CIDADE FUNCIONANDO.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_4.jpg',
@@ -734,7 +734,7 @@ let livro_cs1 ={
   
         {ordem:5,
         predecessor:4,
-        texto:'Em Robópolis, os robôs habitantes podem trabalhar no que quiser! E nós vamos ajudá-los a ir e voltar do trabalho, para fazer todas as suas tarefas!',
+        texto:'EM ROBÓPOLIS, OS ROBÔS HABITANTES PODEM TRABALHAR NO QUE QUISER! E NÓS VAMOS AJUDÁ-LOS A IR E VOLTAR DO TRABALHO, PARA FAZER TODAS AS SUAS TAREFAS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_5.jpeg',
@@ -746,7 +746,7 @@ let livro_cs1 ={
   
         {ordem:6,
         predecessor:5,
-        texto:'Ah! E não podemos nos esquecer de manter a energia da cidade sempre lá no alto! Para isso, todos devemos participar e ajudar uns aos outros!',
+        texto:'AH! E NÃO PODEMOS NOS ESQUECER DE MANTER A ENERGIA DA CIDADE SEMPRE LÁ NO ALTO! PARA ISSO, TODOS DEVEMOS PARTICIPAR E AJUDAR UNS AOS OUTROS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_6.jpeg',
@@ -758,7 +758,7 @@ let livro_cs1 ={
   
         {ordem:7,
         predecessor:6,
-        texto:'Prontos para o desafio? Mãos à obra!',
+        texto:'PRONTOS PARA O DESAFIO? MÃOS À OBRA!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
@@ -772,15 +772,15 @@ let livro_cs1 ={
 	  
 	  licao8:{/** padroesCurriculares: 
     titulo:'Lição 08. Laços.',**/
-    infografico:{titulo:'Laços',
-    tituloSimplificado:'Laços',
+    infografico:{titulo:'LAÇOS',
+    tituloSimplificado:'LAÇOS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Sabe quando vocês fazem algo várias vezes, como pular ou bater palmas? Os computadores também podem fazer isso, e para isso eles usam os laços!',
+      texto:'SABE QUANDO VOCÊS FAZEM ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS LAÇOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -792,7 +792,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Os computadores têm uma espécie de "super memória" e conseguem lembrar de coisas muito bem. Quando queremos que um computador faça algo várias vezes, em vez de dizer para ele fazer a mesma coisa de novo e de novo, podemos usar os laços',
+      texto:'OS COMPUTADORES TÊM UMA ESPÉCIE DE "SUPER MEMÓRIA" E CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS LAÇOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -804,7 +804,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Nós dizemos ao computador quantas vezes ele deve fazer algo, e ele conta as vezes que fez. Quando atinge o número que dissemos, ele para de fazer a ação e continua com outras coisas.',
+      texto:'NÓS DIZEMOS AO COMPUTADOR QUANTAS VEZES ELE DEVE FAZER ALGO, E ELE CONTA AS VEZES QUE FEZ. QUANDO ATINGE O NÚMERO QUE DISSEMOS, ELE PARA DE FAZER A AÇÃO E CONTINUA COM OUTRAS COISAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -816,7 +816,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Vamos imaginar que você quer desenhar muitas carinhas sorridentes na tela do computador.',
+      texto:'VAMOS IMAGINAR QUE VOCÊ QUER DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -828,7 +828,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Em vez de dizer "desenhe uma carinha sorridente" de novo e de novo, você pode usar um laço e dizer: "Desenhe uma carinha sorridente 5 vezes!" O computador vai fazer isso rapidinho para você.',
+      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -840,7 +840,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Os laços são como truques de repetição que ajudam o computador a ser mais rápido e eficiente. Eles dizem ao computador: "Faça isso várias vezes até eu dizer para parar.',
+      texto:'OS LAÇOS SÃO COMO TRUQUES DE REPETIÇÃO QUE AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. ELES DIZEM AO COMPUTADOR: "FAÇA ISSO VÁRIAS VEZES ATÉ EU DIZER PARA PARAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -852,7 +852,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'Os laços ajudam o computador a fazer coisas repetitivas de um jeito muito inteligente. No futuro, quando você aprender mais sobre computação, os laços vão te ajudar a fazer coisas incríveis!',
+      texto:'OS LAÇOS AJUDAM O COMPUTADOR A FAZER COISAS REPETITIVAS DE UM JEITO MUITO INTELIGENTE. NO FUTURO, QUANDO VOCÊ APRENDER MAIS SOBRE COMPUTAÇÃO, OS LAÇOS VÃO TE AJUDAR A FAZER COISAS INCRÍVEIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -865,15 +865,15 @@ let livro_cs1 ={
 	  
     licao9:{/** padroesCurriculares: 
     titulo:'Lição 09. Numerópolis.',**/
-    infografico:{titulo:'Numerópolis',
-    tituloSimplificado:'Numerópolis',
+    infografico:{titulo:'NUMERÓPOLIS',
+    tituloSimplificado:'NUMERÓPOLIS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Olá, vocês já foram apresentados ao mundo dos robôs e já conheceram Robópolis, não é?',
+      texto:'OLÁ, VOCÊS JÁ FORAM APRESENTADOS AO MUNDO DOS ROBÔS E JÁ CONHECERAM ROBÓPOLIS, NÃO É?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
@@ -885,7 +885,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Ótimo, porque hoje temos mais uma cidade para visitar.',
+      texto:'ÓTIMO, PORQUE HOJE TEMOS MAIS UMA CIDADE PARA VISITAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
@@ -894,7 +894,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Hoje vamos conhecer Numerópolis.',
+      texto:'HOJE VAMOS CONHECER NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
@@ -906,7 +906,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Os robôs de Numerópolis fazem de tudo, são guardas, motoristas, fazendeiros. Eles dão um jeito em tudo! Só não conseguem ainda escrever, desenhar e pintar.',
+      texto:'OS ROBÔS DE NUMERÓPOLIS FAZEM DE TUDO, SÃO GUARDAS, MOTORISTAS, FAZENDEIROS. ELES DÃO UM JEITO EM TUDO! SÓ NÃO CONSEGUEM AINDA ESCREVER, DESENHAR E PINTAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_4.jpeg',
@@ -918,7 +918,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'E por aqui, como o nome da cidade já sugere, os robôs amam os números.',
+      texto:'E POR AQUI, COMO O NOME DA CIDADE JÁ SUGERE, OS ROBÔS AMAM OS NÚMEROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_5.jpeg',
@@ -930,7 +930,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Mas tem um problema: está uma baita confusão em Numerópolis!',
+      texto:'MAS TEM UM PROBLEMA: ESTÁ UMA BAITA CONFUSÃO EM NUMERÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_6.jpeg',
@@ -942,7 +942,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'As ruas da cidade não têm placas, os robôs não sabem ao certo para onde estão indo.',
+      texto:'AS RUAS DA CIDADE NÃO TÊM PLACAS, OS ROBÔS NÃO SABEM AO CERTO PARA ONDE ESTÃO INDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_7.jpg',
@@ -954,7 +954,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'Mas olha que ideia genial: que tal pintar números nas ruas, já que em Numerópolis todos adoram números?',
+      texto:'MAS OLHA QUE IDEIA GENIAL: QUE TAL PINTAR NÚMEROS NAS RUAS, JÁ QUE EM NUMERÓPOLIS TODOS ADORAM NÚMEROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_8.png',
@@ -966,7 +966,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'Com isso, os robôs vão poder dizer para qual rua querem ir somente falando o número da rua.',
+      texto:'COM ISSO, OS ROBÔS VÃO PODER DIZER PARA QUAL RUA QUEREM IR SOMENTE FALANDO O NÚMERO DA RUA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_9.jpeg',
@@ -975,7 +975,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'Será o fim da confusão em Numerópolis.',
+      texto:'SERÁ O FIM DA CONFUSÃO EM NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
@@ -984,7 +984,7 @@ let livro_cs1 ={
       
       {ordem:11,
       predecessor:10,
-      texto:'O que vocês acham? Será que conseguimos ajudar os robôs dessa cidade usando programação?',
+      texto:'O QUE VOCÊS ACHAM? SERÁ QUE CONSEGUIMOS AJUDAR OS ROBÔS DESSA CIDADE USANDO PROGRAMAÇÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_11.jpg',
@@ -993,7 +993,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'O robô também vai ter que ser capaz de segurar uma caneta para essa tarefa, não é mesmo?',
+      texto:'O ROBÔ TAMBÉM VAI TER QUE SER CAPAZ DE SEGURAR UMA CANETA PARA ESSA TAREFA, NÃO É MESMO?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_12.jpeg',
@@ -1002,7 +1002,7 @@ let livro_cs1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'Vamos ver que ideias vocês têm para fazer isso acontecer!',
+      texto:'VAMOS VER QUE IDEIAS VOCÊS TÊM PARA FAZER ISSO ACONTECER!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_13.jpeg',
@@ -1011,7 +1011,7 @@ let livro_cs1 ={
 
       {ordem:14,
       predecessor:13,
-      texto:'Vamos ajudar os robôs de Numerópolis? Mãos à obra!',
+      texto:'VAMOS AJUDAR OS ROBÔS DE NUMERÓPOLIS? MÃOS À OBRA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
@@ -1021,15 +1021,15 @@ let livro_cs1 ={
     
     licao10:{/** padroesCurriculares: 
     titulo:'Lição 10. Robociclagem.',**/
-    infografico:{titulo:'Robociclagem',
-    tituloSimplificado:'Robociclagem',
+    infografico:{titulo:'ROBOCICLAGEM',
+    tituloSimplificado:'ROBOCICLAGEM',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Olá, de novo! Estamos de volta a Robópolis, nessa cidade ultra robotizada.',
+      texto:'OLÁ, DE NOVO! ESTAMOS DE VOLTA A ROBÓPOLIS, NESSA CIDADE ULTRA ROBOTIZADA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
@@ -1041,7 +1041,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Robópolis depende da colaboração de todos os moradores para manter a energia sempre lá no alto. E isso também tem a ver com a limpeza da cidade.',
+      texto:'ROBÓPOLIS DEPENDE DA COLABORAÇÃO DE TODOS OS MORADORES PARA MANTER A ENERGIA SEMPRE LÁ NO ALTO. E ISSO TAMBÉM TEM A VER COM A LIMPEZA DA CIDADE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_2.jpeg',
@@ -1050,7 +1050,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Aqui em Robópolis, todos colaboram para reciclar o lixo e conservar a natureza.',
+      texto:'AQUI EM ROBÓPOLIS, TODOS COLABORAM PARA RECICLAR O LIXO E CONSERVAR A NATUREZA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_3.jpeg',
@@ -1059,7 +1059,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Mas algo de ruim está acontecendo, o lixo está se acumulando! Por que será?',
+      texto:'MAS ALGO DE RUIM ESTÁ ACONTECENDO, O LIXO ESTÁ SE ACUMULANDO! POR QUE SERÁ?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_4.jpeg',
@@ -1071,7 +1071,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Opa, acho que encontramos o motivo! O robô-reciclador está estragado! E agora?',
+      texto:'OPA, ACHO QUE ENCONTRAMOS O MOTIVO! O ROBÔ-RECICLADOR ESTÁ ESTRAGADO! E AGORA?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_5.jpeg',
@@ -1083,7 +1083,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Como os outros robôs não sabem reciclar lixo, eles precisam ser programados para fazer todas as etapas, enquanto o robô-reciclador está sendo consertado.',
+      texto:'COMO OS OUTROS ROBÔS NÃO SABEM RECICLAR LIXO, ELES PRECISAM SER PROGRAMADOS PARA FAZER TODAS AS ETAPAS, ENQUANTO O ROBÔ-RECICLADOR ESTÁ SENDO CONSERTADO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_6.jpeg',
@@ -1095,7 +1095,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'A primeira etapa é a chamada “coleta seletiva”, que é separar diferentes tipos de lixo em diferentes lixeiras.',
+      texto:'A PRIMEIRA ETAPA É A CHAMADA “COLETA SELETIVA”, QUE É SEPARAR DIFERENTES TIPOS DE LIXO EM DIFERENTES LIXEIRAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_7.jpeg',
@@ -1107,7 +1107,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'A segunda etapa é transportar os lixos devidamente separados em casa, para um local que tenha máquinas de reciclagem.',
+      texto:'A SEGUNDA ETAPA É TRANSPORTAR OS LIXOS DEVIDAMENTE SEPARADOS EM CASA, PARA UM LOCAL QUE TENHA MÁQUINAS DE RECICLAGEM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_8.jpeg',
@@ -1119,7 +1119,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'E, finalmente, na terceira etapa essas máquinas transformam cada tipo de lixo em um novo produto que pode ser usado novamente.',
+      texto:'E, FINALMENTE, NA TERCEIRA ETAPA ESSAS MÁQUINAS TRANSFORMAM CADA TIPO DE LIXO EM UM NOVO PRODUTO QUE PODE SER USADO NOVAMENTE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_9.jpeg',
@@ -1131,7 +1131,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'Está feita a reciclagem! O lixo agora não fica acumulando por aí, prejudicando a natureza...',
+      texto:'ESTÁ FEITA A RECICLAGEM! O LIXO AGORA NÃO FICA ACUMULANDO POR AÍ, PREJUDICANDO A NATUREZA...',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_10.jpeg',
@@ -1140,7 +1140,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'Nossa, como o robô-reciclador faz falta não?',
+      texto:'NOSSA, COMO O ROBÔ-RECICLADOR FAZ FALTA NÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_11.jpeg',
@@ -1152,7 +1152,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'Mas enquanto ele está fora de operação, não tem outro jeito: Robópolis precisa contar com vocês e com sua habilidade de programação! Vamos socorrer os robôs novamente?',
+      texto:'MAS ENQUANTO ELE ESTÁ FORA DE OPERAÇÃO, NÃO TEM OUTRO JEITO: ROBÓPOLIS PRECISA CONTAR COM VOCÊS E COM SUA HABILIDADE DE PROGRAMAÇÃO! VAMOS SOCORRER OS ROBÔS NOVAMENTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_12.jpeg',
@@ -1168,15 +1168,15 @@ let livro_cs1 ={
    
     licao14:{/** padroesCurriculares: 
     titulo:'Lição 14. Eventos.',**/
-    infografico:{titulo:'Eventos',
-    tituloSimplificado:'Eventos',
+    infografico:{titulo:'EVENTOS',
+    tituloSimplificado:'EVENTOS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Vocês sabiam que muitas coisas que acontecem à nossa volta podem ser consideradas eventos?',
+      texto:'VOCÊ SABIA QUE MUITAS COISAS QUE ACONTECEM À NOSSA VOLTA PODEM SER CONSIDERADAS EVENTOS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1185,7 +1185,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Um evento é algo que acontece em um determinado momento e lugar.',
+      texto:'UM EVENTO É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1197,7 +1197,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Por exemplo, acordar de manhã, escovar os dentes, tomar o café da manhã e ir para a escola são eventos que ocorrem todos os dias em nossas vidas.',
+      texto:'POR EXEMPLO, ACORDAR DE MANHÃ, ESCOVAR OS DENTES, TOMAR O CAFÉ DA MANHÃ E IR PARA A ESCOLA SÃO EVENTOS QUE OCORREM TODOS OS DIAS EM NOSSAS VIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1209,7 +1209,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Até mesmo celebrar um aniversário ou assistir a um filme são eventos especiais!',
+      texto:'ATÉ MESMO CELEBRAR UM ANIVERSÁRIO OU ASSISTIR A UM FILME SÃO EVENTOS ESPECIAIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1221,7 +1221,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'E vocês sabiam que os programas de computadores também entendem eventos?',
+      texto:'E VOCÊS SABIAM QUE OS PROGRAMAS DE COMPUTADORES TAMBÉM ENTENDEM EVENTOS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1233,7 +1233,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Eles são programados para realizar ações quando certos eventos acontecem.',
+      texto:'ELES SÃO PROGRAMADOS PARA REALIZAR AÇÕES QUANDO CERTOS EVENTOS ACONTECEM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1245,7 +1245,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'Por exemplo, quando você clica em um botão em um jogo, isso é um evento para o computador e ele pode responder mostrando uma animação ou fazendo um som.',
+      texto:'POR EXEMPLO, QUANDO VOCÊ CLICA EM UM BOTÃO EM UM JOGO, ISSO É UM EVENTO PARA O COMPUTADOR E ELE PODE RESPONDER MOSTRANDO UMA ANIMAÇÃO OU FAZENDO UM SOM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1254,7 +1254,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'Os eventos na computação podem ser muitos.',
+      texto:'OS EVENTOS NA COMPUTAÇÃO PODEM SER MUITOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1263,7 +1263,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'Por exemplo, quando você toca a tela de um tablet, isso é um evento de toque.',
+      texto:'POR EXEMPLO, QUANDO VOCÊ TOCA A TELA DE UM TABLET, ISSO É UM EVENTO DE TOQUE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1275,7 +1275,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'Quando você aperta uma tecla em um teclado, isso é um evento de teclado.',
+      texto:'QUANDO VOCÊ APERTA UMA TECLA EM UM TECLADO, ISSO É UM EVENTO DE TECLADO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1287,7 +1287,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'Os computadores estão sempre prontos para detectar esses eventos e tomar ações com base neles.',
+      texto:'OS COMPUTADORES ESTÃO SEMPRE PRONTOS PARA DETECTAR ESSES EVENTOS E TOMAR AÇÕES COM BASE NELES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1299,7 +1299,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'Quando você pressiona um botão para pular em um jogo, o personagem pula!',
+      texto:'QUANDO VOCÊ PRESSIONA UM BOTÃO PARA PULAR EM UM JOGO, O PERSONAGEM PULA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1311,7 +1311,7 @@ let livro_cs1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'Isso acontece porque o computador entendeu o evento do botão sendo pressionado e tomou a ação de fazer o personagem pular.',
+      texto:'ISSO ACONTECE PORQUE O COMPUTADOR ENTENDEU O EVENTO DO BOTÃO SENDO PRESSIONADO E TOMOU A AÇÃO DE FAZER O PERSONAGEM PULAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1323,7 +1323,7 @@ let livro_cs1 ={
 
       {ordem:14,
       predecessor:13,
-      texto:'Os eventos estão por toda parte, desde as coisas que fazemos quando acordamos até as ações que tomamos com a ajuda de dispositivos eletrônicos. ',
+      texto:'OS EVENTOS ESTÃO POR TODA PARTE, DESDE AS COISAS QUE FAZEMOS QUANDO ACORDAMOS ATÉ AS AÇÕES QUE TOMAMOS COM A AJUDA DE DISPOSITIVOS ELETRÔNICOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1343,15 +1343,15 @@ let livro_cs1 ={
    
     licao16:{/** padroesCurriculares: 
     titulo:'Lição 16. Senhas e Segurança',**/
-    infografico:{titulo:'Senhas e Segurança',
-    tituloSimplificado:'Senhas',
+    infografico:{titulo:'SENHAS E SEGURANÇA',
+    tituloSimplificado:'SENHAS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Hoje vamos falar sobre algo muito importante: senhas e segurança.',
+      texto:'HOJE VAMOS FALAR SOBRE ALGO MUITO IMPORTANTE: SENHAS E SEGURANÇA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1360,7 +1360,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Vocês sabiam que existem maneiras de proteger nossas informações e manter nossos dispositivos seguros?',
+      texto:'VOCÊS SABIAM QUE EXISTEM MANEIRAS DE PROTEGER NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS SEGUROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1372,7 +1372,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Podemos fazer isso com senhas!',
+      texto:'PODEMOS FAZER ISSO COM SENHAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1381,7 +1381,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Uma senha é uma sequência de letras, números ou símbolos que usamos para acessar coisas importantes, como nossos dispositivos eletrônicos, contas de e-mail, jogos e muito mais.',
+      texto:'UMA SENHA É UMA SEQUÊNCIA DE LETRAS, NÚMEROS OU SÍMBOLOS QUE USAMOS PARA ACESSAR COISAS IMPORTANTES, COMO NOSSOS DISPOSITIVOS ELETRÔNICOS, CONTAS DE E-MAIL, JOGOS E MUITO MAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1393,7 +1393,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'A senha é como uma chave secreta que apenas nós devemos saber.',
+      texto:'A SENHA É COMO UMA CHAVE SECRETA QUE APENAS NÓS DEVEMOS SABER.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1405,7 +1405,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Agora, por que é importante ter uma senha forte?',
+      texto:'AGORA, POR QUE É IMPORTANTE TER UMA SENHA FORTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1417,7 +1417,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'É porque queremos manter nossas coisas seguras e protegidas.',
+      texto:'É PORQUE QUEREMOS MANTER NOSSAS COISAS SEGURAS E PROTEGIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1426,7 +1426,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'Assim como usamos uma chave para trancar uma porta, usamos uma senha para "trancar" nossos dispositivos e contas para que apenas nós possamos acessá-los.',
+      texto:'ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA SENHA PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1435,7 +1435,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'Por isso, as senhas sempre devem ser “fortes”, ou seja, sua senha deve ser única e você não deve usar a mesma senha para tudo.',
+      texto:'POR ISSO, AS SENHAS SEMPRE DEVEM SER “FORTES”, OU SEJA, SUA SENHA DEVE SER ÚNICA E VOCÊ NÃO DEVE USAR A MESMA SENHA PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1447,7 +1447,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'Se alguém descobrir sua senha, não queremos que ela tenha acesso a todas as suas coisas!',
+      texto:'SE ALGUÉM DESCOBRIR SUA SENHA, NÃO QUEREMOS QUE ELA TENHA ACESSO A TODAS AS SUAS COISAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1459,7 +1459,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'Quanto mais complexa a senha, mais difícil será para alguém descobri-la.',
+      texto:'QUANTO MAIS COMPLEXA A SENHA, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1471,7 +1471,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'Assim como você não empresta a chave da sua casa, você não deve compartilhar a sua senha com ninguém, exceto com seus pais ou responsáveis.',
+      texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA SENHA COM NINGUÉM, EXCETO COM SEUS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1483,7 +1483,7 @@ let livro_cs1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'Manter a senha em segredo é uma maneira importante de proteger suas informações pessoais.',
+      texto:'MANTER A SENHA EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER SUAS INFORMAÇÕES PESSOAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1495,7 +1495,7 @@ let livro_cs1 ={
 
       {ordem:14,
       predecessor:13,
-      texto:'Além das senhas, é importante manter seus dispositivos protegidos. Isso significa não os deixar desbloqueados ou sem supervisão para que outras pessoas não possam acessá-los sem sua permissão.',
+      texto:'ALÉM DAS SENHAS, É IMPORTANTE MANTER SEUS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM SUA PERMISSÃO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1507,7 +1507,7 @@ let livro_cs1 ={
 
       {ordem:15,
       predecessor:14,
-      texto:'E se você receber uma mensagem estranha pedindo sua senha ou informações pessoais, nunca responda. Sempre peça ajuda a um adulto responsável.',
+      texto:'E SE VOCÊ RECEBER UMA MENSAGEM ESTRANHA PEDINDO SUA SENHA OU INFORMAÇÕES PESSOAIS, NUNCA RESPONDA. SEMPRE PEÇA AJUDA A UM ADULTO RESPONSÁVEL.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1519,7 +1519,7 @@ let livro_cs1 ={
 
       {ordem:16,
       predecessor:15,
-      texto:'A segurança é muito importante quando se trata de senhas e dispositivos eletrônicos.',
+      texto:'A SEGURANÇA É MUITO IMPORTANTE QUANDO SE TRATA DE SENHAS E DISPOSITIVOS ELETRÔNICOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1528,7 +1528,7 @@ let livro_cs1 ={
 
       {ordem:17,
       predecessor:16,
-      texto:'Queremos proteger nossas informações pessoais e manter tudo seguro.',
+      texto:'QUEREMOS PROTEGER NOSSAS INFORMAÇÕES PESSOAIS E MANTER TUDO SEGURO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1540,7 +1540,7 @@ let livro_cs1 ={
 
       {ordem:18,
       predecessor:17,
-      texto:'Vamos aprender e manter nossos dispositivos e informações protegidos juntos!',
+      texto:'VAMOS APRENDER E MANTER NOSSOS DISPOSITIVOS E INFORMAÇÕES PROTEGIDOS JUNTOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1550,15 +1550,15 @@ let livro_cs1 ={
    
     licao17:{/** padroesCurriculares: 
     titulo:'Lição 17. Condicionais.',**/
-    infografico:{titulo:'Condicionais',
-    tituloSimplificado:'Condicionais',
+    infografico:{titulo:'CONDICIONAIS',
+    tituloSimplificado:'CONDICIONAIS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Você já ouviu a palavra “condição”? E “condicionais”? Vamos aprender um pouco sobre isso.',
+      texto:'VOCÊ JÁ OUVIU A PALAVRA “CONDIÇÃO”? E “CONDICIONAIS”? VAMOS APRENDER UM POUCO SOBRE ISSO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1570,7 +1570,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'As condicionais nos ajudam a entender como as coisas podem ser diferentes dependendo de certas condições.',
+      texto:'AS CONDICIONAIS NOS AJUDAM A ENTENDER COMO AS COISAS PODEM SER DIFERENTES DEPENDENDO DE CERTAS CONDIÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1582,7 +1582,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Vamos imaginar que vocês querem ir brincar no parque.',
+      texto:'VAMOS IMAGINAR QUE VOCÊS QUEREM IR BRINCAR NO PARQUE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1594,7 +1594,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Mas antes de sair de casa, vocês precisam verificar se está chovendo lá fora.',
+      texto:'MAS ANTES DE SAIR DE CASA, VOCÊS PRECISAM VERIFICAR SE ESTÁ CHOVENDO LÁ FORA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1606,7 +1606,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Então a condicional seria: <code>Se estiver chovendo <br/>&nbsp;&nbsp;&nbsp;&nbsp;então vamos brincar dentro de casa <br/>Se não estiver chovendo <br/>&nbsp;&nbsp;&nbsp;&nbsp;então podemos ir brincar no parque</code>',
+      texto:'ENTÃO A CONDICIONAL SERIA: <code><b>SE</b> ESTIVER CHOVENDO <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>ENTÃO</b> VAMOS BRINCAR DENTRO DE CASA <br/><b>SE</b> NÃO ESTIVER CHOVENDO <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>ENTÃO</b> PODEMOS IR BRINCAR NO PARQUE</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1618,7 +1618,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Vejam como essa condicional nos ajuda a tomar uma decisão com base na condição do tempo. É como uma regra que nos guia!',
+      texto:'VEJAM COMO ESSA CONDICIONAL NOS AJUDA A TOMAR UMA DECISÃO COM BASE NA CONDIÇÃO DO TEMPO. É COMO UMA REGRA QUE NOS GUIA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1630,7 +1630,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'Viram como as condicionais nos ajudam a entender o que vai acontecer com base em certas condições?',
+      texto:'VIRAM COMO AS CONDICIONAIS NOS AJUDAM A ENTENDER O QUE VAI ACONTECER COM BASE EM CERTAS CONDIÇÕES?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1642,7 +1642,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'Elas nos ajudam a tomar decisões e a entender as consequências de nossas ações.',
+      texto:'ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER AS CONSEQUÊNCIAS DE NOSSAS AÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1654,7 +1654,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'E sabem o que mais é legal? As condicionais também são usadas na programação de computadores!',
+      texto:'E SABEM O QUE MAIS É LEGAL? AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1666,7 +1666,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'Os computadores podem seguir instruções com base em condições que programamos para eles. É como se eles tivessem regras próprias!',
+      texto:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES COM BASE EM CONDIÇÕES QUE PROGRAMAMOS PARA ELES. É COMO SE ELES TIVESSEM REGRAS PRÓPRIAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1678,7 +1678,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'Por exemplo, se vocês estiverem jogando um jogo e o personagem chegar a uma parede, vocês podem programar o jogo para que o personagem mude de direção e continue se movendo.',
+      texto:'POR EXEMPLO, SE VOCÊS ESTIVEREM JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊS PODEM PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1690,7 +1690,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'A condicional seria: <code>Se o personagem encontrar uma parede <br/>&nbsp;&nbsp;&nbsp;&nbsp;então ele deve mudar de direção e continuar se movendo</code>',
+      texto:'A CONDICIONAL SERIA: <code><b>SE</b> O PERSONAGEM ENCONTRAR UMA PAREDE <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>ENTÃO</b> ELE DEVE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1702,7 +1702,7 @@ let livro_cs1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'As condicionais podem ser usadas de maneiras divertidas e interessantes, não é mesmo? Elas nos ajudam a tomar decisões e a entender como as coisas funcionam.',
+      texto:'AS CONDICIONAIS PODEM SER USADAS DE MANEIRAS DIVERTIDAS E INTERESSANTES, NÃO É MESMO? ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER COMO AS COISAS FUNCIONAM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1711,7 +1711,7 @@ let livro_cs1 ={
 
       {ordem:14,
       predecessor:13,
-      texto:'Vamos continuar explorando e aprendendo juntos sobre esse conceito interessante!',
+      texto:'VAMOS CONTINUAR EXPLORANDO E APRENDENDO JUNTOS SOBRE ESSE CONCEITO INTERESSANTE!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1723,15 +1723,15 @@ let livro_cs1 ={
   
     licao19:{/** padroesCurriculares: 
     titulo:'Lição 19. Depuração.',**/
-    infografico:{titulo:'Depuração',
-    tituloSimplificado:'Depuração',
+    infografico:{titulo:'DEPURAÇÃO',
+    tituloSimplificado:'DEPURAÇÃO',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Hoje vamos aprender sobre algo muito importante chamado "depuração".',
+      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO "DEPURAÇÃO".',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1743,7 +1743,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'A depuração, ou debugging é um processo em que identificamos e corrigimos problemas.',
+      texto:'A DEPURAÇÃO, OU DEBUGGING É UM PROCESSO EM QUE IDENTIFICAMOS E CORRIGIMOS PROBLEMAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1755,7 +1755,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Quando algo não está funcionando como esperado, precisamos encontrar a causa do problema e resolvê-lo. É como ser um detetive que soluciona mistérios!',
+      texto:'QUANDO ALGO NÃO ESTÁ FUNCIONANDO COMO ESPERADO, PRECISAMOS ENCONTRAR A CAUSA DO PROBLEMA E RESOLVÊ-LO. É COMO SER UM DETETIVE QUE SOLUCIONA MISTÉRIOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1767,7 +1767,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Imagine um quebra-cabeça.',
+      texto:'IMAGINE UM QUEBRA-CABEÇA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1779,7 +1779,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Se vocês estiverem montando um quebra-cabeça e perceberem que uma peça não se encaixa corretamente, vocês precisam descobrir onde a peça errada está e encontrar a peça correta para colocar no lugar.',
+      texto:'SE VOCÊS ESTIVEREM MONTANDO UM QUEBRA-CABEÇA E PERCEBEREM QUE UMA PEÇA NÃO SE ENCAIXA CORRETAMENTE, VOCÊS PRECISAM DESCOBRIR ONDE A PEÇA ERRADA ESTÁ E ENCONTRAR A PEÇA CORRETA PARA COLOCAR NO LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1791,7 +1791,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Essa peça incorreta é um bug, um problema e é preciso depurar a situação, encontrar o bug e corrigi-lo.',
+      texto:'ESSA PEÇA INCORRETA É UM BUG, UM PROBLEMA E É PRECISO DEPURAR A SITUAÇÃO, ENCONTRAR O BUG E CORRIGI-LO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1803,7 +1803,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'A depuração nos ajuda a solucionar problemas e encontrar soluções. É um processo de investigação para descobrir o que está errado e corrigir o problema.',
+      texto:'A DEPURAÇÃO NOS AJUDA A SOLUCIONAR PROBLEMAS E ENCONTRAR SOLUÇÕES. É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1815,7 +1815,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'A depuração também é usada na programação de computadores.',
+      texto:'A DEPURAÇÃO TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1827,7 +1827,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'Quando os programadores escrevem códigos para criar jogos ou aplicativos, às vezes surgem erros ou bugs. É como um quebra-cabeça que precisa ser resolvido!',
+      texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1839,7 +1839,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'Os programadores usam a depuração para encontrar e corrigir esses erros.',
+      texto:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1851,7 +1851,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'Eles examinam o código cuidadosamente, testam diferentes partes e fazem alterações até que tudo funcione corretamente.',
+      texto:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1863,7 +1863,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'A depuração é uma habilidade importante que nos ajuda a resolver problemas e encontrar soluções.',
+      texto:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1875,7 +1875,7 @@ let livro_cs1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'Vamos continuar aprendendo e vocês se tornarão verdadeiros detetives da solução de problemas!',
+      texto:'VAMOS CONTINUAR APRENDENDO E VOCÊS SE TORNARÃO VERDADEIROS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1898,91 +1898,91 @@ let livro_cs1 ={
    
     licao24:{/** padroesCurriculares: 
     titulo:'Lição 24. O Trânsito em Robópolis.',**/
-    infografico:{titulo:'O Trânsito em Robópolis',
-    tituloSimplificado:'Trânsito',
+    infografico:{titulo:'O TRÂNSITO EM ROBÓPOLIS',
+    tituloSimplificado:'TRÂNSITO',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Olá! Estamos de volta a Robópolis...',
+      texto:'OLÁ! ESTAMOS DE VOLTA A ROBÓPOLIS...',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
+      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
       predecessor:1,
-      texto:'Nossa missão de hoje é ajudar os nossos amigos da cidade.',
+      texto:'NOSSA MISSÃO DE HOJE É AJUDAR OS NOSSOS AMIGOS DA CIDADE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'E HOJE VAMOS AJUDAR OS ROBÔS DA CIDADE NOVAMENTE.',
+      promptImagem:'rua colorida e futurística com robôs engraçados andando por ela com expressão feliz', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
       predecessor:2,
-      texto:'Como os robôs de Robópolis não andam muito rápido, ele quer comprar um carro. Mas não conhece as regras de trânsito.',
+      texto:'COMO OS ROBÔS DE ROBÓPOLIS NÃO ANDAM MUITO RÁPIDO, ELES QUEREM ANDAR DE CARRO. MAS NÃO CONHECEM AS REGRAS DE TRÂNSITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_3.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS ROBÔS QUEREM ANDAR DE CARRO PELA CIDADE, MAS NÃO CONHECEM AS REGRAS DE TRÂNSITO.',
+      promptImagem:'um robô 3D engraçado dirigindo um carro em uma rua colorida e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
       predecessor:3,
-      texto:'Para dirigir com segurança, eles precisam conhecer o que significa cada cor que aparece nos semáforos, aqueles sinais que controlam o trânsito.',
+      texto:'PARA DIRIGIR COM SEGURANÇA, ELES PRECISAM CONHECER O QUE SIGNIFICA CADA COR QUE APARECE NOS SEMÁFOROS, AQUELES SINAIS QUE CONTROLAM O TRÂNSITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'PARA DIRIGIR COM SEGURANÇA, ELES PRECISAM CONHECER O QUE SIGNIFICA CADA COR QUE APARECE NOS SEMÁFOROS.',
+      promptImagem:'uma rua colorida e futurista mostrando um grande semáforo', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
       predecessor:4,
-      texto:'Vocês podem ajudar?',
+      texto:'VOCÊS PODEM AJUDAR?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_5.jpeg',
+      promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
       predecessor:5,
-      texto:'Além de ensinar o que cada cor significa, vocês devem criar programas para que os robôs sejam capazes de atravessar Robópolis, sempre respeitando as cores do semáforos que aparecem pelo caminho.',
+      texto:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊS DEVEM CRIAR PROGRAMAS PARA QUE OS ROBÔS SEJAM CAPAZES DE ATRAVESSAR ROBÓPOLIS, SEMPRE RESPEITANDO AS CORES DO SEMÁFOROS QUE APARECEM PELO CAMINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA OS ROBÔS ATRAVESSAREM ROBÓPOLIS SEMPRE RESPEITANDO OS SINAIS DE TRÂNSITO.',
+      promptImagem:'dois robôs engraçados dirigindo carros em uma rua colorida e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
       predecessor:6,
-      texto:'Vai ser um desafio e tanto... Pé na tábua!',
+      texto:'VAI SER UM DESAFIO E TANTO... PÉ NA TÁBUA!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_7.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      promptImagem:'o retrovisor de um carro engraçado super rápido em uma rua colorida e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -1992,15 +1992,15 @@ let livro_cs1 ={
    
     licao27:{/** padroesCurriculares: 
     titulo:'Lição 27. Binarópolis.',**/
-    infografico:{titulo:'Binarópolis',
-    tituloSimplificado:'Binarópolis',
+    infografico:{titulo:'BINARÓPOLIS',
+    tituloSimplificado:'BINARÓPOLIS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Vamos hoje continuar em nossa divertida jornada, conhecendo a cidade mais estranha da terra dos robôs: Binarópolis!',
+      texto:'VAMOS HOJE CONTINUAR EM NOSSA DIVERTIDA JORNADA, CONHECENDO A CIDADE MAIS ESTRANHA DA TERRA DOS ROBÔS: BINARÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2012,7 +2012,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Binarópolis fica no continente, assim como Letrópolis. Porém, fica longe do mar, no interior do continente. Veja no mapa.',
+      texto:'BINARÓPOLIS FICA PRÓXIMO A ROBÓPOLIS, ASSIM COMO NUMERÓPOLIS. E LÁ TAMBÉM VIVEM APENAS ROBÔS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2024,7 +2024,7 @@ let livro_cs1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Em Binarópolis os robôs também gostam de números, mas só conhecem os números “zero” e “um”. Estranho não?',
+      texto:'EM BINARÓPOLIS OS ROBÔS TAMBÉM GOSTAM DE NÚMEROS, MAS SÓ CONHECEM OS NÚMEROS “ZERO” E “UM”. ESTRANHO NÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2036,7 +2036,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Pois é... Como Binarópolis é uma cidade muito antiga, eles até hoje só conversam através do código primitivo dos computadores, conhecido como “sistema binário”.',
+      texto:'POIS É... COMO BINARÓPOLIS É UMA CIDADE MUITO ANTIGA, ELES ATÉ HOJE SÓ CONVERSAM ATRAVÉS DO CÓDIGO PRIMITIVO DOS COMPUTADORES, CONHECIDO COMO “SISTEMA BINÁRIO”.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2048,7 +2048,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'E o “sistema binário” só utiliza os dois símbolos, zero e um.',
+      texto:'E O “SISTEMA BINÁRIO” SÓ UTILIZA OS DOIS SÍMBOLOS, ZERO E UM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2060,7 +2060,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Ok, mas se Binarópolis tem cinco ruas... como vamos conseguir dar nomes diferentes para cada rua?',
+      texto:'OK, MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2072,7 +2072,7 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'Bom, os computadores usam o “sistema binário” para representar de tudo: letras, números, imagens, sons... então deve ter um jeito.',
+      texto:'BOM, OS COMPUTADORES USAM O “SISTEMA BINÁRIO” PARA REPRESENTAR DE TUDO: LETRAS, NÚMEROS, IMAGENS, SONS... ENTÃO DEVE TER UM JEITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2084,7 +2084,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'Lá no processador, o cérebro do computador, minúsculos componentes elétricos são ligados para representar o “um”, que desenhamos como uma caixinha branca. Veja.',
+      texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA. VEJA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2096,7 +2096,7 @@ let livro_cs1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'E são desligados para representar o “zero”, que desenhamos como uma caixinha preta.',
+      texto:'E SÃO DESLIGADOS PARA REPRESENTAR O “ZERO”, QUE DESENHAMOS COMO UMA CAIXINHA PRETA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2108,7 +2108,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'O computador então usa vários “zeros” e “uns”, um ao lado do outro, para representar diferentes números e letras.',
+      texto:'O COMPUTADOR ENTÃO USA VÁRIOS “ZEROS” E “UNS”, UM AO LADO DO OUTRO, PARA REPRESENTAR DIFERENTES NÚMEROS E LETRAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2120,7 +2120,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'É um pouco confuso a princípio, mas como você já é reconhecido como um grande ajudante de robôs, vai aprender um pouco sobre esse código misterioso para ajudar Binarópolis.',
+      texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS COMO VOCÊ JÁ É RECONHECIDO COMO UM GRANDE AJUDANTE DE ROBÔS, VAI APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2132,7 +2132,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:0,
-      texto:'Preparados?',
+      texto:'PREPARADOS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
