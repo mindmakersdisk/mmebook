@@ -2003,11 +2003,11 @@ let livro_cs1 ={
       texto:'VAMOS HOJE CONTINUAR EM NOSSA DIVERTIDA JORNADA, CONHECENDO A CIDADE MAIS ESTRANHA DA TERRA DOS ROBÔS: BINARÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_1.jpg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'HOJE VAMOS CONHECER BINARÓPOLIS.',
+      promptImagem:'um país colorido e futurista, visto de cima, mostrando diferentes cidades', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -2015,11 +2015,8 @@ let livro_cs1 ={
       texto:'BINARÓPOLIS FICA PRÓXIMO A ROBÓPOLIS, ASSIM COMO NUMERÓPOLIS. E LÁ TAMBÉM VIVEM APENAS ROBÔS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_2.jpeg',
+      promptImagem:'dois robôs 3D engraçados andando em um parque colorido e futurista, com muitas árvores', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -2027,11 +2024,11 @@ let livro_cs1 ={
       texto:'EM BINARÓPOLIS OS ROBÔS TAMBÉM GOSTAM DE NÚMEROS, MAS SÓ CONHECEM OS NÚMEROS “ZERO” E “UM”. ESTRANHO NÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_3-2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'POR AQUI , OS ROBÔS TAMBÉM AMAM OS NÚMEROS, MAS SÓ CONHECEM O UM E O ZERO.',
+      promptImagem:'dois robôs engraçados conversando entre si com balões de fala em uma rua colorida e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -2039,11 +2036,11 @@ let livro_cs1 ={
       texto:'POIS É... COMO BINARÓPOLIS É UMA CIDADE MUITO ANTIGA, ELES ATÉ HOJE SÓ CONVERSAM ATRAVÉS DO CÓDIGO PRIMITIVO DOS COMPUTADORES, CONHECIDO COMO “SISTEMA BINÁRIO”.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'ESSE É O CÓDIGO PRIMITIVO DOS COMPUTADORES, TAMBÉM CONHECIDO COMO SISTEMA BINÁRIO.',
+      promptImagem:'um robô 3D engraçado estudando um livro antigo em um ambiente colorido e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -2051,11 +2048,11 @@ let livro_cs1 ={
       texto:'E O “SISTEMA BINÁRIO” SÓ UTILIZA OS DOIS SÍMBOLOS, ZERO E UM.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_5.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'E ESSE SISTEMA UTILIZA SOMENTE DOIS SÍMBOLOS: 0 E 1.',
+      promptImagem:'zeros e uns flutuando sobre um balão de fala em um cenário colorido e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -2063,11 +2060,11 @@ let livro_cs1 ={
       texto:'OK, MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
+      promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -2075,11 +2072,8 @@ let livro_cs1 ={
       texto:'BOM, OS COMPUTADORES USAM O “SISTEMA BINÁRIO” PARA REPRESENTAR DE TUDO: LETRAS, NÚMEROS, IMAGENS, SONS... ENTÃO DEVE TER UM JEITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_7.jpeg',
+      promptImagem:'um computador com código binário na tela, em um fundo colorido e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -2087,11 +2081,11 @@ let livro_cs1 ={
       texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA. VEJA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_8.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'NO SISTEMA BINÁRIO, O UM É REPRESENTADO POR UMA CAIXINHA BRANCA, QUE QUER DIZER: LIGADO.',
+      promptImagem:'um processador de computador com um quadrado branco flutuando acima dele em um fundo colorido e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -2099,11 +2093,11 @@ let livro_cs1 ={
       texto:'E SÃO DESLIGADOS PARA REPRESENTAR O “ZERO”, QUE DESENHAMOS COMO UMA CAIXINHA PRETA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_9.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'E O ZERO É REPRESENTADO POR UMA CAIXINHA PRETA, QUE QUER DIZER: DESLIGADO.',
+      promptImagem:'um processador de computador com um quadrado preto flutuando acima dele em um fundo colorido e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -2111,10 +2105,10 @@ let livro_cs1 ={
       texto:'O COMPUTADOR ENTÃO USA VÁRIOS “ZEROS” E “UNS”, UM AO LADO DO OUTRO, PARA REPRESENTAR DIFERENTES NÚMEROS E LETRAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_10.png',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
+      textoImpressoRecriado:'PARA REPRESENTAR OS OUTROS NÚMEROS, USAMOS UMA SEQUÊNCIA DE CAIXINHAS BRANCAS E PRETAS.',
       promptImagem:'', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -2123,11 +2117,11 @@ let livro_cs1 ={
       texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS COMO VOCÊ JÁ É RECONHECIDO COMO UM GRANDE AJUDANTE DE ROBÔS, VAI APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_11.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'AGORA VOCÊ CONHECE O SISTEMA BINÁRIO E VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
+      promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -2135,11 +2129,8 @@ let livro_cs1 ={
       texto:'PREPARADOS?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_12.jpeg',
+      promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
