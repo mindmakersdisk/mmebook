@@ -1731,26 +1731,26 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO "DEPURAÇÃO".',
+      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO "DEPURAÇÃO", OU "DEBUGGING".',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_1.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE "DEPURAÇÃO", OU "DEBUGGING".',
+      promptImagem:'lupa de arte digital sobre um laptop', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
       predecessor:1,
-      texto:'A DEPURAÇÃO, OU DEBUGGING É UM PROCESSO EM QUE IDENTIFICAMOS E CORRIGIMOS PROBLEMAS.',
+      texto:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
+      promptImagem:'um bug robótico 3D andando sobre um laptop em um fundo futurista e colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1758,11 +1758,8 @@ let livro_cs1 ={
       texto:'QUANDO ALGO NÃO ESTÁ FUNCIONANDO COMO ESPERADO, PRECISAMOS ENCONTRAR A CAUSA DO PROBLEMA E RESOLVÊ-LO. É COMO SER UM DETETIVE QUE SOLUCIONA MISTÉRIOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_3-2.jpeg',
+      promptImagem:'investigador em um fundo colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1770,11 +1767,8 @@ let livro_cs1 ={
       texto:'IMAGINE UM QUEBRA-CABEÇA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de um quebra cabeças em cima de uma mesa ainda não montado', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_4-2.jpeg',
+      promptImagem:'peças de um quebra-cabeça espalhadas por uma mesa em um fundo colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1782,23 +1776,17 @@ let livro_cs1 ={
       texto:'SE VOCÊS ESTIVEREM MONTANDO UM QUEBRA-CABEÇA E PERCEBEREM QUE UMA PEÇA NÃO SE ENCAIXA CORRETAMENTE, VOCÊS PRECISAM DESCOBRIR ONDE A PEÇA ERRADA ESTÁ E ENCONTRAR A PEÇA CORRETA PARA COLOCAR NO LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de um quebra cabeças iniciado, que mostra a imagem de um robô, mas ainda faltando algumas peças para terminar', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_5.jpeg',
+      promptImagem:'Arte digital de um quebra cabeças iniciado, que mostra a imagem de um robô engraçado, mas ainda faltando algumas peças para terminar', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
       predecessor:5,
-      texto:'ESSA PEÇA INCORRETA É UM BUG, UM PROBLEMA E É PRECISO DEPURAR A SITUAÇÃO, ENCONTRAR O BUG E CORRIGI-LO.',
+      texto:'ESSA PEÇA INCORRETA É UM BUG E É PRECISO DEPURAR A SITUAÇÃO, ENCONTRAR O BUG E CORRIGI-LO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_6.jpeg',
+      promptImagem:'uma lupa 3D sobre um laptop em um fundo futurista e colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1806,11 +1794,11 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO NOS AJUDA A SOLUCIONAR PROBLEMAS E ENCONTRAR SOLUÇÕES. É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_7.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'A DEPURAÇÃO É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
+      promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1818,11 +1806,11 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_8.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'E TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
+      promptImagem:'arte digital de um computador com código flutuando em um fundo colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1830,11 +1818,11 @@ let livro_cs1 ={
       texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_9.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS.',
+      promptImagem:'Arte digital de programação de computadores', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1842,11 +1830,11 @@ let livro_cs1 ={
       texto:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_10-2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
+      promptImagem:'arte digital de depuração de computador', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1854,11 +1842,11 @@ let livro_cs1 ={
       texto:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_11.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
+      promptImagem:'digital art of pair programming in a colorful background', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1866,11 +1854,11 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_12.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
+      promptImagem:'arte digital de resolução de problemas em um fundo colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1878,8 +1866,8 @@ let livro_cs1 ={
       texto:'VAMOS CONTINUAR APRENDENDO E VOCÊS SE TORNARÃO VERDADEIROS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_13-2.jpeg',
+      promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
