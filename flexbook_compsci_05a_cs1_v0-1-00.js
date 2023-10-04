@@ -1561,11 +1561,11 @@ let livro_cs1 ={
       texto:'VOCÊ JÁ OUVIU A PALAVRA “CONDIÇÃO”? E “CONDICIONAIS”? VAMOS APRENDER UM POUCO SOBRE ISSO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_1.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'O QUE É UMA CONDICIONAL?',
-      promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser usada alguma variação de outra imagem já pronta*/
+      promptImagem:'pintura de uma pessoa pensando, com vários pontos de interrogação ao seu redor', /*pode ser usada alguma variação de outra imagem já pronta*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1573,11 +1573,8 @@ let livro_cs1 ={
       texto:'AS CONDICIONAIS NOS AJUDAM A ENTENDER COMO AS COISAS PODEM SER DIFERENTES DEPENDENDO DE CERTAS CONDIÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'CONDICIONAIS NOS AJUDAM A ENTENDER COMO AS COISAS FUNCIONAM.',
-      promptImagem:'Arte digital de uma nuvem de chuva e um sol do outro lado', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_2.jpeg',
+      promptImagem:'pintura de uma pessoa pensando no que comer, com um prato de macarrão e um hambúrguer na mesa em frente', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1585,11 +1582,11 @@ let livro_cs1 ={
       texto:'VAMOS IMAGINAR QUE VOCÊS QUEREM IR BRINCAR NO PARQUE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_3.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'IMAGINE QUE VOCÊ QUER IR BRINCAR NO PARQUE.',
-      promptImagem:'Arte digital de um parque com sol', /*opc*/
+      promptImagem:'pintura de um parque com sol', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1597,23 +1594,23 @@ let livro_cs1 ={
       texto:'MAS ANTES DE SAIR DE CASA, VOCÊS PRECISAM VERIFICAR SE ESTÁ CHOVENDO LÁ FORA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'ANTES DE SAIR, PRECISA VERIFICAR SE ESTÁ CHOVENDO.',
-      promptImagem:'Arte digital de uma nuvem de chuva', /*opc*/
+      promptImagem:'pintura de uma nuvem chovendo', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
       predecessor:4,
-      texto:'ENTÃO A CONDICIONAL SERIA: <code><b>SE</b> ESTIVER CHOVENDO <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>ENTÃO</b> VAMOS BRINCAR DENTRO DE CASA <br/><b>SE</b> NÃO ESTIVER CHOVENDO <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>ENTÃO</b> PODEMOS IR BRINCAR NO PARQUE</code>',
+      texto:'ENTÃO A CONDICIONAL SERIA: <code><b>SE</b> ESTIVER CHOVENDO <br/>&nbsp;&nbsp;<b>ENTÃO</b> VAMOS BRINCAR DENTRO DE CASA <br/><b>SE</b> NÃO ESTIVER CHOVENDO <br/>&nbsp;&nbsp;<b>ENTÃO</b> PODEMOS IR BRINCAR NO PARQUE</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_5.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'SE CHUVA = VERDADEIRO, ENTÃO BRINCAR DENTRO DE CASA. SENÃO, BRINCAR NO PARQUE.',
-      promptImagem:'Arte digital de uma nuvem de chuva e um sol do outro lado', /*pode ser uma variação da outra*/
+      promptImagem:'pintura de uma nuvem de chuva e um sol do outro lado', /*pode ser uma variação da outra*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1621,11 +1618,11 @@ let livro_cs1 ={
       texto:'VEJAM COMO ESSA CONDICIONAL NOS AJUDA A TOMAR UMA DECISÃO COM BASE NA CONDIÇÃO DO TEMPO. É COMO UMA REGRA QUE NOS GUIA!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'A DECISÃO É TOMADA COM BASE NA CONDIÇÃO.',
-      promptImagem:'Arte digital com duas setas saindo do mesmo lugar e indo para lados diferentes', /*opc*/
+      promptImagem:'pintura de uma pessoa parada em frente a dois caminhos diferentes na floresta', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1633,11 +1630,8 @@ let livro_cs1 ={
       texto:'VIRAM COMO AS CONDICIONAIS NOS AJUDAM A ENTENDER O QUE VAI ACONTECER COM BASE EM CERTAS CONDIÇÕES?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'CONDICIONAIS NOS AJUDAM A ENTENDER O QUE VAI ACONTECER.',
-      promptImagem:'Arte digital com ', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_7.jpeg',
+      promptImagem:'pintura de uma pessoa pensando com o dedo na testa', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1645,11 +1639,8 @@ let livro_cs1 ={
       texto:'ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER AS CONSEQUÊNCIAS DE NOSSAS AÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_8-2.jpeg',
+      promptImagem:'pintura de uma criança do sexo feminino pensando em qual brinquedo vai brincar, com um ursinho de pelúcia e um trem de madeira na sua frente', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1657,11 +1648,11 @@ let livro_cs1 ={
       texto:'E SABEM O QUE MAIS É LEGAL? AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_9.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES.',
+      promptImagem:'pintura de programação de computador', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1669,11 +1660,11 @@ let livro_cs1 ={
       texto:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES COM BASE EM CONDIÇÕES QUE PROGRAMAMOS PARA ELES. É COMO SE ELES TIVESSEM REGRAS PRÓPRIAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_10.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES COM BASE EM CONDIÇÕES QUE PROGRAMAMOS PARA ELES.',
+      promptImagem:'pintura de um computador com diferentes símbolos de cheque e proibido flutuando', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1681,23 +1672,20 @@ let livro_cs1 ={
       texto:'POR EXEMPLO, SE VOCÊS ESTIVEREM JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊS PODEM PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_11.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      textoImpressoRecriado:'SE VOCÊ ESTIVER JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊ PODE PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
+      promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
       predecessor:11,
-      texto:'A CONDICIONAL SERIA: <code><b>SE</b> O PERSONAGEM ENCONTRAR UMA PAREDE <br/>&nbsp;&nbsp;&nbsp;&nbsp;<b>ENTÃO</b> ELE DEVE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO</code>',
+      texto:'A CONDICIONAL SERIA: <code><b>SE</b> O PERSONAGEM ENCONTRAR UMA PAREDE <br/>&nbsp;&nbsp;<b>ENTÃO</b> ELE DEVE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:1,
-      imagemImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_12.jpeg',
+      promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1705,18 +1693,10 @@ let livro_cs1 ={
       texto:'AS CONDICIONAIS PODEM SER USADAS DE MANEIRAS DIVERTIDAS E INTERESSANTES, NÃO É MESMO? ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER COMO AS COISAS FUNCIONAM.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_13.jpeg',
+      promptImagem:'pintura de um jovem pensando em um parque', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:14,
-      predecessor:13,
-      texto:'VAMOS CONTINUAR EXPLORANDO E APRENDENDO JUNTOS SOBRE ESSE CONCEITO INTERESSANTE!',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'', /*opc*/
-      textoDescritivoImagem:'', /*opc*/},
     ]}},
    
     licao18:{},
