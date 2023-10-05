@@ -1179,8 +1179,8 @@ let livro_cs1 ={
       texto:'VOCÊ SABIA QUE MUITAS COISAS QUE ACONTECEM À NOSSA VOLTA PODEM SER CONSIDERADAS EVENTOS?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser a mesma já utilizada antes*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_1.jpeg',
+      promptImagem:'Quadrinhos de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser a mesma já utilizada antes*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1188,11 +1188,11 @@ let livro_cs1 ={
       texto:'UM EVENTO É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'UM EVENTO É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
-      promptImagem:'Arte digital de uma nuvem de chuva', /*opc*/
+      promptImagem:'Quadrinhos de uma nuvem de chuva', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1200,11 +1200,11 @@ let livro_cs1 ={
       texto:'POR EXEMPLO, ACORDAR DE MANHÃ, ESCOVAR OS DENTES, TOMAR O CAFÉ DA MANHÃ E IR PARA A ESCOLA SÃO EVENTOS QUE OCORREM TODOS OS DIAS EM NOSSAS VIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_3.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS PODEM SER COISAS QUE ACONTECEM TODOS OS DIAS...',
-      promptImagem:'Arte digital de um personagem em frente a um espelho, escovando os dentes', /*opc*/
+      promptImagem:'Quadrinhos de um personagem em frente a um espelho, escovando os dentes', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1212,11 +1212,11 @@ let livro_cs1 ={
       texto:'ATÉ MESMO CELEBRAR UM ANIVERSÁRIO OU ASSISTIR A UM FILME SÃO EVENTOS ESPECIAIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OU COISAS ESPECIAIS.',
-      promptImagem:'Arte digital de uma festa de aniversário', /*opc*/
+      promptImagem:'uma criança soprando velas de um bolo de aniversário, quadrinhos', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
