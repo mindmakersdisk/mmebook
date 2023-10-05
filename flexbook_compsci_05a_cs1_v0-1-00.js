@@ -1399,7 +1399,7 @@ let livro_cs1 ={
       urlImagem:'',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'A SNHA É COMO UMA CHAVE SECRETA.',
+      textoImpressoRecriado:'A SENHA É COMO UMA CHAVE SECRETA.',
       promptImagem:'Arte digital de um cadeado e uma chave', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
