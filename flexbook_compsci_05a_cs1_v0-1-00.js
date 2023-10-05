@@ -1354,7 +1354,7 @@ let livro_cs1 ={
       texto:'HOJE VAMOS FALAR SOBRE ALGO MUITO IMPORTANTE: SENHAS E SEGURANÇA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_1.jpeg',
       promptImagem:'Arte digital de um cadeado fechado e vários asteriscos voando em torno dele', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1363,7 +1363,7 @@ let livro_cs1 ={
       texto:'VOCÊS SABIAM QUE EXISTEM MANEIRAS DE PROTEGER NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS SEGUROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'PODEMOS PROTEGER NOSSOS DISPOSITIVOS.',
@@ -1375,7 +1375,7 @@ let livro_cs1 ={
       texto:'PODEMOS FAZER ISSO COM SENHAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_3.png',
       promptImagem:'Arte digital de uma tela de programa com um cadeado bem em cima', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1384,7 +1384,7 @@ let livro_cs1 ={
       texto:'UMA SENHA É UMA SEQUÊNCIA DE LETRAS, NÚMEROS OU SÍMBOLOS QUE USAMOS PARA ACESSAR COISAS IMPORTANTES, COMO NOSSOS DISPOSITIVOS ELETRÔNICOS, CONTAS DE E-MAIL, JOGOS E MUITO MAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'O QUE É UMA SENHA?',
@@ -1396,11 +1396,11 @@ let livro_cs1 ={
       texto:'A SENHA É COMO UMA CHAVE SECRETA QUE APENAS NÓS DEVEMOS SABER.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_5.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'A SENHA É COMO UMA CHAVE SECRETA.',
-      promptImagem:'Arte digital de um cadeado e uma chave', /*opc*/
+      promptImagem:'Arte digital colorida de um código secreto', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1408,11 +1408,11 @@ let livro_cs1 ={
       texto:'AGORA, POR QUE É IMPORTANTE TER UMA SENHA FORTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'A SENHA PRECISA SER FORTE.',
-      promptImagem:'Arte digital de um laptop aberto e um cadeado na tela, com uma chave nele', /*opc*/
+      promptImagem:'Arte digital colorida de um braço forte segurando um cadeado', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1420,7 +1420,7 @@ let livro_cs1 ={
       texto:'É PORQUE QUEREMOS MANTER NOSSAS COISAS SEGURAS E PROTEGIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_7.jpeg',
       promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1429,7 +1429,7 @@ let livro_cs1 ={
       texto:'ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA SENHA PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_8.jpeg',
       promptImagem:'Arte digital de uma tranca de uma porta com uma chave', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1438,11 +1438,11 @@ let livro_cs1 ={
       texto:'POR ISSO, AS SENHAS SEMPRE DEVEM SER “FORTES”, OU SEJA, SUA SENHA DEVE SER ÚNICA E VOCÊ NÃO DEVE USAR A MESMA SENHA PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_9.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA...',
-      promptImagem:'Arte digital de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*opc*/
+      promptImagem:'Arte digital colorida de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1450,7 +1450,7 @@ let livro_cs1 ={
       texto:'SE ALGUÉM DESCOBRIR SUA SENHA, NÃO QUEREMOS QUE ELA TENHA ACESSO A TODAS AS SUAS COISAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_10.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'... E DÍFICIL DE ADIVINHAR.',
@@ -1462,7 +1462,7 @@ let livro_cs1 ={
       texto:'QUANTO MAIS COMPLEXA A SENHA, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_11.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'QUANTO MAIS FORTE A SENHA, MAIS PROTEGIDO VOCÊ ESTÁ.',
@@ -1474,7 +1474,7 @@ let livro_cs1 ={
       texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA SENHA COM NINGUÉM, EXCETO COM SEUS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_12.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'NÃO COMPARTILHE SUAS SENHAS!',
@@ -1486,7 +1486,7 @@ let livro_cs1 ={
       texto:'MANTER A SENHA EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER SUAS INFORMAÇÕES PESSOAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_13.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'SUA SENHA É SECRETA.',
@@ -1498,11 +1498,11 @@ let livro_cs1 ={
       texto:'ALÉM DAS SENHAS, É IMPORTANTE MANTER SEUS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM SUA PERMISSÃO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_14.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
-      promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*pode ser uma variação do que já foi usado anteriormente*/
+      promptImagem:'Arte digital colorida de um ladrão carregando um laptop', /*pode ser uma variação do que já foi usado anteriormente*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:15,
@@ -1510,7 +1510,7 @@ let livro_cs1 ={
       texto:'E SE VOCÊ RECEBER UMA MENSAGEM ESTRANHA PEDINDO SUA SENHA OU INFORMAÇÕES PESSOAIS, NUNCA RESPONDA. SEMPRE PEÇA AJUDA A UM ADULTO RESPONSÁVEL.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_15.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'CUIDADO COM MENSAGENS ESTRANHAS.',
@@ -1522,8 +1522,8 @@ let livro_cs1 ={
       texto:'A SEGURANÇA É MUITO IMPORTANTE QUANDO SE TRATA DE SENHAS E DISPOSITIVOS ELETRÔNICOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'Arte digital de um cadeado e uma chave', /*pode ser uma variação da já usada anteriormente*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_16.jpeg',
+      promptImagem:'Arte digital colorida de um smatphone com um cadeado dourado na tela', /*pode ser uma variação da já usada anteriormente*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:17,
@@ -1531,11 +1531,11 @@ let livro_cs1 ={
       texto:'QUEREMOS PROTEGER NOSSAS INFORMAÇÕES PESSOAIS E MANTER TUDO SEGURO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_17.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'VAMOS NOS PROTEGER!',
-      promptImagem:'Arte digital de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*pode ser uma variação da já usada anteriormente*/
+      promptImagem:'arte digital colorida que retrata a segurança cibernética', /*pode ser uma variação da já usada anteriormente*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:18,
@@ -1543,7 +1543,7 @@ let livro_cs1 ={
       texto:'VAMOS APRENDER E MANTER NOSSOS DISPOSITIVOS E INFORMAÇÕES PROTEGIDOS JUNTOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_18.jpeg',
       promptImagem:'Arte digital de um smatphone com um cadeado dourado na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
