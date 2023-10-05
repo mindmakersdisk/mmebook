@@ -1224,11 +1224,11 @@ let livro_cs1 ={
       texto:'E VOCÊS SABIAM QUE OS PROGRAMAS DE COMPUTADORES TAMBÉM ENTENDEM EVENTOS?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_5.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS ESTÃO ATÉ NOS COMPUTADORES!',
-      promptImagem:'Arte digital de um computador', /*opc*/
+      promptImagem:'quadrinhos de um computador', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1236,11 +1236,11 @@ let livro_cs1 ={
       texto:'ELES SÃO PROGRAMADOS PARA REALIZAR AÇÕES QUANDO CERTOS EVENTOS ACONTECEM.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS PODEM SER PROGRAMADOS.',
-      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
+      promptImagem:'quadrinhos de um computador com vários códigos saindo da tela', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
