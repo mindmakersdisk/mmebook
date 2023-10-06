@@ -783,11 +783,11 @@ let livro_cs1 ={
       texto:'SABE QUANDO VOCÊS FAZEM ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS LAÇOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_1.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS LAÇOS SERVEM PARA O COMPUTADOR FAZER COISAS DE MODO REPETIDO.',
-      promptImagem:'', /*opc*/
+      promptImagem:'criança pulando corda, desenho animado', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -795,11 +795,11 @@ let livro_cs1 ={
       texto:'OS COMPUTADORES TÊM UMA ESPÉCIE DE "SUPER MEMÓRIA" E CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS LAÇOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'É SÓ DAR A ORDEM PARA O COMPUTADOR: FAÇA DE NOVO, E DE NOVO...',
-      promptImagem:'', /*opc*/
+      promptImagem:'computador desktop com o símbolo do infinito na tela, desenho animado', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -807,11 +807,11 @@ let livro_cs1 ={
       texto:'NÓS DIZEMOS AO COMPUTADOR QUANTAS VEZES ELE DEVE FAZER ALGO, E ELE CONTA AS VEZES QUE FEZ. QUANDO ATINGE O NÚMERO QUE DISSEMOS, ELE PARA DE FAZER A AÇÃO E CONTINUA COM OUTRAS COISAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_3.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR CONTA QUANTAS VEZES PEDIMOS PARA ELE FAZER UMA AÇÃO E A REPETE NA QUANTIDADE CERTA.',
-      promptImagem:'', /*opc*/
+      promptImagem:'desenho animado de uma criança usando o computador', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -819,11 +819,11 @@ let livro_cs1 ={
       texto:'VAMOS IMAGINAR QUE VOCÊ QUER DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'SE VOCÊ QUER FAZER A MESMA COISA VÁRIAS VEZES.',
-      promptImagem:'', /*opc*/
+      promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -831,11 +831,11 @@ let livro_cs1 ={
       texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_5.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR SABE CONTAR E ENTENDE QUANDO TEM QUE FAZER A MESMA COISA VÁRIAS VEZES.',
-      promptImagem:'', /*opc*/
+      promptImagem:'desenho animado de um computador com cinco emojis de carinha sorridente na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -843,11 +843,11 @@ let livro_cs1 ={
       texto:'OS LAÇOS SÃO COMO TRUQUES DE REPETIÇÃO QUE AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. ELES DIZEM AO COMPUTADOR: "FAÇA ISSO VÁRIAS VEZES ATÉ EU DIZER PARA PARAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_6.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS LAÇOS FAZEM OS SEUS ALGORITMOS MAIS RÁPIDOS E PODEROSOS.',
-      promptImagem:'', /*opc*/
+      promptImagem:'desenho animado de um computador com um balão de fala vazio em cima', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -855,11 +855,11 @@ let livro_cs1 ={
       texto:'OS LAÇOS AJUDAM O COMPUTADOR A FAZER COISAS REPETITIVAS DE UM JEITO MUITO INTELIGENTE. NO FUTURO, QUANDO VOCÊ APRENDER MAIS SOBRE COMPUTAÇÃO, OS LAÇOS VÃO TE AJUDAR A FAZER COISAS INCRÍVEIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_7.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS LAÇOS VÃO TE AJUDAR A TORNAR SEUS ALGORITMOS AINDA MAIS INCRÍVEIS!',
-      promptImagem:'', /*opc*/
+      promptImagem:'desenho animado que demonstre o que é internet das coisas', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
 	  
@@ -1248,8 +1248,8 @@ let livro_cs1 ={
       texto:'POR EXEMPLO, QUANDO VOCÊ CLICA EM UM BOTÃO EM UM JOGO, ISSO É UM EVENTO PARA O COMPUTADOR E ELE PODE RESPONDER MOSTRANDO UMA ANIMAÇÃO OU FAZENDO UM SOM.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'Arte digital de uma manete de videogame com uma mão segurando', /*opc*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_7.jpeg',
+      promptImagem:'quadrinhos de uma criança jogando videogame', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1257,8 +1257,8 @@ let livro_cs1 ={
       texto:'OS EVENTOS NA COMPUTAÇÃO PODEM SER MUITOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_8.jpeg',
+      promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1266,11 +1266,11 @@ let livro_cs1 ={
       texto:'POR EXEMPLO, QUANDO VOCÊ TOCA A TELA DE UM TABLET, ISSO É UM EVENTO DE TOQUE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_9.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'TOCAR NA TELA DO TABLET É UM EVENTO.',
-      promptImagem:'Arte digital de uma mão segurando um tablet e a outra mão tocando a tela', /*opc*/
+      promptImagem:'uma pessoa usando um tablet, quadrinhos', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1278,11 +1278,11 @@ let livro_cs1 ={
       texto:'QUANDO VOCÊ APERTA UMA TECLA EM UM TECLADO, ISSO É UM EVENTO DE TECLADO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_10.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'APERTAR UMA TECLA NO TECLADO É UM EVENTO.',
-      promptImagem:'Arte digital de um teclado de computador e um dedo pressionando alguma tecla', /*opc*/
+      promptImagem:'uma pessoa apertando uma tecla em um teclado de computador, quadrinhos', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1290,11 +1290,11 @@ let livro_cs1 ={
       texto:'OS COMPUTADORES ESTÃO SEMPRE PRONTOS PARA DETECTAR ESSES EVENTOS E TOMAR AÇÕES COM BASE NELES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_11.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'TODO EVENTO DE COMPUTADOR TERÁ UMA REAÇÃO.',
-      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
+      promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1302,11 +1302,11 @@ let livro_cs1 ={
       texto:'QUANDO VOCÊ PRESSIONA UM BOTÃO PARA PULAR EM UM JOGO, O PERSONAGEM PULA!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_12.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'NOS JOGOS TAMBÉM PODEMOS PERCEBER OS EVENTOS.',
-      promptImagem:'Arte digial de uma criança jogando videogame', /*opc*/
+      promptImagem:'quadrinhos de uma criança jogando videogame', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1314,11 +1314,11 @@ let livro_cs1 ={
       texto:'ISSO ACONTECE PORQUE O COMPUTADOR ENTENDEU O EVENTO DO BOTÃO SENDO PRESSIONADO E TOMOU A AÇÃO DE FAZER O PERSONAGEM PULAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_13.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'NO JOGO, CADA EVENTO TERÁ UMA REAÇÃO TAMBÉM.',
-      promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*pode ser alguma já utilizada*/
+      promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1326,11 +1326,11 @@ let livro_cs1 ={
       texto:'OS EVENTOS ESTÃO POR TODA PARTE, DESDE AS COISAS QUE FAZEMOS QUANDO ACORDAMOS ATÉ AS AÇÕES QUE TOMAMOS COM A AJUDA DE DISPOSITIVOS ELETRÔNICOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_14.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS ESTÃO EM TODA PARTE!',
-      promptImagem:'Arte digital de diferentes dispositivos eletrônicos', /*opc*/
+      promptImagem:'um computador desktop, um tablet, um celular, um videogame e uma TV, quadrinhos', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
     ]}},
 	  
