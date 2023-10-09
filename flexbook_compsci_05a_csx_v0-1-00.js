@@ -9,7 +9,7 @@ let livro_csx ={
   
   versao:'0.1.00',
   nomeFantasia: 'Expresso',
-  nomeTecnico:'CSX - Fundamentos em Ciência da Computação',
+  nomeTecnico:'	',
   isbn:'',
   autores:[],
   editor:'',
