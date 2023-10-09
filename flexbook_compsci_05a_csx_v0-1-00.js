@@ -651,8 +651,8 @@ let livro_csx ={
         textoSimplificado:'Robôs',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_1.png',
-        promptImagem:'Ilustração dando as boas-vindas ao mundo dos robôs: um robô versátil rolando sobre rodas, um robô humanoide com braços e pernas e um robô peculiar com formas diversas, todos juntos em um cenário vibrante de ficção científica.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/robos_1.jpeg',
+        promptImagem:'robôs 3d que lembrem bb8 e r2d2', 
         textoDescritivoImagem:'Três imagens, na primeira um robô versátil, na segunda um robô humanóide e na terceira um robô estranho.', },
 
         {ordem:2,
@@ -717,8 +717,8 @@ let livro_csx ={
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img_7_new.png',
-        promptImagem:'Robô com controle remoto', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/robos_7.jpeg',
+        promptImagem:'Imagem 3D com um menino programando um robô que parece um carro para correr', 
         textoDescritivoImagem:'Um robô sendo controlado por um controle remoto.', },
 
         {ordem:8,
