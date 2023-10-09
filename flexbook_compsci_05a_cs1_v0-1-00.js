@@ -530,8 +530,8 @@ let livro_cs1 ={
         texto:'HOJE VAMOS CONHECER O MUNDO DOS ROBÔS, QUE SÃO MÁQUINAS INCRÍVEIS E FASCINANTES.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de diferentes robôs', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_1.jpeg',
+        promptImagem:'Robôs engraçados em 3d', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:2,
@@ -539,8 +539,8 @@ let livro_cs1 ={
         texto:'OS ROBÔS SÃO CRIADOS PELOS SERES HUMANOS PARA NOS AJUDAR EM DIVERSAS TAREFAS E TORNAR NOSSAS VIDAS MAIS FÁCEIS E ATÉ MESMO MAIS DIVERTIDAS.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de um robô sendo construído', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_2.jpeg',
+        promptImagem:'Robô engraçado 3D construindo outro robô', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
@@ -548,11 +548,11 @@ let livro_cs1 ={
         texto:'MAS O QUE É UM ROBÔ?',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_3.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'O QUE SÃO ROBÔS?',
-        promptImagem:'Arte digital de diferentes robôs', /*opc*/
+        promptImagem:'Robô engraçado 3D confuso com pontos de interrogação flutuando ao seu redor', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
         
         {ordem:4,
@@ -560,8 +560,8 @@ let livro_cs1 ={
         texto:'UM ROBÔ É UMA MÁQUINA ESPECIAL QUE PODE FAZER COISAS DIFERENTES SEM A AJUDA DIRETA DE UMA PESSOA.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de um robô', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_4.jpeg',
+        promptImagem:'Robô engraçado 3D acenando com a mão', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:5,
@@ -569,11 +569,11 @@ let livro_cs1 ={
         texto:'OS ROBÔS PODEM TER CORPOS FEITOS DE METAL, PLÁSTICO OU OUTROS MATERIAIS E GERALMENTE POSSUEM SENSORES PARA AJUDÁ-LOS A "ENTENDER" O MUNDO AO SEU REDOR.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_5.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'DIFERENTES ROBÔS PARA DIFERENTES TAREFAS',
-        promptImagem:'Arte digital mostrando 4 imagens: um robô em uma linha de produção, um robô cirurgião, um robô desenhista e um robô explorando outro planeta', /*opc*/
+        promptImagem:'Robô engraçado 3D explorando outros planetas', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:6,
@@ -581,11 +581,11 @@ let livro_cs1 ={
         texto:'EXISTEM MUITOS TIPOS DIFERENTES DE ROBÔS. ALGUNS TÊM BRAÇOS E PERNAS COMO OS HUMANOS, ENQUANTO OUTROS TÊM RODAS OU ATÉ MESMO ASAS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_6.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'TIPOS DE ROBÔS',
-        promptImagem:'Arte digital mostrando robôs humanoides, robôs com rodas e robôs esféricos', /*opc*/
+        promptImagem:'Robô humanóide 3D engraçado andando na rua', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:7,
@@ -593,8 +593,8 @@ let livro_cs1 ={
         texto:'ALGUNS ROBÔS SÃO USADOS EM FÁBRICAS PARA AJUDAR A CONSTRUIR CARROS, BRINQUEDOS E OUTRAS COISAS QUE USAMOS TODOS OS DIAS.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de robôs em uma linha de produção de carros', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_7.jpeg',
+        promptImagem:'Robôs engraçados 3D construindo um carro', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:8,
@@ -602,8 +602,8 @@ let livro_cs1 ={
         texto:'OUTROS ROBÔS SÃO USADOS EM HOSPITAIS PARA AJUDAR OS MÉDICOS A FAZEREM CIRURGIAS COM PRECISÃO OU PARA CUIDAR DAS PESSOAS QUANDO ESTÃO DOENTES.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de robô cirurgião em uma sala de cirurgia', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_8.jpeg',
+        promptImagem:'Robô cirurgião 3d engraçado andando em um hospital', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:9,
@@ -611,8 +611,8 @@ let livro_cs1 ={
         texto:'ALÉM DISSO, EXISTEM ROBÔS QUE PODEMOS PROGRAMAR PARA FAZER TAREFAS ESPECÍFICAS. ISSO SIGNIFICA QUE PODEMOS DAR INSTRUÇÕES A ELES E ELES AS SEGUIRÃO.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de um robô com um papel na mão que possui vários símbolos de check', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_9.jpeg',
+        promptImagem:'Robô engraçado 3D empurrando um carrinho cheio de compras', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:10,
@@ -620,11 +620,11 @@ let livro_cs1 ={
         texto:'É COMO SE ELES TIVESSEM UM CÉREBRO QUE PODEMOS CONTROLAR!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_10.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ROBÔS TEM CÉREBRO?',
-        promptImagem:'Arte digital de um robô pensando, com um semblante confuso', /*opc*/
+        promptImagem:'robô engraçado 3d pensando', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:11,
@@ -632,11 +632,11 @@ let livro_cs1 ={
         texto:'OS ROBÔS SÃO PROGRAMADOS USANDO CÓDIGOS E COMANDOS ESPECIAIS. É COMO ENSINAR UM ROBÔ A FAZER ALGO.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_11.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ROBÔS PRECISAM SER PROGRAMADOS',
-        promptImagem:'Arte digital de um menino sentado em frente a um computador, com um robô ao seu lado no chão, como se o menino estivesse programando o robô', /*opc*/
+        promptImagem:'Robô engraçado 3D ao lado de um computador, ouvindo o que o computador tem a dizer', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:12,
@@ -644,8 +644,8 @@ let livro_cs1 ={
         texto:'POR EXEMPLO, PODEMOS PROGRAMAR UM ROBÔ PARA DESENHAR FIGURAS OU JOGAR UM JOGO CONOSCO. É MUITO DIVERTIDO!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de um robô fazendo um desenho', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_12.jpeg',
+        promptImagem:'Desenho engraçado de robô 3D com um lápis', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:13,
@@ -653,11 +653,11 @@ let livro_cs1 ={
         texto:'É IMPORTANTE LEMBRAR QUE OS ROBÔS SÃO APENAS MÁQUINAS E NÃO TÊM SENTIMENTOS COMO OS SERES HUMANOS. ELES SEGUEM NOSSAS INSTRUÇÕES, MAS NÃO PODEM PENSAR OU SENTIR COMO NÓS.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_13.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ROBÔS SÃO MÁQUINAS, ELES NÃO PENSAM, APENAS SEGUEM AS ORDENS QUE DAMOS',
-        promptImagem:'Arte digital de um robô com uma lupa na mão, como se procurasse algo pelo chão', /*opc*/
+        promptImagem:'Robô engraçado 3D olhando para um computador, como se estivesse esperando que ele dissesse algo', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:14,
@@ -665,8 +665,8 @@ let livro_cs1 ={
         texto:'A TECNOLOGIA DOS ROBÔS ESTÁ SEMPRE EVOLUINDO, E NO FUTURO, ELES PODERÃO FAZER COISAS AINDA MAIS INCRÍVEIS.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital mostrando um mundo futurístico com vários robôs andando pelas ruas com sacolas nas mãos', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_14.jpeg',
+        promptImagem:'Robô engraçado 3D dirigindo um carro', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:15,
@@ -674,8 +674,8 @@ let livro_cs1 ={
         texto:'AGORA, QUE TAL EXPLORARMOS MAIS SOBRE OS ROBÔS E SUAS INCRÍVEIS CAPACIDADES?',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
-        promptImagem:'Arte digital de diferentes robôs', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_15.jpeg',
+        promptImagem:'robôs engraçados 3d', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
         ]}},
     
