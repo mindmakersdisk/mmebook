@@ -851,8 +851,8 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_1.jpg',
-        promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_1.jpg',
+        promptImagem:'imagem realista de uma rua movimentada com carros esperando a mudança do semáforo', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
   
         {ordem:2,
@@ -862,8 +862,8 @@ let livro_csx ={
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_2.jpg',
-        promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_2.jpg',
+        promptImagem:'imagem realista de uma rua movimentada com pedestres esperando a mudança do semáforo', 
         textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
   
         {ordem:3,
@@ -884,8 +884,8 @@ let livro_csx ={
         textoSimplificado:'Operadores Lógicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_4_edit.png',
-        promptImagem:'Vista de uma rua movimentada com um semáforo com a luz amarela e um carro parado logo abaixo em frente ao semáforo', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_4.jpeg',
+        promptImagem:'imagem realista de uma rua movimentada com carros esperando a mudança do semáforo', 
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
         {ordem:5,
