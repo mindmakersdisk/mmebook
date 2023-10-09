@@ -572,7 +572,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_5.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'DIFERENTES ROBÔS PARA DIFERENTES TAREFAS',
+        textoImpressoRecriado:'OS ROBÔS SÃO MÁQUINAS QUE PODEM EXECUTAR DIFERENTES TAREFAS.',
         promptImagem:'Robô engraçado 3D explorando outros planetas', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -584,7 +584,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_6.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'TIPOS DE ROBÔS',
+        textoImpressoRecriado:'EXISTEM ROBÔS PARECIDOS COM OS HUMANOS E ROBÔS BEM DIFERENTES.',
         promptImagem:'Robô humanóide 3D engraçado andando na rua', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -635,7 +635,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_11.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ROBÔS PRECISAM SER PROGRAMADOS',
+        textoImpressoRecriado:'OS ROBÔS SÃO MÁQUINAS, ENTÃO PRECISAM SER PROGRAMADOS.',
         promptImagem:'Robô engraçado 3D ao lado de um computador, ouvindo o que o computador tem a dizer', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -656,7 +656,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_13.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ROBÔS SÃO MÁQUINAS, ELES NÃO PENSAM, APENAS SEGUEM AS ORDENS QUE DAMOS',
+        textoImpressoRecriado:'OS ROBÔS NÃO PENSAM, APENAS SEGUEM AS ORDENS QUE DAMOS.',
         promptImagem:'Robô engraçado 3D olhando para um computador, como se estivesse esperando que ele dissesse algo', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
