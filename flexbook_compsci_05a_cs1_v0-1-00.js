@@ -60,7 +60,8 @@ let livro_cs1 ={
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
 				textoSimplificado:'SEQUÊNCIAS',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_1.jpg',
-				promptImagem:'uma imagem fofa de personagem feminina, negra, com semblante pensativo', /*opc*/
+				//promptImagem:'uma imagem fofa de personagem feminina, negra, com semblante pensativo', /*opc*/
+				promptImagem:'Imagem colorida e suave de uma jovem personagem feminina negra, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
 				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
 					 
 				{ordem:2,
@@ -72,8 +73,21 @@ let livro_cs1 ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
-				promptImagem:'uma imagem fofa de três ursos de pelúcia, todos com tamanhos diferentes', /*opc*/
+				//promptImagem:'Imagem vívida e delicada de três ursos de pelúcia, cada um de um tamanho diferente, arranjados um ao lado do outro de maneira harmoniosa em um cenário tranquilo e colorido',
+				//promptImagem:'uma imagem fofa de três ursos de pelúcia, todos com tamanhos diferentes', /*opc*/
+				//Imagem vívida e delicada de duas prateleiras com brinquedos, dispostos em sequência crescente de tamanho, em um cenário tranquilo e colorido
 				textoDescritivoImagem:'', /*opc*/},
+/*
+Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, se acordando na sua cama em um fundo pastel e desfocado. Ele exibe um semblante tranquilo, sonolento e feliz, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar o quarto.
+
+Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, tomando o café da manhã na mesa da cozinha com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. 
+
+Imagem colorida e suave de um menino, com olhos grandes e expressivos, tomando banho feliz no chuveiro, motrando a ducha e o box com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. 
+
+Imagem colorida e suave de três jovens personagem masculino, com olhos grandes e expressivos, vestidos com uniforme da escola entrando na escola com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. 
+
+*/
+
 
         {ordem:3,
         predecessor:2,
@@ -81,7 +95,8 @@ let livro_cs1 ={
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/3.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_3.jpg',
-        promptImagem:'uma imagem fofa de uma fila com cinco bolas coloridas sobre uma mesa', /*opc*/
+		promptImagem:'Imagem delicada e colorida de cinco bolas vibrantes alinhadas em sequência sobre uma mesa, em um ambiente sereno, cada bola com uma cor distinta e tons suaves. Acima de cada bola, números sequenciais flutuam, começando com 1 e terminando em 5',
+        //promptImagem:'uma imagem fofa de uma fila com cinco bolas coloridas sobre uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:4,
