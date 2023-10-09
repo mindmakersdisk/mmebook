@@ -59,7 +59,7 @@ let livro_cs1 ={
 				texto:'VOCÊ SABE O QUE É UMA SEQUÊNCIA? JÁ OUVIU ESSA PALAVRA ANTES?',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
 				textoSimplificado:'SEQUÊNCIAS',
-				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_1.jpg',
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-1.jpg',
 				//promptImagem:'uma imagem fofa de personagem feminina, negra, com semblante pensativo', /*opc*/
 				promptImagem:'Imagem colorida e suave de uma jovem personagem feminina negra, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
 				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
@@ -69,7 +69,7 @@ let livro_cs1 ={
 				texto:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/2.mp3',
 				textoSimplificado:'Sequência é ordem',
-				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_2.jpg',
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-2-3.gif',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
@@ -77,24 +77,13 @@ let livro_cs1 ={
 				//promptImagem:'uma imagem fofa de três ursos de pelúcia, todos com tamanhos diferentes', /*opc*/
 				//Imagem vívida e delicada de duas prateleiras com brinquedos, dispostos em sequência crescente de tamanho, em um cenário tranquilo e colorido
 				textoDescritivoImagem:'', /*opc*/},
-/*
-Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, se acordando na sua cama em um fundo pastel e desfocado. Ele exibe um semblante tranquilo, sonolento e feliz, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar o quarto.
-
-Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, tomando o café da manhã na mesa da cozinha com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. 
-
-Imagem colorida e suave de um menino, com olhos grandes e expressivos, tomando banho feliz no chuveiro, motrando a ducha e o box com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. 
-
-Imagem colorida e suave de três jovens personagem masculino, com olhos grandes e expressivos, vestidos com uniforme da escola entrando na escola com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. 
-
-*/
-
 
         {ordem:3,
         predecessor:2,
         texto:'ESSA ORDEM É SABER O QUE É PRIMEIRO, O QUE VEM DEPOIS DO PRIMEIRO, E ASSIM POR DIANTE.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/3.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-3.gif',
 		promptImagem:'Imagem delicada e colorida de cinco bolas vibrantes alinhadas em sequência sobre uma mesa, em um ambiente sereno, cada bola com uma cor distinta e tons suaves. Acima de cada bola, números sequenciais flutuam, começando com 1 e terminando em 5',
         //promptImagem:'uma imagem fofa de uma fila com cinco bolas coloridas sobre uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
@@ -113,11 +102,12 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'POR EXEMPLO: QUAL É A SEQUÊNCIA DE ACONTECIMENTOS DO SEU DIA?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/5.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_5.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-5.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'QUAL É SEQUÊNCIA DE ACONTECIMENTOS NO SEU DIA?',
-        promptImagem:'uma imagem fofa de um personagem sentado à mesa, almoçando; uma imagem fofa de dois personagens saindo de um prédio, vestidos com uniformes escolares; uma imagem fofa de um personagem humano se espreguiçando na cama de manhã; uma imagem fofa de uma personagem humana em uma banheira cheia de espuma', /*opc*/
+		promptImagem:'Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, se acordando na sua cama em um fundo pastel e desfocado. Ele exibe um semblante tranquilo, sonolento e feliz, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar o quarto;Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, tomando o café da manhã na mesa da cozinha com nuances de luz e sombra semelhantes a uma fotografia macro de natureza; Imagem colorida e suave de dois personagens fofos saindo de um prédio, vestidos com uniformes escolares, com olhos grandes e expressivos, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar a escola; Imagem colorida e suave e fofa de um banheiro com uma banheira cheia de espuma com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. O objetivo da imagem é mostrar que devemos tomar banho todos os dias.',
+        //promptImagem:'uma imagem fofa de um personagem sentado à mesa, almoçando; uma imagem fofa de dois personagens saindo de um prédio, vestidos com uniformes escolares; uma imagem fofa de um personagem humano se espreguiçando na cama de manhã; uma imagem fofa de uma personagem humana em uma banheira cheia de espuma', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:6,
@@ -125,11 +115,12 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA SEQUÊNCIA, VOCÊ TAMBÉM PRECISA DE UM CRITÉRIO. REPITA COMIGO: CRITÉRIO.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/6.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'VOCÊ PRECISA DE UM CRITÉRIO.',
-        promptImagem:'Imagem digital de uma prancheta vermelha com um papel e no papel tem um símbolo verde de checagem', /*opc*/
+		promptImagem:'Imagem colorida e suave e fofa, no centro, uma prancheta vermelha com um papel anexado a ela. No papel, destaca-se um grande símbolo de checagem na cor verde. O fundo é desfocado com nuances suaves, lembrando uma fotografia macro da natureza.',
+        //promptImagem:'Imagem digital de uma prancheta vermelha com um papel e no papel tem um símbolo verde de checagem', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:7,
@@ -137,8 +128,9 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'MAS O QUE É UM CRITÉRIO?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/7.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_7.jpg',
-        promptImagem:'imagem fofa de personagem masculino, com semblante pensativo', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-7.jpg',
+		promptImagem:'Imagem colorida e suave de um jovem personagem asiático, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
+        //promptImagem:'imagem fofa de personagem masculino, com semblante pensativo', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:8,
@@ -146,11 +138,12 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'UM CRITÉRIO É A REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA SEQUÊNCIA.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/8.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_8.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-8.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'CRITÉRIO = REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS.',
-        promptImagem:'uma imagem fofa de uma placa de de trânsito triangular, com a borda vermelha e o fundo branco e um ponto de exclamação preto bem no meio da placa', /*opc*/
+        promptImagem:'Imagem colorida e suave de uma imagem fofa de uma placa de de trânsito triangular, com a borda vermelha e o fundo branco e um ponto de exclamação preto bem no meio da placa. O cenário tem com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
+		//promptImagem:'uma imagem fofa de uma placa de de trânsito triangular, com a borda vermelha e o fundo branco e um ponto de exclamação preto bem no meio da placa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:9,
@@ -158,11 +151,12 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'POR EXEMPLO: PARA COLOCAR OS ALUNOS EM SEQUÊNCIA, DO MENOR PARA O MAIOR, O CRITÉRIO SERÁ A ALTURA DE CADA UM.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/9.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-9.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA: ALUNOS <p>CRITÉRIO: ALTURA - DO MENOR PARA O MAIOR.',
-        promptImagem:'imagem fofa de três personagens humanos de alturas diferentes em fila, olhando para frente', /*opc*/
+		promptImagem:'Imagem colorida e suave de três carrinhos fofos com tamanhos bem diferentes em fila com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
+        //promptImagem:'imagem fofa de três personagens humanos de alturas diferentes em fila, olhando para frente', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:10,
@@ -170,8 +164,9 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'APRENDER SOBRE SEQUÊNCIAS É MUITO IMPORTANTE, POIS COM ELAS VOCÊ VAI PODER ORGANIZAR TUDO E ENTENDER O MUNDO AO SEU REDOR.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/10.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_10.jpg',
-        promptImagem:'imagem fofa de peças de um quebra cabeças espalhadas sobre uma mesa', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-10.jpg',
+        promptImagem:'Imagem colorida e suave de peças de um quebra cabeças espalhadas e bagunçadas sobre uma mesa com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
+		//promptImagem:'imagem fofa de peças de um quebra cabeças espalhadas sobre uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:11,
@@ -191,8 +186,9 @@ Imagem colorida e suave de três jovens personagem masculino, com olhos grandes 
         texto:'ESTÁ PREPARADO PARA O MUNDO DAS SEQUÊNCIAS? VAMOS LÁ!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/12.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_12.jpg',
-        promptImagem:'uma imagem fofa de cubos empilhados em cima de uma mesa', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-12.jpg',
+        promptImagem:'Imagem colorida e suave de três cubos empilhados em cima de uma mesa com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Cada cubo tem um número apenas, sendo um com o número 1, outro 2, e outro 3.',
+		//promptImagem:'uma imagem fofa de cubos empilhados em cima de uma mesa', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 			]}},
 	  
