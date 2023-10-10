@@ -409,7 +409,7 @@ let livro_csx ={
         textoSimplificado:'Laços pelo Mundo',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_5.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_5-2.png',
         promptImagem:'arte digital colorida retratando uma bailarina graciosa executando uma série de piruetas. A fluidez e elegância de seus movimentos devem ser capturadas de forma vívida, dando vida à arte do balé.', 
         textoDescritivoImagem:'Uma bailarina executando cinco piruetas.', },
 
