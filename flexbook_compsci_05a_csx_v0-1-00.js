@@ -873,8 +873,8 @@ let livro_csx ={
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_3.jpg',
-        promptImagem:'Minimalist digital art featuring three panels: the first one showing a stylized car silhouette stationary in front of a red traffic light, the second one portraying the car moving with a green light in the background, and the third one with the car slowing down in front of a yellow light.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_3.jpg',
+        promptImagem:'um semáforo com todas as luzes apagadas, exceto a do meio, mostrando um brilho amarelo', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
   
         {ordem:4,
@@ -895,8 +895,8 @@ let livro_csx ={
         textoSimplificado:'Condições',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_5_pxhere.png',
-        promptImagem:'pessoa deitada em uma cama, apertando o botão para interromper o despertador de um relógio que está marcando 6h00', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_5.jpeg',
+        promptImagem:'Uma jovem acordando e desligando o alarme do relógio', 
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
         {ordem:6,
@@ -906,8 +906,8 @@ let livro_csx ={
         textoSimplificado:'Operador Lógico NÃO',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_6_flickr.png',
-        promptImagem:'Pessoa bebendo uma garrafa de água', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_6.jpeg',
+        promptImagem:'Um jovem asiático bebendo água de uma garrafa em um parque', 
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', }, 
           
         {ordem:7,
@@ -917,8 +917,8 @@ let livro_csx ={
         textoSimplificado:'Expressão Lógica e Condicional',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/img_shutterstock_2117681789.png',
-        promptImagem:'Banco de imgaens', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_7.jpeg',
+        promptImagem:'um jovem negro na frente de um computador, programando-o', 
         textoDescritivoImagem:'Uma mulher sentada na cadeira de escritório olhando para frete entusiasmada e ao lado a mesa com computador e duas telas com código de programação.', },
       ]}},			
       
@@ -943,8 +943,8 @@ let livro_csx ={
         textoSimplificado:'Eventos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/img_1.jpg',
-        promptImagem:'Create a realistic digital art representation of a breaking news scene depicting the launch of a rocket. The scene should include a rocket soaring skyward, a news anchor reporting live, and a headline ticker at the bottom of the screen saying Rocket Launch Success', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/evnt_1.jpeg',
+        promptImagem:'um repórter em uma reportagem ao vivo sobre um incêndio na floresta', 
         textoDescritivoImagem:'Lançamento de um foguete.', }, 
 
         {ordem:2,
@@ -954,8 +954,8 @@ let livro_csx ={
         textoSimplificado:'Eventos e Reações',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/img_2.png',
-        promptImagem:'Create a realistic digital art of a focused girl studying at a table filled with books. An inquisitive cat is sitting on the table next to her, meowing for her attention, but she remains absorbed in her studies.',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/evnt_2.jpeg',
+        promptImagem:'uma garota negra estudando em uma mesa e um gato laranja pulando em cima da mesa.',
         textoDescritivoImagem:'Uma garota estudando e seu gato sobe em cima da sua mesa.', },
 
         {ordem:3,
@@ -998,8 +998,8 @@ let livro_csx ={
         textoSimplificado:'Sensores',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/img_6.png',
-        promptImagem:'Celular ao sol esquentando com alerta da temperatura alta', //enviar ao ilustrador 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/evnt_6.jpeg',
+        promptImagem:'um celular com uma medida de temperatura vermelha na tela', //enviar ao ilustrador 
         textoDescritivoImagem:'Um celular inteligente ao sol apresentando na tela uma alerta de temperatura alta e informando ao usuário a necessidade de esfriá-lo.', },
       ]}},		
 
