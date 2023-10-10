@@ -2052,7 +2052,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_2.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/matreg_2.png',
           promptImagem:'Imagem de uma planilha de excel, com três linhas e três colunas, em que duas colunas contém dados. Em zoom, o destaque para um dos dados presente em uma das células.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2107,7 +2107,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_7.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/mtreg_7.png',
           promptImagem:'Ícone de um registro, exemplificando uma página de registro de um usuário, em que ele precisa adicionar dados seus em 4 campos.', 
           textoDescritivoImagem:'TODO.', },
   
