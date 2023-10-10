@@ -976,8 +976,8 @@ let livro_csx ={
         textoSimplificado:'Exemplos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/img_4.jpg',
-        promptImagem:'Smartphone, tablet, smartwatch.', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/evnt_4.jpeg',
+        promptImagem:'um tablet, um celular e um smartwatch em uma mesa', 
         textoDescritivoImagem:'Imagem de um smartphone (celular inteligente), um tablet e um smartwatch (relógio inteligente)', },
 
         {ordem:5,
