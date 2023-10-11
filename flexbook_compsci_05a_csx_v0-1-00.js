@@ -2760,7 +2760,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_1.jpg',
-        promptImagem:'Cartoon: Teens immersed in digital communication on devices, sharing emojis, posts, and video calls. Cartoon-style, featuring speech bubbles and social media icons.', 	
+        promptImagem:'Teens immersed in digital communication, sharing emojis, posts, and video calls with speech bubbles and social media icons, white background, cartoon',
+        //promptImagem:'Teens engrossed in digital communication on devices, sharing emojis, posts, and video calls, featuring speech bubbles and social media icons, white backgound, cartoon.', 	
         textoDescritivoImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos.', },
 
         {ordem:2,
@@ -2771,7 +2772,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_2.jpg',
-        promptImagem:'Cartoon: teens using devices, surrounded by communication icons and ✔ (permission) and ✖ (prohibition) symbols.',
+        promptImagem:'Teens using devices, surrounded by communication icons and ✔ (permission) and ✖ (prohibition) symbols, white backgound, cartoon.',
         textoDescritivoImagem:'Ética Digital.', },
 
         {ordem:3,
@@ -2782,7 +2783,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_3.jpg',
-        promptImagem:`Cartoon: online avatars respecting each other's space with privacy shields and words like Respect and Digital Ethics floating around, emphasizing digital respect.`, 
+        promptImagem:`Multicultural teenage avatars respect digital space with floating words 'Respect' and 'Digital Ethics', white backgound, cartoon`,
         textoDescritivoImagem:'Respeito.', },
 
         {ordem:4,
@@ -2805,7 +2806,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_5.jpg',
-        promptImagem:'Cartoon: Teen detective on computer, verifying truthfulness of notification.',
+        promptImagem:'Teenage black girl digital detective verifying a notification on her computer, white backgound, cartoon.',
+        //promptImagem:'Teenage black girl digital detective verifying a notification on her computer, cartoon.',
         textoDescritivoImagem:'', },
 
         {ordem:6,
@@ -2827,7 +2829,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_7.jpg',
-        promptImagem:'Cartoon: Global youth communication. Show communication and ethics icons. ', 
+        promptImagem:'Teenagers communicating globally, surrounded by icons of communication and ethics, white backgound, cartoon', 
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
       ]}},
