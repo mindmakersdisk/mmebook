@@ -335,8 +335,9 @@ let livro_cs1 ={
 				texto:'VOCÊ SABE O QUE É UM ALGORITMO? JÁ OUVIU ESSA PALAVRA ANTES?',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos',
-				urlImagem:'',
-				promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*opc*/
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-1.jpg',
+				promptImagem:'Imagem vibrante e alegre de um personagem infantil curioso, com olhos arregalados, pensando para tentar resolver um problema, rodeado de ícones divertidos e coloridos representando etapas sequenciais.',
+				//promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*opc*/
 				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
 					 
 				{ordem:2,
@@ -344,11 +345,12 @@ let livro_cs1 ={
 				texto:'OS ALGORITMOS ESTÃO EM TUDO O QUE NOS RODEIA, SÃO APLICADOS EM TUDO E SÃO USADOS EM TODA A TECNOLOGIA E EM TODAS AS DECISÕES QUE TOMAMOS DIARIAMENTE.',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos em todos os lugares',
-				urlImagem:'',
-        textoImpresso:1,
-        imagemImpresso:1,
-        textoImpressoRecriado:'OS ALGORITMOS ESTÃO EM TODO LUGAR!',
-				promptImagem:'Arte digital de uma cidade vista de cima, com componentes computacionais sendo mostrados em diferentes locais.', /*opc*/
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-2.jpg',
+				textoImpresso:1,
+				imagemImpresso:1,
+				textoImpressoRecriado:'OS ALGORITMOS ESTÃO EM TODO LUGAR!',
+				promptImagem:'Imagem vibrante e alegre de uma cidade vista de cima, com componentes computacionais sendo mostrados em diferentes locais.',
+				//promptImagem:'Arte digital de uma cidade vista de cima, com componentes computacionais sendo mostrados em diferentes locais.', /*opc*/
 				textoDescritivoImagem:'Cidade super conectada, com componentes computacionais nos mais diversos locais', /*opc*/},
 
         {ordem:3,
@@ -356,11 +358,12 @@ let livro_cs1 ={
         texto:'UM ALGORITMO É UMA INSTRUÇÃO DETALHADA, COM DIFERENTES PASSOS, OU A UMA FÓRMULA DE RESOLVER UM PROBLEMA OU COMPLETAR UMA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'O que é um algoritmo?',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-3.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMOS = INSTRUÇÕES',
-        promptImagem:'Arte digital de uma lista com diferentes itens marcados como feitos.', /*opc*/
+		promptImagem:'Imagem vibrante e alegre de uma lista com diferentes itens marcados como feitos.',
+        //promptImagem:'Arte digital de uma lista com diferentes itens marcados como feitos.', /*opc*/
         textoDescritivoImagem:'Lista com marcações de que tarefas foram executadas', /*opc*/},
 
         {ordem:4,
@@ -368,11 +371,12 @@ let livro_cs1 ={
         texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM ALGORITMOS QUE DÃO ORDENS AO COMPUTADOR PARA QUE ESTE REALIZE UMA DETERMINADA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e os computadores',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-4.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMOS SERVEM PARA PROGRAMAR COMPUTADORES',
-        promptImagem:'Arte digital de uma pessoa sentada de costas, com um computador à sua frente, com vários balões de linguagens de programação saindo da tela do computador', /*opc*/
+        promptImagem:'Imagem vibrante e alegre de um personagem infantil sentada de costas, com um laptop à sua frente, com vários balões de linguagens de programação saindo da tela do computador.', 
+		//promptImagem:'Arte digital de uma pessoa sentada de costas, com um computador à sua frente, com vários balões de linguagens de programação saindo //da tela do computador', /*opc*/
         textoDescritivoImagem:'Programador em seu computador', /*opc*/},
 
         {ordem:5,
@@ -380,11 +384,13 @@ let livro_cs1 ={
         texto:'MAS OS ALGORITMOS NÃO SERVEM SOMENTE PARA OS PROGRAMADORES E COMPUTADORES.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e as pessoas',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-5.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA FAZER UM CORAÇÃO DE PAPEL',
-        promptImagem:'Arte digital dos passos para se fazer um coração de origami', /*opc*/
+        promptImagem:'Imagem vibrante e alegre dos passos para se fazer um coração de origami',
+		//Imagem vibrante e alegre dos passos para se fazer um chapéu de papel
+		//promptImagem:'Arte digital dos passos para se fazer um coração de origami', /*opc*/
         textoDescritivoImagem:'Computador mostrando um algoritmo e papel também mostrando um algoritmo', /*opc*/},
 
         {ordem:6,
@@ -392,7 +398,7 @@ let livro_cs1 ={
         texto:'UMA RECEITA DE CULINÁRIA É UM ALGORITMO, O PROCESSO DE DOBRAR UMA CAMISA OU UM PAR DE CALÇAS TAMBÉM É UM ALGORITMO.',
         urlAudioTexto:'',
         textoSimplificado:'Uma receita é um algoritmo',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'RECEITAS TAMBÉM SÃO ALGORITMOS',
@@ -404,11 +410,12 @@ let livro_cs1 ={
         texto:'ATÉ MESMO A ROTINA MATINAL PODE SER CONSIDERADA UM ALGORITMO!',
         urlAudioTexto:'',
         textoSimplificado:'Rotina matinal também é um algoritmo',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-7.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA ESCOVAR OS DENTES',
-        promptImagem:'Arte digital com quatro imagens dos passos para escovação dos dentes', /*opc*/
+		promptImagem:'Imagem vibrante e alegre com quatro imagens dos passos para escovação dos dentes: 1) colocar pasta de dente na escova; 2) escovar os dentes; 3) enxaguar boca; 4) passar fio dental nos dentes.',
+        //promptImagem:'Arte digital com quatro imagens dos passos para escovação dos dentes', /*opc*/
         textoDescritivoImagem:'Pessoa seguindo os passos para escovar os dentes', /*opc*/},
 
         {ordem:8,
@@ -416,11 +423,12 @@ let livro_cs1 ={
         texto:'E VOCÊ PODE CRIAR ALGORITMOS PARA AS MAIS DIVERSAS TAREFAS DO SEU DIA. SEJA PARA VOCÊ OU OUTRA PESSOA EXECUTAR.',
         urlAudioTexto:'',
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-8.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA DOBRAR CAMISAS',
-        promptImagem:'Arte digital de uma pilha de camisas coloridas dobradas', /*opc*/
+        promptImagem:'Imagem vibrante e alegre de uma pilha de camisas coloridas dobradas',
+		//promptImagem:'Arte digital de uma pilha de camisas coloridas dobradas', /*opc*/
         textoDescritivoImagem:'Camisa dobrada seguindo algoritmos', /*opc*/},
 
         {ordem:9,
@@ -428,11 +436,12 @@ let livro_cs1 ={
         texto:'MAS FIQUE ATENTO: SE VOCÊ ESTÁ CRIANDO UM ALGORITMO PARA QUE OUTRA PESSOA EXECUTE, VOCÊ PRECISA DEIXAR SUAS INSTRUÇÕES O MAIS ESPECÍFICAS POSSÍVEL.',
         urlAudioTexto:'',
         textoSimplificado:'Especificar as instruções',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-9.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'AS INSTRUÇÕES PRECISAM SER CLARAS',
-        promptImagem:'Arte digital mostrando uma pessoa confusa com uma folha de papel na mão, sem saber o que fazer e vários pontos de interrogação oando acima de sua cabeça', /*opc*/
+        promptImagem:'Imagem vibrante e alegre mostrando uma personagem infantil confusa, com olhos arregalados, com uma folha de papel na mão tentando resolver um problema, sem saber o que fazer e vários pontos de interrogação oando acima de sua cabeça.',
+		//promptImagem:'Arte digital mostrando uma pessoa confusa com uma folha de papel na mão, sem saber o que fazer e vários pontos de interrogação oando //acima de sua cabeça', /*opc*/
         textoDescritivoImagem:'Pessoa confusa com o algoritmo que está tentando seguir', /*opc*/},
 
         {ordem:10,
@@ -440,8 +449,9 @@ let livro_cs1 ={
         texto:'OS COMPUTADORES E AS OUTRAS PESSOAS NÃO SABEM QUAIS AS SUAS INTENÇÕES E PENSAMENTOS, VEJA O EXEMPLO DO ALGORITMO PARA BEBER UM COPO DE LEITE:',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo para beber leite',
-        urlImagem:'',
-        promptImagem:'Arte digital mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-10.jpg',
+		promptImagem:'Imagem vibrante e alegre mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada.',
+        //promptImagem:'Arte digital mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada', /*opc*/
         textoDescritivoImagem:'Copo de leite em cima de uma bancada', /*opc*/},
   
         {ordem:11,
@@ -449,8 +459,9 @@ let livro_cs1 ={
         texto:'PASSO 1: PEGAR UM COPO DO ARMÁRIO;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 1',
-        urlImagem:'',
-        promptImagem:'Arte digital de um armário e uma mão pegando um copo de vidro', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-11.jpg',
+        promptImagem:'Imagem vibrante e alegre de uma mão de uma pessoa pegando um copo americano de vidro transparente de um armário.',
+		//promptImagem:'Arte digital de um armário e uma mão pegando um copo de vidro', /*opc*/
         textoDescritivoImagem:'Mão pegando um copo', /*opc*/},
   
         {ordem:12,
@@ -458,8 +469,9 @@ let livro_cs1 ={
         texto:'PASSO 2: COLOCAR O COPO EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 2',
-        urlImagem:'',
-        promptImagem:'Arte digital de uma mão colocando um copo de vidro em cima de uma bancada em uma cozinha', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-12.jpg',
+		promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa colocando um copo de vidro americano transparente e vazio em cima de uma bancada em uma cozinha.',
+        //promptImagem:'Arte digital de uma mão colocando um copo de vidro em cima de uma bancada em uma cozinha', /*opc*/
         textoDescritivoImagem:'Mão colocando um copo na bancada', /*opc*/},
   
         {ordem:13,
@@ -467,8 +479,9 @@ let livro_cs1 ={
         texto:'PASSO 3: PEGAR O LEITE DA GELADEIRA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 3',
-        urlImagem:'',
-        promptImagem:'Arte digital de uma geladeira aberta, mostrando uma mão retirando uma caixa de leite de dentro dela', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-13.jpg',
+		promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa retirando uma caixa de leite de dentro de um geladeira.',
+        //promptImagem:'Arte digital de uma geladeira aberta, mostrando uma mão retirando uma caixa de leite de dentro dela', /*opc*/
         textoDescritivoImagem:'Mão pegando o leite da geladeira', /*opc*/},
   
         {ordem:14,
@@ -476,8 +489,9 @@ let livro_cs1 ={
         texto:'PASSO 4: COLOCAR O LEITE DENTRO DO COPO QUE ESTÁ EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 4',
-        urlImagem:'',
-        promptImagem:'Arte digital de uma mão despejando leite de uma caixa dentro de um copo de vidro que está em cima de uma bancada em uma cozinha', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-14.jpg',
+		promptImagem:'Imagem vibrante e alegre de um copo americano transparente de vidro que está em cima de uma bancada em uma cozinha sendo enchido de leite a partir de uma caixa de leite que uma mão de um personagem do tipo pessoa está segurando.',
+        //promptImagem:'Arte digital de uma mão despejando leite de uma caixa dentro de um copo de vidro que está em cima de uma bancada em uma cozinha', /*opc*/
         textoDescritivoImagem:'Mão colocando o leite dentro do copo', /*opc*/},
   
         {ordem:15,
@@ -485,8 +499,9 @@ let livro_cs1 ={
         texto:'PASSO 5: BEBER O LEITE QUE ESTÁ NO COPO.',
         urlAudioTexto:'',
         textoSimplificado:'Passo 5',
-        urlImagem:'',
-        promptImagem:'Arte digital de uma crinça bbendo leite de dentro de um copo de vidro', /*opc*/
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-15.jpg',
+		promptImagem:'Imagem vibrante e alegre de um personagem infantil bebendo leite de um copo americano de vidro transparente cheio de leite. O personagem deve estar bebendo o leite do copo. O xopo deve estar na boca do personagem,',
+        //promptImagem:'Arte digital de uma crinça bbendo leite de dentro de um copo de vidro', /*opc*/
         textoDescritivoImagem:'Criança bebendo o leite', /*opc*/},
   
         {ordem:16,
@@ -494,11 +509,12 @@ let livro_cs1 ={
         texto:'IMAGINE SE NÃO ESTIVESSE ESPECIFICADO QUE O LEITE PRECISA IR DENTRO DO COPO? CERTAMENTE ELE IRIA PARAR NO CHÃO!',
         urlAudioTexto:'',
         textoSimplificado:'Instruções não especificadas geram erros',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-16.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'SEM INTRUÇÕES CLARAS:',
-        promptImagem:'Arte digital de uma cozinha com uma poça de leite no chão', /*opc*/
+		promptImagem:'Imagem vibrante e alegre de uma cozinha com uma poça de leite no chão.',
+        //promptImagem:'Arte digital de uma cozinha com uma poça de leite no chão', /*opc*/
         textoDescritivoImagem:'Poça de leite no chão', /*opc*/},
   
         {ordem:17,
@@ -506,11 +522,12 @@ let livro_cs1 ={
         texto:'ENTÃO, OS ALGORITMOS NOS AJUDAM A PARTIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e resolução de problemas',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-17.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'PARTIR PROBLEMAS GRANDES EM VÁRIOS MENORES',
-        promptImagem:'Arte digital de uma caixa de papelão grande aberta com várias pequenas caixas fechadas saltando de dentro dela', /*opc*/
+		promptImagem:'Imagem colorida e divertida de uma caixa de papelão ampla e aberta, de onde emergem múltiplas caixinhas menores, todas fechadas, flutuando ao seu redor.',
+        //promptImagem:'Arte digital de uma caixa de papelão grande aberta com várias pequenas caixas fechadas saltando de dentro dela', /*opc*/
         textoDescritivoImagem:'Caixa grande de problemas com vários problemas menores saindo dela', /*opc*/},
   
         {ordem:18,
@@ -518,11 +535,12 @@ let livro_cs1 ={
         texto:'COM OS ALGORITMOS, PODEMOS TRANFORMAR SOLUÇÕES DE PROBLEMAS EM PASSOS CLAROS E BEM DEFINIDOS, QUE PODEM SER SEGUIDOS POR QUALQUER MÁQUINA OU PESSOA.',
         urlAudioTexto:'',
         textoSimplificado:'Instruções claras',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Algoritmos/Seq-18.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMOS PARA TUDO!',
-        promptImagem:'Arte digital dcom os quatro passos básicos do crescimento de uma planta, com a primeira imagem mostrando um buraco na terra, a segunda, mostrando a semente dentro do buraco, a terceira mostrando o broto e a quarta mostrando uma flor', /*opc*/
+        promptImagem:'Imagem vibrante e alegrecom os quatro passos básicos do crescimento de uma planta: 1) imagem mostrando um buraco na terra no qual a flor será plantada; 2) imagem mostrando a semente dentro do buraco; 3) imagem mostrando o broto da flor; 4) imagem mostrando uma flor.',
+		//promptImagem:'Arte digital dcom os quatro passos básicos do crescimento de uma planta, com a primeira imagem mostrando um buraco na terra, a segunda, mostrando a semente dentro do buraco, a terceira mostrando o broto e a quarta mostrando uma flor', /*opc*/
         textoDescritivoImagem:'Pessoa lendo um algoritmo e entendendo o que precisa ser feito', /*opc*/},
 			]}},
     
