@@ -213,7 +213,7 @@ let livro_cs1 ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'PADRÕES SÃO COISAS QUE SE REPETEM DE FORMA LÓGICA.',
-        promptImagem:'Arte digital de dezoito quadrados enfileirados de forma a formar um retângulo de 4 por 7 quadrados. O primeiro quadrado da esquerda, o oitavo quadrado à direita, abaixo do sétimo quadrado, e o décimo terceiro quadrado, abaixo do quarto quadrado são somente uma borda preta, o segundo quadrado à direita do primeiro, quinto à direita, décimo segundo, décimo quinto e décimo sexto são verdes com um cícrculo vermelho no centro. O terceiro quadrado à direita, sexto, nono e décimo sétimo quadrados são amarelos com uma estrela vermelha no centro. o quarto quadrado à direita, sétimo, décimo, décimo primeiro, décimo quarto e décimo sétimo são vermelhos com um triângulo verde no centro.', /*opc*/
+        promptImagem:'Arte digital de fofa de quatro circulos verdes enfileirados.', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
@@ -225,7 +225,7 @@ let livro_cs1 ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'QUAIS SÃO AS COISAS QUE SE REPETEM AQUI?',
-        promptImagem:'Arte digital de uma fileira de cinco objetos, sendo: o primeiro, o segundo e o quinto um chapéu roxo e o terceiro e o quarto um balde verde de plástico com colheres de jardinagem dentro.', /*opc*/
+        promptImagem:'linda arte digital colorida de seis objetos alinhados: uma estrela amarela, um balde azul, uma estrela amarela, um círculo verde, um balde azul e um chapéu roxo', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:4,
