@@ -715,7 +715,7 @@ let livro_cs1 ={
   
         {ordem:3,
         predecessor:2,
-        texto:'O PRIMEIRO LUGAR DA ROBOLÂNDIA QUE VAMOS CONHECER É A SUA CAPITAL, A PRINCIPAL CIDADE DO PAÍS.',
+        texto:'O PRIMEIRO LUGAR DA ROBOLÂNDIA QUE VAMOS CONHECER É A SUA CAPITAL, A PRINCIPAL CIDADE DO PAÍS CHAMADA ROBÓPOLIS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
@@ -724,7 +724,7 @@ let livro_cs1 ={
           
         {ordem:4,
         predecessor:3,
-        texto:'CHAMADA ROBÓPOLIS! EM ROBÓPOLIS, OS ROBÔS HABITANTES SÃO MUITO EMPENHADOS EM TRABALHAR PARA MANTER A CIDADE FUNCIONANDO.',
+        texto:'EM ROBÓPOLIS, OS ROBÔS HABITANTES SÃO MUITO EMPENHADOS EM TRABALHAR PARA MANTER A CIDADE FUNCIONANDO.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_4.jpg',
@@ -736,7 +736,7 @@ let livro_cs1 ={
   
         {ordem:5,
         predecessor:4,
-        texto:'EM ROBÓPOLIS, OS ROBÔS HABITANTES PODEM TRABALHAR NO QUE QUISER! E NÓS VAMOS AJUDÁ-LOS A IR E VOLTAR DO TRABALHO, PARA FAZER TODAS AS SUAS TAREFAS!',
+        texto:'EM ROBÓPOLIS, OS ROBÔS HABITANTES PODEM TRABALHAR NO QUE QUISEREM! E NÓS VAMOS AJUDÁ-LOS A IR E VOLTAR DO TRABALHO, PARA FAZER TODAS AS SUAS TAREFAS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_5.jpeg',
@@ -1133,7 +1133,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'ESTÁ FEITA A RECICLAGEM! O LIXO AGORA NÃO FICA ACUMULANDO POR AÍ, PREJUDICANDO A NATUREZA...',
+      texto:'ESTÁ FEITA A RECICLAGEM! O LIXO AGORA NÃO FICA ACUMULANDO POR AÍ, PREJUDICANDO A NATUREZA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_10.jpeg',
