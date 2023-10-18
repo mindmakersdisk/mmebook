@@ -1919,7 +1919,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_3.v6.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_3.jpg',
           promptImagem:`Create an impressionist-style digital painting, inspired by Monet, Renoir, and Manet, showcasing a young black programmer with curly hair seated in front of a laptop. The laptop's monitor displays various digital data, including letters, numbers, and images. Utilize loose brushstrokes to convey a sense of motion and play with light and color. The image should emphasize that data comprises "bits of information" such as numbers, letters, or images. Showcase the monitor in a frontal view, highlighting the content of the digital data displayed on the screen.`, 
           textoDescritivoImagem:'TODO.', },
   
@@ -1930,7 +1930,7 @@ let livro_csx ={
           textoSimplificado:'TODO',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_4.v4.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_4.jpg',
           promptImagem:'Create an Impressionist-style digital painting set in 21st-century Paris. Depict a totem pole with a digital thermometer outdoors, featuring a digital display, surrounded by a bustling crowd of people. Emulate the styles of Monet, Renoir, and Manet, using loose brushstrokes to capture the essence of movement, light, and color.', 
           textoDescritivoImagem:'TODO.', },
   
@@ -2783,7 +2783,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_3.jpg',
-        promptImagem:`Multicultural teenage avatars respect digital space with floating words 'Respect' and 'Digital Ethics', white backgound, cartoon`,
+        promptImagem:`Multicultural teenage avatars respect digital space with floating words 'Digital Ethics', white backgound, cartoon`,
         textoDescritivoImagem:'Respeito.', },
 
         {ordem:4,
