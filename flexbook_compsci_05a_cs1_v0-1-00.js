@@ -395,7 +395,7 @@ let livro_cs1 ={
         texto:'ATÉ MESMO A ROTINA MATINAL PODE SER CONSIDERADA UM ALGORITMO!',
         urlAudioTexto:'',
         textoSimplificado:'Rotina matinal também é um algoritmo',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-7.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg_6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA ESCOVAR OS DENTES',
