@@ -63,7 +63,7 @@ let livro_csx ={
 			cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Hoje você vai descobrir como é divertido programar computadores e montar circuitos elétricos. Serão seus primeiros passos na ciência da computação.',
+        texto:'Hoje, você vai descobrir como é divertido programar computadores e montar circuitos elétricos. Estes serão seus primeiros passos na ciência da computação.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
         textoSimplificado:'Primeiros passos',
         textoImpresso:1,
@@ -90,7 +90,7 @@ let livro_csx ={
         texto:'Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_3.mp3',
         textoSimplificado:'Resolução de problemas',
-        textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
+        textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou, quem sabe, resolver problemas reais e melhorar o mundo para todos.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_3_new.jpg',
         //promptImagem:'Digital art showing a diverse group of people standing around a large screen, which is displaying the process of solving complex word problems. Their expressions of interest and understanding symbolize the potential of computational devices to facilitate problem solving.',
 		    promptImagem:'Digital art of a cozy room: a lively group of teenagers laughing, sharing moments both among themselves and engrossed in their colorful screens of laptops and tablets. The room blends the warmth of camaraderie with bright, playful hues from their devices, seamlessly merging tech fun with friendship.',
@@ -112,7 +112,7 @@ let livro_csx ={
         textoSimplificado:'Começo do uso da tecnologia',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Mas vamos dar um passo de cada vez: <p>Para começar, o que é mesmo um computador? <p>Você mal se deu por gente e já tentava tocar o teclado de um computador ou talvez na tela de um celular.',
+        textoImpressoRecriado:'Mas vamos dar um passo de cada vez: Para começar, o que é mesmo um computador? Você talvez já tenha visto alguém digitando no teclado de um computador ou tocando na tela de um celular.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_5.jpg',
         promptImagem:'Digital art of a cute baby girl sitting on the floor, reaching out towards a big, colorful laptop that is fully visible in front of her. The baby curiosity and fascination with technology are clearly displayed in the scene', 
         textoDescritivoImagem:'Bebê tentando digitar em um computador', },
@@ -160,7 +160,7 @@ let livro_csx ={
         textoSimplificado:'Mouse',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes: <p>A torre, ou CPU, que contém o cérebro do computador, também chamado de unidade de processamento. <p>O teclado, no qual digitamos letras, números e símbolos que os programas de computador entendem. <p>O monitor, que é a tela do computador. <p>E o mouse, com o qual podemos abrir diferentes programas, clicando nas pequenas imagens e botões que aparecem na tela.',
+        textoImpressoRecriado:'Se você já prestou atenção em um computador em casa, talvez tenha notado que ele tem pelo menos quatro partes principais: A torre, ou CPU, que contém o cérebro do computador; o monitor, que é a tela; o teclado, onde digitamos letras, números e símbolos que os programas entendem; e o mouse, usado para abrir programas, clicando nas imagens e botões.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_10.png',
         promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
         textoDescritivoImagem:'Computador de mesa com as quatro partes básicas e destacando o mouse com uma seta amarela', },
@@ -181,14 +181,14 @@ let livro_csx ={
         textoSimplificado:'Tudo em um único aparelho',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. <p>As possibilidades são infinitas. <p>Nos últimos anos, os criativos fabricantes conseguiram juntar todas as partes do computador de mesa em um só aparelho, pequeno o suficiente para carregarmos conosco: são os celulares e tablets, também conhecidos como computadores móveis.',
+        textoImpressoRecriado:'Nos últimos anos, os criativos fabricantes conseguiram integrar todas as partes de um computador de mesa em um só aparelho, pequeno o suficiente para carregar conosco. São os celulares e tablets, também conhecidos como computadores móveis.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_12.png',
         promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
         textoDescritivoImagem:'Telefone celular com vários ícones de redes sociais diferentes saindo da tela', },
   
         {ordem:13,
         predecessor:12,
-        texto:'Mas já existem hoje computadores ainda menores do que nossos telefones celulares, embutidos dentro de nossos carros, TVs, elevadores, aparelhos de som e eletrodomésticos.',
+        texto:'Mas já existem hoje computadores ainda menores que nossos telefones celulares, embutidos dentro de nossos carros, TVs, elevadores, aparelhos de som e eletrodomésticos.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_13.mp3',
         textoSimplificado:'Internet das Coisas',
         textoImpresso:1,
@@ -213,7 +213,7 @@ let livro_csx ={
         textoSimplificado:'Futuro',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia. E prepare-se, em um futuro próximo, também encontraremos computadores em roupas, móveis, sapatos. <p>Enfim, em todas as coisas!',
+        textoImpressoRecriado:'Você não os vê, mas esses microcomputadores embutidos tornam os aparelhos mais inteligentes e capazes de nos auxiliar no dia a dia. E prepare-se, pois, em um futuro próximo, encontraremos computadores em roupas, móveis, sapatos... enfim, em quase tudo!',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14_new.jpg',
         promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
         textoDescritivoImagem:'Sapatos futurísticos, com computadores embutidos', },
@@ -243,7 +243,7 @@ let livro_csx ={
         textoSimplificado:'O curso',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Mas então, o que é realmente um computador? <p>Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades. <p>E o mais legal é que vamos aprender a fazer tudo isso neste curso!',
+        textoImpressoRecriado:'Mas então, o que realmente é um computador? É uma máquina eletrônica que pode ser programada para nos entreter com jogos, nos ajudar a criar vídeos, fotos, músicas, livros e até controlar carros, robôs ou cidades. E o mais incrível é que vamos aprender a fazer tudo isso neste curso!',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_18.jpg',
         promptImagem:'Digital art of a joyful black girl sitting at her computer, a broad smile on her face as she is programming. Bright, colorful lines of code are displayed on the screen, reflecting in her wide, enthusiastic eyes. The scene exudes positivity, creativity, and the powerful potential of coding', 
         textoDescritivoImagem:'Laptop com uma mão em segundo plano, dando a entender que a pessoa está programando', },
@@ -272,7 +272,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os algoritmos as vezes não usam textos, mas ainda assim são algoritmos, apenas usando uma linguagem diferente.',
+        texto:'Os algoritmos às vezes não usam textos, mas ainda assim são algoritmos, apenas usando uma linguagem diferente.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e suas linguagens',
         textoImpresso:1,
@@ -338,7 +338,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'E como já vimos na prática, os programas de computador nada mais são do que algoritmos que usam uma linguagem que o computador entende.',
+        texto:'Como observamos na prática, programas de computador são, basicamente, algoritmos escritos em uma linguagem que o computador entende.',
         urlAudioTexto:'',
         textoSimplificado:'Programa de computador',
         textoImpresso:1,
@@ -361,7 +361,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Hoje você vai conhecer um poderoso comando em Algoritmos: os <b>Laços</b>, também chamados de Loops, em inglês.',
+        texto:'Hoje você vai conhecer um poderoso comando em algoritmos: os <b>laços</b>, também chamados de loops, em inglês.',
         urlAudioTexto:'',
         textoSimplificado:'Laço em Algoritmos',
         textoImpresso:1,
@@ -373,7 +373,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os Laços são comandos que nos permitem instruir o computador a executar repetidamente comandos ou grupo de comandos, sem precisar repeti-los no algoritmo.',
+        texto:'Os laços são comandos que nos permitem instruir o computador a executar repetidamente comandos ou grupo de comandos, sem precisar repeti-los no algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Laço',
         textoImpresso:1,
@@ -398,7 +398,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Um laço pode envolver vários comandos que são repetidos juntos. Por exemplo, ao desenvolver um jogo de videogame que simula as regras de trânsito, quando o sinal para veículos está vermelho, o sinal para os pedestres está verde e um sinal sonoro também é emitido para pessoas com dificuldades visuais.',
+        texto:'Um laço de programação pode envolver vários comandos que são repetidos juntos, como uma rotina de exercícios envolve diferentes atividades, como alongamento, flexões, agachamentos e corrida no lugar, que são repetidas em sequência a cada manhã.',
         urlAudioTexto:'',
         textoSimplificado:'Vários comandos',
         textoImpresso:1,
@@ -442,9 +442,9 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Comandos de Laços também podem ser utilizados dentro de outros comandos de Laço. Quando isso acontece, esses laços são chamados de <b>Laços Aninhados</b></p> Como um exemplo de Laço Aninhado, veja com atenção esse exemplo que usa um Laço "simples" para desenhar cada quadrado.',
+        texto:'Comandos de Laços também podem ser utilizados dentro de outros comandos de laço. Quando isso acontece, esses laços são chamados de <b>laços aninhados</b></p> Como um exemplo de laço aninhado, veja com atenção esse exemplo que usa um laço "simples" para desenhar cada quadrado.',
         urlAudioTexto:'',
-        textoSimplificado:'Laços Alinhados',
+        textoSimplificado:'Laços Aninhados',
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/lacos_8.png',
@@ -501,7 +501,7 @@ let livro_csx ={
         textoSimplificado:'Eletricidade e Tomada',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
+        textoImpressoRecriado:'Primeiramente, se é elétrico tem a ver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes. <p>Ou ainda, com a eletricidade que usamos em nossa casa quando ligamos algo nas tomadas.', 
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_3_shutterstock_1195050007.png',
         promptImagem:'Foto nítida de um plugue elétrico.', 
         textoDescritivoImagem:'Um plugue elétrico e uma tomada', },
@@ -662,7 +662,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Mas como surgiram os robôs? Tudo começou com os Autômatos, há alguns séculos atrás. Um autômato é um boneco que tem mecanismos que geram movimentos feitos para parecer como se agissem por sua própria vontade. Autômatos são considerados um tipo primitivo de robô. Para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco.',
+        texto:'Mas como surgiram os robôs? Tudo começou com os autômatos, há alguns séculos atrás. Um autômato é um boneco que tem mecanismos que geram movimentos feitos para parecer como se agissem por sua própria vontade. Autômatos são considerados um tipo primitivo de robô. Para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco.',
         urlAudioTexto:'',
         textoSimplificado:'Autômatos',
         textoImpresso:1,
@@ -695,7 +695,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Alguns robôs ajudam médicos a realizar cirurgias complicadas. As vezes, até sozinhos. Tudo isso graças a uma programação muito inteligente.',
+        texto:'Alguns robôs ajudam médicos a realizar cirurgias complicadas. Às vezes, até sozinhos. Tudo isso graças a uma programação muito inteligente.',
         urlAudioTexto:'',	
         textoSimplificado:'Robôs Cirurgiões',
         textoImpresso:1,
@@ -706,7 +706,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'E tem aquele robôs que vão até onde os humanos não conseguem ir. Eles são construídos e programados para explorar planetas, luas, asteróides, e cometas, coletando informações e nos enviando por mensagens sem que precisemos arriscar a nossa vida.',
+        texto:'E tem aqueles robôs que vão até onde os humanos não conseguem ir. Eles são construídos e programados para explorar planetas, luas, asteroides e cometas, coletando informações e nos enviando por mensagens sem que precisemos arriscar a nossa vida.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
@@ -728,7 +728,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Conheça o primeiro robô que você irá programar. O SomosBot! Ele é muito fácil de montar e super divertido. Com ele, você vai poder aprender sobre robõs e programação.',
+        texto:'Conheça o primeiro robô que você vai programar! Ele é muito versátil e divertido; juntos, vocês enfrentarão desafios cada vez maiores!',
         urlAudioTexto:'',
         textoSimplificado:'mBot',
         textoImpresso:1,
@@ -873,7 +873,7 @@ let livro_csx ={
   
         {ordem:3,
         predecessor:2,
-        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluíndo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;<b> senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;<b> senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
@@ -944,7 +944,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados ou que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em determinado horário, por exemplo.',
+        texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados ou que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em um horário determinado, por exemplo.',
         urlAudioTexto:'',
         textoSimplificado:'Eventos',
         textoImpresso:1,
@@ -955,7 +955,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Um evento é um acontecimento ou ação eventual que pode mudar uma rotina, ao provocar reações em resposta. Você está estudando concentrado quando, de repente, o seu gato sobre em cima da mesa. Qual é a sua reação a esse evento?',
+        texto:'Um evento é um acontecimento ou ação eventual que pode alterar uma rotina, provocando reações em resposta. Imagine que você esteja estudando concentrado e, de repente, seu gato pula em cima da mesa. Qual seria a sua reação a esse evento?',
         urlAudioTexto:'',
         textoSimplificado:'Eventos e Reações',
         textoImpresso:1,
@@ -966,7 +966,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Em computação, muitos eventos são provocados por usuários, que são as pessoas que usam o computador. Um <b>evento do usuário</b> pode ser, por exemplo, clicar com o mouse ou apertar a tecla "Enter". Um programador pode criar trechos de programa para reagir a esses eventos. Por exemplo, para abrir uma nova janela ou mover um personagem em um jogo.',
+        texto:'Em computação, muitos eventos são provocados pelos usuários, que são as pessoas que utilizam o computador. Um <b>evento de usuário</b> pode ser, por exemplo, um clique com o mouse ou o pressionamento da tecla <b>Enter</b>. Um programador pode criar códigos para responder a esses eventos, como abrir uma nova janela ou mover um personagem em um jogo.',
         urlAudioTexto:'',
         textoSimplificado:'Reação', 
         textoImpresso:1,
@@ -977,7 +977,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Os smartphones (celulares inteligentes), tablets e até smartwatches (relógios inteligentes) são computadores móveis que permitem novos eventos do usuário, como toques em tela ou movimento do dispositivo.',
+        texto:'Smartphones, tablets e até smartwatches são computadores móveis que possibilitam novos tipos de eventos do usuário, como toques na tela ou movimentos do dispositivo.',
         urlAudioTexto:'',	
         textoSimplificado:'Exemplos',
         textoImpresso:1,
@@ -988,7 +988,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Você pode criar um programa que roda sem interferência de eventos de qualquer tipo, mas esses programas são raros. A maior parte dos programas são dirigidos por eventos, como os jogos ou aplicativos de redes sociais.Eles reagem frequentemente a ações do usuário como apertar uma tecla, clicar com o mouse ou girar uma alavanca do joystick.',
+        texto:'É possível criar um programa que funcione sem a interferência de eventos, mas eles são raros. A maioria dos programas é dirigida por eventos, como os jogos ou aplicativos de redes sociais, que frequentemente reagem a ações do usuário, como apertar uma tecla, clicar com o mouse ou manipular um joystick.',
         urlAudioTexto:'',
         textoSimplificado:'Sem Eventos',
         textoImpresso:1,
@@ -999,7 +999,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Os dispositivos móveis também possuem sensores capazes de gerar eventos que não dependem do usuário, mas podem ser usados por programadores experientes. Por exemplo, ao medir a temperatura de um aparelho, um programa pode enviar alerta ao usuário para resfriá-lo.',
+        texto:'Os dispositivos móveis também contam com sensores capazes de gerar eventos independentes do usuário, mas que podem ser aproveitados por programadores experientes. Por exemplo, ao detectar a temperatura elevada de um aparelho, um programa pode enviar um alerta para que o usuário tome medidas para resfriá-lo.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores',
         textoImpresso:1,
@@ -1021,7 +1021,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Sentidos Humanos e Sensores Eletrônicos.<p>Através de nossos olhos, ouvidos, boca, nariz e pele, conseguimos perceber o meio ambiente e interagir com o mundo: são nossos órgãos sensoriais.',
+        texto:'Por meio de nossos olhos, ouvidos, boca, nariz e pele, percebemos o meio ambiente e interagimos com o mundo. Estes são nossos órgãos sensoriais.',
         urlAudioTexto:'',
         textoSimplificado:'Órgãos sensoriais',
         textoImpresso:1,
@@ -1032,7 +1032,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Mas outro órgão tem papel fundamental para o funcionamento dos nossos sentidos: o cérebro. Os órgãos sensoriais nada mais fazem do que captar os sinais do mundo externo e enviar para o nosso cérebro, que é, de fato, o órgão que interpreta o que chega e reage ao que ocorre ao nosso redor.',
+        texto:'Entretanto, outro órgão desempenha um papel crucial no funcionamento de nossos sentidos: o cérebro. Os órgãos sensoriais se limitam a captar os sinais do mundo externo e enviá-los ao nosso cérebro, que é o verdadeiro intérprete dessas informações, reagindo aos eventos ao nosso redor.',
         urlAudioTexto:'',
         textoSimplificado:'Cérebro',
         textoImpresso:1,
@@ -1043,7 +1043,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Tal como os seres humanos, os robôs e dispositivos eletrônicos podem ser equipados com sensores, componentes eletrônicos que, tal como os órgãos sensoriais humanos, captam sinais do meio ambiente. Esses sinais podem ser recebidos por um dispositivo computacional embutido em um computador, celular ou robô.',
+        texto:'Assim como os seres humanos, robôs e dispositivos eletrônicos podem ser equipados com sensores. Estes componentes eletrônicos, semelhantes aos órgãos sensoriais humanos, captam sinais do ambiente e os encaminham para dispositivos computacionais em computadores, celulares ou robôs.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
@@ -1054,7 +1054,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Os sensores de som são parecidos com o nosso sistema auditivo. Eles captam o som e transformam em sinais elétricos. O microfone pode ser usado como um sensor de som.',
+        texto:'Os sensores de som, semelhantes ao nosso sistema auditivo, captam ondas sonoras e as convertem em sinais elétricos. Um exemplo de sensor de som é o microfone.',
         urlAudioTexto:'',	
         textoSimplificado:'Sensores de Som',
         textoImpresso:1,
@@ -1065,7 +1065,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'As câmeras ou filmadoras possuem sensores de luz tão poderosos que podem captar imagens de forma parecida com os olhos humanos. Os sensores de luz são parecidos com o nosso sistema ocular. Eles captam a luminosidade e a transformam em sinais elétricos.',
+        texto:'Câmeras e filmadoras possuem sensores de luz tão avançados que podem captar imagens de maneira similar aos olhos humanos, convertendo a luminosidade em sinais elétricos.',
         urlAudioTexto:'',
         textoSimplificado:'Sensor de Luz',
         textoImpresso:1,
@@ -1076,7 +1076,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Quando alguém toca seu braço, seu cérebro recebe o sinal do toque, reagindo com o ato reflexo que te faz virar para ver quem o tocou. Esse é o sentido do tato em ação. A tela de um celular funciona de modo análogo: você toca e ela transmite o toque para o processador do celular, que é o seu computador interno. Um programa decide como reagir, por exemplo, abrindo um aplicativo.',
+        texto:'Quando alguém toca em nosso braço, nosso cérebro recebe um sinal tátil e reage a ele. Da mesma forma, ao tocar a tela de um celular, transmitimos o toque ao processador do dispositivo, que decide responder, por exemplo, abrindo um aplicativo.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores de Tato',
         textoImpresso:1,
@@ -1087,7 +1087,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Nossa pele também é responsável por informar ao nosso cérebro sobre a temperatura externa, se faz calor ou frio.<p>No mundo eletrônico, sensores de temperatura ou calor podem evitar incêndios, enviando sinais elétricos para outro dispositivo tocar um alarme ou jogar água. Esses sensores também ajudam a manter uma mesma temperatura em uma sala, transmitindo sinais ao ar-condicionado.',
+        texto:'Nossa pele nos informa sobre a temperatura externa, calor ou frio. No mundo eletrônico, sensores térmicos podem prevenir incêndios ao enviar sinais para ativar alarmes ou jorrar água, assim como manter a temperatura ambiente constante através de comandos ao ar-condicionado.',
         urlAudioTexto:'',
         textoSimplificado:'Sensore de Temperatura',
         textoImpresso:1,
@@ -1098,7 +1098,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Vimos alguns exemplos de sensores eletrônicos que se aproximam da nossa visão, audição e tato. E quanto ao olfato e paladar? Será que já existem sensores para perceber um cheiro ou um gosto de alimento? Sim, eles já existem, mas são muito caros e de pouca utilidade por enquanto.',
+        texto:'Existem também sensores eletrônicos que podem detectar odores ou sabores, mas atualmente são caros e têm aplicação limitada.',
         urlAudioTexto:'',
         textoSimplificado:'Sensor Olfato e Paladar',
         textoImpresso:1,
@@ -1109,7 +1109,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Mas não pensem que os robôs ou dispositivos eletrônicos ficam para trás. Eles também possuem sensores eletrônicos que superam os nossos sentidos humanos. Sensores de infravermelho, por exemplo, conseguem captar um tipo de luz que os nossos olhos não veem. Do mesmo modo, sensores de ultrassom são capazes de captar sons que não conseguimos ouvir.',
+        texto:'Os robôs e dispositivos eletrônicos podem possuir sensores que superam nossas capacidades sensoriais. Sensores de infravermelho, por exemplo, detectam um espectro de luz invisível para nós, enquanto sensores de ultrassom captam sons além do alcance da nossa audição.',
         urlAudioTexto:'',
         textoSimplificado:'Outros Sensores',
         textoImpresso:1,
@@ -1120,7 +1120,7 @@ let livro_csx ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Existem centenas de sensores e com eles você pode criar aparelhos e robôs incríveis. Vamos experimentar?',
+        texto:'Há uma vasta gama de sensores disponíveis, com os quais podemos criar dispositivos e robôs extraordinários. Que tal começarmos a experimentar?',
         urlAudioTexto:'',
         textoSimplificado:'Sensores Diversos',
         textoImpresso:1,
@@ -1144,7 +1144,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'O Scratch é uma linguagem de programação abrangente, desenvolvida pelo M.I.T., voltada para a criação de jogos e histórias animadas, e tem como mascote um gato chamado Scratch.<p> Seu uso é gratuito e permite o compartilhamento de programas com Scratchers de todo o mundo!',
+        texto:'O Scratch é uma linguagem de programação versátil, desenvolvida pelo MIT, voltada para a criação de jogos e histórias animadas. Seu mascote é um gato também chamado Scratch. O uso é gratuito e permite o compartilhamento de projetos com Scratchers de todo o mundo!',
         urlAudioTexto:'',
         textoSimplificado:'Scratch',
         textoImpresso:1,
@@ -1155,7 +1155,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'A Mind Makers criou um versão do Scratch, chamada de mmScratch, que se encontra incorporada à Plataforma MM.',
+        texto:'Criamos uma versão própria do Scratch integrada à Plataforma CS++, para evitar que você tenha que fazer um login duplicado e para manter seus projetos organizaods na mesma base.',
         urlAudioTexto:'',
         textoSimplificado:'Scratch',
         textoImpresso:1,
@@ -1166,7 +1166,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'No mmScratch, os personagens são chamados de atores. Um ator pode ter várias fantasias, que são posições ou roupas diferentes que ele pode assumir em determinado momento de um jogo ou história.',
+        texto:'No Scratch, os personagens são conhecidos como atores. Um ator pode ter várias fantasias, representando diferentes posições ou vestimentas que ele pode adotar em momentos específicos de um jogo ou história.',
         urlAudioTexto:'',
         textoSimplificado:'Personagens e Fantasias',
         textoImpresso:1,
@@ -1177,7 +1177,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Você poderá incluir efeitos especiais em seu jogo ou história acrescentando músicas e sons diversos (barulhos diversos, como porta fechando, buzina etc.).',
+        texto:'Você pode enriquecer seu jogo ou história adicionando efeitos sonoros especiais, incluindo músicas e uma variedade de sons, como o fechar de uma porta, uma buzina e outros.',
         urlAudioTexto:'',
         textoSimplificado:'Música e Som',
         textoImpresso:1,
@@ -1188,7 +1188,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'O palco é onde tudo acontece. É no palco, uma espécie de retângulo, que todos os personagens se movimentam.<p>O palco pode ter um cenário como pano de fundo. E você irá encontrar vários deles já prontos, que vão transportar seus atores para o espaço, estádios de futebol, para neve ou casas, por exemplo.',
+        texto:'O palco é o espaço onde a ação ocorre. Neste retângulo, todos os personagens se movem. O palco pode ser decorado com diferentes cenários de fundo, e há muitos disponíveis, transportando seus atores para locais como o espaço, estádios de futebol, paisagens nevadas ou interiores de casas, por exemplo.',
         urlAudioTexto:'',	
         textoSimplificado:'Palco',
         textoImpresso:1,
@@ -1199,7 +1199,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Você também poderá tirar uma foto e usar a sua própria casa ou escola para usar como pano de fundo de um jogo.<p>Para ficar ainda mais interessante, você pode trocar o pano de fundo do palco quantas vezes quiser durante um jogo. Em uma mudança de fase, por exemplo.',
+        texto:'Você também pode tirar uma foto e usar sua própria casa ou escola como cenário para um jogo. Para tornar a experiência ainda mais envolvente, é possível alterar o cenário de fundo do palco tantas vezes quanto desejar durante o jogo, como ao mudar de fase.',
         urlAudioTexto:'',
         textoSimplificado:'Mudança de Palco',
         textoImpresso:1,
@@ -1210,7 +1210,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'E finalmente só falta você dar vida ao seu show, reunindo todos os elementos do mmScratch com muita programação!<p>Afinal, é com a programação que você move os atores, troca panos de fundo, emite sons, enfim, faz acontecer.<p>Então, chega de teoria, pois é hora de ação!',
+        texto:'E por fim, resta a você dar vida ao espetáculo, unindo todos os elementos do Scratch com muita programação! É a programação que permite mover os atores, trocar cenários, produzir sons e muito mais. Portanto, deixe a teoria de lado, porque é hora de entrar em ação!',
         urlAudioTexto:'',
         textoSimplificado:'Programação no mmScratch',
         textoImpresso:1,
@@ -1232,7 +1232,7 @@ let livro_csx ={
         cenas:[				
           {ordem:1,
           predecessor:0,
-          texto:'A indústria de videogames hoje é tão importante quanto a indústria do cinema e já produziu seus próprios heróis. Criadores e programadores de jogos de sucesso como Minecraft e Super Mario se tornaram famosos e bilionários, fazendo o que mais amam.',
+          texto:'A indústria de videogames hoje é tão importante quanto a indústria do cinema e já produziu seus próprios heróis. Criadores e programadores de jogos de sucesso como Minecraft e Super Mario tornaram-se famosos e bilionários, fazendo o que mais amam.',
           urlAudioTexto:'',
           textoSimplificado:'Videogames famosos como o Minecraft e o Super Mario Bros.',
           textoImpresso:1,
@@ -1243,7 +1243,7 @@ let livro_csx ={
   
           {ordem:2,
           predecessor:1,
-          texto:'Além de dominar programação e serem apaixonados por jogos, todos eles começaram com uma ideia original!',
+          texto:'Além de dominarem a programação e serem apaixonados por jogos, todos eles começaram com uma ideia original!',
           urlAudioTexto:'',
           textoSimplificado:'Grande ideia.',
           textoImpresso:1,
@@ -1254,7 +1254,7 @@ let livro_csx ={
   
           {ordem:3,
           predecessor:2,
-          texto:'E a jornada deles apenas começou por aí; eles tiveram que desvendar essa ideia, planejando meticulosamente cada aspecto do jogo, incluindo personagens, cenários, regras, música e efeitos sonoros.',
+          texto:'E a jornada deles apenas começou a partir daí; eles tiveram que desvendar essa ideia, planejando meticulosamente cada aspecto do jogo, incluindo personagens, cenários, regras, música e efeitos sonoros.',
           urlAudioTexto:'',
           textoSimplificado:'Planejamento de um jogo.',
           textoImpresso:1,
@@ -1265,7 +1265,7 @@ let livro_csx ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Cada detalhe é crucial em um jogo, mas o foco principal dos criadores de jogos é criar um jogo que seja divertido, desafiador e cativante para os jogadores, concorda?',
+          texto:'Cada detalhe é crucial em um jogo, mas o principal objetivo dos criadores é desenvolver um jogo que seja divertido, desafiador e cativante para os jogadores, concorda?',
           urlAudioTexto:'',
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
@@ -1276,7 +1276,7 @@ let livro_csx ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Isso é o que os profissionais chamam de "gameplay". Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando todos os detalhes imaginados.',
+          texto:'Isso é o que os profissionais chamam de <b>gameplay</b>. Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando todos os detalhes imaginados.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
@@ -1287,7 +1287,7 @@ let livro_csx ={
   
           {ordem:6,
           predecessor:5,
-          texto:'No entanto, eles também dedicam bastante tempo aprimorando regras, personagens e detalhes para melhorar a experiência de jogo.',
+          texto:'No entanto, eles também dedicam bastante tempo aprimorando regras, personagens e detalhes para enriquecer a experiência de jogo.',
           urlAudioTexto:'',
           textoSimplificado:'Aprimorando a experiência de jogo.',
           textoImpresso:1,
@@ -1298,7 +1298,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Muitos criadores de jogos inventam histórias envolventes para cativar os jogadores e, assim, aprimorar o gameplay de seus jogos.',
+          texto:'Muitos criadores de jogos desenvolvem histórias cativantes para envolver os jogadores e, assim, enriquecer o <b>gameplay</b> de seus jogos.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
@@ -1309,7 +1309,7 @@ let livro_csx ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Está na hora de exercitar sua habilidade de criar histórias, programando uma animação no computador!',
+          texto:'Chegou a hora de exercitar sua criatividade na criação de histórias, programando uma animação no computador!',
           urlAudioTexto:'',
           textoSimplificado:'Criação de uma animação no computador.',
           textoImpresso:1,
@@ -1332,7 +1332,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Animações Analógicas e Digitais.<p>As primeiras tentativas de se criar uma ilusão de movimento a partir de desenhos são da época em que os humanos viviam em cavernas, ou seja, na Pré-história',
+        texto:'As primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à época em que os humanos viviam em cavernas, isto é, na Pré-história.',
         urlAudioTexto:'',
         textoSimplificado:'Primórdios das Animações',
         textoImpresso:1,
@@ -1344,7 +1344,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Eles desenhavam animais com patas duplicadas, que pareciam se movimentar quando o inspirado apresentador passava a tocha sobre o desenho feito na parede da rocha.',
+        texto:'Eles desenhavam animais com patas sobrepostas, que pareciam se mover quando o observador passava uma tocha sobre o desenho na parede da rocha.',
         urlAudioTexto:'',
         textoSimplificado:'Animação na pré-história',
         textoImpresso:1,
@@ -1356,7 +1356,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Milhares de anos depois, no Egito Antigo, alguns desenhos feitos em paredes representavam pessoas em posições muito próximas uma da outra, dando a impressão de movimento. Similar às atuais histórias em quadrinhos, diversas ilustrações eram postas lado a lado para simular movimentos.',
+        texto:'Milênios mais tarde, no Egito Antigo, alguns desenhos em paredes retratavam figuras humanas em sequências de movimento, semelhante às atuais histórias em quadrinhos, criando a impressão de ação ao serem visualizados em sequência.',
         urlAudioTexto:'',
         textoSimplificado:'Pintura Egípcia',
         textoImpresso:1,
@@ -1368,7 +1368,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Por volta da mesma época, há mais de 5.000 anos, antes mesmo que o papel fosse inventado, um artesão desconhecido criou um vaso com desenhos ao seu redor. Os desenhos eram feitos de tal modo que quando o vaso era girado passava a impressão de um alce pulando para comer folhas de uma árvore.',
+        texto:'Há mais de 5.000 anos, antes mesmo da invenção do papel, um artesão criou um vaso ornado com desenhos que, ao ser girado, dava a impressão de um alce saltando para alcançar as folhas de uma árvore.',
         urlAudioTexto:'',
         textoSimplificado:'Arte XXX',
         textoImpresso:1,
@@ -1380,7 +1380,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Só por volta de 150 anos atrás surgiram os primeiros inventos de animação utilizando papel, como o Folioscópio. Também conhecido como Flip-book, trata-se de um pequeno bloquinho de papel com desenhos em sequência que, ao serem folheados, causam a ilusão de movimento. Em sua versão mais simples, funciona com apenas dois desenhos e um lápis.',
+        texto:'Foi apenas cerca de 150 anos atrás que surgiram os primeiros dispositivos de animação utilizando papel, como o folioscópio, também conhecido como flip-book. Trata-se de um bloco de papel contendo desenhos sequenciais que, ao serem rapidamente folheados, criam a ilusão de movimento.',
         urlAudioTexto:'',	
         textoSimplificado:'Folioscópio',
         textoImpresso:1,
@@ -1393,7 +1393,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'O Taumatrópio também foi um brinquedo de animação muito popular no século XIX. Criava a ilusão de misturar duas imagens distintas, como colocar um pássaro na gaiola ou fazer uma princesa beijar um príncipe.',
+        texto:'O taumatrópio foi outro brinquedo de animação bastante popular no século XIX, que criava a ilusão de sobrepor duas imagens distintas, como colocar um pássaro dentro de uma gaiola ou fazer uma princesa beijar um príncipe.',
         urlAudioTexto:'',
         textoSimplificado:'Taumatrópio',
         textoImpresso:1,
@@ -1405,7 +1405,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'O taumatrópio inspirou outro invento, o Fenaquistoscópio. Ele usa um círculo para criar a ilusão de um movimento contínuo, de maior duração. Consiste em vários desenhos de um mesmo objeto, em posições ligeiramente diferentes, distribuídos por uma placa circular lisa. Quando a placa gira em frente a um espelho, cria-se a ilusão de uma imagem em movimento.',
+        texto:'Inspirado pelo taumatrópio, o fenaquistiscópio utilizava um disco giratório para criar a ilusão de um movimento contínuo e prolongado. Ele consistia em vários desenhos de um mesmo objeto em posições ligeiramente alteradas, dispostos ao redor de uma placa circular que, quando girada diante de um espelho, criava a impressão de uma imagem em movimento.',
         urlAudioTexto:'',
         textoSimplificado:'Fenaquistiscópio',
         textoImpresso:1,
@@ -1417,7 +1417,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Esses primeiros inventos de animação continuaram evoluindo. O Zootrópio inovou ao facilitar que desenhos fossem feitos em tiras e permitir a troca da animação através da substituição dessas tiras. Ele é composto por um tambor circular com pequenas janelas recortadas, através das quais o espectador olha para desenhos dispostos em tiras.',
+        texto:'Esses dispositivos de animação pioneiros continuaram a evoluir, levando à criação do zootrópio, que permitia a inserção de tiras de desenhos substituíveis para variar as animações. Ele é composto por um tambor circular com ranhuras cortadas, por onde os espectadores podem observar as tiras de desenhos que criam a ilusão de movimento quando o tambor gira.',
         urlAudioTexto:'',
         textoSimplificado:'Zootrópio',
         textoImpresso:1,
@@ -1429,7 +1429,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'A arquitetura do Zootrópio também permitiu o surgimento das primeiras animações em terceira dimensão (3D), usando bonecos em vez de desenhos.',
+        texto:'A concepção do zootrópio também deu origem às primeiras animações tridimensionais (3D), substituindo desenhos por bonecos.',
         urlAudioTexto:'',
         textoSimplificado:'Zootrópio 3D',
         textoImpresso:1,
@@ -1441,7 +1441,7 @@ let livro_csx ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Essas criações ajudaram a desvendar um princípio essencial: a exibição sequencial de imagens engana nosso cérebro, gerando a percepção de movimento.',
+        texto:'Essas invenções fundamentaram um princípio essencial: a percepção de movimento é uma ilusão criada pela exibição sequencial de imagens estáticas ao nosso cérebro.',
         urlAudioTexto:'',
         textoSimplificado:'Ilusão ótica de movimento',
         textoImpresso:1,
@@ -1452,7 +1452,7 @@ let livro_csx ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Esse princípio é a base da animação moderna, incluindo a digital, como nos GIFs animados. Os GIFs são arquivos que contém várias imagens chamadas de <i><b>frames</b></i>, exibidas rapidamente para criar uma ilusão de movimento semelhante a um vídeo.',
+        texto:'Esse princípio é o alicerce da animação moderna, inclusive a digital, como é o caso dos GIFs animados. Os GIFs são arquivos que contêm múltiplos <b>frames</b>, que são exibidos rapidamente em sequência para criar a ilusão de movimento, similar a um vídeo.',
         urlAudioTexto:'',
         textoSimplificado:'GIF animado',
         textoImpresso:1,
@@ -1520,7 +1520,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Uma imagem é chamada de digital quando está em um formato que pode ser usado por um programa de computador. Quando tiramos fotos usando um computador, tablet ou celular, elas já são criadas como arquivos em formato digital.',
+        texto:'Uma imagem é considerada digital quando está em um formato que pode ser processado por um programa de computador. Ao tirarmos fotos usando um computador, tablet ou celular, elas são automaticamente criadas como arquivos digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Imagens digitais',
         textoImpresso:1,
@@ -1532,7 +1532,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Também é possível utilizar equipamentos chamados de digitalizadores ou scanners para transformar desenhos em papel, que chamamos de analógicos, em arquivos digitais.',
+        texto:'É possível utilizar equipamentos como digitalizadores ou scanners para converter desenhos em papel, os quais chamamos de analógicos, em arquivos digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Scanner',
         textoImpresso:1,
@@ -1544,7 +1544,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'E, claro, as imagens ilustradas diretamente no computador também nascem em formato digital.',
+        texto:'Naturalmente, as imagens criadas diretamente no computador já são formatadas como digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Ilustraçãos digitais',
         textoImpresso:1,
@@ -1556,7 +1556,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Quando tiramos uma foto com o celular e queremos usá-la em uma animação ou videogame, precisamos primeiro importar essa foto para o computador, ou seja, copiar o arquivo da foto do celular para o computador.',
+        texto:'Ao tirarmos uma foto com o celular que queremos utilizar em uma animação ou videogame, precisamos importá-la para o computador, isto é, transferir o arquivo da foto do celular para o computador.',
         urlAudioTexto:'',
         textoSimplificado:'Importando uma foto no computador',
         textoImpresso:1,
@@ -1568,7 +1568,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Após copiar para o seu computador, você pode modificar detalhes da foto para que ela funcione bem em seus projetos de programação.',
+        texto:'Após transferir a foto para o computador, você pode editar detalhes para adaptá-la aos seus projetos de programação.',
         urlAudioTexto:'',
         textoSimplificado:'Fotos modificadas digitalmente',
         textoImpresso:1,
@@ -1580,7 +1580,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para isso, existem os programas de edição de imagens. Eles permitem, por exemplo, alterar fotos de familiares e amigos para que possam ser usadas como personagens em suas animações ou videogames.',
+        texto:'Para realizar essas modificações, utilizamos programas de edição de imagens, que permitem, por exemplo, alterar fotos de familiares e amigos para que possam ser inseridos como personagens em suas animações ou videogames.',
         urlAudioTexto:'',
         textoSimplificado:'Fotos editadas de um pai, uma mãe e o filho deles',
         textoImpresso:1,
@@ -1591,7 +1591,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Para isso, planeje bem as poses das fotos de que você precisa. Tire as fotos com a pessoa em frente a uma parede que, de preferência, tenha uma cor bem viva.<p> E atenção! A pessoa que vai sair na foto não pode estar usando roupas com a mesma cor da parede de fundo. Tire as fotos que você precisa e, em seguida, importe-as para o computador.',
+        texto:'Planeje as poses necessárias para as fotos. Fotografe as pessoas contra uma parede de cor vibrante. Certifique-se de que a cor das roupas da pessoa fotografada seja diferente da cor da parede para evitar problemas com a edição. Depois, importe as fotos para o computador.',
         urlAudioTexto:'',
         textoSimplificado:'Foto de uma pessoa em um fundo amarelo vivo',
         textoImpresso:1,
@@ -1603,7 +1603,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'O próximo passo é editar suas fotos para remover o fundo da imagem. Para isso, você pode usar uma aplicação online destinada à edição de fotos, que possuem diversos recursos, como a chamada "varinha mágica", que são úteis para remover o fundo das suas fotos.<p>Vamos praticar?',
+        texto:'O próximo passo é editar as fotos para remover o fundo. Para isso, você pode utilizar aplicativos online de edição de fotos que oferecem ferramentas como a <b>varinha mágica</b>, úteis para esta finalidade. Vamos praticar?',
         urlAudioTexto:'',
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,
