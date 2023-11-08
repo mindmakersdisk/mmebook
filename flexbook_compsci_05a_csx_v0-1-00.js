@@ -368,7 +368,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_1.jpeg',
         promptImagem:'uma arte digital colorida do símbolo infinito', 
-	    imagemFonte:'bing',
+	      imagemFonte:'bing',
         textoDescritivoImagem:'Imagem do infinito.', },
 
         {ordem:2,
@@ -380,8 +380,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_2.jpeg',
         promptImagem:'arte digital colorida mostrando uma esteira transportadora digital originada de um computador, onde linhas de código se transformam em tarefas, circulando de volta para serem processadas novamente, representando a natureza repetitiva dos loops de programação', 
-		imagemFonte:'bing',	
-		imagemArremate:0,
+		    imagemFonte:'bing',	
+		    imagemArremate:0,
         textoDescritivoImagem:'Uma espiral com pequenas imagens para demonstrar o potencial da programação em laços.', },
 
         {ordem:3,
@@ -769,6 +769,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_1.png',
         promptImagem:'Minimalist digital art featuring three panels: one showing a simple silhouette of a student holding an umbrella under stylized rain, the second depicting the same student under a radiant sun, and the third one featuring a large ? symbol to represent the concept of a conditional expression.', 
+        imagemFonte:'x',	
         textoDescritivoImagem:'Duas imagens, na primeira um aluno com um guarda-chuva debaixo da chuva e na outra o mesmo aluno sem guarda-chuva em um dia ensoladrado.', },
 
         {ordem:2,
@@ -780,6 +781,7 @@ let livro_csx ={
         imagemImpresso:1,
 		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_2-HollyGoodhead_Flickr.png',
         promptImagem:'car in red ligth traffic', 
+        imagemFonte:'shutterstock',
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
         {ordem:3,
@@ -791,6 +793,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_3.jpg',
         promptImagem:'Minimalist digital art featuring three panels: the first one displaying a simple, stylized figure of a female programmer at her computer, the second one showing a simplified, iconic representation of a computer processor, and the third one presenting a circuit-like pattern to represent an electronic circuit.', 
+        imagemFonte:'x',
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
 
         {ordem:4,
@@ -802,6 +805,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_4_pxfuel_edit.jpg',
         promptImagem:'', //'A minimalist art showcasing a traffic light for cars. The art should capture the essential features of the traffic light - red, yellow, and green signals - in a clear urban setting.', 
+        imagemFonte:'shutterstock',
         textoDescritivoImagem:'Sinal de carro e sinal de pedestre.', },
 
         {ordem:5,
@@ -813,6 +817,7 @@ let livro_csx ={
         imagemImpresso:1,
 		    urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_5ono-kosuki-5647228_pexels.png',
         promptImagem:'Minimalist art depicting a person crossing the street at a pedestrian crosswalk, with the walk pedestrian signal prominently displayed in green. The scene should be uncluttered, focusing on the pedestrian, the crosswalk, and the traffic signal..', 
+        imagemFonte:'shutterstock',
         textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
 
         {ordem:6,
@@ -824,6 +829,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_6_shutterstock_716607445_edit.jpg',//banco de imagens pago
         promptImagem:'Create a realistic image of a highway with cars driving on it and road signs indicating the maximum speed limit. The scene should depict cars traveling and the speed limit signs clearly visible.', 
+        imagemFonte:'shutterstock',
         textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
 
         {ordem:7,
@@ -835,6 +841,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem: 'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_7_shutterstock_715246069.png',
         promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação', //'Minimalist art featuring three separate images: the first one displaying a focused programmer at her workstation, the second one showing a detailed view of a computer processor, and the third one presenting a complex electronic circuit. Each image should be simplified but still accurately represent its subject.', 
+        imagemFonte:'shutterstock',
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
       ]}},
 
@@ -858,6 +865,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_1.jpg',
         promptImagem:'imagem realista de uma rua movimentada com carros esperando a mudança do semáforo', 
+        imagemFonte:'bing',
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
   
         {ordem:2,
@@ -868,7 +876,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_2.jpg',
-        promptImagem:'imagem realista de uma rua movimentada com pedestres esperando a mudança do semáforo', 
+        promptImagem:'imagem realista de uma rua movimentada com pedestres esperando a mudança do semáforo',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Algoritmo de trânsito com suas condicionais.', },
   
         {ordem:3,
@@ -879,7 +888,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_3.jpg',
-        promptImagem:'um semáforo com todas as luzes apagadas, exceto a do meio, mostrando um brilho amarelo', 
+        promptImagem:'um semáforo com todas as luzes apagadas, exceto a do meio, mostrando um brilho amarelo',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
   
         {ordem:4,
@@ -890,7 +900,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_4.jpeg',
-        promptImagem:'imagem realista de uma rua movimentada com carros esperando a mudança do semáforo', 
+        promptImagem:'imagem realista de uma rua movimentada com carros esperando a mudança do semáforo',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', },
 
         {ordem:5,
@@ -901,7 +912,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_5.jpeg',
-        promptImagem:'Uma jovem acordando e desligando o alarme do relógio', 
+        promptImagem:'Uma jovem acordando e desligando o alarme do relógio',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Três imagens, uma ao lado da outra. Veículo parado no sinal vermelho. Veículo andando no sinal verde. Veículo parando no sinal amarelo.', },
 
         {ordem:6,
@@ -912,7 +924,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_6.jpeg',
-        promptImagem:'Um jovem asiático bebendo água de uma garrafa em um parque', 
+        promptImagem:'Um jovem asiático bebendo água de uma garrafa em um parque',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Algoritmo usando os operadores lógicos e, ou e não, conforme já descrito.', }, 
           
         {ordem:7,
@@ -923,14 +936,15 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprLog/explog_7.jpeg',
-        promptImagem:'um jovem negro na frente de um computador, programando-o', 
+        promptImagem:'um jovem negro na frente de um computador, programando-o',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Uma mulher sentada na cadeira de escritório olhando para frete entusiasmada e ao lado a mesa com computador e duas telas com código de programação.', },
       ]}},			
       
   },
 
   unidade2:{
-	  	  titulo:'Programação Orientada a Eventos',
+    titulo:'Programação Orientada a Eventos',
 	  descricao:'Nesta unidade, você aprenderá o conceito de programação orientada a eventos, como ela é implementada em linguagens de programação visual, como o Scratch, e a importância de eventos no ciclo de vida dos programas. Você será apresentado ao Scratch, um ambiente de programação que torna o aprendizado de programação acessível e divertido, permitindo criar suas próprias histórias, jogos e animações digitais. Com o Scratch, você utilizará os princípios da programação orientada a eventos para dar vida às suas ideias, controlando personagens e objetos em um mundo virtual, e entenderá como eventos e ações interagem durante a execução de um programa.',
     licao8:{
       id:'CSXAULA08CODE',
@@ -1150,7 +1164,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_1.png',
-        promptImagem:'Gatinho do Scratch', 
+        promptImagem:'Gatinho do Scratch',
+        imagemFonte:'scratch',
         textoDescritivoImagem:'Gatinho do Scratch.', },
 
         {ordem:2,
@@ -1161,7 +1176,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_2.png',
-        promptImagem:'Robogode do mmScratch', 
+        promptImagem:'Robogode do mmScratch',
+        imagemFonte:'scratch',
         textoDescritivoImagem:'Robogode do mmScratch.', },
 
         {ordem:3,
@@ -1172,7 +1188,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_3.png',
-        promptImagem:'Personagem e suas fantasias no ambiente mmScratch', 
+        promptImagem:'Personagem e suas fantasias no ambiente mmScratch',
+        imagemFonte:'scratch',
         textoDescritivoImagem:'Personagem e suas fantasias no ambiente mmScratch.', },
 
         {ordem:4,
@@ -1183,7 +1200,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_4.jpg',
-        promptImagem:'Gato DJ', 
+        promptImagem:'Gato DJ',
+        imagemFonte:'scratch',
         textoDescritivoImagem:'Gato DJ', },
 
         {ordem:5,
@@ -1194,7 +1212,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_5.jpg',
-        promptImagem:'Possibilidades de placos do mmScratch', 
+        promptImagem:'Possibilidades de placos do mmScratch',
+        imagemFonte:'scratch',
         textoDescritivoImagem:'Possibilidades de placos do mmScratch.', },
 
         {ordem:6,
@@ -1205,7 +1224,9 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_6.png',
-        promptImagem:'Mundaça de palco no mmScratch', 
+        promptImagem:'Mundaça de palco no mmScratch',
+        imagemFonte:'scratch',
+        imagemArremate:'1',
         textoDescritivoImagem:'Mundaça de palco no mmScratch.', },
 
         {ordem:7,
@@ -1216,7 +1237,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/LingProgrScr/img_7.png',
-        promptImagem:'Show no Scratch', 
+        promptImagem:'Show no Scratch',
+        imagemFonte:'scratch',
         textoDescritivoImagem:'Show no mmScratch.', },
       ]}},
 
@@ -1618,7 +1640,7 @@ let livro_csx ={
    
   unidade3:{
 	  
-	 	  	  titulo:'Dados Digitais',
+    titulo:'Dados Digitais',
 	  descricao:'Nesta unidade, você aprenderá como os dados digitais são produzidos, processados e utilizados no mundo da computação. Você estudará estruturas de dados úteis, como filas, pilhas e listas, e aprenderá a manipular estes utilizando as principais portas lógicas e o sistema binário. Também entenderá conceitos fundamentais sobre como os dados são armazenados e organizados, compreendendo como listas e matrizes são fundamentais em nosso dia a dia, inclusive sobre como os dados digitais são recuperados e manipulados para torná-los úteis em aplicações computacionais variadas.',
 	  
     licao15:{},
@@ -1642,6 +1664,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_1.png',
         promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
+        imagemFonte:'mmcode',
+        imagemArremate:'1',
         textoDescritivoImagem:'Imagem de um circuito elétrico em funcionamento, em que fios condutores estão conectando uma pilha a uma lâmpada.', },
 
         {ordem:2,
@@ -1652,7 +1676,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_2.png',
-        promptImagem:'Imagem de pessoa usando guarda chuva.', 
+        promptImagem:'Imagem de pessoa usando guarda chuva.',
+        imagemFonte:'autoral',
         textoDescritivoImagem:'Imagem de ambiente externo, em um dia chuvoso, destacando uma pessoa que está utilizando um guarda-chuva.', },
 
         {ordem:3,
@@ -1665,6 +1690,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_3.png',
         promptImagem:'Imagem de diagrama, com um bloco indicando a necessidade de uma tomada de decisão, com setas apontando para uma ação caso a resposta à pergunta seja verdadeiro e apontando para outra ação caso seja falso.', 
+        imagemFonte:'autoral',
         textoDescritivoImagem:'Imagem de um diagrama com um bloco que representa a necessidade de uma tomada de decisão. Setas indicam duas direções possíveis: uma direção aponta para uma ação a ser tomada se a resposta à pergunta for verdadeira, enquanto a outra direção aponta para uma ação diferente caso a resposta seja falsa.', },
 
         {ordem:4,
@@ -1676,6 +1702,9 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_4.png',
         promptImagem:'Imagems de um circuito eletrônico que contém componentes do tipo portas lógicas', 
+        imagemFonte:'mmcode',
+        imagemArremate:'1',
+        imagemFonte:'autoral',
         textoDescritivoImagem:'Imagem de um circuito eletrônico, com destaque sobre componentes eletrônicos do tipo de portas lógicas.', },
 
         {ordem:5,
@@ -1686,7 +1715,9 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_5.png',
-        promptImagem:'Imagens de somosBits, destacando componentes lógicos do tipo AND, OR e NOT', 
+        promptImagem:'Imagens de somosBits, destacando componentes lógicos do tipo AND, OR e NOT',
+        imagemFonte:'mmcode',
+        imagemArremate:'1',
         textoDescritivoImagem:'Imagens de somosBits, destacando componentes lógicos do tipo AND, OR e NOT.', },
 
         {ordem:6,
@@ -1697,7 +1728,9 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_6.png',
-        promptImagem:'Imagens de somosBits, destacando componentes lógicos do tipo NAND, NOR, XOR e XNOR', 
+        promptImagem:'Imagens de somosBits, destacando componentes lógicos do tipo NAND, NOR, XOR e XNOR',
+        imagemFonte:'mmcode',
+        imagemArremate:'1',
         textoDescritivoImagem:'Imagens de somosBits, destacando componentes lógicos do tipo NAND, NOR, XOR e XNOR.', },
 
         {ordem:7,
@@ -1709,6 +1742,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_7.png',
         promptImagem:'Print de um diagrama de um circuito eletrônico que utiliza portas lógicas do tipo AND, OR e NOT, apresentando 3 entradas e uma única saída. O circuito representado possui três entradas, nomeadas como A, B e C, e uma única saída.', 
+        imagemFonte:'autoral',
         textoDescritivoImagem:'Imagem de um diagrama de um circuito eletrônico composto por uma porta lógica do tipo AND, uma do tipo OR e uma do tipo NOT. O circuito representado possui três entradas, nomeadas como A, B e C, e uma única saída.', },
 
         {ordem:8,
@@ -1719,7 +1753,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_8.png',
-        promptImagem:'Imagem de uma porta lógica ligada e uma porta lógica desligada.', 
+        promptImagem:'Imagem de uma porta lógica ligada e uma porta lógica desligada.',
+        imagemFonte:'x',
         textoDescritivoImagem:'Imagem de uma porta lógica ligada, com texto indicando que está recebendo o bit 1 como sinal de entrada, e uma porta lógica desligada, com texto indicando que está recebendo o bit 0 como sinal de entrada', },
 
         /*{ordem:9,
@@ -1742,6 +1777,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_9.jpg',
         promptImagem: 'Create 3D technical drawing-style illustrations, showing only the edge lines this electronic components: a digital televison, a laptop, a tablet and a smartphone. Each component should be represented from a different perspective, in black and white.',//'Imagem de componentes eletrônicos diversos, como televisores, smartphones e computadores.', 
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'Imagem de componentes eletrônicos diversos que utilizam portas lógicas em seus circuitos eletrônicos, tais como televisores, smartphones e computadores.', },
 
         {ordem:10,
@@ -1752,7 +1788,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img_10.png',
-        promptImagem:'Print de simulador de circuitos eletrônicos', 
+        promptImagem:'Print de simulador de circuitos eletrônicos',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'Imagem de uma captura de tela, exibindo a página do Simulador de Circuitos, que permite que se simule a montagem de circuitos eletrônicos com somosBits.', },
   ]}},
       
@@ -1908,7 +1945,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_1.v4.jpg',
           promptImagem:'Create a Caravaggio-style digital painting featuring an engineer wearing a helmet and holding a notebook in an outdoor setting at an oil extraction facility, with a sucker rod pump in the background. Use dramatic lighting and shadow in the Italian "chiaroscuro" style, highlighting hyper-realistic details and emotions. Inspired by Giovanni Baglione, Orazio Gentileschi, and Bartolomeo Manfredi, this work should capture the essence of Baroque realism, with vibrant and emotionally powerful colors. Start with a rough sketch and bold lines before finalizing the image. Be visually impactful, portraying the atmosphere of progress experienced in the 1970s and 1980s.', //'Foto de um usuário diante de uma tela do computador. Ao fundo, um quadro pregado na parede, com a foto de uma plataforma pretolífera. À frente da imagem, códigos, trechos de código transparentes, de cima abaixo.', 
-		  imagemFonte:'leonardo',
+		      imagemFonte:'leonardo',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:2,
@@ -1920,6 +1957,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_2.v4.jpg',
           promptImagem:'Create a digital painting in the impressionist style, inspired by Monet, Renoir, and Manet, depicting a joyful programmer at their desk, engrossed in coding on their laptop. Use loose brushes to capture motion and manipulate light and colors. Include a small robot waiting to be programmed next to the programmer, with basic electrical circuits visible. The image should emphasize the power of data in the digital age to drive decisions, innovations, and discoveries.', 
+          imagemFonte:'leonardo',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:3,
@@ -1931,6 +1969,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_3.jpg',
           promptImagem:`Create an impressionist-style digital painting, inspired by Monet, Renoir, and Manet, showcasing a young black programmer with curly hair seated in front of a laptop. The laptop's monitor displays various digital data, including letters, numbers, and images. Utilize loose brushstrokes to convey a sense of motion and play with light and color. The image should emphasize that data comprises "bits of information" such as numbers, letters, or images. Showcase the monitor in a frontal view, highlighting the content of the digital data displayed on the screen.`, 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:4,
@@ -1942,6 +1982,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_4.jpg',
           promptImagem:'Create an Impressionist-style digital painting set in 21st-century Paris. Depict a totem pole with a digital thermometer outdoors, featuring a digital display, surrounded by a bustling crowd of people. Emulate the styles of Monet, Renoir, and Manet, using loose brushstrokes to capture the essence of movement, light, and color.', 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:5,
@@ -1953,7 +1995,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_5.v3.jpg',
           promptImagem:'Produce an Impressionist-style digital painting inspired by Monet, Renoir, and Manet. Showcase icons of a weekly temperature calendar, like a sun for hot days and rain clouds with drops. Employ loose brushwork to evoke movement, play with light, and manipulate colors. Include a programmer and a small robot nearby, surrounded by visible basic electrical circuits. The painting conveys the idea that daily temperature is a variable data type.', 
-		  imagemFonte:'leonardo',
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:6,
@@ -1965,7 +2008,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_6.v3.jpg',
           promptImagem:`Create an impressionist-style digital painting, drawing inspiration from Monet, Renoir, and Manet. Picture a 15-year-old patient standing on a scale in a doctor's office. Include an elderly physician in a white coat, recording the patient's weight on a clipboard. Use loose brush strokes to convey movement and play with light and color. Set the scene in a 21st century doctor's office. Present modern doctor office equipment and show the full body of doctor and patient.`, 
-		  imagemFonte:'leonardo',		  
+          imagemFonte:'leonardo',
+          imagemArremate:1,  
           textoDescritivoImagem:'TODO.', },
 
           {ordem:7,
@@ -1977,6 +2021,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_7.v3.jpg',
           promptImagem:`"Craft an Impressionist-style digital painting, drawing inspiration from Monet, Renoir, and Manet. Depict a modern-style bar chart using loose brushwork to convey motion while manipulating light and colors. The image should illustrate that the bar chart represents data of the 'image' type."`, 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:8,
@@ -1988,6 +2034,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_8.v3.jpg',
           promptImagem:'Create an Impressionist-style digital painting, drawing inspiration from Monet, Renoir, and Manet. Illustrate a text list using loose brush strokes to convey movement while manipulating light and color. The image should represent how lists are used to systematically organize data.', 
+          imagemFonte:'leonardo',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:9,
@@ -1999,6 +2046,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_9.v3.jpg',
           promptImagem:'Create an Impressionist-style digital painting inspired by Monet, Renoir, and Manet. Depict a frontal view of a computer monitor displaying a list of seven videos with their thumbnails and names. Utilize loose brushstrokes to capture movement and manipulate light and color. The image should convey the systematic organization of data in digital format through lists.', 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:10,
@@ -2010,6 +2059,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_10.v3.jpg',
           promptImagem:'Create an Impressionist-style digital painting inspired by Monet, Renoir, and Manet. Depict a frontal view of a computer monitor displaying a Kanban task list with 4 columns of tasks. Utilize loose brushstrokes to capture movement and manipulate light and color. The image should convey the systematic organization of data in digital format through lists.', 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:11,
@@ -2021,6 +2072,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_11.v3.jpg',
           promptImagem:'Create an Impressionist-style digital painting inspired by Monet, Renoir, and Manet. Depict computer code written in JavaScript. Utilize loose brushstrokes to capture movement and manipulate light and color. The image should illustrate how computer languages can be used to structure data lists.', 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
   
           {ordem:12,
@@ -2032,6 +2085,8 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_12.v4.jpg',
           promptImagem:'Create an Impressionist-style digital painting inspired by Monet, Renoir, and Manet. Depict a programmer working on a desktop computer to manipulate big data. Utilize loose brushstrokes to capture movement and manipulate light and color. The image should illustrate how computer programs are powerful tools for extracting and manipulating raw data to obtain valuable insights.', 
+          imagemFonte:'leonardo',
+          imagemArremate:1,
           textoDescritivoImagem:'TODO.', },
       ]}},
 
@@ -2054,7 +2109,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_1.png',
-          promptImagem:'Íconde de uma matriz, que evidencia a existencia de mais de uma linha e mais de uma coluna.', 
+          promptImagem:'Íconde de uma matriz, que evidencia a existencia de mais de uma linha e mais de uma coluna.',
+          imagemFonte:'autoral',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:2,
@@ -2066,6 +2122,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/matreg_2.png',
           promptImagem:'Imagem de uma planilha de excel, com três linhas e três colunas, em que duas colunas contém dados. Em zoom, o destaque para um dos dados presente em uma das células.', 
+          imagemFonte:'autoral',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:3,
@@ -2077,6 +2134,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_3_shutterstock_1287853966.png',
           promptImagem:'Vista de topo de dois tabuleiros de jogos: xadrez (com destque sobre os nomes da linhas e das colunas do tabuleiro); e batalha naval (com destaque sobre os nomes das linhas e colunas)', 
+          imagemFonte:'x',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:4,
@@ -2088,6 +2146,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_4_shutterstock_1988573294.jpg',
           promptImagem:'Imagem de uma calendário mensal.', 
+          imagemFonte:'shutterstock',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:5,
@@ -2099,6 +2158,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_5.png',
           promptImagem:'Imagem com uma lista a direita e uma matriz à esquerda, exibindo os nome de todos os alunos de uma escola e os nomes de todos os alunos, de cada turma, uma a uma, com um total de 20 linhas (20 alunos por turma)', 
+          imagemFonte:'shutterstock',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:6,
@@ -2110,6 +2170,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_6_shutterstock_1891119154.jpg',
           promptImagem:'Imagem de uma calendário mensal, poluido, em que cada dia contém dados diversos além do seu número e dia da semana, como temperatura, agenda do usuário, data de aniversário de conhecidos.', 
+          imagemFonte:'shutterstock',
           textoDescritivoImagem:'TODO.', },
 
           {ordem:7,
@@ -2121,6 +2182,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/mtreg_7.png',
           promptImagem:'Ícone de um registro, exemplificando uma página de registro de um usuário, em que ele precisa adicionar dados seus em 4 campos.', 
+          imagemFonte:'x',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:8,
@@ -2132,6 +2194,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_8_new.jpg',
           promptImagem:'Print da página de registro de um usuário em uma rede social como o facebook', 
+          imagemFonte:'x',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:9,
@@ -2143,6 +2206,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_9_shutterstock_116384734.jpg',
           promptImagem:'Imagina com um usuário acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
+          imagemFonte:'bing',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:10,
@@ -2154,6 +2218,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_10_pexels-luis-gomes-546819.jpg',
           promptImagem:'Imagem em que um programador está acessando um sistema de informação por meio do acesso a um bando de dados SqL', 
+          imagemFonte:'x',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:11,
@@ -2164,7 +2229,8 @@ let livro_csx ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img_11.png',
-          promptImagem:'Print do simulador de Dados da Plataforma MM', 
+          promptImagem:'Print do simulador de Dados da Plataforma MM',
+          imagemFonte:'mmcode',
           textoDescritivoImagem:'TODO.', },
       ]}},
 
@@ -2330,6 +2396,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_1.jpeg',
         promptImagem:'A detailed ink black and white illustration of a personal moder all in one computer, with realistic detail and a unique perspective. Use thick strokes to highlight parts of the computer, namely the all-in-one desktop, keyboard and mouse. Use white background.',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Duas imagens, na primeira um computador e na segunda um robô humanóide.', },
 
         {ordem:2,
@@ -2340,7 +2407,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_2.jpg',
-        promptImagem:'Imagem da tela de um computador, complementamente preenchida por algarismos zeros e uns', 
+        promptImagem:'Imagem da tela de um computador, complementamente preenchida por algarismos zeros e uns',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem da tela de um computador, que está completamente preenchida por diversas sequências de números zeros e uns.', },
 
         {ordem:3,
@@ -2352,6 +2420,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_3.jpg',
         promptImagem:'Print de tabela ASCII.',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'Imagem da tabela ASCII, usada em sistemas computacionais para armazenar letras, representando-as por sequências de zeros e uns.', },
 
         {ordem:4,
@@ -2363,6 +2432,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_4.png',
         promptImagem:'Imagem de uma tabela em que uma das colunas contém as letras A, C e S e outra das colunas apresenta como essas letras são representadas em código binário.',  
+        imagemFonte:'autoral',
         textoDescritivoImagem:'Imagem de uma tabela, em que uma coluna exibe as letras A, C e S, enquanto a outra coluna mostra como essas letras são representadas no código binário.',  },
 
         {ordem:5,
@@ -2374,6 +2444,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_5.png',
         promptImagem:'Imagem com fundo branco e escrita dos palavra CASA em português e em código binário', 
+        imagemFonte:'autoral',
         textoDescritivoImagem:'Imagem com fundo, em exibe a palavra "CASA" em português, juntamente com sua correspondente representação em código binário.', },
 
         {ordem:6,
@@ -2385,6 +2456,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinLetr/img_6.jpg',
         promptImagem:'Imagem de uma televisão em um ambiente futurista, em tons de azul e roxo. Ao fundo da imagem, estão escritas sequências de zeros e uns no ar',
+        imagemFonte:'ideogram',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de uma televisão, exibindo um texto.', },
 
         /*{ordem:10,
@@ -2418,6 +2491,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_1.jpg',
         promptImagem:'A all-in-one computer sits in the center, neon-lit room, its black casing illuminated by a glowing blue and purple light. Binary code streams through the air, creating a mesmerizing backdrop.',
+        imagemFonte:'leonardo',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de uma televisão, exibindo um texto.', },
 
         {ordem:2,
@@ -2429,6 +2504,8 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_2_edit.png',
         promptImagem: 'Draw an illustration featuring a teacher, depicting her head. Next to it, draw a blackboard with some simple mathematical operations.', //'Desenho da cabeça de uma professora<p>Desenho de um quadro negro, com algumas operações matemáticas simples', 
+        imagemFonte:'craiyon',
+        imagemArremate:1,
         textoDescritivoImagem:'Duas imagens, na primeira uma professora e na segunda um quadro negro, em que foram escritas algumas operações matemáticas simples, de somas, subtrações, multiplicações e divisões.', },
 
         {ordem:3,
@@ -2441,6 +2518,8 @@ let livro_csx ={
         textoImpressoRecriado:'Agora, vamos desvendar o sistema interno dos computadores, começando pela nossa compreensão dos números. Nós, seres humanos, temos uma preferência pelo sistema decimal, que possui dez símbolos, variando do zero ao nove. No sistema decimal, cada posição à esquerda de um número vale dez vezes mais que a posição à sua direita.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_3.png',
         promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
+        imagemFonte:'stablecog',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito uma tabela de valor posicional para ensinar como se converter 10 unidades em uma dezena e 10 dezenas em uma centena.', },
 
         {ordem:4,
@@ -2452,6 +2531,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_4.png',
         promptImagem:'Draw a blackboard with mathematical operations written to convert the number 4 from binary to decimal system.',  //'Quadro negro com escrita de operações matemáticas para converter o número 4 do sistema binário para o sistema decimal',
+        imagemFonte:'craiyon',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de quadro negro, em que foram escritas as operações matemáticas para converter o número 4 do sistema decimal para o sistema binário.', },
 
         {ordem:5,
@@ -2463,6 +2544,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_5.png',
         promptImagem:'Quadro negro com escritas dos números 1, 2 e 3 em sistema binário', 
+        imagemFonte:'craiyon',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de quadro negro, em que foi escrito os números 1, 2 e 3 em sistema decimal e em sistema binário.', },
 
         {ordem:6,
@@ -2474,6 +2557,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_6.jpg',
         promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
 
         {ordem:7,
@@ -2485,6 +2570,8 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_7.png',
         promptImagem:'Quadro negro com escrita de um byte e de números abaixo de cada algaritimo do byte, indicando o valor, em sistema decimal, de cada uma das casas do sistema binário', 
+        imagemFonte:'craiyon',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito um dado em código binário do tamanho de um byte _ ou seja, um código binário composto por oito casas de valores binários. Abaixo do código binário, há os números 0, 1, 2, 4 e 8, escritos da direita para a esquerda, para indicar o valor, em sistema decimal, de cada uma das casas do byte.', },
 
         {ordem:8,
@@ -2499,6 +2586,8 @@ let livro_csx ={
         Embora os números em binário possam se tornar grandes, é possível representar qualquer quantidade utilizando o sistema binário, assim como os números decimais.`,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_8.png',
         promptImagem:'Quadro negro com escrita de diversos valores em binário, como 16, 42, 120 e 1024.', 
+        imagemFonte:'craiyon',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito diversos números em sistema binário, como 16, 42, 120 e 1024.', },
 
         {ordem:9,
@@ -2510,6 +2599,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_9.jpg',
         promptImagem:'Create an image with three figures in the same scene. The first figure is a television playing a video. The second figure is a tablet displaying the waveform of a musical sound. The third figure is a monitor displaying a digital 3D image.', //'Imagem de uma televisão, reproduzindo um vídeo<p>Imagem de um tablet, exibindo a curva de um som musical<p>Imagem de um monitor, exibindo uma imagem em 3d digital', 
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de uma televisão, reproduzindo um vídeo.Imagem de um tablet, exibindo a curva de um som musical.E imagem um monitor, exibindo uma imagem em 3d digital.', },
       ]}},
 
@@ -2636,6 +2727,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_1.jpeg',
         promptImagem: 'minimalistic vector art, a printed document, a digital camera, musical notes, and a camcorder pointing towards a computer',//'Create a digital painting inspired by van Gogh. Illustrate a printed document, a digital camera, musical notes, and a camcorder pointing towards a computer, all against a backdrop filled with binary numbers. Use loose brushes to capture motion and manipulate light and colors. The image should depict how computers store text, numbers, images, photos, sounds, and videos in binary code.',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de dados de um computador. No diagrama, há figuras de um documento impresso, de uma câmera digital, de notas musicais e de uma filmadora, que estão apontando, por meio de setas, para um computador. Por sua vez, o computador está apontando para alguns números binários.', },
 
         {ordem:2,
@@ -2647,6 +2739,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_2.jpeg',
         promptImagem:'minimalistic vector art, eletronic transistor', //'Foto de um transistor, com um brilho amarelo ao redor, indicando que está energinzado<p>Foto do mesmo transistor, sem brilho ou qualquer cor de fundo, indicando que está desenergizado', 
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Duas imagens. Na primeira, a foto de um transistor, com um brilho amarelo ao redor, para indicar que esté energinzado. Ao lado da foto, há um texto, em que está escrito que o valor lógico o transistor ligado é igual a "1". Na segunda, a foto de um transistor, sem brilho ao redor, para indicar que não está energinzado. Ao lado da foto, há um texto, em que está escrito que o valor lógico o transistor desligado é igual a "0".', },
 
         {ordem:3,
@@ -2658,6 +2751,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_3.jpeg',
         promptImagem:'minimalistic vector art, digital music icon', //'Diagrama ilustrativo do armazenamento de uma música em formato digital na memória de um computador, em que ilustrações de notas musicais estão apontando para textos, em que está escrito "16 bits" e "3 minutos", e esses textos estão apontando para outro texto, em que está escrito "30 MB"',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de uma música em formato digital na memória de um computador. No diagrama, há ilustrações de notas musicais, que estão apontando, por meio de setas, para dois textos, que indicam que a música possui qualidade de 16 bits e uma duração de 3 minutos. Por sua vez, esses textos estão apontando para outro texto, que indica que música ocupa 30 MB na espaço da memória do computador.', },
 
         {ordem:4,
@@ -2669,6 +2763,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_4.jpeg',
         promptImagem: 'minimalistic vector art, digital hd video icon, illustration',//'Diagrama ilustrativo do armazenamento de uma vídeo em formato digital na memória de um computador, em que uma ilustração de uma filmadora de está apontando para textos, em que está escrito "HD" e "60 minutos", e esses textos estão apontando para outro texto, em que está escrito "800 GB"',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo, que representa o armazenamento de um vídeo em formato digital na memória de um computador. No diagrama, há uma ilustrações de uma filmadora, que está apontando, por meio de setas, para dois textos, que indicam que a vídeo filmado possui qualidade HD e uma duração de 60 minutos. Por sua vez, esses textos estão apontando para outro texto, que indica que vídeo ocupa 800 GB na espaço da memória do computador.', },
 
         {ordem:5,
@@ -2680,6 +2775,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_5.jpeg',
         promptImagem: 'minimalistic vector art, mp3 icon',//'Diagrama ilustrativo do armazenamento de um arquivo MP3 na memória de um computador, em que uma pasta com o tamanho de 30 MB está apontando para um ícone de música MP3 e o ícone de música MP3 está apontando para outro texto, em que está escrito "3 MB"',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo que representa o armazenamento de um arquivo MP3 na memória de um computador. No diagrama, há uma ilustração de uma pasta que indica que ela ocupa 30 MB da memória do computador. Essa pasta está apontando, por meio de uma seta, para uma imagem que indica que um arquivo de música de 30 MB foi comprimido para o formato MP3. Por sua vez, essa imagem está apontando para outro texto que indica que após ser comprimido para o formato MP3, o arquivo de música que ocupava 30 MB do espaço da memória do computador passou a ocupar 3 MB.', },
 
         {ordem:6,
@@ -2691,6 +2787,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_6.jpeg',
         promptImagem: 'minimalistic vector art, mp4 icon', //'Diagrama ilustrativo do armazenamento de um arquivo MP4 na memória de um computador, em que uma pasta com o tamanho de 800 GB está apontando para um ícone de vídeo MP4 e o ícone de vídeo MP4 está apontando para outro texto, em que está escrito "1 GB"',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo que representa o armazenamento de um arquivo MP4 na memória de um computador. No diagrama, há uma ilustração de uma pasta que indica que ela ocupa 800 GB da memória do computador. Essa pasta está apontando, por meio de uma seta, para uma imagem que indica que um arquivo de vídeo de 800 GB foi comprimido para o formato MP4. Por sua vez, essa imagem está apontando para outro texto que indica que após ser comprimido para o formato MP4, o arquivo de vídeo que ocupava 800 GB do espaço da memória do computador passou a ocupar 1 GB.', },
 
         {ordem:7,
@@ -2702,6 +2799,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_7.jpeg',
         promptImagem:'Create a minimalistic vector art, depicting a mirrored image. On the left, two people are holding a monitor displaying a mountain in the form of two triangles. On the right, the same people are holding the same monitor, but on this screen, the mountain is "pixelated" (i.e., grid-like). The image symbolizes digital file compression with loss., illustration',
+        imagemFonte:'ideogram',
+        imagemArremate:1,
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto não comprida, armazenda em formato bitmap. Na segunda, a mesma foto, após ser comprimida para um novo arquivo, em formato PNG.', },
 
         {ordem:8,
@@ -2713,6 +2812,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_8_wikimedia_commons.jpg',
         promptImagem:'Foto de Manfred Schröder, físico alemão<p>Ilustração de arquivo de áudio MP3', 
+        imagemFonte:'googleimages',
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto de Manfred Schröder, físico alemão, que concebeu fotos de comproessão de áudio na década de 1970. Na segunda, a ilustração de um ícone de um arquivo de áudio MP3', },
 
         {ordem:9,
@@ -2724,6 +2824,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_9.jpeg',
         promptImagem:'Minimalistic vector art representing a duplicated drawing of a person, one on the right and one on the left. The person is seated, legs crossed, in semi-profile, holding a camera to their face., illustration', 
+        imagemFonte:'ideogram',
+        imagemArremate:1,
         textoDescritivoImagem:'Duas imagens. Na primeira, uma ilustração 2D de uma folha em que foram escritas as palavras "verdadeiro" e "falso". Na segunda, uma ilustração 2D de uma folha com 30 palavras escritas, alternando aleatoriamente entre as palavras "verdadeiro" e "falso".' },
 
         {ordem:10,
@@ -2735,6 +2837,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_10.jpeg',
         promptImagem:'Minimalistic vector art representing a duplicated drawing of a person, one on the right and one on the left. The person is seated, legs crossed, in semi-profile, holding a camera to their face., illustration', 
+        imagemFonte:'ideogram',
+        imagemArremate:1,
         textoDescritivoImagem:'Ilustração 2D de uma folha em que foi escrito o resumo dos resultados para 30 questões de uma prova de múltipla escolha. Na primeira linha estão escritas as palavras "verdadeiro falso" e o número 8, indicando que essas duas palavras se repetiram 8 vezes nessa sequência. Na segunda linha está escrita a palavra "verdadeiro" e o número 10, indicando que essa palavra se repetiu 10 vezes antes da ocorrência da palavra "falso". Na terceira linha estão escritas as palavras "falso verdadeiro falso" e o número 22, indicando que essas três palavras se repetiram 22 vezes nessa sequência.', },
       ]}},
 	  
@@ -2775,6 +2879,7 @@ let livro_csx ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_1.jpg',
         promptImagem:'Teens immersed in digital communication, sharing emojis, posts, and video calls with speech bubbles and social media icons, white background, cartoon',
         //promptImagem:'Teens engrossed in digital communication on devices, sharing emojis, posts, and video calls, featuring speech bubbles and social media icons, white backgound, cartoon.', 	
+        imagemFonte:'bing',
         textoDescritivoImagem:'Computador e Smartphone lado a lado com diversos ícones de aplicativos.', },
 
         {ordem:2,
@@ -2786,6 +2891,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_2.jpg',
         promptImagem:'Teens using devices, surrounded by communication icons and ✔ (permission) and ✖ (prohibition) symbols, white backgound, cartoon.',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Ética Digital.', },
 
         {ordem:3,
@@ -2797,6 +2903,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_3.jpg',
         promptImagem:`Multicultural teenage avatars respect digital space with floating words 'Digital Ethics', white backgound, cartoon`,
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Respeito.', },
 
         {ordem:4,
@@ -2808,7 +2916,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_4.jpg',
         promptImagem:'Cartoon: Attention icon on a smartphone screen, warning young user against sharing photos, info on a dangerous site. Surrounding icons signify the risk.',
-        //promptImagem:'Cartoon: Chains and padlock securing a smartphone, preventing a teen from sharing photos, info on a dangerous site.', 
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Segurança.', },
 
         {ordem:5,
@@ -2821,6 +2930,7 @@ let livro_csx ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_5.jpg',
         promptImagem:'Teenage black girl digital detective verifying a notification on her computer, white backgound, cartoon.',
         //promptImagem:'Teenage black girl digital detective verifying a notification on her computer, cartoon.',
+        imagemFonte:'bing',
         textoDescritivoImagem:'', },
 
         {ordem:6,
@@ -2832,6 +2942,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_6.jpg',
         promptImagem:'Cartoon: Youth at computer, reading news. Monitor displays buttons: one to report fake news, one for real news. Choose wisely.', 
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'', },
 
         {ordem:7,
@@ -2843,6 +2955,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EticDig/img_7.jpg',
         promptImagem:'Teenagers communicating globally, surrounded by icons of communication and ethics, white backgound, cartoon', 
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de sucesso na comunicação na rede mundial.', },
 
       ]}},
@@ -2867,6 +2981,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_1.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective in shades of cyan, targeted at the audience aged 12 to 14. In the image, a detective crouched on the ground is inspecting clues and the trail left by a criminal at a crime scene.<p>Create a 2D illustration with a 3D perspective in shades of cyan, targeted at the audience aged 12 to 14. In the image, a detective is sitting in an armchair, holding a pipe near his mouth, as if in a thoughtful pose.', //'Ilustração em 2D, com perspectiva, de um detetive agachado no chão, inspecionando pistas e o rastro deixado por um criminoso na cena de um crime<p>Ilustração em 2D, com fundo transperente, do detetive sentado em uma poltrona, segurando um cachimbo próximo à boca',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Duas imagens. Na primeira, uma ilustração mostra um detetive agachado no chão, examinando as pistas e o rastro deixado por um criminoso na cena do crime. Na segunda, uma ilustração retrata o detetive sentado em uma poltrona, em uma posição pensativa. Ao lado dessa figura, há uma lista das pistas identificadas pelo detetive na cena do crime. Com base nas pistas, o detetive descobriu que o suspeito seguiu na direção sul. Ele também determinou que o suspeito está se movendo a uma velocidade de 10 km por hora. Pelas pegadas, ele sabe que o suspeito tem cerca de 1,85 m de altura e pesa aproximadamente 96 kg. O suspeito estava usando sapatos sociais de tamanho 43. Pelos fios de cabelo encontrados no local, ele sabe que o cabelo do suspeito é castanho, com fios grossos e de comprimento médio. E pela amostra de sangue encontrada no local, ele determinou que o suspeito tem tipo sanguíneo A+.', },
 
         {ordem:2,
@@ -2878,6 +2993,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_2.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict various uses of the internet that leave digital traces, such as website visits, information searches, comments on posts, video uploads, and likes on social media, using pictograms.', //'Pictograma com duas pessoas navegando em sites por meio de um computador e um smartphone<p>Pictograma de uma pessoa fazendo uma pesquisa na internet<p>Pictograma de duas pessoas, utilizando seus smartphones para fazer comentários em um vídeo online<p>Pictograma com três pessoas: a primeira utilizando uma câmera para filmar a segunda, enquanto a terceira faz o upload do vídeo na internet<p>Pictograma om uma pessoa utilizando seu smartphone para deixar um link em uma postagem visualizada em uma rede social<p>Ilustração de duas pegadas, uma do pé direito e outra do pé esquerdo', 
+        imagemFonte:'bing',
         textoDescritivoImagem:' Imagem de um diagrama ilustrativo das pegadas digitais deixadas por usuários ao utilizarem a internet. No diagrama, há diversos pictogramas que ilustram pessoas fazendo pesquisas online, deixando comentários em sites de vídeos, carregando vídeos na internet e dando likes em postagens em redes sociais. Esses pictogramas estão conectados entre si por uma linha curvilínea formada por diversas pegadas.', },
 
         {ordem:3,
@@ -2889,6 +3005,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_3.jpg',
         promptImagem:'Create a 2D illustration with a 3D isometric perspective, in shades of white, predominantly cyan and purple, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that deliver advertisements through HTTP cookies. Include a video site, a social network, an email inbox, an e-commerce website, and a professional sitting in front of a personal computer.',//'Create an illustration in shades of cyan, red, purple, black, or white, targeting the audience aged 12 to 14. The illustration should depict screenshots of various types of websites and computer programs that offer advertisements through HTTP cookies. Include a video site, a social network, an email inbox, and an e-commerce website.'
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem com várias fotos de anúncios exibidos em sites de vídeos, redes sociais, caixa de entrada de e-mails e barra lateral de sites de e-commerce. Ao lado dessas fotos, uma pessoa está apontando para os anúncios, perguntando se você já reparou que muitas vezes recebe anúncios do seu interesse, mesmo antes de fazer login ou informar suas preferências.', },
 
         {ordem:4,
@@ -2900,6 +3017,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_4.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict various responsible and mindful uses of the internet, leaving harmless digital footprints, using pictograms. Include people accessing websites, social media, online music apps, and emails. Ensure that all people are happy and that those accessing the content show approval of what they have seen.', //'Pictograma com duas pessoas felizes, navegando na internet por meio de um computador e um smartphone<p>Pictograma de uma pessoa feliz, ouvindo música por meio de um aplicativo de celular<p>Pictograma de duas pessoas caminhando com seu celular na mão, enquanto verifica sua caisa de e-mails<p>Ilustração de um ícone de like<p>Ilustração de um ícone de check verde', 
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo das pegadas digitais inofensivas deixadas por usuários ao utilizarem a internet. No diagrama, há diversos pictogramas que ilustram pessoas navegando na internet de modo consciente e responsável, enquanto acessam sites, redes sociais ou utilizam aplicativos de música online e e-mails. Todas elas estão felizes e tranquilas durante a navegação na internet.', },
 
         {ordem:5,
@@ -2912,6 +3030,7 @@ let livro_csx ={
         textoImpressoRecriado:'Deixar essas pegadas enquanto navega na maioria das vezes é inevitável e também inofensivo. Mas, suas pegadas digitais também podem lhe trazer problemas. Diferente de uma pegada deixada na rua, que some com a chuva, uma pegada digital é copiada, compartilhada e pode existir por muito mais tempo do que você imagina.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_5.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should depict, through a pictogram, a dangerous use of the internet that has left a negative digital footprint on a users online reputation. In the image, a young girl is sitting in a chair, hunched over her knees, with her head down. She is in front of a computer screen in a dark room.', //'Pictograma de uma pessoa sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada, em um quarto escuro, em frente à tela de um computador pessoal<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem de um pictograma que ilustra o uso perigoso da internet. No pictograma, uma pessoa jovem está sentada em uma cadeira, inclinada sobre os joelhos, com a cabeça abaixada. Ela está em frente à tela de um computador, em um quarto escuro.', },
 
         {ordem:6,
@@ -2923,6 +3042,8 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_6.png',
         promptImagem:'Create a 2D illustration with a 3D perspective, in shades of blue and purple, targeting the audience aged 12 to 14. The illustration should feature various pictograms to express how an algorithm recognizes a users profile through their digital footprints.In the drawing, include pictograms representing responsible and harmless internet use, such as a Rock & Roll fan, an anime enthusiast, and a follower of a digital influencer. These uses should be recognized as positive.However, also include pictograms representing dangerous and harmful user behavior, such as posts with prejudiced content and cyberbullying. These uses should be recognized as negative, immoral, and criminal, tarnishing the users image.<p>', //'Ícone do avatar de uma pessoa<p>Pictograma de um fã de Rock & Roll<p>Pictograma de uma influencer digital<p>Pictograma de um robô mecha do universo otaku<p>Pictograma do usuário sofrendo cancelamento digital por postagens preconceituosas<p>Pictograma de um usuário praticando cyberbullying<p>Ilustração de um ícone de like<p>Ilustração de um ícone de check verde<p>Ilustração de um ícone de deslike<p>Ilustração de um ícone de X vermelho',
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de um diagrama ilustrativo do perfil de uma pessoa reconhecido por um algoritmo a partir de suas pegadas digitais. No diagrama, há diversos pictogramas que ilustram como esse usuário utilizou a internet de forma consciente e inofensiva, mas também de forma perigosa e prejudicial para sua reputação. O algoritmo reconheceu que o usuário é um fã de Rock & Roll, um aficionado animes e segue uma influenciadora digital. Esses usos são reconhecidos como positivos e inofensivos. No entanto, o algoritmo também reconheceu que o usuário publica postagens com conteúdo preconceituoso e pratica cyberbullying. Esses usos são reconhecidos como negativos, imorais e criminosos, prejudicando a imagem do usuário.', },
 
         {ordem:7,
@@ -2937,6 +3058,7 @@ let livro_csx ={
         O problema começa quando elas são usadas para tomar decisões importantes que te afetam. Por exemplo, quando você se candidata a entrar em uma escola ou empresa. O que parecia apenas um vídeo engraçado de compartilhar há alguns anos, hoje pode ser altamente inapropriado e te atrapalhar a conseguir um emprego.`,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_7.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, using shades of blue and purple, targeting an audience aged 12 to 14. The image should depict a recruiter sitting in a chair, facing a computer. The recruiter is reviewing the content of a video posted on a social media platform by one of the job applicants. In the recruiters right hand, they hold the candidates resume, which has been stamped in red with the word "rejected".', //'Ilustração em 3D de um recrutador, assentado em uma cadeira, de frente para um computador, verificando um vídeo postado em uma rede social pelo candidato a uma vaga de emprego. O candidato está localizado à frente do computador, mais ao fundo da imagem, e veste uma roupa social. Na mão direita, o recrutador segura o currículo do candidato, que possui um grande carimbo vermelho com a palavra "reprovado".', 
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem de uma ilustração em que um recrutador está assentado em uma cadeira, de frente para um computador. O recrutador está verificando o conteúdo de um vídeo postado em uma rede social por um dos candidatos a uma vaga de emprego. O recrutador segura o currículo do candidato na mão direita, porém o currículo foi carimbado em vermelho com a palavra "reprovado".', },
 
         {ordem:8,
@@ -2948,6 +3070,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/rd_8.jpeg',
         promptImagem:'uma tela de computador mostrando um aperto de mão, tons de azul, meio escuro', 
+        imagemFonte:'bing',
         textoDescritivoImagem:'Duas imagens. Na primeira, o avatar de um jovem sorridente. Na segunda, um pictograma que ilustra o uso responsável da internet. No pictograma, duas mãos estão se apertando, simbolizando a aprovação mútua entre as pessoas. Ao fundo, é representado um monitor de computador que exibe os comentários de um usuário em uma rede social, recebendo muitos likes.', },
 
         {ordem:9,
@@ -2959,6 +3082,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/rd_9.jpeg',
         promptImagem:'arte digital de um computador desktop cercado por quatro pares de mãos que tentam tocar as informações contidas nele, tons azuis, meio escuros', 
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem que representa a tentativa de acesso a um computador bloqueado por medidas de segurança. O cenário em 3D mostra uma escrivaninha com um computador all-in-one. No monitor, há uma página solicitando autorização para o uso de cookies. Um braço desce tentando acessar o teclado, mas outro braço estendido, saindo de uma nuvem com um símbolo de cadeado, impede a ação.', },
 
         {ordem:10,
@@ -2970,6 +3094,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img_10.jpg',
         promptImagem:'Create a 2D illustration with a 3D perspective, using shades of cyan and aqua green, targeting an audience aged 12 to 14. The image should be divided into two halves to represent a persons two online personas. In the left half, with a cyan background, depict the professional life. Include a computer, a wall clock, and the upper body dressed in formal attire, holding a cellphone to the ear. In the right half, with an aqua green background, depict the personal life. In this part, the body is wearing sportswear and holding a bicycle.', //'Crie uma imagem 3D dividida em duas metades. Na metade esquerda, com fundo azul, represente a vida profissional de uma pessoa. Inclua um computador, um relógio de parede e metade do corpo vestido com roupa social, segurando um celular no ouvido. Na metade direita, com fundo verde, represente a vida pessoal da pessoa. Essa metade do corpo está vestindo traje esportivo e segurando uma bicicleta.', 
+        imagemFonte:'bing',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem em 3D dividida em duas metades para representar as duas personas online de uma pessoa. Na metade esquerda, com fundo azul, temos a representação da vida profissional. Nessa parte, há um computador, um relógio de parede e metade do corpo vestido com roupa social, segurando um celular no ouvido. Na metade direita, com fundo verde, temos a representação da vida pessoal. Nessa parte, o corpo está vestindo traje esportivo e segurando uma bicicleta.', },
       
       /*cenas:[				
@@ -3084,6 +3210,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_1.jpg',
         promptImagem:'Create a pixel art illustration featuring iconic Star Wars characters. The image should be colourful and playful, representing characters like Luke Skywalker, Princess Leia, Darth Vader, and Yoda in their signature outfits and poses, all in a style reminiscent of 8-bit video game graphics', 
+        imagemFonte:'x',
         textoDescritivoImagem:'Imagem dos personagens de Star Wars desenhados com pixels.', },
 
         {ordem:2,
@@ -3095,6 +3222,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_2.png',
         promptImagem:'Create two images to illustrate the concept of pixels for students from 5th to 9th grades. The first image should be a realistic digital art illustration of a colorful butterfly. The second image should be a replication of the first image but in pixel art style, clearly showing the individual square blocks of colors, representing pixels', 
+        imagemFonte:'x',
         textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
 
         {ordem:3,
@@ -3106,6 +3234,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_3.jpg',
         promptImagem:'Create a colorful pixel art.',  
+        imagemFonte:'freepik',
         textoDescritivoImagem:'Imagem do jogo Mario Bros com pixels.', },
 
         {ordem:4,
@@ -3117,6 +3246,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_4.jpg',
         promptImagem:'Create a pixel art depiction of James Clerk Maxwell along with his color experiments', //enviar ilustrador Foto Maxwell 1:41 e ao lado seu experimento 1:54
+        imagemFonte:'x',
         textoDescritivoImagem:'Foto de Maxwell e seu experimento com as cores.', },
 
         {ordem:5,
@@ -3128,6 +3258,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_5.jpeg',
         promptImagem:'', //'Create a digital art depiction of three separate paint buckets, each filled with one of the primary colors: red, yellow, and blue', 
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta azul, o segundo com tinta verde e o último tubo com tinta vermelha.', },
 
         {ordem:6,
@@ -3139,6 +3270,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_6.jpg',
         promptImagem:'Create a pixel art of an open laptop screen displaying the RGB color model, with distinct sections showcasing the primary colors: Red, Green, and Blue', 
+        imagemFonte:'googleimages',
         textoDescritivoImagem:'Sistema RGB de cores.', },
 
         {ordem:7,
@@ -3150,6 +3282,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_7.jpg',
         promptImagem:'Teste Daltonismo', 
+        imagemFonte:'googleimages',
         textoDescritivoImagem:'Imagem para testar daltonismo.', },
 
         {ordem:8,
@@ -3160,7 +3293,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_8.jpg', 
-        promptImagem:'Vestido azul e preto ou branco e dourado', 
+        promptImagem:'Vestido azul e preto ou branco e dourado',
+        imagemFonte:'googleimages',
         textoDescritivoImagem:'Vestido azul e preto ou branco e dourado, a depender de quem está olhando a imagem.', },
       ]}},
 
@@ -3184,6 +3318,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_1.jpeg',
         promptImagem:'spectacular image of a tribe gathered around a fire in one night. . Image with good lighting and vibrant colors, photo', 
+        imagemFonte:'ideogram', 
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3195,6 +3330,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_2.jpeg',
         promptImagem:'tropical vector illustration of a cute adventure of a trastronaut, compositions inspired by space, dark and moody landscapes, rounded space landscapes, 3d render', 
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3206,6 +3342,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_3.jpeg',
         promptImagem:'Imagem de animação feita em Scratch, em que o usuário pode participar, para que a história animada siga em uma "direção" ou "outra".', 
+        imagemFonte:'scratch',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:4,
@@ -3218,6 +3355,7 @@ let livro_csx ={
         textoImpressoRecriado:'Através da programação, além de animar textos, sons e imagens para contar uma história, é possível envolver o ouvinte de forma que se sinta parte da trama, tomando decisões que alteram seu desfecho.<p>Para isso apresentamos o "Story Lab": um inovador laboratório de programação de histórias que combina a arte ancestral da narrativa com a magia da tecnologia. Aqui, você pode criar histórias animadas, envolventes e interativas.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_4.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:5,
@@ -3229,6 +3367,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_5.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:6,
@@ -3241,6 +3380,7 @@ let livro_csx ={
         textoImpressoRecriado:'Inicie definindo sua história: forneça um título, seu nome e faça uma breve sinopse...<p>Você também tem a opção de personalizar o palco, alterar o fundo da animação, escolhendo entre diferentes imagens e modificar a resolução, ou seja, o tamanho da matriz usada para os movimentos dos atores e elementos.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_6.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:7,
@@ -3252,6 +3392,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_7.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:8,
@@ -3263,6 +3404,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_8.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:9,
@@ -3274,6 +3416,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_9.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:10,
@@ -3286,6 +3429,7 @@ let livro_csx ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_10.jpg',
         textoImpressoRecriado:'As últimas 3 galerias contêm diferentes elementos de cena, que você também pode arrastar para o palco. Repare, deixando o mouse sobre eles, que alguns possuem uma animação pré-definida.<p>Dê dois cliques para configurar cada elemento. Eles possuem mais configurações que os atores. Além de tamanho, sentido e efeitos, se o elemento tem animação pré-definida, você pode configurar quando ela vai ocorrer.',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:11,
@@ -3298,6 +3442,7 @@ let livro_csx ={
         textoImpressoRecriado:'Ainda mais interessante é definir o que acontece com o elemento, quando um ator o alcança, ou seja: quando o ator chega na mesma casa do elemento.<p>Ocorre uma colisão e o ator cai? O elemento some? Um efeito é aplicado para mudar sua cor? A animação predefinida também pode ser disparada quando o ator alcançar o elemento.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_11.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:12,
@@ -3309,6 +3454,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_12.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:13,
@@ -3320,6 +3466,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_13.jpg',
         promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:14,
@@ -3331,6 +3478,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_14.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:15,
@@ -3343,6 +3491,7 @@ let livro_csx ={
         textoImpressoRecriado:`Tudo configurado, avance para a programação dos atores!<p>Clique no ator que quer programar, certificando-se de que ele está selecionado.<p>Então programe seus movimentos, fazendo o ator se mover, comemorar, cair, levantar...`,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_15.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:16,
@@ -3354,6 +3503,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_16.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:17,
@@ -3365,6 +3515,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_17.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:18,
@@ -3377,6 +3528,7 @@ let livro_csx ={
         texto:'Na seção "aparência", programe a narrativa de sua história.<p>A narração "em off", desvinculada dos atores, é efetivamente narrada com tecnologia texto-para-voz.<p>Os atores podem ser programados para falar, sussurrar, gritar ou pensar, emitindo balões de texto durante a animação.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_18.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:19,
@@ -3388,6 +3540,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_19.jpg',
         promptImagem:'', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:20,
@@ -3399,6 +3552,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_20.jpg',
         promptImagem:'TODO', 
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:21,
@@ -3409,7 +3563,8 @@ let livro_csx ={
         textoImpresso:0,
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_21.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 ]}},
   
@@ -3432,6 +3587,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_1.png',
         promptImagem:'Imagem de um usuário, assentando diante de um bacanda, em frente a um computador. O usuário está com a boca aberta _ como quem está falando_ e o rosto voltado para o monitor do computador. O monitor exibe a tela de um software de assistente de voz, com a imagem de um avatar, sugerindo que uma IA está ouvindo o usuário e está respondendo o usuário', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3444,6 +3600,7 @@ let livro_csx ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_2.png',
         promptImagem:'Imagem com ícone que representa a tecnologia de speech-to-text.',
         //promptImagem:'Imagem de um usuário com um smartphone em sua mão, que está erguida em direção à sua boca. O usuário está utilizando o recurso do "OK Google" para fazer uma pesquisa por voz na internet.', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3455,6 +3612,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_3.png',
         promptImagem:'Foto que exibe a tela de um smartphone, em que o usuário fez uma pesquisa por voz, que ficou registrada na tela do computador. O software responde à solicitação do usuário, exibindo um manda para guiá-lo do local em que se encontra até o lanchonete mais próxima.', 
+        imagemFonte:'x',
+        imagemArremate:1,
         textoDescritivoImagem:'TODO.', },
 
         {ordem:4,
@@ -3466,6 +3625,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_4.png',
         promptImagem:'Imagem de uma sala de estar com múltiplos aparelhos smart. Uma mulher está entrando pela porta da sala e está com a boca aberta, após emitir comandos por voz para que os aparelhos smart acendam a luz e liguem a televisão para exibir um canal de vídeos de sua predileção.', 
+        imagemFonte:'x',
+        imagemArremate:1,
         textoDescritivoImagem:'TODO.', },
 
         {ordem:5,
@@ -3477,6 +3638,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_5.png',
         promptImagem:'Imagem de um usuário cego, utilizando o recurso de Talkback para navegar em seu smartphone.', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:6,
@@ -3488,6 +3650,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_6.png',
         promptImagem:'Imagem com ícone que representa a tecnologia de text-to-speech.', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:7,
@@ -3499,6 +3662,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_7.png',
         promptImagem:'Imagem de um usuário assentando em frente a um computador, em que o usuário está dialogando com a "máquina".', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:8,
@@ -3510,6 +3674,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_8.png',
         promptImagem:'Imagem de um usuário, utilizando um aplicativo de leitura de texto com recursos de text-to-speech para ouvir um livro ou PDF.', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:9,
@@ -3521,6 +3686,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_9.png',
         promptImagem:'Foto de pessoa utilizando um dispositivo Alexa para acionar dispositivos em um quarto smart.', 
+        imagemFonte:'x',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:10,
@@ -3532,6 +3698,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_10.png',
         promptImagem:'Imagem de usuário utilizado IA com recurso de programação por voz, como, por exemplo, o recurso do GitHub.', 
+        imagemFonte:'x',
+        imagemArremate:1,
         textoDescritivoImagem:'TODO.', },
 
         {ordem:11,
@@ -3543,6 +3711,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ConvComp/img_11.png',
         promptImagem:'Imagem com pessoa acessando um app de IA com recursos de voz e texto para estudar de modo remoto, em casa. Se possível, a imagem deve expressar como a IA pode servir para promover a inclusão digital, quando disponibilizada por pessoas em situações de risco ou por grupos de minorias ou baixa renda per capita.', 
+        imagemFonte:'x',
+        imagemArremate:1,
         textoDescritivoImagem:'TODO.', },
   ]}},
       
@@ -3567,6 +3737,7 @@ let livro_csx ={
         //textoImpressoRecriado:'Eventos ligados aos fenômenos naturais, como a passagem do tempo, mudanças climáticas ou de temperatura, desencadeiam ações em nossa vida pessoal e processos diversos no mundo dos negócios.<>Por exemplo, o nascer do sol ou um horário definido no despertador iniciam sua rotina diária de acordar, tomar banho, café...',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_1.jpg',
         promptImagem:'a cute imagem from a scientist studying the climate, surrounded by a flurry of data and charts, making predictions about the future of the environment.', 
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:2,
@@ -3578,6 +3749,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_2.jpg',
         promptImagem:'a cute imagem that represents the passage of time, from sunrise to sunset, indicating when a person does their daily routines, their daily routine of waking up, taking a shower, having coffee.', 
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:3,
@@ -3589,6 +3761,7 @@ let livro_csx ={
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_3.jpg',
         promptImagem:'A cute imagem that represents an automated irrigation system, which senses through sensors a change to rainy weather to turn off artificial irrigation in a raining day', 
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:4,
@@ -3600,6 +3773,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_4.jpg',
         promptImagem:'A cute image that represents a simulation of climate events in a computer monitor',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:5,
@@ -3611,7 +3785,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_5.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:6,
@@ -3622,7 +3797,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_6.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:7,
@@ -3633,7 +3809,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_7.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:8,
@@ -3644,7 +3821,8 @@ let livro_csx ={
         textoImpresso:0,
         imagemImpresso:0,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_8.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:9,
@@ -3656,7 +3834,8 @@ let livro_csx ={
         imagemImpresso:1,
         textoImpressoRecriado:'O ambiente do Story Lab apresenta um primeiro exemplo do poder dos simuladores.<p>Ele oferece simuladores de eventos naturais, como mudanças climáticas, de temperatura, estações do ano ou até mesmo fases da lua.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_9.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:10,
@@ -3667,7 +3846,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_10.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:11,
@@ -3678,7 +3858,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_11.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:12,
@@ -3689,7 +3870,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_12.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:13,
@@ -3701,6 +3883,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_13.jpg',
         promptImagem:'A cute imagem from a scientist studying the climate, surrounded by a flurry of data and charts, making predictions about the future of the environment.', 
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'TODO.', },
 
         {ordem:14,
@@ -3711,7 +3894,8 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EventDiaDia/img_14.jpg',
-        promptImagem:'TODO', 
+        promptImagem:'TODO',
+        imagemFonte:'mmcode',
         textoDescritivoImagem:'TODO.', },
     ]}},
 
