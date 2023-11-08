@@ -368,6 +368,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_1.jpeg',
         promptImagem:'uma arte digital colorida do símbolo infinito', 
+	    imagemFonte:'bing',
         textoDescritivoImagem:'Imagem do infinito.', },
 
         {ordem:2,
@@ -379,6 +380,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_2.jpeg',
         promptImagem:'arte digital colorida mostrando uma esteira transportadora digital originada de um computador, onde linhas de código se transformam em tarefas, circulando de volta para serem processadas novamente, representando a natureza repetitiva dos loops de programação', 
+		imagemFonte:'bing',	
+		imagemArremate:0,
         textoDescritivoImagem:'Uma espiral com pequenas imagens para demonstrar o potencial da programação em laços.', },
 
         {ordem:3,
@@ -390,6 +393,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Laco/loops_3.jpeg',
         promptImagem:'arte digital colorida de uma flor básica usando traços elípticos simples e sem sombra', 
+		imagemFonte:'bing',	
         textoDescritivoImagem:'Uma flor com padrão de pétalas elípticas remetendo ao conceito de diversos laços.', },
 
         {ordem:4,
@@ -1904,6 +1908,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_1.v4.jpg',
           promptImagem:'Create a Caravaggio-style digital painting featuring an engineer wearing a helmet and holding a notebook in an outdoor setting at an oil extraction facility, with a sucker rod pump in the background. Use dramatic lighting and shadow in the Italian "chiaroscuro" style, highlighting hyper-realistic details and emotions. Inspired by Giovanni Baglione, Orazio Gentileschi, and Bartolomeo Manfredi, this work should capture the essence of Baroque realism, with vibrant and emotionally powerful colors. Start with a rough sketch and bold lines before finalizing the image. Be visually impactful, portraying the atmosphere of progress experienced in the 1970s and 1980s.', //'Foto de um usuário diante de uma tela do computador. Ao fundo, um quadro pregado na parede, com a foto de uma plataforma pretolífera. À frente da imagem, códigos, trechos de código transparentes, de cima abaixo.', 
+		  imagemFonte:'leonardo',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:2,
@@ -1948,7 +1953,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_5.v3.jpg',
           promptImagem:'Produce an Impressionist-style digital painting inspired by Monet, Renoir, and Manet. Showcase icons of a weekly temperature calendar, like a sun for hot days and rain clouds with drops. Employ loose brushwork to evoke movement, play with light, and manipulate colors. Include a programmer and a small robot nearby, surrounded by visible basic electrical circuits. The painting conveys the idea that daily temperature is a variable data type.', 
-		  iaImagem:'leonardo',
+		  imagemFonte:'leonardo',
           textoDescritivoImagem:'TODO.', },
   
           {ordem:6,
@@ -1960,7 +1965,7 @@ let livro_csx ={
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DadInf/img_6.v3.jpg',
           promptImagem:`Create an impressionist-style digital painting, drawing inspiration from Monet, Renoir, and Manet. Picture a 15-year-old patient standing on a scale in a doctor's office. Include an elderly physician in a white coat, recording the patient's weight on a clipboard. Use loose brush strokes to convey movement and play with light and color. Set the scene in a 21st century doctor's office. Present modern doctor office equipment and show the full body of doctor and patient.`, 
-		  iaImagem:'leonardo',		  
+		  imagemFonte:'leonardo',		  
           textoDescritivoImagem:'TODO.', },
 
           {ordem:7,
