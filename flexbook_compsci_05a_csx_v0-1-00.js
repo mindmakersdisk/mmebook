@@ -49,7 +49,8 @@ let livro_csx ={
   
    /* conteudo */
   unidade1:{
-	  /* licao sem infografico, deve exibir algo como 'projeto/laboratório sem novo conceito teórico' */
+	  titulo:'Fundamentos de Programação',
+	  descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
 	  licao1:{
 		  id:'CSXAULA01CODE',
 		  /** padroesCurriculares: 
@@ -925,7 +926,8 @@ let livro_csx ={
   },
 
   unidade2:{
-	  
+	  	  titulo:'Programação Orientada a Eventos',
+	  descricao:'Nesta unidade, você aprenderá o conceito de programação orientada a eventos, como ela é implementada em linguagens de programação visual, como o Scratch, e a importância de eventos no ciclo de vida dos programas. Você será apresentado ao Scratch, um ambiente de programação que torna o aprendizado de programação acessível e divertido, permitindo criar suas próprias histórias, jogos e animações digitais. Com o Scratch, você utilizará os princípios da programação orientada a eventos para dar vida às suas ideias, controlando personagens e objetos em um mundo virtual, e entenderá como eventos e ações interagem durante a execução de um programa.',
     licao8:{
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
@@ -1611,6 +1613,9 @@ let livro_csx ={
 	  },
    
   unidade3:{
+	  
+	 	  	  titulo:'Dados Digitais',
+	  descricao:'Nesta unidade, você aprenderá como os dados digitais são produzidos, processados e utilizados no mundo da computação. Você estudará estruturas de dados úteis, como filas, pilhas e listas, e aprenderá a manipular estes utilizando as principais portas lógicas e o sistema binário. Também entenderá conceitos fundamentais sobre como os dados são armazenados e organizados, compreendendo como listas e matrizes são fundamentais em nosso dia a dia, inclusive sobre como os dados digitais são recuperados e manipulados para torná-los úteis em aplicações computacionais variadas.',
 	  
     licao15:{},
 
@@ -2730,7 +2735,8 @@ let livro_csx ={
   
    
   unidade4:{
-	  
+	  	  	  titulo:'Computação Segura e Criativa',
+	  descricao:'Nesta unidade, você irá refletir sobre a ética e a responsabilidade na tecnologia digital. Você aprenderá sobre privacidade e segurança na era digital, e como a prática ética na computação pode impactar a sociedade de maneira responsável. Você irá aprofundar um pouco mais em como os pixels e as cores RGB são fundamentais para a concepção de imagens digitais. Será apresentado também a importância de entender como a informação é compartilhada na internet e como cada ação online deixa um rastro, levantando questões importantes sobre privacidade e o impacto da nossa presença digital.',
     licao22:{
 		  id:'CSXAULA22CODE',
 		  /** padroesCurriculares: 
@@ -3713,10 +3719,8 @@ let livro_csx ={
 
   capaVerso:{
 		urlImagemTerceiraCapa:'',
-		urlImagemQuartaCapa: '',
-		contraCapaVerso:{
-			tabela:'TODO' 
-		}
+		textoTerceiraCapa:'',
+		textoUltimaCapa: 'Joseph Marie Charles Jacquard (1752-1834) foi um inventor francês que desenvolveu um tear completamente automatizado, que podia ser programado por cartões perfurados para tecer padrões visuais complexos em tecidos.'
   },
 
 }
