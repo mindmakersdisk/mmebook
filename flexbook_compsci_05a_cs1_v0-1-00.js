@@ -424,6 +424,7 @@ let livro_cs1 ={
         imagemImpresso:1,
         textoImpressoRecriado:'AS INSTRUÇÕES PRECISAM SER CLARAS',
         promptImagem:'Imagem vibrante e alegre mostrando uma personagem infantil confusa, com olhos arregalados, com uma folha de papel na mão tentando resolver um problema, sem saber o que fazer e vários pontos de interrogação oando acima de sua cabeça.',
+		iaImagem:'dalle',
         textoDescritivoImagem:'Pessoa confusa com o algoritmo que está tentando seguir', /*opc*/},
 
         {ordem:10,
@@ -433,6 +434,7 @@ let livro_cs1 ={
         textoSimplificado:'Algoritmo para beber leite',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-10.jpg',
 		    promptImagem:'Imagem vibrante e alegre mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada.',
+		iaImagem:'bing',		
         textoDescritivoImagem:'Copo de leite em cima de uma bancada', /*opc*/},
   
         {ordem:11,
