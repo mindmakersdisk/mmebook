@@ -60,7 +60,6 @@ let livro_cs1 ={
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
 				textoSimplificado:'SEQUÊNCIAS',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-1.jpg',
-				//promptImagem:'uma imagem fofa de personagem feminina, negra, com semblante pensativo', /*opc*/
 				promptImagem:'Imagem colorida e suave de uma jovem personagem feminina negra, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
 				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
 					 
@@ -74,7 +73,6 @@ let livro_cs1 ={
         imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
 				promptImagem:'Imagem vívida e delicada de três ursos de pelúcia, cada um de um tamanho diferente, arranjados um ao lado do outro de maneira harmoniosa em um cenário tranquilo e colorido',
-				//Imagem vívida e delicada de duas prateleiras com brinquedos, dispostos em sequência crescente de tamanho, em um cenário tranquilo e colorido
 				textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
@@ -97,63 +95,42 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'POR EXEMPLO: QUAL É A SEQUÊNCIA DE ACONTECIMENTOS DO SEU DIA?',
+        texto:'POR EXEMPLO: QUAL É A SEQUÊNCIA DOS ACONTECIMENTOS DO SEU DIA?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/5.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-5-4-imgs.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'QUAL É SEQUÊNCIA DE ACONTECIMENTOS NO SEU DIA?',
+        textoImpressoRecriado:'QUAL É SEQUÊNCIA DOS ACONTECIMENTOS NO SEU DIA?',
 		    promptImagem:'Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, se acordando na sua cama em um fundo pastel e desfocado. Ele exibe um semblante tranquilo, sonolento e feliz, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar o quarto;Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, tomando o café da manhã na mesa da cozinha com nuances de luz e sombra semelhantes a uma fotografia macro de natureza; Imagem colorida e suave de dois personagens fofos saindo de um prédio, vestidos com uniformes escolares, com olhos grandes e expressivos, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar a escola; Imagem colorida e suave e fofa de um banheiro com uma banheira cheia de espuma com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. O objetivo da imagem é mostrar que devemos tomar banho todos os dias.',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:6,
         predecessor:5,
-        texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA SEQUÊNCIA, VOCÊ TAMBÉM PRECISA DE UM CRITÉRIO. REPITA COMIGO: CRITÉRIO.',
+        texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA SEQUÊNCIA, VOCÊ TAMBÉM PRECISA TER UMA REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA SEQUÊNCIA.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/6.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'VOCÊ PRECISA DE UM CRITÉRIO.',
+        textoImpressoRecriado:'VOCÊ PRECISA DE UMA REGRA.',
 		    promptImagem:'Imagem colorida e suave e fofa, no centro, uma prancheta vermelha com um papel anexado a ela. No papel, destaca-se um grande símbolo de checagem na cor verde. O fundo é desfocado com nuances suaves, lembrando uma fotografia macro da natureza.',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:7,
         predecessor:6,
-        texto:'MAS O QUE É UM CRITÉRIO?',
-        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/7.mp3',
-        textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-7.jpg',
-		    promptImagem:'Imagem colorida e suave de um jovem personagem asiático, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
-        textoDescritivoImagem:'', /*opc*/},
-
-        {ordem:8,
-        predecessor:7,
-        texto:'UM CRITÉRIO É A REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA SEQUÊNCIA.',
-        urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/8.mp3',
-        textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-8.jpg',
-        textoImpresso:1,
-        imagemImpresso:1,
-        textoImpressoRecriado:'CRITÉRIO = REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS.',
-        promptImagem:'Imagem colorida e suave de uma imagem fofa de uma placa de de trânsito triangular, com a borda vermelha e o fundo branco e um ponto de exclamação preto bem no meio da placa. O cenário tem com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
-		    textoDescritivoImagem:'', /*opc*/},
-
-        {ordem:9,
-        predecessor:8,
-        texto:'POR EXEMPLO: PARA COLOCAR OS ALUNOS EM SEQUÊNCIA, DO MENOR PARA O MAIOR, O CRITÉRIO SERÁ A ALTURA DE CADA UM.',
+        texto:'POR EXEMPLO: PARA COLOCAR OS ALUNOS EM SEQUÊNCIA, DO MENOR PARA O MAIOR, A REGRA SERÁ A ALTURA DE CADA UM.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/9.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-9.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'SEQUÊNCIA: ALUNOS <p>CRITÉRIO: ALTURA - DO MENOR PARA O MAIOR.',
+        textoImpressoRecriado:'<b>SEQUÊNCIA</b>: ALUNOS <p><b>REGRA</b>: ALTURA - DO MENOR PARA O MAIOR.',
 		    promptImagem:'Imagem colorida e suave de três carrinhos fofos com tamanhos bem diferentes em fila com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:10,
-        predecessor:9,
+        {ordem:8,
+        predecessor:7,
         texto:'APRENDER SOBRE SEQUÊNCIAS É MUITO IMPORTANTE, POIS COM ELAS VOCÊ VAI PODER ORGANIZAR TUDO E ENTENDER O MUNDO AO SEU REDOR.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/10.mp3',
         textoSimplificado:'',
@@ -161,20 +138,20 @@ let livro_cs1 ={
         promptImagem:'Imagem colorida e suave de peças de um quebra cabeças espalhadas e bagunçadas sobre uma mesa com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
 		    textoDescritivoImagem:'', /*opc*/},
   
-        {ordem:11,
-        predecessor:10,
-        texto:'VAMOS TENTAR MAIS UMA VEZ? QUAL A SEQUÊNCIA DAS FIGURAS? <P>O QUE ACONTECEU PRIMEIRO?',
+        {ordem:9,
+        predecessor:8,
+        texto:'VAMOS TENTAR MAIS UMA VEZ? QUAL É A SEQUÊNCIA DAS FIGURAS? <P>O QUE ACONTECEU PRIMEIRO?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/11.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_11.png',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'QUAL A SEQUÊNCIA DAS FIGURAS? O QUE ACONTECEU PRIMEIRO?',
+        textoImpressoRecriado:'QUAL É A SEQUÊNCIA DAS FIGURAS? O QUE ACONTECEU PRIMEIRO?',
         promptImagem:'uma imagem fofa de uma larva em cima de uma folha; uma imagem fofa de uma pupa pendurada numa folha; uma imagem fofa de uma borboleta pousada em uma folha; uma imagem fofa de uma pupa marrom e seca pendurada numa folha; uma imagem fofa de uma folha cheia de ovos de borboleta', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
   
-        {ordem:12,
-        predecessor:11,
+        {ordem:10,
+        predecessor:9,
         texto:'ESTÁ PREPARADO PARA O MUNDO DAS SEQUÊNCIAS? VAMOS LÁ!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/12.mp3',
         textoSimplificado:'',
@@ -212,7 +189,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_2.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'PADRÕES SÃO COISAS QUE SE REPETEM DE FORMA LÓGICA.',
+        textoImpressoRecriado:'PADRÕES SÃO ELEMENTOS QUE SE REPETEM DE FORMA LÓGICA.',
         promptImagem:'Arte digital de fofa de quatro circulos verdes enfileirados.', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -236,7 +213,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_4.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'OS PADRÕES ESTÃO EM MUITAS COISAS A NOSSO REDOR',
+        textoImpressoRecriado:'OS PADRÕES ESTÃO EM MUITAS COISAS A NOSSO REDOR.',
         promptImagem:'Arte digital de um personagem escovando os dentes e três círculos acima da cabeça, com uma escova no primeiro círculo, uma escova com pasta de dente debaixo de uma torneira correndo água no segundo e uma escova e um tubo de pasta de dente no terceiro', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -260,7 +237,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_6.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'IDENTIFICAR PADRÕES NOS AJUDAM A RESOLVER PROBLEMAS',
+        textoImpressoRecriado:'IDENTIFICAR PADRÕES NOS AJUDA A RESOLVER PROBLEMAS.',
         promptImagem:'Arte digital de um cubo mágico com as cores misturadas e um outro cubo mágico ao lado, já resolvido', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -272,7 +249,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_7.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'O PADRÃO DO SOL E DA LUA',
+        textoImpressoRecriado:'O PADRÃO DO SOL E DA LUA.',
         promptImagem:'Arte digital do sol e da lua', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -284,7 +261,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_8.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'PADRÕES EM COREOGRAFIAS DE DANÇAS',
+        textoImpressoRecriado:'PADRÕES EM COREOGRAFIAS DE DANÇAS.',
         promptImagem:'Arte digital de dois bailarinos dançando em uma rua', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -296,15 +273,15 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_9.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'PADRÕES E SEQUÊNCIAS ANDAM JUNTOS',
+        textoImpressoRecriado:'PADRÕES E SEQUÊNCIAS ANDAM JUNTOS.',
         promptImagem:'Arte digital de 6 figuras enfileiradas, sendo a primeira, a terceira e a quinta um triângulo amarelo e a segunda e a quarta um círculo azul. Onde deve ficar a sexta figura tem um ponto de interrogação', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:10,
         predecessor:9,
-        texto:'QUANDO RECONHECEMOS PADRÕES, PODEMOS VER ORDEM NO CAOS. OS PADRÕES PODEM SER ENCONTRADOS EM PALAVRAS, NÚMEROS, SÍMBOLOS, HORÁRIOS, COMPORTAMENTOS E MUITO MAIS.',
+        texto:'OS PADRÕES PODEM SER ENCONTRADOS EM PALAVRAS, NÚMEROS, SÍMBOLOS, HORÁRIOS, COMPORTAMENTOS E MUITO MAIS.',
         urlAudioTexto:'',
-        textoSimplificado:'Ordem no caos',
+        textoSimplificado:'Padrões em todo lugar.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_10.jpeg',
         promptImagem:'Arte digital com vários cubos espalhados, de diferentes tamanhos e diferentes tons do mesmo azul', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
@@ -312,7 +289,7 @@ let livro_cs1 ={
     
     licao3:{},
   
-    licao4:{id:'CS1AULA01CODE',
+    licao4:{id:'CS1AULA04CODE',
 		/** padroesCurriculares: 
 		titulo:'Lição 04. Algoritmos.',**/
 		infografico:{titulo:'ALGORITMOS',
@@ -350,7 +327,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-3.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ALGORITMOS = INSTRUÇÕES',
+        textoImpressoRecriado:'ALGORITMOS = INSTRUÇÕES.',
 		    promptImagem:'Imagem vibrante e alegre de uma lista com diferentes itens marcados como feitos.',
         textoDescritivoImagem:'Lista com marcações de que tarefas foram executadas', /*opc*/},
 
@@ -362,7 +339,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-4.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ALGORITMOS SERVEM PARA PROGRAMAR COMPUTADORES',
+        textoImpressoRecriado:'ALGORITMOS SERVEM PARA PROGRAMAR COMPUTADORES.',
         promptImagem:'Imagem vibrante e alegre de um personagem infantil sentada de costas, com um laptop à sua frente, com vários balões de linguagens de programação saindo da tela do computador.', 
 		    textoDescritivoImagem:'Programador em seu computador', /*opc*/},
 
@@ -374,7 +351,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-5.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ALGORITMO PARA FAZER UM CORAÇÃO DE PAPEL',
+        textoImpressoRecriado:'ALGORITMO PARA FAZER UM CORAÇÃO DE PAPEL.',
         promptImagem:'Imagem vibrante e alegre dos passos para se fazer um coração de origami',
         textoDescritivoImagem:'Computador mostrando um algoritmo e papel também mostrando um algoritmo', /*opc*/},
 
@@ -386,7 +363,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'RECEITAS TAMBÉM SÃO ALGORITMOS',
+        textoImpressoRecriado:'RECEITAS TAMBÉM SÃO ALGORITMOS.',
         promptImagem:'Arte digital com seis imagens, uma ao lado da outra, sendo a primeira um prato com 2 fatias de pão. A segunda imagem mostra um pote de maionese ao fundo e uma faca passando maionese em uma fatia de pão. A terceira mostra um pedaço de quijo ao fundo e uma mão colocando uma fatia de queijo no pão que tem maionese. A quarta mostra duas mãos cortando fatias de um tomate. A quinta mostra a fatia de pão em cima do prata, com maionese embaixo, queijo e rodelas de tomate em cima. A última imagem mostra um sanduíche em cima de um prato, feito com pão, maionese, queijo, tomate e outra fatia de pão em cima.', /*opc*/
         textoDescritivoImagem:'Preparo de uma receita com algoritmos', /*opc*/},
 
@@ -398,7 +375,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg_6.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ALGORITMO PARA ESCOVAR OS DENTES',
+        textoImpressoRecriado:'ALGORITMO PARA ESCOVAR OS DENTES.',
 		    promptImagem:'Imagem vibrante e alegre com quatro imagens dos passos para escovação dos dentes: 1) colocar pasta de dente na escova; 2) escovar os dentes; 3) enxaguar boca; 4) passar fio dental nos dentes.',
         textoDescritivoImagem:'Pessoa seguindo os passos para escovar os dentes', /*opc*/},
 
@@ -410,7 +387,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-8.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ALGORITMO PARA DOBRAR CAMISAS',
+        textoImpressoRecriado:'ALGORITMO PARA DOBRAR CAMISAS.',
         promptImagem:'Imagem vibrante e alegre de uma pilha de camisas coloridas dobradas',
         textoDescritivoImagem:'Camisa dobrada seguindo algoritmos', /*opc*/},
 
@@ -422,7 +399,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-9.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'AS INSTRUÇÕES PRECISAM SER CLARAS',
+        textoImpressoRecriado:'AS INSTRUÇÕES PRECISAM SER CLARAS.',
         promptImagem:'Imagem vibrante e alegre mostrando uma personagem infantil confusa, com olhos arregalados, com uma folha de papel na mão tentando resolver um problema, sem saber o que fazer e vários pontos de interrogação oando acima de sua cabeça.',
         textoDescritivoImagem:'Pessoa confusa com o algoritmo que está tentando seguir', /*opc*/},
 
@@ -489,7 +466,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-16.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'SEM INTRUÇÕES CLARAS:',
+        textoImpressoRecriado:'SEM INSTRUÇÕES CLARAS:',
 		    promptImagem:'Imagem vibrante e alegre de uma cozinha com uma poça de leite no chão.',
         textoDescritivoImagem:'Poça de leite no chão', /*opc*/},
   
@@ -501,7 +478,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-17.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'PARTIR PROBLEMAS GRANDES EM VÁRIOS MENORES',
+        textoImpressoRecriado:'PARTIR PROBLEMAS GRANDES EM VÁRIOS MENORES.',
 		    promptImagem:'Imagem colorida e divertida de uma caixa de papelão ampla e aberta, de onde emergem múltiplas caixinhas menores, todas fechadas, flutuando ao seu redor.',
         textoDescritivoImagem:'Caixa grande de problemas com vários problemas menores saindo dela', /*opc*/},
   
@@ -587,7 +564,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_6.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'EXISTEM ROBÔS PARECIDOS COM OS HUMANOS E ROBÔS BEM DIFERENTES.',
+        textoImpressoRecriado:'EXISTEM ROBÔS PARECIDOS COM HUMANOS E ROBÔS BEM DIFERENTES.',
         promptImagem:'Robô humanóide 3D engraçado andando na rua', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -626,7 +603,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_10.jpeg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'ROBÔS TEM CÉREBRO?',
+        textoImpressoRecriado:'ROBÔS TÊM CÉREBRO?',
         promptImagem:'robô engraçado 3d pensando', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
 
@@ -710,7 +687,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_2.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'CHAMADO “ROBOLÂNDIA”, O PÁIS DOS ROBÔS',
+        textoImpressoRecriado:'CHAMADO “ROBOLÂNDIA”, O PAÍS DOS ROBÔS.',
         promptImagem:'Arte 3d de um país visto de cima, com pelo menos quatro cidades distintas', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
   
@@ -731,7 +708,7 @@ let livro_cs1 ={
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_4.jpg',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'E HOJE VAMOS CONHECER A CIDADE DE ROBÓPOLIS, CAPITAL DA ROBOLÂNDIA',
+        textoImpressoRecriado:'E HOJE VAMOS CONHECER A CIDADE DE ROBÓPOLIS, A CAPITAL DA ROBOLÂNDIA.',
         promptImagem:'Arte 3d de uma rua numa cidade futurística, habitada por robôs', /*opc*/
         textoDescritivoImagem:'', /*opc*/},
   
@@ -801,7 +778,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_2.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'É SÓ DAR A ORDEM PARA O COMPUTADOR: FAÇA DE NOVO, E DE NOVO...',
+      textoImpressoRecriado:'É SÓ DAR A ORDEM PARA O COMPUTADOR: "FAÇA DE NOVO E DE NOVO..."',
       promptImagem:'computador desktop com o símbolo do infinito na tela, desenho animado', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -825,7 +802,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'SE VOCÊ QUER FAZER A MESMA COISA VÁRIAS VEZES.',
+      textoImpressoRecriado:'SE VOCÊ QUISER FAZER A MESMA COISA VÁRIAS VEZES.',
       promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -882,7 +859,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA',
+      textoImpressoRecriado:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA.',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -951,7 +928,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_7.jpg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'AS RUAS DA CIDADE NÃO TEM PLACAS, ENTÃO OS ROBÔS FICAM PERDIDOS!',
+      textoImpressoRecriado:'AS RUAS DA CIDADE NÃO TÊM PLACAS, ENTÃO OS ROBÔS FICAM PERDIDOS!',
       promptImagem:'Arte digital e uma rua em uma cidade futurística e uma placa de trânsito com um sinal de interrogação', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1038,7 +1015,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
+      textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*pode ser o mesmo dos outros infográficos*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1104,7 +1081,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_7.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'A PRIMEIRA ETAPA É SEPARAR DIFERENTES TIPOS DE LIXO EM LIXEIRAS DIFERENTES.',
+      textoImpressoRecriado:'A PRIMEIRA ETAPA É SEPARAR OS DIFERENTES TIPOS DE LIXO EM LIXEIRAS DIFERENTES.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com as quatro lixeiras de reciclagem enfileiradas', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1296,7 +1273,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_11.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'TODO EVENTO DE COMPUTADOR TERÁ UMA REAÇÃO.',
+      textoImpressoRecriado:'TODO EVENTO PROVOCA UMA REAÇÃO DO COMPUTADOR.',
       promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1308,7 +1285,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_12.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'NOS JOGOS TAMBÉM PODEMOS PERCEBER OS EVENTOS.',
+      textoImpressoRecriado:'USAR O JOYSTICK PARA JOGAR VIDEOGAMES TAMBÉM DISPARA EVENTOS.',
       promptImagem:'quadrinhos de uma criança jogando videogame', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1320,7 +1297,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_13.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'NO JOGO, CADA EVENTO TERÁ UMA REAÇÃO TAMBÉM.',
+      textoImpressoRecriado:'NO VIDEOGAME, A REAÇÃO PODE SER O MOVIMENTO DE UM PERSONAGEM QUE VOCÊ CONTROLA.',
       promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1666,7 +1643,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_10.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES COM BASE EM CONDIÇÕES QUE PROGRAMAMOS PARA ELES.',
+      textoImpressoRecriado:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES BASEADAS EM CONDIÇÕES QUE PROGRAMAMOS NELES.',
       promptImagem:'pintura de um computador com diferentes símbolos de cheque e proibido flutuando', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1883,7 +1860,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS.',
+      textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
