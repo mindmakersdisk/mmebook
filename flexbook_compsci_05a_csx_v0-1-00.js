@@ -2295,9 +2295,9 @@ let livro_csx ={
         textoSimplificado:'Manfred Schröder, físico alemão, e arquivos MP3',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_8_wikimedia_commons.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CompArqDig/img_8_leonardo.jpg',
         promptImagem:'Foto de Manfred Schröder, físico alemão<p>Ilustração de arquivo de áudio MP3', 
-        imagemFonte:'googleimages',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'Duas imagens. Na primeira, uma foto de Manfred Schröder, físico alemão, que concebeu fotos de comproessão de áudio na década de 1970. Na segunda, a ilustração de um ícone de um arquivo de áudio MP3', },
 
         {ordem:9,
