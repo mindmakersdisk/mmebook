@@ -802,7 +802,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_4.jpeg',
       textoImpresso:1,
       imagemImpresso:1,
-      textoImpressoRecriado:'SE VOCÊ QUISER FAZER A MESMA COISA VÁRIAS VEZES.',
+      textoImpressoRecriado:'SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ, POR EXEMPLO..',
       promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
       textoDescritivoImagem:'', /*opc*/},
 
