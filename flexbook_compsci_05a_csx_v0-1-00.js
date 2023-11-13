@@ -1580,7 +1580,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_1.jpg',
         promptImagem:'Create an ultra-realistic image of a video call. In the image, the computer screen displays a white-skinned woman with black hair, brown eyes, and a bob haircut, and the smartphone screen displays a black man with a broad smile and graying hair. Highlight the details of the electronic devices. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding distinct touches.',
-        imagemFonte:'x',
+        imagemFonte:'leonardo',
+        imagemArremate:1,
         textoDescritivoImagem:'Três imagens. A primeira imagem exibe um computador e um smartphone, em que seus usuários estão em uma chamada de vídeo. A segunda imagem mostra um tablet, que está sendo utilizado para tirar uma foto um objeto inanimado. A terceira imagem mostra um smartphone, que está sendo utilizado para tirar uma foto de uma linda passagem.', },
 
         {ordem:2,
@@ -1592,7 +1593,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_2.jpg',
         promptImagem:'Create a realistic photograph that displays: a handheld scanner printing a scanned document; a scanner printing a scanned photo; a desktop scanner with the lid closed. Highlight the finish of the devices with hyper-realistic details, capturing their physical features. Use vibrant colors and soft lighting. Draw inspiration from renowned artists, adding unique touches.',
-        imagemFonte:'bing',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'Três imagens. Na primeira um scanner portátil, que está imprimindo um documento scaneado. Na segunda um scanner, que está imprimindo uma foto scaneada. E na terceira um scanner de mesa, fechado.', },
 
         {ordem:3,
@@ -1604,7 +1605,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_3.jpg',
         promptImagem:'Create an ultra-realistic image of a woman using a graphics tablet to digitally paint on a computer monitor. In the illustration, the woman is a redhead with freckles, beautiful, with a slim face and curly hair. Highlight the details of the electronic devices. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches.',
-        imagemFonte:'x',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'Imagem de um ilustrador, utilizando uma mesa digitalizadora para desenhar uma pintura digital na monitor de um computador.', },
 
         {ordem:4,
@@ -1616,7 +1617,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_4.jpg',
         promptImagem:'Create an ultra-realistic image: a digital camera on a table, displaying a photo of a woman on its screen. On the same table, an all-in-one computer shows the same image. Highlight details of the devices with vibrant colors and soft lighting. Take inspiration from renowned artists and add unique touches.',
-        imagemFonte:'x',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'Imagem de um fotográfo, que conectou uma câmera digital a um notebook atráves de um cabo USB C para transferir uma foto que está na memória da câmera para a memória do notebook.', },
 
         {ordem:5,
@@ -1628,7 +1629,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_5.jpg',
         promptImagem:`Create an ultra-realistic image of a beautiful Japanese model with straight black hair, no makeup, next to the edited image of this photo where digital effects have been applied to lighten the image, remove freckles and facial expression marks, and apply makeup to her eyes and lips. Highlight the physical details of the model's face. Use vibrant colors and soft lighting, drawing inspiration from renowned artists and adding unique touches<p>Edit the reference image, removing all makeup, including lipstick, gloss, blush, and eye and lip colors.`,
-        imagemFonte:'x',
+        imagemFonte:'leonardo',
+        imagemArremate:1,
         textoDescritivoImagem:'Duas imagens. A primeira exibe a foto de perfil de uma bela atriz, que não está maquiada. Ao lado dessa foto, há uma imagem editada a partir da foto, em que foram aplicados efeitos digitais para clarear a fato, para remover sardas e marcas de expressões faciais e para aplicar maquiagem ao redor de seus olhos e em sua boca. A segunda imagem exibe a foto de um jovem, se equilibrando com os dois pés sobre o tronco de uma árvore. Ao lado dessa foto, há imagem editada a partir dessa foto, em que o jovem aparenta possuir dimensões gigantescas e está se equilibrando com os dois pés sobre um dos arranha-céus de Nova Iorque.', },
 
         {ordem:6,
@@ -1653,7 +1655,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_7.jpg',
         promptImagem:'Create an image featuring two women against a vibrant yellow background. The woman on the right is slender and beautiful, with a smile on her face, wearing a purple shirt. The second woman is also beautiful, and has a slight expression of sadness and is wearing a yellow shirt that closely resembles the color of the background wall. Highlight the physical details of the faces of both individuals. Use vivid colors and soft lighting, drawing inspiration from renowned artists and adding unique touches to the composition.',
-        imagemFonte:'x',
+        imagemFonte:'leonardo',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem da foto de duas pessoa, da altura do cintura até a cabeça, com uma parede amarelo vivo ao fundo. A primeira pessoa está sorrindo e está vestindo uma camisa roxa. A segunda pessoa está com uma leve expressão de tristeza e está vestindo uma camisa amarela, com tom muito semelhando à cor da parede de fundo.', },
 
         {ordem:8,
@@ -1665,7 +1668,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/EditImgDig/img_8.jpg',
         promptImagem:'Create an image featuring two women against a vibrant yellow background. The woman on the right is slender and beautiful, with a smile on her face, wearing a purple shirt. The second woman is also beautiful, and has a slight expression of sadness and is wearing a yellow shirt that closely resembles the color of the background wall. Highlight the physical details of the faces of both individuals. Use vivid colors and soft lighting, drawing inspiration from renowned artists and adding unique touches to the composition.<p>A picturesque landscape of a waterfall surrounded by a lush forest, with a rainbow of colors in the sky.',
-        imagemFonte:'x',
+        imagemFonte:'leonardo',
+        imagemArremate:1,
         textoDescritivoImagem:'Imagem de uma captura de tela, que está exibindo a tela de um programa de edição de imagens em que o fundo amarelo de uma fotografia está sendo removido através do uso da ferramenta chamada "varinha mágica".', },
       ]}},
 
