@@ -70,7 +70,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_1_new.jpg',
         promptImagem:'Digital art illustration of a teenager with wide, excited eyes, sitting at her desk in front of her laptop. On one side, she is coding with bright, vibrant colors emanating from the screen, and on the other, she is tinkering with basic electrical circuits. This scene captures the joy and excitement of taking the first steps in computer science and discovering the fun in programming and electrical assembly', 
-		    imagemFonte:'x',
+		    imagemFonte:'bing',
         textoDescritivoImagem:'Programador em frente ao computador',},
       
         {ordem:2,
@@ -82,7 +82,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_2_new.jpg',
         promptImagem:'Digital art of a teenage boy sitting contentedly at his desk, engaged in coding on his laptop. Bright, vibrant colors emanate from the screen, highlighting his enjoyment and immersion in the process. Beside him, a small robot waits to be programmed, while basic electrical circuits are spread out on the other side. The scene captures the joy and allure of computer science in a rich and colorful setting', 
-		    imagemFonte:'x',
+		    imagemFonte:'bing',
         textoDescritivoImagem:'Robô sentado no sofá em frente a uma televisão e um videogame',},
 
         {ordem:3,
@@ -93,7 +93,7 @@ let livro_csx ={
         textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou, quem sabe, resolver problemas reais e melhorar o mundo para todos.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_3_new.jpg',
         promptImagem:'Digital art of a cozy room: a lively group of teenagers laughing, sharing moments both among themselves and engrossed in their colorful screens of laptops and tablets. The room blends the warmth of camaraderie with bright, playful hues from their devices, seamlessly merging tech fun with friendship.',
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Grupo de pessoas pensando sobre a solução de um determinado problema',},
 
         {ordem:4,
@@ -106,7 +106,7 @@ let livro_csx ={
         textoImpressoRecriado:'Mas vamos dar um passo de cada vez: Para começar, o que é mesmo um computador? Você talvez já tenha visto alguém digitando no teclado de um computador ou tocando na tela de um celular.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_5.jpg',
         promptImagem:'Digital art of a cute baby girl sitting on the floor, reaching out towards a big, colorful laptop that is fully visible in front of her. The baby curiosity and fascination with technology are clearly displayed in the scene', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Bebê tentando digitar em um computador', },
 
         {ordem:5,
@@ -169,7 +169,7 @@ let livro_csx ={
         textoSimplificado:'Outros dispositivos',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_11.png',
         promptImagem:'Computer connected to different devices, such as printers and sound system in a green bachground, digital art', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Computador conectado a diferentes dispositivos, como impressoras e caixas de som', },
   
         {ordem:11,
@@ -182,7 +182,7 @@ let livro_csx ={
         textoImpressoRecriado:'Nos últimos anos, os criativos fabricantes conseguiram integrar todas as partes de um computador de mesa em um só aparelho, pequeno o suficiente para carregar conosco. São os celulares e tablets, também conhecidos como computadores móveis.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_12.png',
         promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Telefone celular com vários ícones de redes sociais diferentes saindo da tela', },
   
         {ordem:12,
@@ -194,7 +194,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14.jpg',
         promptImagem:'Digital art showing a detailed cross-section of a car with various embedded technology elements highlighted. These may include GPS, sensors for temperature and pressure, connectivity modules, and autonomous driving systems, all interconnected, representing the application of the Internet of Things in automotive technology.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Computador embutido em um carro', },
   
         {ordem:13,
@@ -204,7 +204,7 @@ let livro_csx ={
         textoSimplificado:'Computadores embutidos',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_13_new.jpg',
         promptImagem:'Digital art displaying various everyday objects such as a car, refrigerator, and watch, each glowing with vibrant tech icons like microchips, code brackets, and gears. These icons emanate from the objects, symbolizing the embedded computers that enhance their functionality, illustrating their transformation into smart devices.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem com diferentes ícones relacionados à tecnologia', },
   
         {ordem:14,
@@ -217,7 +217,7 @@ let livro_csx ={
         textoImpressoRecriado:'Você não os vê, mas esses microcomputadores embutidos tornam os aparelhos mais inteligentes e capazes de nos auxiliar no dia a dia. E prepare-se, pois, em um futuro próximo, encontraremos computadores em roupas, móveis, sapatos... enfim, em quase tudo!',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_14_new.jpg',
         promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Sapatos futurísticos, com computadores embutidos', },
   
         {ordem:15,
@@ -227,7 +227,7 @@ let livro_csx ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_17.jpg',
         promptImagem:'Digital art of a computer with symbols representing various uses flowing out from the screen. Symbols could include a video game controller, a film clapper, a camera, a musical note, a book, a car, a robot, and a city skyline. This depiction illustrates the versatility of a computer as a powerful tool for creation, control, and entertainment.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Computador de mesa com as quatro partes básicas', },
   
         {ordem:16,
@@ -240,7 +240,7 @@ let livro_csx ={
         textoImpressoRecriado:'Mas então, o que realmente é um computador? É uma máquina eletrônica que pode ser programada para nos entreter com jogos, nos ajudar a criar vídeos, fotos, músicas, livros e até controlar carros, robôs ou cidades. E o mais incrível é que vamos aprender a fazer tudo isso neste curso!',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_18.jpg',
         promptImagem:'Digital art of a joyful black girl sitting at her computer, a broad smile on her face as she is programming. Bright, colorful lines of code are displayed on the screen, reflecting in her wide, enthusiastic eyes. The scene exudes positivity, creativity, and the powerful potential of coding', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Laptop com uma mão em segundo plano, dando a entender que a pessoa está programando', },
 			]}},
 
@@ -489,7 +489,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_1_new.jpg',
         promptImagem:'Realistic photo of a laptop, a robot, and an electronic board placed side by side on a desk. Wires and circuits subtly highlight their interconnectedness. The setting is meant to introduce a book chapter on electrical circuits. ', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Laptop, braço robotizado, celular, circuito elétrico simples demonstrando uma pilha acendendo uma lâmpada.', },
               
         {ordem:2,
@@ -499,7 +499,7 @@ let livro_csx ={
         textoSimplificado:'Eletricidade e Raio',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_2.jpg',
         promptImagem:'"Foto impressionante de um céu dramático sob uma tempestade intensa. Nuvens cinzentas carregadas de chuva cobrem o céu, enquanto raios brilhantes e sinuosos rasgam a escuridão, iluminando a paisagem de forma espetacular.Raios e Raios.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Céu com chuva e raios', },
 
         {ordem:3,
@@ -535,7 +535,7 @@ let livro_csx ={
         textoImpressoRecriado:'E quando falamos em circuito, entendemos que é algo que completa um percurso e se fecha, como um círculo ou um circuito de Fórmula 1. Um circuito elétrico é um sistema composto por um gerador, um condutor e dispositivos que utilizam essa energia para funcionar.', 
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_5.jpg',
         promptImagem:'Foto detalhada de um circuito elétrico simples em funcionamento: uma pilha conectada a uma lâmpada através de fios condutores, com um interruptor no meio. Quando o interruptor está ligado, a lâmpada acende, demonstrando o fluxo de eletricidade', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
 
         {ordem:6,
@@ -547,7 +547,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_6.jpg',
         promptImagem:'Foto detalhada de um grande gerador de corrente alternada ao lado de pilhas e baterias menores. Cada item é claramente rotulado como Corrente Alternada e Corrente Contínua, ilustrando visualmente as diferentes fontes de energia elétrica.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Pilha e Bateria', },
 
         {ordem:7,
@@ -559,7 +559,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_7.jpg',
         promptImagem:'Foto detalhada de vários tipos de condutores: um fio de cobre, um pedaço de alumínio e um bastão de grafite. Cada item é claramente rotulado como Condutor e está disposto em uma superfície de madeira, demonstrando os materiais comuns usados para conduzir eletricidade', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Fio elétrico e suas partes, fio de cobre envolto no plástico', },
 
         {ordem:8,
@@ -571,7 +571,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_8.jpg',
         promptImagem:'Foto colorida mostrando vários aparelhos que utilizam energia elétrica para funcionar: uma lâmpada acesa, um ventilador em movimento e vários pequenos eletrodomésticos, como uma torradeira e um liquidificador, todos conectados a tomadas na parede', 
-        imagemFonte:'x',
+        imagemFonte:'bimg',
         textoDescritivoImagem:'Uma luminária com a lâmpada acesa', },
 
         {ordem:9,
@@ -581,7 +581,7 @@ let livro_csx ={
         textoSimplificado:'Dispositivos de controle',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_9.jpg',
         promptImagem:'Foto detalhada mostrando um alto-falante com o botão de volume no máximo, resultando em notas musicais saindo dele, e uma lâmpada com o dimmer ligado, mostrando uma luz brilhante. As ações dos botões e seus respectivos resultados são claramente visíveis', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Interruptor de luz e botão para volume de som', },
   
         {ordem:10,
@@ -594,7 +594,7 @@ let livro_csx ={
         textoImpressoRecriado:'Também é comum que os circuitos elétricos incluam dispositivos de controle, como interruptores e reguladores de volume. Esses dispositivos nos permitem gerenciar a quantidade de eletricidade que flui pelo circuito, eliminando a necessidade de conectar ou desconectar fios para ligar ou desligar dispositivos como uma lâmpada.', 
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_10.jpg',
         promptImagem:'"Foto de um arranha-céu espelhado impressionante, com ícones flutuantes de IoT - termostato, iluminação, segurança, elevadores - para ilustrar como a tecnologia controla o funcionamento do edifício. Cada ícone é conectado ao edifício por linhas de luz digital',  
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Um prédio alto espelhado com um balão de diálogo expressando a fala de uma pessoa dizendo: Ei! Eu estou aqui dentro usando a Internet. Sem os circuitos elétricos do prédio, não ia rolar... E eu ainda ia ter que subir 50 andares de Escada!', },
   
         {ordem:11,
@@ -606,7 +606,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_11.png',
         promptImagem:'Foto mostrando uma cientista jovem e inspirador no seu laboratório, cercada por uma variedade de dispositivos que ilustram o controle da energia elétrica: um circuito simples, vários condutores, botões de controle, um kit de robótica e ícones de IoT', 
-        imagemFonte:'x',
+        imagemFonte:'ilustrador', //otiginal do Bing com ajustes do ilustrador
+		imagemArremate:'1',
         textoDescritivoImagem:'Cientista soldando uma placa de circuito elétrico ', },
 	            
 	      {ordem:12,
@@ -656,7 +657,8 @@ let livro_csx ={
         textoSimplificado:'Circuito Elétrico',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_16.jpg',
         promptImagem:'Um circuito elétrico com um gerador, um condutor e um aparelho conectado', 
-        imagemFonte:'x',
+        imagemFonte:'ilustrador',//otiginal do Bing com ajustes do ilustrador
+		imagemArremate:'1',
         textoDescritivoImagem:'Circuito elétrico composto por uma pilha, fio condutor, interruptor e lâmpada', },
 			]}},
 
@@ -800,7 +802,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_1.png',
         promptImagem:'Minimalist digital art featuring three panels: one showing a simple silhouette of a student holding an umbrella under stylized rain, the second depicting the same student under a radiant sun, and the third one featuring a large ? symbol to represent the concept of a conditional expression.', 
-        imagemFonte:'x',	
+        imagemFonte:'bing',	
         textoDescritivoImagem:'Duas imagens, na primeira um aluno com um guarda-chuva debaixo da chuva e na outra o mesmo aluno sem guarda-chuva em um dia ensoladrado.', },
 
         {ordem:2,
@@ -824,7 +826,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img_3.jpg',
         promptImagem:'Minimalist digital art featuring three panels: the first one displaying a simple, stylized figure of a female programmer at her computer, the second one showing a simplified, iconic representation of a computer processor, and the third one presenting a circuit-like pattern to represent an electronic circuit.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
 
         {ordem:4,
@@ -1044,7 +1046,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Evento/img_5.jpg',
         promptImagem:'Create a realistic digital portrayal of a teenager engrossed in playing an arcade machine', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Um garoto jogando arcade.', },
 
         {ordem:6,
@@ -1129,7 +1131,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img_5.jpg',
         promptImagem:'Rapaz usando um câmera filmadora', 
-        imagemFonte:'x',
+        imagemFonte:'freepik',
         textoDescritivoImagem:'Quadrinho de um olho recebendo a luz do sol e enviando informação ao cérebro que processa a luz, e responde informando que é a luz do sol, indicando que é hora de acordar.', },
 
         {ordem:6,
@@ -1431,7 +1433,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_2.jpg',
         promptImagem:'Realistic digital art illustrating prehistoric "moving art". The scene could depict a cave interior, where early humans have drawn animals with duplicated limbs on the wall. As a torchlight moves across the drawing, the shadowy flicker creates an illusion of the animals in motion', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Arte na pré-história simulando movimento.', },
 
         {ordem:3,
@@ -1468,7 +1470,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_5.jpg',
         promptImagem:'Digital artwork of a colorful flip book mid-flip, held by a person hands. The book is open and pages are actively flipping, revealing the progression of a simple hand-drawn animation of a bird flying across the pages.', 
-        imagemFonte:'x',
+        imagemFonte:'imagem',//csx_I7_5-Technische Sammlungen der Stadt Dresden_WP
         textoDescritivoImagem:'Um flipbook ou folioscópio sendo folheado.', },
 
         {ordem:6,
@@ -1492,7 +1494,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/AnimAnDig/img_7.jpg',
         promptImagem:'Create a realistic digital artwork of a Phenakistoscope in action. The artwork should depict a disc with series of images that when spun, creates an illusion of a moving picture due to persistence of vision.', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Fenaquistiscópio.', },
 
         {ordem:8,
@@ -2690,7 +2692,8 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_1.jpg',
         promptImagem:'Create a pixel art illustration featuring iconic Star Wars characters. The image should be colourful and playful, representing characters like Luke Skywalker, Princess Leia, Darth Vader, and Yoda in their signature outfits and poses, all in a style reminiscent of 8-bit video game graphics', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
+		imagemArremate:'1',
         textoDescritivoImagem:'Imagem dos personagens de Star Wars desenhados com pixels.', },
 
         {ordem:2,
@@ -2702,7 +2705,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_2.png',
         promptImagem:'Create two images to illustrate the concept of pixels for students from 5th to 9th grades. The first image should be a realistic digital art illustration of a colorful butterfly. The second image should be a replication of the first image but in pixel art style, clearly showing the individual square blocks of colors, representing pixels', 
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Imagem de uma torinha de morango com pouco e muito pixels.', },
 
         {ordem:3,
@@ -2726,7 +2729,7 @@ let livro_csx ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_4.jpg',
         promptImagem:'Create a pixel art depiction of James Clerk Maxwell along with his color experiments', //enviar ilustrador Foto Maxwell 1:41 e ao lado seu experimento 1:54
-        imagemFonte:'x',
+        imagemFonte:'bing',
         textoDescritivoImagem:'Foto de Maxwell e seu experimento com as cores.', },
 
         {ordem:5,
