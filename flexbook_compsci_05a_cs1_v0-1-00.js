@@ -9,6 +9,7 @@ let livro_cs1 ={
   versao:'0.1.00',
   nomeFantasia: 'Introdução - Alunos em Alfabetização',
   nomeTecnico:'CS1 - Fundamentos em Ciência da Computação',
+  resumo:'Módulo adequado à implantação no 1o ano do Ensino Fundamental, para alunos em alfabetização. Aborda fundamentos em letramento e pensamento computacional, introduzindo conceitos como sequencia, algoritmo, laço, evento, padrão e outros, de modo lúdico e prático.',
   isbn:'',
   autores:[],
   editor:'',
