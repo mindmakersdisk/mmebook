@@ -2097,8 +2097,17 @@ let livro_cs1 ={
   */
 
   capaVerso:{
-		urlImagemTerceiraCapa:'',
-		urlImagemQuartaCapa: '',
-		contraCapaVerso:{
-			tabela:'TODO' 
-		}},}
+	urlImagemTerceiraCapa:'',
+		textoTerceiraCapa:`Quem foi Charles Jacquard?
+
+Vocês sabiam que uma invenção de mais de 200 anos atrás ajudou a criar os computadores que usamos hoje? Esse inventor foi Joseph Marie Charles Jacquard. Ele nasceu na França e deu início a uma revolução com seu tear mecânico!
+
+Antigamente, tecidos coloridos e com desenhos eram feitos à mão, um processo superdemorado. Mas em 1804, Jacquard teve uma ideia brilhante: uma máquina que tecesse automaticamente! Ele desenhou um tear que usava cartões perfurados — parecidos com um papel cheio de furinhos — que guiavam a máquina para criar padrões complexos em tecidos. O que antes demorava dias, agora podia ser feito em horas!
+
+A parte incrível é que esses cartões perfurados foram os predecessores dos programas de computador. Eles continham instruções que a máquina seguia, quase como um computador lê um software hoje.
+
+E por que isso foi tão revolucionário? Antes do tear de Jacquard, era difícil e lento fazer tecidos decorados. Com essa invenção, os tecidos ficaram mais diversos, mais bonitos e muito mais fáceis de fazer, mudando a moda para sempre. Além disso, inspirou as pessoas a pensar em novas maneiras de usar máquinas para automatizar tarefas, desde a fabricação até a computação.
+
+Portanto, a invenção de Jacquard foi um enorme avanço tecnológico. Ela mostrou que máquinas podiam seguir instruções detalhadas, um conceito fundamental para os computadores modernos. Imaginem só, tudo isso começou com tecidos e moda!`,
+		textoUltimaCapa: 'Joseph Marie Charles Jacquard (1752-1834) foi um inventor francês que desenvolveu um tear completamente automatizado, que podia ser programado por cartões perfurados para tecer padrões visuais complexos em tecidos.'
+		}
