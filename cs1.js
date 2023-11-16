@@ -678,6 +678,7 @@ let livro_cs1 ={
         imagemImpresso:1,
         textoImpressoRecriado:'NO MUNDO DOS ROBÔS EXISTE UM LUGAR...',
         promptImagem:'Arte 3d de um planeta visto de longe', /*opc*/
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:2,
@@ -690,6 +691,7 @@ let livro_cs1 ={
         imagemImpresso:1,
         textoImpressoRecriado:'CHAMADO “ROBOLÂNDIA”, O PAÍS DOS ROBÔS.',
         promptImagem:'Arte 3d de um país visto de cima, com pelo menos quatro cidades distintas', /*opc*/
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:3,
@@ -862,6 +864,7 @@ let livro_cs1 ={
       imagemImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA.',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -871,6 +874,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1957,6 +1961,7 @@ let livro_cs1 ={
       imagemImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER BINARÓPOLIS.',
       promptImagem:'um país colorido e futurista, visto de cima, mostrando diferentes cidades', /*opc*/
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
