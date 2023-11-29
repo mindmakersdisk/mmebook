@@ -917,7 +917,8 @@ let livro_csx ={
   
         {ordem:3,
         predecessor:2,
-        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;<b> senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspentão prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>senão</b> pare<br/></code>',
+        //texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;<b> senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
@@ -929,7 +930,8 @@ let livro_csx ={
   
         {ordem:4,
         predecessor:3,
-        texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+        texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+        //texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Operadores Lógicos',
         textoImpresso:1,
@@ -1599,7 +1601,8 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Naturalmente, as imagens criadas diretamente no computador já são formatadas como digitais.',
+        texto:'Quando utilizamos o computador para criar imagens, como em capturas de tela ou editores de fotos, elas já são geradas no formato digital.',
+        //texto:'Naturalmente, as imagens criadas diretamente no computador, como em programas de captura de tela ou editores de imagens, já são formatadas como digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Ilustraçãos digitais',
         textoImpresso:1,
@@ -2341,7 +2344,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Usar o sistema binário para armazenar grandes volumes de dados, como uma música de 3 minutos em qualidade de 16 bits que ocupa 30 MB, pode ser muito espaçoso.',
+        texto:'Usar o sistema binário para armazenar grandes volumes de dados, como uma música de 3 minutos em qualidade de 16 bits que ocupa 30 MB (megabytes), pode ser muito espaçoso.',
         urlAudioTexto:'',
         textoSimplificado:'Tamanho em formato digital de uma música de 3 minutos duração',
         textoImpresso:1,
@@ -2353,7 +2356,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Um vídeo de 1 hora em alta definição HD pode ocupar até 800 GB de memória.',
+        texto:'Um vídeo de 1 hora em alta definição HD pode ocupar até 800 GB (gigabytes) de memória.',
         urlAudioTexto:'',
         textoSimplificado:'Tamanho em formato digital de uma vídeo de 60 minutos duração',
         textoImpresso:1,
@@ -2414,7 +2417,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Quando uma técnica de compressão não elimina nenhuma informação, denomina-se compressão sem perda. Essa compressão envolve um algoritmo que detecta padrões repetidos para representá-los de forma mais eficiente. Por exemplo, suponha um arquivo com as respostas <b>verdadeiro</b> e <b>falso</b> de 30 questões de um exame. Em um formato não compactado, cada resposta seria representada por sua palavra correspondente, alternando <b>>verdadeiro</b> e <b>>falso</b>.', 
+        texto:'Quando uma técnica de compressão não elimina nenhuma informação, denomina-se compressão sem perda. Essa compressão envolve um algoritmo que detecta padrões repetidos para representá-los de forma mais eficiente. Por exemplo, suponha um arquivo com as respostas <b>verdadeiro</b> e <b>falso</b> de 30 questões de um exame. Em um formato não compactado, cada resposta seria representada por sua palavra correspondente, alternando <b>verdadeiro</b> e <b>falso</b>.', 
         urlAudioTexto:'',
         textoSimplificado:'Resultado para 30 questões de uma prova de múltipla escolha',
         textoImpresso:1,
@@ -2848,7 +2851,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Inicie definindo sua história: forneça um título, seu nome e faça uma breve sinopse...',
+        texto:'Inicie definindo sua história: forneça um título, seu nome e faça um breve resumo...',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_5.jpg',
@@ -2863,7 +2866,7 @@ let livro_csx ={
         textoSimplificado:'TODO',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Inicie definindo sua história: forneça um título, seu nome e faça uma breve sinopse. Você também tem a opção de personalizar o palco, alterando o fundo da animação, escolhendo entre diferentes imagens e modificando a resolução, ou seja, o tamanho da matriz usada para os movimentos dos atores e elementos.',
+        textoImpressoRecriado:'Inicie definindo sua história: forneça um título, seu nome e faça um breve resumo. Você também tem a opção de personalizar o palco, alterando o fundo da animação, escolhendo entre diferentes imagens e modificando a resolução, ou seja, o tamanho da matriz usada para os movimentos dos atores e elementos.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img_6.jpg',
         promptImagem:'TODO', 
         imagemFonte:'mmcode',
@@ -3258,7 +3261,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Esses simuladores, evidentemente, utilizam a magia da programação para acelerar a passagem do tempo e dos eventos simulados.',
+        texto:'Esses simuladores, evidentemente, utilizam a "magia da programação" para acelerar a passagem do tempo e dos eventos simulados.',
         urlAudioTexto:'',
         textoSimplificado:'TODO',
         textoImpresso:1,
