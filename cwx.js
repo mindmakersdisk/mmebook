@@ -1,5 +1,17 @@
 let livro_cwx ={
-/*teste*/
+/*teste
+predecessor:,
+texto:'',
+urlAudioTexto:'',
+textoSimplificado:'',
+urlImagem:'',
+textoImpresso:0,
+textoImpressoRecriado:'',
+promptImagem:'',
+imagemImpresso:0,
+imagemFonte:'',
+textoDescritivoImagem:'',},
+*/
   /* metadados */
   metadados:{
 	  i18n:false,
@@ -73,7 +85,8 @@ let livro_cwx ={
         promptImagem:'Digital art illustration of a teenager with wide, excited eyes, sitting at her desk in front of her laptop. On one side, she is coding with bright, vibrant colors emanating from the screen, and on the other, she is tinkering with basic electrical circuits. This scene captures the joy and excitement of taking the first steps in computer science and discovering the fun in programming and electrical assembly', 
 		    imagemFonte:'bing',
         textoDescritivoImagem:'Programador em frente ao computador',},
-      
+      {ordem:,
+
         {ordem:2,
         predecessor:1,
         texto:'Você aprenderá a criar videogames, robôs e outras invenções que desejar.',
