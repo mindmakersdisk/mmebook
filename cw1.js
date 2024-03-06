@@ -40,11 +40,11 @@ let livro_cw1 ={
   
   visaogeral:{
 	  infografico:{
-		  titulo:'Resumo do Módulo CS1',
+		  titulo:'Resumo do Módulo CW1',
 		  /* idem licoes */}},
   
 /* conteudo */
-  unidade1:{/* licao sem infografico, deve exibir algo como 'projeto/laboratório sem novo conceito teórico' */
+  unidade1:{
 	  licao1:{id:'CW1AULA01CODE',
 		/** padroesCurriculares: 
 		titulo:'Lição 01. Algoritmos.',**/
@@ -289,7 +289,8 @@ let livro_cw1 ={
         textoDescritivoImagem:'Pessoa lendo um algoritmo e entendendo o que precisa ser feito',},
 			]}},
     
-    licao2:{/** padroesCurriculares: 
+    licao2:{id:'CW1AULA02CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 02. O Computador.',**/
     infografico:{titulo:'O COMPUTADOR',
     tituloSimplificado:'COMPUTADOR',
@@ -532,7 +533,8 @@ let livro_cw1 ={
         textoDescritivoImagem:'',},
       ]}},
       
-    licao4:{/** padroesCurriculares: 
+    licao4:{id:'CW1AULA04CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 04. Robôs.',**/
     infografico:{titulo:'ROBÔS',
     tituloSimplificado:'ROBÔS',
@@ -736,7 +738,8 @@ let livro_cw1 ={
         textoDescritivoImagem:'',},
         ]}},
     
-      licao6:{/** padroesCurriculares: 
+      licao6:{id:'CW1AULA06CODE',
+      /** padroesCurriculares: 
       titulo:'Lição 06. Letrópolis.',**/
       infografico:{titulo:'LETRÓPOLIS',
       tituloSimplificado:'LETRÓPOLIS',
@@ -771,17 +774,17 @@ let livro_cw1 ={
         textoDescritivoImagem:'',},
 
         {ordem:3,
-          predecessor:2,
-          texto:'EM LETRÓPOLIS, OS ROBÔS AMAM AS LETRAS, ESPECIALMENTE AS VOGAIS.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          urlImagem:'',
-          textoImpresso:1,
-          textoImpressoRecriado:'E COMO O NOME SUGERE, OS ROBÔS DE LETRÓPOLIS AMAM LETRAS, PRINCIPALMENTE AS VOGAIS!',
-          promptImagem:'',
-          imagemImpresso:1,
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
+        predecessor:2,
+        texto:'EM LETRÓPOLIS, OS ROBÔS AMAM AS LETRAS, ESPECIALMENTE AS VOGAIS.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        urlImagem:'',
+        textoImpresso:1,
+        textoImpressoRecriado:'E COMO O NOME SUGERE, OS ROBÔS DE LETRÓPOLIS AMAM LETRAS, PRINCIPALMENTE AS VOGAIS!',
+        promptImagem:'',
+        imagemImpresso:1,
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
 
         {ordem:4,
         predecessor:3,
@@ -877,7 +880,8 @@ let livro_cw1 ={
 
   unidade2:{
 	
-    licao8:{/** padroesCurriculares: 
+    licao8:{id:'CW1AULA08CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 08. Eletricidade e Circuitos em Papel.',**/
     infografico:{titulo:'CIRCUITOS EM PAPEL',
     tituloSimplificado:'CIRCUITOS EM PAPEL',
@@ -1146,7 +1150,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
       ]}},
 	 
-    licao9:{/** padroesCurriculares: 
+    licao9:{id:'CW1AULA09CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 09. Laços.',**/
     infografico:{titulo:'LAÇOS',
     tituloSimplificado:'LAÇOS',
@@ -1246,7 +1251,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
 
-    licao11:{/** padroesCurriculares: 
+    licao11:{id:'CW1AULA11CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 11. Eventos.',**/
     infografico:{titulo:'EVENTOS',
     tituloSimplificado:'EVENTOS',
@@ -1437,7 +1443,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
 	  
-    licao13:{/** padroesCurriculares: 
+    licao13:{id:'CW1AULA13CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 13. Numerópolis.',**/
     infografico:{titulo:'NUMERÓPOLIS',
     tituloSimplificado:'NUMERÓPOLIS',
@@ -1566,7 +1573,8 @@ let livro_cw1 ={
   
    
   unidade3:{
-    licao15:{/** padroesCurriculares: 
+    licao15:{id:'CW1AULA15CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 17. Condicionais.',**/
     infografico:{titulo:'CONDICIONAIS',
     tituloSimplificado:'CONDICIONAIS',
@@ -1744,7 +1752,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
 
-    licao17:{/** padroesCurriculares: 
+    licao17:{id:'CW1AULA17CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 17. Depuração E Qualidade',**/
     infografico:{titulo:'DEPURAÇÃO',
     tituloSimplificado:'DEPURAÇÃO',
@@ -1922,7 +1931,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
 
-    licao20:{/** padroesCurriculares: 
+    licao20:{id:'CW1AULA20CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 20. Jogos Robóticos de Inverno.',**/
     infografico:{titulo:'JOGOS ROBÓTICOS DE INVERNO',
     tituloSimplificado:'JOGOS DE INVERNO',
@@ -2064,7 +2074,8 @@ let livro_cw1 ={
   
   unidade4:{
 	  
-    licao22:{/** padroesCurriculares: 
+    licao22:{id:'CW1AULA22CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 16. Senhas e Segurança',**/
     infografico:{titulo:'SENHAS E SEGURANÇA',
     tituloSimplificado:'SENHAS',
@@ -2259,7 +2270,7 @@ let livro_cw1 ={
       texto:'E SE VOCÊ RECEBER UMA MENSAGEM ESTRANHA PEDINDO SUA SENHA OU INFORMAÇÕES PESSOAIS, NUNCA RESPONDA. SEMPRE PEÇA AJUDA A UM ADULTO RESPONSÁVEL.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'h',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'CUIDADO COM MENSAGENS ESTRANHAS.',
       promptImagem:'Arte digital de um laptop com um envelope bem na tela',
@@ -2307,7 +2318,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
    
-    licao25:{/** padroesCurriculares: 
+    licao25:{id:'CW1AULA25CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 25. Numerópolis VS. Letrópolis.',**/
     infografico:{titulo:'NUMERÓPOLIS VS. LETRÓPOLIS',
     tituloSimplificado:'NUMERÓPOLIS VS. LETRÓPOLIS',
@@ -2459,7 +2471,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
 
-    licao27:{/** padroesCurriculares: 
+    licao27:{id:'CW1AULA27CODE',
+    /** padroesCurriculares: 
     titulo:'Lição 27. Binarópolis.',**/
     infografico:{titulo:'BINARÓPOLIS',
     tituloSimplificado:'BINARÓPOLIS',
