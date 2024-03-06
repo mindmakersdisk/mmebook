@@ -44,7 +44,7 @@ let livro_cw2 ={
     /* conteudo */
     unidade1:{
       titulo:'Fundamentos de Programação',
-      descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
+      descricao:'Nesta unidade, você será apresentado ao computador, aos dispositivos eletrônicos e aos robôs, além de dar os primeiros passos em programação.<br/>Você começará a utilizar o pensamento computacional na resolução de desafios lógicos por meio de algoritmos.',
       licao1:{
         id:'CW2AULA01CODE',
         /** padroesCurriculares: 
@@ -460,11 +460,11 @@ let livro_cw2 ={
           {ordem:1,
           predecessor:0,
           texto:'Hoje, você vai descobrir como é divertido programar computadores e montar circuitos elétricos. Estes serão seus primeiros passos na ciência da computação.',
-          urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
+          urlAudioTexto:'',
           textoSimplificado:'Primeiros passos',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_1_new.jpg',
+          urlImagem:'',
           promptImagem:'Digital art illustration of a teenager with wide, excited eyes, sitting at her desk in front of her laptop. On one side, she is coding with bright, vibrant colors emanating from the screen, and on the other, she is tinkering with basic electrical circuits. This scene captures the joy and excitement of taking the first steps in computer science and discovering the fun in programming and electrical assembly', 
           imagemFonte:'bing',
           textoDescritivoImagem:'Programador em frente ao computador',},
@@ -479,7 +479,7 @@ let livro_cw2 ={
 
     unidade2:{
       titulo:'Condicionais, Robótica e Eventos Computacionais',
-      descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
+      descricao:'Nesta unidade, você aprenderá os conceitos de laços e expressões condicionais, utilizando-os para resolver desafios lógicos de programação e programar robôs.<br/>Você também aprenderá o conceito de programação orientada a eventos e usará um dispositivo eletrônico para criar seu próprio controle criativo de videogame, utilizando materiais diversos, como massinha ou lápis!',
       licao8:{
         id:'CW2AULA08CODE',
         /** padroesCurriculares: 
@@ -758,7 +758,7 @@ let livro_cw2 ={
 
     unidade3:{
       titulo:'Inventos Robotizados e Computação Segura',
-      descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
+      descricao:'Nesta unidade, você aprenderá sobre sensores, compreendendo suas correspondências com os órgãos do sentido humano e programando inventos eletrônicos que utilizam sensores e outros dispositivos eletrônicos.<br/>Você também compreenderá o conceito de informação, aprendendo sobre a importância de adotar cuidados para navegar na internet com segurança e escolher senhas seguras para suas contas digitais.',
       licao15:{
         id:'CW2AULA15CODE',
         /** padroesCurriculares: 
@@ -958,7 +958,7 @@ let livro_cw2 ={
 
     unidade4:{
       titulo:'Animação e Computação Criativa',
-      descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
+      descricao:'Nesta unidade, você será introduzido ao universo da animação, explorando desde os primórdios das animações manuais até o desenvolvimento das animações digitais.<br/>Você aprenderá a programar suas próprias animações digitais, utilizando um laboratório para criar histórias e soltar sua criatividade, aplicando os fundamentos de programação aprendidos neste módulo.',
       licao22:{
         id:'CW2AULA22CODE',
         /** padroesCurriculares: 
