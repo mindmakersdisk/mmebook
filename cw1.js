@@ -532,6 +532,8 @@ let livro_cw1 ={
         imagemFonte:'',
         textoDescritivoImagem:'',},
       ]}},
+
+    licao3:{},
       
     licao4:{id:'CW1AULA04CODE',
     /** padroesCurriculares: 
@@ -737,6 +739,8 @@ let livro_cw1 ={
         imagemFonte:'',
         textoDescritivoImagem:'',},
         ]}},
+
+      licao5:{},
     
       licao6:{id:'CW1AULA06CODE',
       /** padroesCurriculares: 
@@ -877,6 +881,7 @@ let livro_cw1 ={
         imagemFonte:'leonardo',
         textoDescritivoImagem:'',},
       ]}},
+    },
 
   unidade2:{
 	
@@ -1568,9 +1573,8 @@ let livro_cw1 ={
       imagemImpresso:1,
       imagemFonte:'',
       textoDescritivoImagem:'',},
-    ]}},	  
+    ]}},
   },
-  
    
   unidade3:{
     licao15:{id:'CW1AULA15CODE',
@@ -2634,4 +2638,4 @@ let livro_cw1 ={
     TODOS NOS AJUDAM A NOS COMUNICAR, FICAR INFORMADOS E ATÉ ENCONTRAR SOLUÇÕES PARA PROBLEMAS USANDO TECNOLOGIA! `,
 
 		textoUltimaCapa: ''
-		},},}
+		},}
