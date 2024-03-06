@@ -3,13 +3,14 @@ let livro_cw2 ={
   /* metadados 2 */
   versao:'0.1.00',
   nomeFantasia: '',
-  nomeTecnico:'CW2',
+  nomeTecnico:'CW2 - Fundamentos em Ciência da Computação 2',
   resumo:'Charles Babbage foi um cientista, matemático, filósofo, engenheiro mecânico e inventor inglês que é mais conhecido como o inventor que projetou o primeiro computador de uso geral, utilizando apenas partes mecânicas, a máquina analítica.',
   isbn:'',
   autores:[],
   editor:'',
   local:'',
   ano:'',
+  url:'compsci_cw2_0_1',
 
   versaoAdaptacao:'',
   nomeAdaptacaoo: '',
@@ -45,7 +46,7 @@ let livro_cw2 ={
       titulo:'Fundamentos de Programação',
       descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
       licao1:{
-        id:'CSXAULA01CODE',
+        id:'CW2AULA01CODE',
         /** padroesCurriculares: 
         titulo:'Lição 01. Dispositivos Computacionais.',**/
         infografico:{titulo:'Computador e Dispositivos Computacionais',
@@ -73,7 +74,7 @@ let livro_cw2 ={
 
 
       licao3:{
-        id:'CSXAULA03CODE',
+        id:'CW2AULA03CODE',
         /** padroesCurriculares: 
         titulo:'Lição 03. Eletricidade e Dispositivos Eletrônicos.',**/
         infografico:{titulo:'Eletricidade e Dispositivos Eletrônicos',
@@ -98,7 +99,7 @@ let livro_cw2 ={
 
 
       licao4:{
-        id:'CSXAULA04CODE',
+        id:'CW2AULA04CODE',
         /** padroesCurriculares: 
         titulo:'Lição 04. Algoritmo, Identificação de Padrão e Sequência.',**/
         infografico:{titulo:'Algoritmos do Dia a Dia',
@@ -123,7 +124,7 @@ let livro_cw2 ={
 
 
       licao5:{
-        id:'CSXAULA05CODE',
+        id:'CW2AULA05CODE',
         /** padroesCurriculares: 
         titulo:'Lição 05. Robótica.',**/
         infografico:{titulo:'Robôs: Sphero',
@@ -147,7 +148,7 @@ let livro_cw2 ={
          ]}},
 
       licao6:{
-        id:'CSXAULA06CODE',
+        id:'CW2AULA06CODE',
         /** padroesCurriculares: 
         titulo:'Lição 06. Projeto Taxibot.',**/
         infografico:{titulo:'Taxibot: Taxiamento Robotizado',
@@ -180,7 +181,7 @@ let livro_cw2 ={
       titulo:'Condicionais, Robótica e Eventos Computacionais',
       descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
       licao8:{
-        id:'CSXAULA08CODE',
+        id:'CW2AULA08CODE',
         /** padroesCurriculares: 
         titulo:'Lição 08. Laços.',**/
         infografico:{titulo:'Laço em Algoritmos',
@@ -205,7 +206,7 @@ let livro_cw2 ={
 
 
       licao9:{
-        id:'CSXAULA09CODE',
+        id:'CW2AULA09CODE',
         /** padroesCurriculares: 
         titulo:'Lição 09. Expressões Condicionais.',**/
         infografico:{titulo:'Expressão Condicional: Se, Senão, se senão',
@@ -233,7 +234,7 @@ let livro_cw2 ={
 
 
       licao11:{
-        id:'CSXAULA11CODE',
+        id:'CW2AULA11CODE',
         /** padroesCurriculares: 
         titulo:'Lição 11. Projeto Biga-Robô.',**/
         infografico:{titulo:'História das Carruagens',
@@ -261,7 +262,7 @@ let livro_cw2 ={
 
 
       licao13:{
-        id:'CSXAULA13CODE',
+        id:'CW2AULA13CODE',
         /** padroesCurriculares: 
         titulo:'Lição 13. Eventos.',**/
         infografico:{titulo:'Eventos',
@@ -315,7 +316,7 @@ let livro_cw2 ={
       titulo:'Inventos Robotizados e Computação Segura',
       descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
       licao15:{
-        id:'CSXAULA15CODE',
+        id:'CW2AULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Sensores e os Órgãos do Sentido.',**/
         infografico:{titulo:'Sensores e os Sentidos Humanos',
@@ -340,7 +341,7 @@ let livro_cw2 ={
 
 
       licao16:{
-        id:'CSXAULA16CODE',
+        id:'CW2AULA16CODE',
         /** padroesCurriculares: 
         titulo:'Lição 16. Projeto Carro Robotizados.',**/
         infografico:{titulo:'O Carro: Passado e Futuro',
@@ -383,7 +384,7 @@ let livro_cw2 ={
       titulo:'Animação e Computação Criativa',
       descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
       licao22:{
-        id:'CSXAULA22CODE',
+        id:'CW2AULA22CODE',
         /** padroesCurriculares: 
         titulo:'Lição 22. Os Primórdios da Animação.',**/
         infografico:{titulo:'Animações do Analógico ao Digital',
@@ -417,7 +418,7 @@ let livro_cw2 ={
 
 
       licao26:{
-        id:'CSXAULA26CODE',
+        id:'CW2AULA26CODE',
         /** padroesCurriculares: 
         titulo:'Lição 26. Introdução ao Laboratório de Histórias.',**/
         infografico:{titulo:'Introdução ao Story Lab',
@@ -441,7 +442,7 @@ let livro_cw2 ={
            ]}},
 
       licao27:{
-        id:'CSXAULA26CODE',
+        id:'CW2AULA26CODE',
         /** padroesCurriculares: 
         titulo:'Lição 27. Projeto Missão Criativa - Minha Primeira Animação Digital',**/
         infografico:{titulo:'Missão Criativa CW2',

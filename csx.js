@@ -249,7 +249,7 @@ let livro_csx ={
       id:'CSXAULA02CODE',
       /** padroesCurriculares: 
       titulo:'Lição 02. Algoritmo, Identificação de Padrão e Sequência.',**/
-      infografico:{titulo:'Algoritmos no Dia a Dia ',
+      infografico:{titulo:'Algoritmos no Dia a Dia',
       tituloSimplificado:'Algoritmos',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
