@@ -1230,10 +1230,120 @@ let livro_cw2 ={
     unidade3:{
       titulo:'Inventos Robotizados e Computação Segura',
       descricao:'Nesta unidade, você aprenderá sobre sensores, compreendendo suas correspondências com os órgãos do sentido humano e programando inventos eletrônicos que utilizam sensores e outros dispositivos eletrônicos.<br/>Você também compreenderá o conceito de informação, aprendendo sobre a importância de adotar cuidados para navegar na internet com segurança e escolher senhas seguras para suas contas digitais.',
+      
       licao15:{
         id:'CW2AULA15CODE',
         /** padroesCurriculares: 
-        titulo:'Lição 15. Sensores e os Órgãos do Sentido.',**/
+        titulo:'Lição 15. Geração e Distribuição de Energia.',**/
+        infografico:{titulo:'Geração e Distribuição de Energia',
+        tituloSimplificado:'Geração de Energia',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+        urlPodcast:'', **/
+        cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:2,
+          predecessor:1,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+        
+          {ordem:3,
+          predecessor:2,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:4,
+          predecessor:3,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:5,
+          predecessor:4,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:6,
+          predecessor:5,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:7,
+          predecessor:6,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:8,
+          predecessor:7,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},        
+        
+         ]}},
+      
+      
+      licao16:{
+        id:'CW2AULA16CODE',
+        /** padroesCurriculares: 
+        titulo:'Lição 16. Sensores e os Órgãos do Sentido.',**/
         infografico:{titulo:'Sensores e os Sentidos Humanos',
         tituloSimplificado:'Sensores',
         estiloPadrao:'basicoPaisagem',
@@ -1255,8 +1365,8 @@ let livro_cw2 ={
          ]}},
 
 
-         licao15:{
-          id:'CW2AULA15CODE',
+         licao17:{
+          id:'CW2AULA17CODE',
           infografico:{titulo:'Sensores e os Órgãos do Sentido',
           tituloSimplificado:'Sensores',
           estiloPadrao:'basicoPaisagem',
@@ -1387,10 +1497,10 @@ let livro_cw2 ={
            
 
 
-      licao16:{
-        id:'CW2AULA16CODE',
+      licao18:{
+        id:'CW2AULA18CODE',
         /** padroesCurriculares: 
-        titulo:'Lição 16. Projeto Carro Robotizados.',**/
+        titulo:'Lição 18. Projeto Carro Robotizados.',**/
         infografico:{titulo:'O Carro: Passado e Futuro',
         tituloSimplificado:'O Carro',
         estiloPadrao:'basicoPaisagem',
@@ -1418,7 +1528,114 @@ let livro_cw2 ={
       licao18:{},
 
 
-      licao19:{},
+      licao19:{
+        id:'CW2AULA19CODE',
+        /** padroesCurriculares: 
+        titulo:'Lição 19. Programação em Par, Depuração e Qualidade.',**/
+        infografico:{titulo:'Programação em Par, Depuração e Qualidade',
+        tituloSimplificado:'Depuração',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+        urlPodcast:'', **/
+        cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:2,
+          predecessor:1,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+        
+          {ordem:3,
+          predecessor:2,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:4,
+          predecessor:3,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:5,
+          predecessor:4,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:6,
+          predecessor:5,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:7,
+          predecessor:6,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+          
+          {ordem:8,
+          predecessor:7,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},        
+        
+         ]}},
+
 
       licao20:{},
 
