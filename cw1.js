@@ -15,7 +15,7 @@ let livro_cw1 ={
   editor:'',
   local:'',
   ano:'',
-  url:'compsci_cs1_0_1',
+  url:'pc_cw1_0_1',
 
   versaoAdaptacao:'',
   nomeAdaptacaoo: '',
@@ -48,15 +48,15 @@ let livro_cw1 ={
 	  licao1:{id:'CW1AULA01CODE',
 		/** padroesCurriculares: 
 		titulo:'Lição 01. Algoritmos.',**/
-		infografico:{titulo:'ALGORITMOS',
-		tituloSimplificado:'OS ALGORITMOS',
+		infografico:{titulo:'OS ALGORITMOS',
+		tituloSimplificado:'ALGORITMOS',
 		estiloPadrao:'basicoPaisagem',
 		/** urlVideo:'',
 		urlPodcast:'', **/
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
-				texto:'VOCÊ SABE O QUE É UM ALGORITMO? JÁ OUVIU ESSA PALAVRA ANTES?',
+				texto:'VOCÊS SABEM O QUE É UM ALGORITMO? JÁ OUVIRAM ESSA PALAVRA ANTES?',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos',
 				urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img1.jpg',
@@ -147,7 +147,7 @@ let livro_cw1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'E VOCÊ PODE CRIAR ALGORITMOS PARA AS MAIS DIVERSAS TAREFAS DO SEU DIA. SEJA PARA VOCÊ OU OUTRA PESSOA EXECUTAR.',
+        texto:'E VOCÊS PODEM CRIAR ALGORITMOS PARA AS MAIS DIVERSAS TAREFAS DO SEU DIA. SEJA PARA VOCÊS OU OUTRA PESSOA EXECUTAR.',
         urlAudioTexto:'',
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img8.jpg',
@@ -160,7 +160,7 @@ let livro_cw1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'MAS FIQUE ATENTO: SE VOCÊ ESTÁ CRIANDO UM ALGORITMO PARA QUE OUTRA PESSOA EXECUTE, VOCÊ PRECISA DEIXAR SUAS INSTRUÇÕES O MAIS ESPECÍFICAS POSSÍVEL.',
+        texto:'MAS FIQUE ATENTO: SE VOCÊS ESTÃO CRIANDO UM ALGORITMO PARA QUE OUTRA PESSOA EXECUTE, VOCÊS PRECISAM DEIXAR SUAS INSTRUÇÕES O MAIS ESPECÍFICAS POSSÍVEL.',
         urlAudioTexto:'',
         textoSimplificado:'Especificar as instruções',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img9.jpg',
@@ -186,7 +186,7 @@ let livro_cw1 ={
   
         {ordem:11,
         predecessor:10,
-        texto:'PASSO 1: PEGAR UM COPO DO ARMÁRIO;',
+        texto:'PASSO 1: PEGUE UM COPO DO ARMÁRIO;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 1',
         urlImagem:'',
@@ -199,7 +199,7 @@ let livro_cw1 ={
   
         {ordem:12,
         predecessor:11,
-        texto:'PASSO 2: COLOCAR O COPO EM CIMA DA MESA;',
+        texto:'PASSO 2: COLOQUE O COPO EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 2',
         urlImagem:'',
@@ -212,7 +212,7 @@ let livro_cw1 ={
   
         {ordem:13,
         predecessor:12,
-        texto:'PASSO 3: PEGAR O LEITE DA GELADEIRA;',
+        texto:'PASSO 3: PEGUE O LEITE DA GELADEIRA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 3',
         urlImagem:'',
@@ -225,7 +225,7 @@ let livro_cw1 ={
   
         {ordem:14,
         predecessor:13,
-        texto:'PASSO 4: COLOCAR O LEITE DENTRO DO COPO QUE ESTÁ EM CIMA DA MESA;',
+        texto:'PASSO 4: COLOCQUE O LEITE DENTRO DO COPO QUE ESTÁ EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 4',
         urlImagem:'',
@@ -238,7 +238,7 @@ let livro_cw1 ={
   
         {ordem:15,
         predecessor:14,
-        texto:'PASSO 5: BEBER O LEITE QUE ESTÁ NO COPO.',
+        texto:'PASSO 5: BEBA O LEITE QUE ESTÁ NO COPO.',
         urlAudioTexto:'',
         textoSimplificado:'Passo 5',
         urlImagem:'',
@@ -300,7 +300,7 @@ let livro_cw1 ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'HOJE VOCÊ VAI DESCOBRIR COMO FUNCIONAM OS COMPUTADORES E COMO PODE SER DIVERTIDO PROGRAMÁ-LOS.',
+        texto:'HOJE VAMOS DESCOBRIR COMO FUNCIONAM OS COMPUTADORES E COMO PODE SER DIVERTIDO PROGRAMÁ-LOS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img1.jpg',
@@ -378,7 +378,7 @@ let livro_cw1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'SE VOCÊ JÁ PRESTOU ATENÇÃO EM UM COMPUTADOR DESSES QUE FICAM EM CASA, SOBRE A MESA, DEVE TER NOTADO QUE ELE TEM PELO MENOS 4 PARTES:',
+        texto:'SE VOCÊS JÁ PRESTARAM ATENÇÃO EM UM COMPUTADOR DESSES QUE FICAM EM CASA, SOBRE A MESA, DEVEM TER NOTADO QUE ELE TEM PELO MENOS 4 PARTES:',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -417,7 +417,7 @@ let livro_cw1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'O TECLADO É ONDE DIGITAMOS LETRAS, NÚMEROS E SÍMBOLOS COM MENSAGENS PARA NOSSOS AMIGOS.',
+        texto:'O TECLADO É ONDE DIGITAMOS LETRAS, NÚMEROS, SÍMBOLOS E ATÉ MENSAGENS PARA NOSSOS AMIGOS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img10.jpg',
@@ -469,7 +469,7 @@ let livro_cw1 ={
 
         {ordem:14,
         predecessor:13,
-        texto:'OS COMPUTADORES DE MESA SÃO COMO OS COMPUTADORES QUE PODEMOS TER EM CASA. ELES NOS AJUDAM A FAZER LIÇÃO DE CASA, JOGAR JOGOS E ASSISTIR A FILMES!',
+        texto:'OS COMPUTADORES DE MESA SÃO OS COMPUTADORES QUE PODEMOS TER EM CASA. ELES NOS AJUDAM A FAZER LIÇÃO DE CASA, JOGAR JOGOS E ASSISTIR A FILMES!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'',
@@ -482,7 +482,7 @@ let livro_cw1 ={
 
         {ordem:15,
         predecessor:14,
-        texto:'OS LAPTOPS SÃO COMO OS COMPUTADORES PESSOAIS, MAS SÃO PORTÁTEIS, OU SEJA, PODEMOS LEVÁ-LOS PARA ONDE QUISERMOS. PODEMOS USÁ-LOS PARA FAZER TRABALHOS NA ESCOLA, ASSISTIR A VÍDEOS OU ATÉ MESMO JOGAR JOGUINHOS QUANDO ESTAMOS VIAJANDO!',
+        texto:'OS LAPTOPS SÃO OS COMPUTADORES DE MESA, MAS SÃO PORTÁTEIS, OU SEJA, PODEMOS LEVÁ-LOS PARA ONDE QUISERMOS. PODEMOS USÁ-LOS PARA FAZER TRABALHOS NA ESCOLA, ASSISTIR A VÍDEOS OU ATÉ MESMO JOGAR JOGUINHOS QUANDO ESTAMOS VIAJANDO!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img15.jpg',
@@ -538,7 +538,7 @@ let livro_cw1 ={
     licao4:{id:'CW1AULA04CODE',
     /** padroesCurriculares: 
     titulo:'Lição 04. Robôs.',**/
-    infografico:{titulo:'ROBÔS',
+    infografico:{titulo:' OS ROBÔS',
     tituloSimplificado:'ROBÔS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -881,7 +881,10 @@ let livro_cw1 ={
         imagemFonte:'leonardo',
         textoDescritivoImagem:'',},
       ]}},
-    },
+
+    licao7:{},
+    
+  },
 
   unidade2:{
 	
@@ -1158,7 +1161,7 @@ let livro_cw1 ={
     licao9:{id:'CW1AULA09CODE',
     /** padroesCurriculares: 
     titulo:'Lição 09. Laços.',**/
-    infografico:{titulo:'LAÇOS',
+    infografico:{titulo:'LAÇOS DE REPETIÇÃO',
     tituloSimplificado:'LAÇOS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -1166,7 +1169,7 @@ let livro_cw1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'SABE QUANDO VOCÊS FAZEM ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS LAÇOS!',
+      texto:'SABE QUANDO FAZEMOS ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS LAÇOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img1.jpg',
@@ -1218,7 +1221,7 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
+      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, PODEMOS USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1255,6 +1258,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
+
+    licao10:{},
 
     licao11:{id:'CW1AULA11CODE',
     /** padroesCurriculares: 
@@ -1345,7 +1350,7 @@ let livro_cw1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'POR EXEMPLO, QUANDO VOCÊ CLICA EM UM BOTÃO EM UM JOGO, ISSO É UM EVENTO PARA O COMPUTADOR E ELE PODE RESPONDER MOSTRANDO UMA ANIMAÇÃO OU FAZENDO UM SOM.',
+      texto:'POR EXEMPLO, QUANDO CLICAMOS EM UM BOTÃO EM UM JOGO, ISSO É UM EVENTO PARA O COMPUTADOR E ELE PODE RESPONDER MOSTRANDO UMA ANIMAÇÃO OU FAZENDO UM SOM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1371,7 +1376,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'POR EXEMPLO, QUANDO VOCÊ TOCA A TELA DE UM TABLET, ISSO É UM EVENTO DE TOQUE.',
+      texto:'POR EXEMPLO, QUANDO TOCAMOS A TELA DE UM TABLET, ISSO É UM EVENTO DE TOQUE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1384,7 +1389,7 @@ let livro_cw1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'QUANDO VOCÊ APERTA UMA TECLA EM UM TECLADO, ISSO É UM EVENTO DE TECLADO.',
+      texto:'QUANDO APERTAMOS UMA TECLA EM UM TECLADO, ISSO É UM EVENTO DE TECLADO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1410,7 +1415,7 @@ let livro_cw1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'QUANDO VOCÊ PRESSIONA UM BOTÃO PARA PULAR EM UM JOGO, O PERSONAGEM PULA!',
+      texto:'QUANDO PRESSIONAMOS UM BOTÃO PARA PULAR EM UM JOGO, O PERSONAGEM PULA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1447,6 +1452,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
+
+    licao12:{},
 	  
     licao13:{id:'CW1AULA13CODE',
     /** padroesCurriculares: 
@@ -1574,6 +1581,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
+
+    licao14:{},
   },
    
   unidade3:{
@@ -1756,6 +1765,8 @@ let livro_cw1 ={
       textoDescritivoImagem:'',},
     ]}},
 
+    licao16:{},
+
     licao17:{id:'CW1AULA17CODE',
     /** padroesCurriculares: 
     titulo:'Lição 17. Depuração E Qualidade',**/
@@ -1806,7 +1817,7 @@ let livro_cw1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'IMAGINE UM QUEBRA-CABEÇA.',
+      texto:'VAMOS IMAGINAR UM QUEBRA-CABEÇA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1819,7 +1830,7 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'SE VOCÊS ESTIVEREM MONTANDO UM QUEBRA-CABEÇA E PERCEBEREM QUE UMA PEÇA NÃO SE ENCAIXA CORRETAMENTE, VOCÊS PRECISAM DESCOBRIR ONDE A PEÇA ERRADA ESTÁ E ENCONTRAR A PEÇA CORRETA PARA COLOCAR NO LUGAR.',
+      texto:'SE ESTIVERMOS MONTANDO UM QUEBRA-CABEÇA E PERCEBEREM QUE UMA PEÇA NÃO SE ENCAIXA CORRETAMENTE, PRECISAMOS DESCOBRIR ONDE A PEÇA ERRADA ESTÁ E ENCONTRAR A PEÇA CORRETA PARA COLOCAR NO LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1923,7 +1934,7 @@ let livro_cw1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'VAMOS CONTINUAR APRENDENDO E VOCÊS SE TORNARÃO VERDADEIROS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
+      texto:'VAMOS CONTINUAR APRENDENDO E VAMOS NOS TORNAR VERDADEIROS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1934,6 +1945,10 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
+
+    licao18:{},
+
+    licao19:{},
 
     licao20:{id:'CW1AULA20CODE',
     /** padroesCurriculares: 
@@ -2011,7 +2026,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'NÃO PENSE QUE É FÁCIL! NO SLALOM, A CADA OBSTÁCULO OS ROBÔS DEVEM DESVIAR PARA UM LADO DIFERENTE, FAZENDO UM ZIGUEZAGUE QUE EXIGE UMA EXCELENTE PROGRAMAÇÃO!',
+      texto:'NÃO PENSEM QUE É FÁCIL! NO SLALOM, A CADA OBSTÁCULO OS ROBÔS DEVEM DESVIAR PARA UM LADO DIFERENTE, FAZENDO UM ZIGUEZAGUE QUE EXIGE UMA EXCELENTE PROGRAMAÇÃO!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2050,7 +2065,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'E ADIVINHE! VOCÊ, QUE JÁ ESTÁ APRENDENDO A PROGRAMAR ROBÔS, FOI SELECIONADO PARA PARTICIPAR DA EQUIPE DE PROGRAMAÇÃO DE SLALOM DE LETRÓPOLIS!',
+      texto:'E ADIVINHEM! VOCÊS, QUE JÁ ESTÃO APRENDENDO A PROGRAMAR ROBÔS, FORAM SELECIONADOS PARA PARTICIPAR DA EQUIPE DE PROGRAMAÇÃO DE SLALOM DE LETRÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2073,7 +2088,10 @@ let livro_cw1 ={
       imagemImpresso:0,
       imagemFonte:'',
       textoDescritivoImagem:'',},
-    ]}}, 
+    ]}},
+    
+    licao21:{},
+  
   },
   
   unidade4:{
@@ -2232,7 +2250,7 @@ let livro_cw1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA SENHA COM NINGUÉM, EXCETO COM SEUS PAIS OU RESPONSÁVEIS.',
+      texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA SENHA COM NINGUÉM ALÉM DE SEUS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2321,6 +2339,10 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
+
+    licao23:{},
+
+    licao24:{},
    
     licao25:{id:'CW1AULA25CODE',
     /** padroesCurriculares: 
@@ -2333,7 +2355,7 @@ let livro_cw1 ={
       cenas:[
       {ordem:1,
       predecessor:0,
-      texto:'VOCÊ SE LEMBRA DE NUMERÓPOLIS, A CIDADE DOS ROBÔS QUE ADORAM NÚMEROS?',
+      texto:'VOCÊS SE LEMBRAM DE NUMERÓPOLIS, A CIDADE DOS ROBÔS QUE ADORAM NÚMEROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2474,6 +2496,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
+
+    licao26:{},
 
     licao27:{id:'CW1AULA27CODE',
     /** padroesCurriculares: 
@@ -2619,7 +2643,10 @@ let livro_cw1 ={
       urlImagem:'',
       promptImagem:'uma rua colorida, futurista e muito limpa',
       textoDescritivoImagem:'',},
-    ]}},	  
+    ]}},
+    
+    licao28:{},
+  
   },
   
   /*
@@ -2628,14 +2655,14 @@ let livro_cw1 ={
 
   capaVerso:{
 	urlImagemTerceiraCapa:'',
-		textoTerceiraCapa:`SMARTPHONES
+		textoTerceiraCapa:`MICROSCÓPIO
 
-    HÁ MUITO TEMPO, UM INVENTOR CHAMADO NIKOLA TESLA TEVE UMA IDEIA BRILHANTE: UNIR UM TELEFONE E UM COMPUTADOR. 
-    ISSO DEU ORIGEM AOS SMARTPHONES. ESSES APARELHOS INTELIGENTES TÊM UMA TELA E PODEM PROCESSAR INFORMAÇÕES. 
-    A APPLE LANÇOU O IPHONE EM 2007, QUE FOI UM SUCESSO ENORME. DEPOIS DISSO, OUTRAS EMPRESAS COMO GOOGLE E MICROSOFT TAMBÉM 
-    FIZERAM SEUS PRÓPRIOS SISTEMAS PARA SMARTPHONES. ALÉM DE FAZER LIGAÇÕES, ESSES TELEFONES PODEM TIRAR FOTOS, JOGAR JOGOS E 
-    USAR APLICATIVOS. HOJE, EXISTEM MUITOS MODELOS DIFERENTES DE SMARTPHONES, COM DIFERENTES APLICATIVOS E CONFIGURAÇÕES, MAS 
-    TODOS NOS AJUDAM A NOS COMUNICAR, FICAR INFORMADOS E ATÉ ENCONTRAR SOLUÇÕES PARA PROBLEMAS USANDO TECNOLOGIA! `,
+    vOCÊ JÁ VIU UM MICROSCÓPIO ANTES?
+    O MICROSCÓPIO É UMA MÁQUINA ESPECIAL QUE AJUDA AS PESSOAS A VEREM COISAS MUITO PEQUENAS QUE NÃO CONSEGUIMOS VER COM OS NOSSOS OLHOS. 
+    ANTONIE VAN LEEUWENHOEK FOI O PRIMEIRO A OLHAR COISAS MUITO PEQUENAS COM UM MICROSCÓPIO. ELE VIU CÉLULAS E OUTROS BICHINHOS QUE SÃO 
+    MUITO PEQUENOS.
+    HOJE EM DIA, OS CIENTISTAS USAM O MICROSCÓPIO PARA ESTUDAR COISAS PEQUENINAS, COMO AS CÉLULAS DO NOSSO CORPO. 
+    O MICROSCÓPIO É MUITO IMPORTANTE PORQUE NOS AJUDA A VER COISAS QUE NOSSOS OLHOS NÃO CONSEGUEM VER SOZINHOS.`,
 
 		textoUltimaCapa: ''
 		},}
