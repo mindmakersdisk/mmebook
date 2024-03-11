@@ -1091,7 +1091,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Alguns programas podem funcionar sozinhos, mas são raros. A maioria dos programas precisa de eventos para funcionar, como jogos ou aplicativos de redes sociais. Eles respondem quando a gente faz alguma coisa, como apertar uma tecla, clicar no mouse ou mexer num joystick.',
+          texto:' Alguns programas podem funcionar sozinhos, mas são raros. A maioria dos programas precisa de eventos para funcionar, como jogos ou aplicativos de redes sociais. Eles respondem quando a gente faz alguma coisa, como apertar uma tecla, clicar no mouse ou mexer num joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1103,7 +1103,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Os celulares e tablets têm sensores que podem fazer coisas sozinhos, sem a gente tocar neles. Os programadores podem usar esses sensores de jeitos legais. Por exemplo, se o aparelho ficar muito quente, um programa pode mandar um aviso para a gente esfriá-lo.',
+          texto:' Os celulares e tablets têm sensores que podem fazer coisas sozinhos, sem a gente tocar neles. Os programadores podem usar esses sensores de jeitos legais. Por exemplo, se o aparelho ficar muito quente, um programa pode mandar um aviso para a gente esfriá-lo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,imagemImpresso:1,
@@ -1128,7 +1128,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'As redes elétricas têm fios que levam a eletricidade das fontes de energia até nossas casas.',
+          texto:'As redes elétricas têm fios que levam a eletricidade das fontes de energia até nossas casas. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1140,7 +1140,7 @@ let livro_cw2 ={
         
           {ordem:2,
           predecessor:1,
-          texto:'Os fios são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade.',
+          texto:'Os fios são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1152,7 +1152,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Cabos e fios são cobertos por um material chamado isolante, como plástico ou borracha, para evitar acidentes.',
+          texto:'Cabos e fios são cobertos por um material chamado isolante, como plástico ou borracha, para evitar acidentes. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1164,7 +1164,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Além dos metais, a água e os materiais orgânicos, como frutas, também podem conduzir eletricidade.',
+          texto:'Além dos metais, a água e os materiais orgânicos, como frutas, também podem conduzir eletricidade. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1176,7 +1176,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Os seres humanos também podem conduzir eletricidade e sentir choques elétricos.',
+          texto:'Os seres humanos também podem conduzir eletricidade e sentir choques elétricos. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1188,7 +1188,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em nosso curso, usamos circuitos elétricos com carga baixa, que não são perigosos.',
+          texto:'Em nosso curso, usamos circuitos elétricos com carga baixa, que não são perigosos. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1200,7 +1200,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Vamos experimentar? Com o Makey Makey, podemos usar materiais condutores para criar dispositivos criativos para computadores.',
+          texto:'Vamos experimentar? Com o Makey Makey, podemos usar materiais condutores para criar dispositivos criativos para computadores. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1212,7 +1212,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Um cacho de banana ou uma gelatina podem se tornar teclado ou mouse.',
+          texto:'Um cacho de banana ou uma gelatina podem se tornar teclado ou mouse. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1352,7 +1352,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Nós usamos nossos olhos, ouvidos, boca, nariz e pele para entender e brincar com o mundo à nossa volta. Essas são nossas partes do corpo que nos ajudam a sentir e descobrir coisas!',
+          texto:'Nós usamos nossos olhos, ouvidos, boca, nariz e pele para entender e brincar com o mundo à nossa volta. Essas são nossas partes do corpo que nos ajudam a sentir e descobrir coisas! ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1448,7 +1448,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Os robôs e eletrônicos têm sensores incríveis! Alguns podem ver luzes que não podemos e ouvir sons que estão longe demais para nós.',
+          texto:'Os robôs e eletrônicos têm sensores incríveis! Alguns podem ver luzes que não podemos e ouvir sons que estão longe demais para nós. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1460,7 +1460,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Existem muitos tipos diferentes de sensores legais por aí! Podemos usá-los para criar robôs e dispositivos super legais. Que tal começarmos a experimentar com eles?',
+          texto:'Existem muitos tipos diferentes de sensores legais por aí! Podemos usá-los para criar robôs e dispositivos super legais. Que tal começarmos a experimentar com eles? ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1800,7 +1800,7 @@ let livro_cw2 ={
           cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Desde muito tempo atrás, as pessoas contam histórias para se conectar umas com as outras. As histórias mostram sonhos, medos e coisas que as pessoas querem, mostrando diferentes lugares e culturas.',
+          texto:'Desde muito tempo atrás, as pessoas contam histórias para se conectar umas com as outras. As histórias mostram sonhos, medos e coisas que as pessoas querem, mostrando diferentes lugares e culturas. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1812,7 +1812,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'As histórias mudaram com o tempo. Antes eram contadas em volta do fogo, depois com desenhos, livros, filmes e agora também com animações feitas por computador.',
+          texto:'As histórias mudaram com o tempo. Antes eram contadas em volta do fogo, depois com desenhos, livros, filmes e agora também com animações feitas por computador. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1824,7 +1824,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Com a programação, podemos fazer histórias animadas e interativas. Assim, quem está ouvindo pode fazer escolhas que mudam o final da história.',
+          texto:'Com a programação, podemos fazer histórias animadas e interativas. Assim, quem está ouvindo pode fazer escolhas que mudam o final da história. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1835,8 +1835,8 @@ let livro_cw2 ={
           textoDescritivoImagem:'',},
 
           {ordem:4,
-            predecessor:3,
-            texto:'O "Story Lab" é um lugar onde você pode criar histórias animadas e interativas. Comece escolhendo um título, seu nome e uma breve descrição da história.',
+            predecessor:3, 
+            texto:'O "Story Lab" é um lugar onde você pode criar histórias animadas e interativas. Comece escolhendo um título, seu nome e uma breve descrição da história. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1849,7 +1849,7 @@ let livro_cw2 ={
 
           {ordem:5,
             predecessor:4,
-            texto:'Você pode mudar o cenário da história, escolhendo diferentes imagens de fundo e mudando o tamanho dos personagens e objetos.',
+            texto:'Você pode mudar o cenário da história, escolhendo diferentes imagens de fundo e mudando o tamanho dos personagens e objetos. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1861,7 +1861,7 @@ let livro_cw2 ={
 
           {ordem:6,
             predecessor:5,
-            texto:'Use cores diferentes no cenário. Elas não são só para decorar; os personagens podem reagir a elas durante a história.',
+            texto:'Use cores diferentes no cenário. Elas não são só para decorar; os personagens podem reagir a elas durante a história. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1873,7 +1873,7 @@ let livro_cw2 ={
 
           {ordem:7,
             predecessor:6,
-            texto:'Escolha os personagens e objetos que você quer na sua história e os coloque no cenário. Você pode mudar o nome, tamanho e outras coisas sobre eles.',
+            texto:'Escolha os personagens e objetos que você quer na sua história e os coloque no cenário. Você pode mudar o nome, tamanho e outras coisas sobre eles. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1885,7 +1885,7 @@ let livro_cw2 ={
           
           {ordem:8,
             predecessor:7,
-            texto:'Alguns objetos têm movimentos pré-definidos. Você pode escolher quando esses movimentos acontecem.',
+            texto:'Alguns objetos têm movimentos pré-definidos. Você pode escolher quando esses movimentos acontecem. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1897,7 +1897,7 @@ let livro_cw2 ={
           
           {ordem:9,
             predecessor:8,
-            texto:'Decida o que acontece quando os personagens encontram esses objetos. Eles caem? Mudam de cor? Fazem alguma animação?',
+            texto:'Decida o que acontece quando os personagens encontram esses objetos. Eles caem? Mudam de cor? Fazem alguma animação? ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1909,7 +1909,7 @@ let livro_cw2 ={
 
           {ordem:10,
             predecessor:9,
-            texto:'Programe os movimentos dos personagens. Eles podem andar, pular, cair, tudo o que você imaginar.',
+            texto:'Programe os movimentos dos personagens. Eles podem andar, pular, cair, tudo o que você imaginar. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1921,7 +1921,7 @@ let livro_cw2 ={
 
           {ordem:11,
             predecessor:10,
-            texto:'Use a seção "aparência" para programar a narração da história. Alguém pode narrar a história enquanto os personagens se movem.',
+            texto:'Use a seção "aparência" para programar a narração da história. Alguém pode narrar a história enquanto os personagens se movem. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1933,7 +1933,7 @@ let livro_cw2 ={
 
           {ordem:12,
             predecessor:11,
-            texto:'Faça a história interativa usando comandos especiais. Assim, ela pode mudar dependendo do que quem está assistindo faz.',
+            texto:'Faça a história interativa usando comandos especiais. Assim, ela pode mudar dependendo do que quem está assistindo faz. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
