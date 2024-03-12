@@ -57,7 +57,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Hoje, você vai descobrir como é divertido programar computadores. Estes serão seus primeiros passos na ciência da computação.',
+          texto:'Hoje, nós vamos descobrir como é divertido programar computadores. Estes serão seus primeiros passos na ciência da computação.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -93,7 +93,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:`Na <b>torre</b> existem componentes como as memórias, onde o computador armanezada dados. E o processor, que funciona como o "cérebro do computador".`,
+          texto:`Na <b>torre</b> existem componentes como as memórias, onde o computador armazena dados. E o processor, que funciona como o "cérebro do computador".`,
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -105,7 +105,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Com o <b>teclado</b> e o mouse, você consegue digitar, mover e clicar em objetos exibidos na tela, chamada de monitor.',
+          texto:'Com o <b>teclado</b> e o <b>mouse</b>, nós conseguimos digitar, mover e clicar em objetos exibidos na tela, chamada de <b>monitor</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -129,7 +129,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Além dos computadores de mesa, celulares e tablets também são computadores, embora pequenos, para caberem na palma das nossas mãos.',
+          texto:'Celulares e tablets também são computadores, embora pequenos, para caberem na palma das nossas mãos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -165,7 +165,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Neste curso, vamos aprender a criar jogos, inventos eletrônicos, a programar robôs e montar inventos. Tudo isso é ciência da computação!',
+          texto:'Neste curso, vamos aprender a criar jogos, inventos eletrônicos, a programar robôs e montar inventos. Tudo isso é <b>ciência da computação</b>!',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
           textoSimplificado:'Primeiros passos',
           textoImpresso:1,
@@ -191,42 +191,6 @@ let livro_cw2 ={
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
-          /*{ordem:1,
-          predecessor:0,
-          texto:'A luz e o calor do Sol dão vida à Terra, nosso planeta, graças à energia que carregam.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'r',},
-
-          {ordem:2,
-          predecessor:1,
-          texto:'Descobrimos que a energia está em muitos lugares, como nas plantas, minerais como o carvão e até mesmo nas minúsculos partículas que compõe os corpos dos animais.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-
-          {ordem:3,
-          predecessor:2,
-          texto:'Através da tecnologia, aprendemos a criar usinas hidroelétricas, que transformam a energia da água em eletricidade.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},*/
-
           {ordem:1,
           predecessor:0,
           texto:'A <b>eletricidade</b> é um tipo de energia que chega em nossas casas por meio das chamadas <b>redes elétricas</b>, como podemos observar pelos grandes cabos e postes que vemos nas ruas.',
@@ -241,7 +205,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Em nossas casas usamos a eletricidade para esquentar a água, para esfriar alimentos através das geladeiras e ligar aparelhos em geral, como lâmpadas, TVs e, é claro, os computadores e até robôs.',
+          texto:'Em casa, usamos eletricidade para esquentar água, esfriar alimentos na geladeira e ligar aparelhos como lâmpadas, TVs e, é claro, os computadores e até robôs.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -253,7 +217,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Os computadores portáteis e robôs são dispositivos computacionais que precisam de energia, mas que podem funcionar sem estarem ligados às tomadas da rede elétrica, porque possuem baterias.',
+          texto:'Computadores portáteis, robôs e outros aparelhos podem funcionar sem estarem conectados à tomada desde que possuam baterias.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -265,7 +229,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'As baterias são componentes que conseguem armanezar energia elétrica por um certo tempo. Quando a energia acaba, você recarrega a bateria em tomada, que trás energia da rede elétrica.',
+          texto:'As <b>baterias</b> são componentes que armazenam energia por um tempo. Quando a energia acaba, recarregamos as baterias nas tomadas que trazem energia da rede elétrica.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -277,7 +241,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Como vimos, existe uma infinidade de aparelhos movidos à eletricidade. Neste curso, vamos não só aprender a usar, mas também a criar pequenos novos aparelhos para as mais diversas tarefas.',
+          texto:'Existem muitos tipos de aparelhos elétricos, usados para diversas atividades! Neste curso, vamos aprender não apenas a usar, mas também a fazer novos aparelhos para diferentes tarefas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -290,7 +254,7 @@ let livro_cw2 ={
                   
           {ordem:6,
           predecessor:5,
-          texto:'Todo aparelho eletrônico é composto por <b>componentes</b>. Por isso, precisamos aprender quais são os componentes principais de todo aparelho eletrônico antes de criarmos nossos próprios inventos.',
+          texto:'Todo aparelho eletrônico tem <b>componentes</b> importantes. Vamos aprender quais são os componentes principais antes de criarmos nossos próprios inventos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -302,7 +266,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'O primeiro tipo de componentes são os <b>geradores</b>, que fornecem energia para os demais componentes.',
+          texto:'Os primeiros componentes são os <b>geradores</b>, que fornecem energia para os outros funcionarem.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -326,7 +290,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Os <b>condutores</b> transmitem a energia de um componente para outro.',
+          texto:'Os <b>condutores</b> transmitem a energia de um componente para o outro.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -338,7 +302,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'E os componentes chamados de <b>aparelhos</b> convertem a energia elétrica em luz ou movimento e realizam as principais funções de cada aparelho eletrônico.',
+          texto:'Por fim, os <b>conversores</b> transformam a energia elétrica em luz ou movimento e realizam as funções principais de cada aparelho eletrônico.', // originalmente o nome desses componentes é aparelhos. Validar com Alvim.
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -350,10 +314,10 @@ let livro_cw2 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Juntando esses quatro tipos de componentes, poderemos criar nossos próprios circuitos e explorar os mistérios da eletricidade.',
+          texto:'Juntando esses quatro tipos de componentes, poderemos criar nossos próprios inventos e explorar os mistérios da eletricidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
-          textoImpressoRecriado:'Com esses componentes, poderemos criar nossos próprios circuitos e explorar os mistérios da eletricidade. A diversão e o aprendizado estão prestes a começar!',
+          textoImpressoRecriado:'Juntando esses quatro tipos de componentes, poderemos criar nossos próprios inventos e explorar os mistérios da eletricidade. A diversão e o aprendizado estão prestes a começar!',
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
@@ -388,7 +352,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Um algoritmo é como uma receita que explica a uma pessoa ou máquina, passo a passo, como realizar uma tarefa de modo correto.',
+          texto:'Um <b>algoritmo</b> é como uma receita que explica a uma pessoa ou máquina, passo a passo, como realizar uma tarefa de modo correto.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -412,7 +376,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Outras vezes, eles podem ser definidos como <b>diagramas</b>, que usam formas geométricas conectadas por linhas, onde cada forma é um passo.',
+          texto:'Outras vezes, podemos chamá-los de <b>diagramas</b>, que são desenhos com formas ligadas por linhas, onde cada forma representa um passo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -436,7 +400,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Alguns algoritmos são muito grandes e difíceis, como aqueles que ajudam astronautas a resolver problemas no espaço.',
+          texto:'Alguns algoritmos são muito grandes e complicados, como aqueles que ajudam astronautas a resolver problemas no espaço.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -460,7 +424,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Como vimos, um bom algoritmo é importante para que uma tarefa seja realizada de modo perfeito, seja por uma pessoa ou máquina.',
+          texto:'Um bom algoritmo é importante para que uma tarefa seja realizada de modo perfeito, seja por uma pessoa ou máquina.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -494,9 +458,10 @@ let livro_cw2 ={
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
+
           {ordem:1,
           predecessor:0,
-          texto:'Nós já vimos robôs em filmes e jogos... Eles podem ter pernas, rodas ou parecer com humanos. Mas vocês sabem como eles surgiram?',
+          texto:'Um <b>robô</b> é uma máquina programável que executa tarefas automaticamente.', 
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -508,7 +473,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Os robôs têm origens nos autômatos, antigos bonecos que se moviam sozinhos, realizando movimentos simples.',
+          texto:'Nós já vimos robôs em filmes e jogos... Eles podem ter pernas, rodas ou parecer com humanos. Mas vocês sabem como eles surgiram?', //Conferir com Alvim: frases para engajamento serão no plural (como está nessa frase) ou no singular?
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -520,7 +485,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Antigamente, para mudar algum movimento de um autômato, os inventores precisavam reconstruir suas partes.',
+          texto:'Os robôs têm origens nos autômatos, antigos bonecos que se moviam sozinhos, realizando movimentos simples.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -532,7 +497,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Já os robôs modernos possuem um computador como um "cérebro". Por isso, basta alterar programas para modificar seus movimentos.',
+          texto:'Antigamente, para mudar algum movimento de um autômato, os inventores precisavam reconstruir suas partes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -544,7 +509,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Existem muitos tipos de robôs, utilizados para várias finalidades. Por exemplo, robôs industriais fazem tarefas como montar carros ou empacotar produtos.',
+          texto:'Já os robôs modernos possuem um computador como "cérebro". Por isso, basta alterar programas para modificar seus movimentos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -556,6 +521,18 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
+          texto:'Existem muitos tipos de robôs, utilizados para várias finalidades. Por exemplo, robôs industriais fazem tarefas como montar carros ou empacotar produtos.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:7,
+          predecessor:6,
           texto:'E robôs cirúrgicos auxiliam os médicos a operar pacientes.',
           urlAudioTexto:'',
           textoSimplificado:'',
@@ -567,21 +544,9 @@ let livro_cw2 ={
           textoDescritivoImagem:'',},
 
 
-          {ordem:7,
-          predecessor:6,
-          texto:'Já os robôs exploradores são capazes de caminhar em locais perigosos e até em outros planetas.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-
           {ordem:8,
           predecessor:7,
-          texto:'No nosso curso, vamos programar diferentes robôs, começando com um robô esfera, que se move como o BB-8 de Star Wars.',
+          texto:'Já os robôs exploradores são capazes de se mover em locais perigosos e até em outros planetas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -593,7 +558,19 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Podemos programar o robô esfera para mover em diferentes velocidades e direções, mudar de cor, e muito mais.',
+          texto:'No nosso curso, vamos programar diferentes robôs, começando com um robô esfera, que se move como o BB-8 de Star Wars.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:10,
+          predecessor:9,
+          texto:'Podemos programar o robô esfera para se mover em diferentes velocidades e direções, mudar de cor, e muito mais.<p>Bem-vindo ao mundo dos robôs!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -603,17 +580,6 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
          
-          {ordem:10,
-          predecessor:9,
-          texto:'Bem-vindo ao mundo dos robôs!',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
         
          ]}},
 
@@ -630,7 +596,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você sabia que os aviões são o meio de transporte mais rápido e seguro do mundo?',
+          texto:'Você sabia que os aviões são o meio de transporte mais rápido e seguro do mundo?', //Verificar com Alvim: usar plural ou singular na pergunta inicial?
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -666,7 +632,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Quando os aviões se movem no chão, chamamos isso de taxiamento. É quando vão dos portões até a pista e vice-versa.',
+          texto:'Quando os aviões se movem no chão, chamamos de taxiamento. Ou seja: é quando vão dos portões até a pista e vice-versa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -678,7 +644,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Mas usar turbinas para taxiamento gasta muito combustível e faz barulho.',
+          texto:'Mas usar turbinas para taxiamento gasta muito combustível e faz muito barulho.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -690,7 +656,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Será que temos uma solução melhor para taxiar aviões? Para isso, foi criado o Taxibot!',
+          texto:'Será que existe uma maneira melhor de mover os aviões no solo? Para resolver isso, foi desenvolvido o Taxibot!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -702,7 +668,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'O Taxibot é um veículo meio robotizado, controlado por humanos, mas faz muita coisa automaticamente.',
+          texto:'O Taxibot é um veículo meio robotizado, controlado por humanos, capaz de realizar muitas tarefas de forma automática.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -714,7 +680,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Com segurança, menos combustível e menos barulho, o Taxibot leva os aviões entre portões e pista sem ligar as turbinas.',
+          texto:'Com mais segurança, menos combustível e menos barulho, o Taxibot leva os aviões entre portões e pista sem ligar as turbinas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -726,12 +692,12 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'',
+          texto:'Mas sempre podemos melhorar! Que tal criar um taxibot totalmente robotizado que funcione só com programação? Usem a criatividade!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'Mas sempre podemos melhorar! Que tal criar um taxibot totalmente robotizado que funcione só com programação? Usem seus talentos e imaginação!',
+          urlImagem:'',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -759,7 +725,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Hoje, vamos aprender sobre um comando poderoso nos algoritmos: os <b>laços</b>, também conhecidos como loops, em inglês.',
+          texto:'Hoje, vamos aprender sobre um comando poderoso nos algoritmos: os <b>laços</b>, também conhecidos como <b>loops</b>, em inglês.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -771,7 +737,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Os laços permitem que o computador repita comandos várias vezes, sem precisar escrevê-los repetidamente no algoritmo.',
+          texto:'Os laços permitem que o computador repita comandos várias vezes sem que tenhamos que escrevê-los de novo e de novo no algoritmo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -783,7 +749,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Eles evitam que tenhamos que repetir as mesmas instruções. Usando laços, podemos fazer coisas impressionantes com poucos comandos.',
+          texto:'Usando laços, podemos fazer coisas impressionantes com poucos comandos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -795,7 +761,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Por exemplo, ao criar um algoritmo para um atleta, poderíamos usar laços para instruir a repetição de atividades, como pular e girar várias vezes.',
+          texto:'Por exemplo, ao criar um algoritmo para um robô industrial, podemos usar laços para instruir a repetição de atividades, como cortar, separar e parafusar peças.', //para um atleta, poderíamos usar laços para instruir a repetição de atividades, como pular e girar várias vezes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -807,7 +773,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Um algoritmo para um piloto poderia usar laços para orientá-lo a dar 76 voltas na pista de corrida.',
+          texto:'Um algoritmo para um jogo de corrida pode usar um laço para fazer um carro dar 76 voltas na pista.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -819,7 +785,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Já imaginou criar um programa para um jogo onde um personagem caminha enquanto dá várias piruetas? Os laços facilitam isso!',
+          texto:'Já imaginou criar um programa para um jogo onde um personagem caminha enquanto dá várias piruetas? Com os laços, isso fica fácil!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -843,7 +809,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Ao usar os laços, seus programas ficarão mais poderosos, e vocês poderão criar coisas divertidas com pouco esforço! Prontos para começar?',
+          texto:'Usando laços, nossos programas ficam mais poderosos e podemos criar coisas divertidas com menos esforço! Prontos para começar?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -868,7 +834,7 @@ let livro_cw2 ={
          cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Já percebeu quantas decisões você toma em um dia comum? Escolher a cor da camiseta, estudar antes de brincar, decidir entre vôlei ou futebol – tudo é uma decisão baseada em condições.',
+          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar antes de brincar, escolher entre vôlei ou futebol – tudo é uma decisão baseada em diferentes condições.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -892,7 +858,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Essas condições ajudam a orientar o que fazer em diferentes situações, como os sinais de trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+          texto:'Essas condições ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -904,10 +870,10 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Essas condições não são apenas para nós; são usadas em algoritmos, programas de computador e nos componentes dos aparelhos eletrônicos.',
+          texto:'Condições não são úteis apenas para decisões humanas, mas também em algoritmos para programas de computador e componentes eletrônicos.',
           urlAudioTexto:'',
           textoSimplificado:'',
-          textoImpressoRecriado:'Essas condições não são apenas para nós; são usadas em algoritmos, programas de computador e nos componentes dos aparelhos eletrônicos. Por exemplo, os sinais de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
+          textoImpressoRecriado:'Condições não são úteis apenas para decisões humanas, mas também em algoritmos para programas de computador e componentes eletrônicos. Por exemplo, os sinais de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
@@ -917,7 +883,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Por exemplo, os sinais de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
+          texto:'Por exemplo, os semáforos de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:0,
@@ -929,7 +895,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Usamos <b>Se</b>, <b>Então</b> e <b>Senão</b> em algoritmos, chamando essa estrutura de <b>Expressão Condicional</b>. Um exemplo: <p><code><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+          texto:'Em algoritmos, usamos as <b>expressões condicionais</b> Se, Então e Senão para a tomada de decisões. Veja: <p><code><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -941,7 +907,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Para escrever essas condições, usamos sinais matemáticos, como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Exemplos: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
+          texto:'Para escrever essas condições, usamos sinais matemáticos, como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -953,7 +919,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'E o sinal amarelo? Isso é assunto para outra lição... Por enquanto, vamos praticar a programação com condicionais!',
+          texto:'E aí? Vocês estão prontos para praticar a programação com condicionais?', //Verificar com Alvim: plural ou singular?
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -979,9 +945,10 @@ let livro_cw2 ={
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
+
           {ordem:1,
           predecessor:0,
-          texto:'A união do cavalo e da roda foi uma grande descoberta para as pessoas antigas.',
+          texto:'Por volta de 3500 a.C., na Ásia Central, os seres humanos começaram a domar cavalos selvagens.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -993,7 +960,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Por volta de 3500 a.C., na Ásia Central, os seres humanos começaram a domar cavalos selvagens.',
+          texto:'Após domesticar os cavalos, antigos inventores perceberam que poderiam utilizar sua força para diferentes finalidades.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1005,7 +972,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Os primeiros homens que montaram cavalos tiveram muitas vantagens, como caçar e se proteger dos animais selvagens.',
+          texto:'Cavalos eram usados na agricultura para ajudar a preparar a terra, puxando ferramentas chamadas arados, e faziam moinhos girarem para auxiliar nas tarefas diárias.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1017,7 +984,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Nessa época, também surgiram as carruagens com rodas.',
+          texto:'Os cavalos também eram usados em veículos, como carroças ou carruagens, para levar objetos ou pessoas de um lugar para outro.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1027,9 +994,10 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
+
           {ordem:5,
           predecessor:4,
-          texto:'A roda e o cavalo foram combinados em diferentes veículos ao redor do mundo.',
+          texto:'Alguns veículos, como a biga romana, eram utilizados em corridas emocionantes, que atraíam tanto o público quanto as corridas de Fórmula 1 atuais.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1041,7 +1009,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Alguns deles, como a biga romana, eram usados em corridas emocionantes, atraindo tanto o público quanto as corridas de Fórmula 1 atuais.',
+          texto:'Hoje em dia, não precisamos mais de cavalos para puxar carruagens. Podemos usar robôs para fazer essa tarefa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1053,19 +1021,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Hoje em dia, não é mais comum usar cavalos para puxar carruagens. Podemos usar robôs para essa tarefa.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-
-          {ordem:8,
-          predecessor:7,
-          texto:'Se conectarmos um tipo de biga ao robô, podemos inventar uma biga-robô! Soltem a imaginação para criar suas bigas robotizadas!',
+          texto:'Que tal explorarmos a ideia de conectar um tipo de biga ao robô e criar uma biga-robô? Soltem a imaginação e vamos inventar nossas próprias bigas robotizadas!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
