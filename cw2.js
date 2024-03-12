@@ -1560,7 +1560,7 @@ let livro_cw2 ={
           {ordem:1,
           predecessor:0,
           //texto: 'Vocês já ouviram o ditado que duas cabeças pensam melhor que uma? Muitas vezes, podemos resolver problemas difíceis mais facilmente quando trabalhamos em par.',
-          texto:'<b>Programação em par</b> é quando duas pessoas trabalham juntas para escrever um programa de computador. Muitas vezes, podemos resolver problemas difíceis mais facilmente quando trabalhamos em dupla.',
+          texto:'<b>Programação em par</b> é quando duas pessoas trabalham juntas para escrever um programa de computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1569,7 +1569,19 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
-
+          {ordem:1,
+            predecessor:0,
+            //texto: 'Vocês já ouviram o ditado que duas cabeças pensam melhor que uma? Muitas vezes, podemos resolver problemas difíceis mais facilmente quando trabalhamos em par.',
+            texto:'Muitas vezes, podemos resolver problemas difíceis mais facilmente quando trabalhamos em dupla.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+          
             
           {ordem:3,
           predecessor:2,
@@ -1585,7 +1597,7 @@ let livro_cw2 ={
           
           {ordem:4,
           predecessor:3,
-          texto:'Sigam algumas dicas importantes para programar em par: o que digita é o "piloto" e o que procura erros é o "navegador".',
+          texto:'Quando estamos programando em par existem dois papeis, o de "piloto" e o "copiloto". O piloto é quem comanda a programação, enquanto o copiloto debuga, ou seja quem depura o programa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1594,10 +1606,10 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
-          
+
           {ordem:5,
           predecessor:4,
-          texto:'Além disso, ambos devem se revezar para não ficarem cansados.',
+          texto:'Depuração é o processo de encontrar e corrigir erros em um programa de computador, ou seja, resolver os bugs.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1609,7 +1621,7 @@ let livro_cw2 ={
           
           {ordem:6,
           predecessor:5,
-          texto:'Seguindo essas dicas, sua dupla fará programas de alta qualidade, com menos bugs.',
+          texto:'Siga essa dica importante: o piloto e o copiloto devem revesar suas funções para não ficarem cansados. Dessa forma sua dupla fará programas de alta qualidade, com menos bugs.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1618,22 +1630,11 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
+         
           
           {ordem:7,
           predecessor:6,
-          texto:'Programar em par é melhor porque dois programadores juntos fazem programas com menos erros e de alta qualidade.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-          
-          {ordem:8,
-          predecessor:7,
-          texto:'Então, lembrem-se, trabalhe em par para fazer bem feito!',
+          texto:'Então, lembrem-se, trabalhe em par para fazer bem feito! Prepare-se para trabalhar com um colega, revesando entre os papéis de piloto e copiloto.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1668,7 +1669,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Há muito tempo, lá na época dos homens das cavernas, eles tentavam fazer desenhos que parecessem se mexer, como mágica!',
+          texto:'Há muito tempo, na época dos homens das cavernas, foram feitas as primeiras tentativas de criar uma ilusão de movimento com desenhos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1680,7 +1681,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Eles desenhavam animais com patas que se sobrepunham. Quando alguém passava uma tocha sobre o desenho na parede da caverna, parecia que os animais estavam se mexendo!',
+          texto:'Os homens pré-históricos desenhavam animais com patas que se sobrepunham. Quando alguém passava uma tocha sobre o desenho na parede da caverna, parecia que os animais estavam se movimentando!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1692,7 +1693,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'No tempo dos faraós no Egito, as pessoas desenhavam figuras em paredes que pareciam se mexer! Era como assistir a uma história em quadrinhos ganhando vida!',
+          texto:'No tempo dos faraós no Egito, as pessoas desenhavam figuras em paredes com poses muito próximas umas as outras, como histórias em quadrinhos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1704,7 +1705,7 @@ let livro_cw2 ={
 
           {ordem:4,
             predecessor:3,
-            texto:'Há muito tempo, mais de 5.000 anos atrás, um artesão fez um vaso com desenhos. Quando o vaso era girado, parecia que um alce estava pulando para alcançar folhas de árvore!',
+            texto:'A mais de 5.000 anos atrás, um artesão fez um vaso com alguns desenhos. Quando o vaso era girado, parecia que um alce estava pulando para alcançar folhas de árvore.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1717,7 +1718,7 @@ let livro_cw2 ={
 
           {ordem:5,
             predecessor:4,
-            texto:'Há aproximadamente 150 anos, as pessoas começaram a fazer brinquedos de animação com papel, como o folioscópio, ou flip-book. É um bloco de papel com desenhos em sequência. Quando você passa as páginas rápido, parece que os desenhos estão se mexendo!',
+            texto:'Há aproximadamente 150 anos, as pessoas começaram a fazer brinquedos de animação com papel, como o folioscópio, ou flip-book. É um bloco de papel com desenhos em sequência. Quando você passa as páginas rápido, parece que os desenhos estão se mexendo.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1729,7 +1730,7 @@ let livro_cw2 ={
 
           {ordem:6,
             predecessor:5,
-            texto:'O taumatrópio foi um brinquedo muito famoso no século XIX. Com ele, você podia ver duas imagens diferentes ao mesmo tempo, como um pássaro dentro de uma gaiola ou uma princesa beijando um príncipe!',
+            texto:'O taumatrópio, um brinquedo popular no século 19, permitia ver duas imagens diferentes simultaneamente. Isso era possível ao colar dois desenhos em lados opostos de uma folha e girá-la rapidamente.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1738,22 +1739,12 @@ let livro_cw2 ={
             promptImagem:'', 
             imagemFonte:'',
             textoDescritivoImagem:'',},
-
-          {ordem:7,
-            predecessor:6,
-            texto:'O fenaquistiscópio usava um disco giratório com desenhos do mesmo objeto em posições diferentes. Girando o disco na frente de um espelho, os desenhos pareciam se mover!',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+            //Alvim: colocar séc XIX ou 19?
+    
           
           {ordem:8,
             predecessor:7,
-            texto:'Esses brinquedos de animação antigos continuaram a melhorar, resultando no zootrópio. Ele tinha um tambor circular com fendas onde você podia ver tiras de desenhos. Quando o tambor girava, os desenhos pareciam se mexer!',
+            texto:'Esses brinquedos de animação antigos continuaram a melhorar, resultando no zootrópio. Ele tinha um tambor circular com fendas onde você podia ver tiras de desenhos. Quando o tambor girava, os desenhos pareciam se mexer.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1765,7 +1756,7 @@ let livro_cw2 ={
           
           {ordem:9,
             predecessor:8,
-            texto:'O zootrópio também inspirou as primeiras animações em 3D, trocando os desenhos por bonecos!',
+            texto:'O zootrópio também inspirou as primeiras animações em 3D, usando bonecos posicionados de tal forma sobre um disco que, ao girar o disco, criava a ilusão de movimentação.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1777,7 +1768,7 @@ let livro_cw2 ={
 
           {ordem:10,
             predecessor:9,
-            texto:'Essas invenções mostraram algo muito importante: o movimento que vemos é uma ilusão feita mostrando imagens paradas uma depois da outra para o nosso cérebro!',
+            texto:'Essas invenções nos permitiram descobrir algo muito importante: o movimento de animação que enxergamos é uma ilusão criada a partir de imagens paradas que são vistas rapidamente e o nosso cérebro as interpreta como objetos em movimento.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1789,7 +1780,7 @@ let livro_cw2 ={
 
           {ordem:11,
             predecessor:10,
-            texto:'Esse princípio é a base da animação moderna, até mesmo das digitais, como os GIFs animados. Os GIFs são arquivos com várias imagens, mostradas rapidamente uma após a outra para parecer que estão se movendo, como em um vídeo.',
+            texto:'Esse princípio é a base da animação moderna, incluindo os GIFs animados, que são arquivos com várias imagens paradas que são exibidas rapidamente.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1835,7 +1826,7 @@ let livro_cw2 ={
           cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Desde muito tempo atrás, as pessoas contam histórias para se conectar umas com as outras. As histórias mostram sonhos, medos e coisas que as pessoas querem, mostrando diferentes lugares e culturas. ',
+          texto:'Desde muito tempo atrás, as pessoas contam histórias para se conectar umas com as outras. Nessas histórias as pessoas expressavam seus sonhos, medos e desejos, de acordo com as mais diferentes culturas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1844,10 +1835,11 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
+          //alvim: deixa cultura?
 
           {ordem:2,
           predecessor:1,
-          texto:'As histórias mudaram com o tempo. Antes eram contadas em volta do fogo, depois com desenhos, livros, filmes e agora também com animações feitas por computador. ',
+          texto:'A forma de contar histórias evoluiu com o tempo. Antes eram contadas em volta do fogo, depois com desenhos, livros, filmes e agora também com animações feitas por computador. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1859,7 +1851,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Com a programação, podemos fazer histórias animadas e interativas. Assim, quem está ouvindo pode fazer escolhas que mudam o final da história. ',
+          texto:'Com a programação, podemos fazer histórias animadas e interativas. Assim, quem está ouvindo pode fazer escolhas que mudam o final da história.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1871,7 +1863,7 @@ let livro_cw2 ={
 
           {ordem:4,
             predecessor:3, 
-            texto:'O "Story Lab" é um lugar onde você pode criar histórias animadas e interativas. Comece escolhendo um título, seu nome e uma breve descrição da história. ',
+            texto:'O "Story Lab" é um laboratório onde nós podemos criar histórias digitais. Para isso, escolha um título, prencha seu nome e faça uma breve descrição da história.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1884,7 +1876,7 @@ let livro_cw2 ={
 
           {ordem:5,
             predecessor:4,
-            texto:'Você pode mudar o cenário da história, escolhendo diferentes imagens de fundo e mudando o tamanho dos personagens e objetos. ',
+            texto:'Nós podemos mudar o cenário, escolher diferentes imagens de fundo e mudar o tamanho das personagens e objetos. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1896,7 +1888,7 @@ let livro_cw2 ={
 
           {ordem:6,
             predecessor:5,
-            texto:'Use cores diferentes no cenário. Elas não são só para decorar; os personagens podem reagir a elas durante a história. ',
+            texto:'Podemos usar cores diferentes no cenário. Elas não servem apenas para decorar: as personagens podem interagir com elas durante a história. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1908,7 +1900,7 @@ let livro_cw2 ={
 
           {ordem:7,
             predecessor:6,
-            texto:'Escolha os personagens e objetos que você quer na sua história e os coloque no cenário. Você pode mudar o nome, tamanho e outras coisas sobre eles. ',
+            texto:'Devemos esolher as personagens e objetos que farão parte da história e os colocá-los no cenário. É possível mudar o nome, tamanho e outras características delas. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1920,7 +1912,7 @@ let livro_cw2 ={
           
           {ordem:8,
             predecessor:7,
-            texto:'Alguns objetos têm movimentos pré-definidos. Você pode escolher quando esses movimentos acontecem. ',
+            texto:'Alguns objetos têm movimentos pré-definidos. Somos capazes de escolher quando esses movimentos acontecem. Por exemplo, podemos:',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1932,7 +1924,7 @@ let livro_cw2 ={
           
           {ordem:9,
             predecessor:8,
-            texto:'Decida o que acontece quando os personagens encontram esses objetos. Eles caem? Mudam de cor? Fazem alguma animação? ',
+            texto:'1 - Decidir o que acontece quando as personagens encontram esses objetos. Elas caem? Mudam de cor? Fazem alguma animação? ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1944,7 +1936,7 @@ let livro_cw2 ={
 
           {ordem:10,
             predecessor:9,
-            texto:'Programe os movimentos dos personagens. Eles podem andar, pular, cair, tudo o que você imaginar. ',
+            texto:'2 - Programar os movimentos das personagens. Elas podem andar, pular, cair, tudo o que você imaginar. ',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1956,7 +1948,7 @@ let livro_cw2 ={
 
           {ordem:11,
             predecessor:10,
-            texto:'Use a seção "aparência" para programar a narração da história. Alguém pode narrar a história enquanto os personagens se movem. ',
+            texto:'Também podemos usar a seção "aparência" para programar a narração da história. O narrador conta as histórias enquanto as personagens as representam.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1968,7 +1960,7 @@ let livro_cw2 ={
 
           {ordem:12,
             predecessor:11,
-            texto:'Faça a história interativa usando comandos especiais. Assim, ela pode mudar dependendo do que quem está assistindo faz. ',
+            texto:'Prontos para fazer suas histórias? Usem todos os comandos possíveis para contar uma história criativa e envolvente.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1992,7 +1984,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Nesta aula, vamos começar o quarto e último projeto deste módulo. Vamos animar uma história divertida ou engraçada, em que cada integrante do grupo ficará responsável por animar uma "cena da estória".',
+          texto:'Nesta aula, vamos começar o quarto e último projeto deste módulo. Vamos animar uma história divertida, em que cada integrante do grupo ficará responsável por animar uma "cena da história".',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2004,7 +1996,7 @@ let livro_cw2 ={
 
           {ordem:1,
           predecessor:0,
-          texto:'Para isso, vocês devem utilizar o Caderno de Criações para esboçar a estória, antes de partir para a criação, no Story Lab.',
+          texto:'Para isso, vocês devem utilizar o Caderno de Criações para esboçar a história, antes de partir para a criação, no Story Lab.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2014,9 +2006,10 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
+          
           {ordem:2,
           predecessor:1,
-          texto:'Confiram os critérios de avaliação na TV da Sala e lembrem-se: os projetos serão avaliados com base nesses critérios.',
+          texto:'Vejam alguns exemplos para se inspirar, como os projetos criativos que mostraremos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2028,7 +2021,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Vejam alguns exemplos para se inspirar, como as soluções de referência ou projetos criativos que mostraremos.',
+          texto:'Ah, vale lembrar que os projetos são autorais! Se inspirem nos exemplos, mas criem suas próprias histórias, dando asas à imaginação.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2040,7 +2033,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Ah, vale lembrar que os projetos são autorais! Se inspirem nos exemplos, mas organizem suas próprias ideias envolvendo, dando asas à imaginação.',
+          texto:'Prontos para começar? Vamos lá!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2049,19 +2042,7 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
-
-          {ordem:5,
-          predecessor:4,
-          texto:'Prontos para criar suas próprias histórias em quadrinho animadas? Vamos lá!',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+        //Alvim: inserir contexto mais lúdico ou mais direcionado?
            ]}},
 
 
