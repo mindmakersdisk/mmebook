@@ -185,7 +185,7 @@ let livro_cw2 ={
         id:'CW2AULA03CODE',
         /** padroesCurriculares: 
         titulo:'Lição 03. Eletricidade e Dispositivos Eletrônicos.',**/
-        infografico:{titulo:'Explorando a Eletricidade e Seus Segredos!',
+        infografico:{titulo:'Explorando a Eletricidade e Seus Segredos.',
         tituloSimplificado:'Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -217,7 +217,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Computadores portáteis, robôs e outros aparelhos podem funcionar sem estarem conectados à tomada desde que possuam baterias.',
+          texto:'Computadores portáteis, robôs e outros aparelhos chamados <b>eletrônicos</b> podem funcionar sem estarem conectados à tomada, desde que possuam baterias.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -229,7 +229,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'As <b>baterias</b> são componentes que armazenam energia por um tempo. Quando a energia acaba, recarregamos as baterias nas tomadas que trazem energia da rede elétrica.',
+          texto:'Já as <b>baterias</b> são componentes que armazenam energia por um tempo. Quando a energia acaba, recarregamos as baterias nas tomadas que trazem energia da rede elétrica.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -241,7 +241,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Existem muitos tipos de aparelhos elétricos, usados para diversas atividades! Neste curso, vamos aprender não apenas a usar, mas também a fazer novos aparelhos para diferentes tarefas.',
+          texto:'Existem muitos tipos de aparelhos eletrônicos, para diferentes finalidades. Neste curso, mais do que usar, vamos criar dispositivos eletrônicos variados.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -254,7 +254,7 @@ let livro_cw2 ={
                   
           {ordem:6,
           predecessor:5,
-          texto:'Todo aparelho eletrônico tem <b>componentes</b> importantes. Vamos aprender quais são os componentes principais antes de criarmos nossos próprios inventos.',
+          texto:'Todo aparelho eletrônico é formado por <b>componentes</b>. Vamos aprender quais são os principais componentes, antes de criar nossos próprios inventos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -266,7 +266,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Os primeiros componentes são os <b>geradores</b>, que fornecem energia para os outros funcionarem.',
+          texto:'Um primeiro tipo de componente é chamado de <b>gerador</b>. Ele fornece energia para os demais componentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -278,7 +278,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Há também os <b>controladores</b>, que servem para controlar um ou mais componentes.',
+          texto:'Há também os <b>controladores</b>, componentes que as pessoas usam para controlar os aparelhos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -290,7 +290,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Os <b>condutores</b> transmitem a energia de um componente para o outro.',
+          texto:'Já os componentes <b>condutores</b> servem para transportar a energia elétrica entre os componentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -302,7 +302,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Por fim, os <b>conversores</b> transformam a energia elétrica em luz ou movimento e realizam as funções principais de cada aparelho eletrônico.', // originalmente o nome desses componentes é aparelhos. Validar com Alvim.
+          texto:'Por fim, os componentes <b>atuadores</b> são aqueles que executam a ação principal do aparelho, seja acender uma luz, fazer algum movimento ou outra qualquer..',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -314,10 +314,10 @@ let livro_cw2 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Juntando esses quatro tipos de componentes, poderemos criar nossos próprios inventos e explorar os mistérios da eletricidade.',
+          texto:'Juntando esses quatro tipos de componentes, podemos criar diferentes inventos para explorar os mistérios da eletricidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
-          textoImpressoRecriado:'Juntando esses quatro tipos de componentes, poderemos criar nossos próprios inventos e explorar os mistérios da eletricidade. A diversão e o aprendizado estão prestes a começar!',
+          textoImpressoRecriado:'Juntando esses quatro tipos de componentes, podemos criar diferentes inventos para explorar os mistérios da eletricidade. A diversão e o aprendizado estão prestes a começar!',
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
@@ -327,7 +327,7 @@ let livro_cw2 ={
 
           {ordem:12,
           predecessor:11,
-          texto:'A diversão e o aprendizado estão prestes a começar!',
+          texto:'A diversão e o aprendizado estão prestes a começar! Prontos para desvendar os segredos da eletricidade?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:0,
@@ -596,7 +596,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você sabia que os aviões são o meio de transporte mais rápido e seguro do mundo?', //Verificar com Alvim: usar plural ou singular na pergunta inicial?
+          texto:'Vocês sabiam que os aviões são o meio de transporte mais rápido e seguro do mundo?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -632,7 +632,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Quando os aviões se movem no chão, chamamos de taxiamento. Ou seja: é quando vão dos portões até a pista e vice-versa.',
+          texto:'Damos o nome de <b>taxiamento</b> ao movimento que aviões fazem no chão, indo dos portões onde os passageiros embaracam até a pista do aeroporto, e vice-versa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -668,7 +668,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'O Taxibot é um veículo meio robotizado, controlado por humanos, capaz de realizar muitas tarefas de forma automática.',
+          texto:'O Taxibot é um veículo <b>semirobotizado</b>, ou seja, é controlado por humanos, mas capaz de realizar muitas tarefas de forma automática.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -680,7 +680,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Com mais segurança, menos combustível e menos barulho, o Taxibot leva os aviões entre portões e pista sem ligar as turbinas.',
+          texto:'Com mais segurança, menos combustível e menos barulho, o Taxibot leva os aviões entre portões e pistas sem ligar as turbinas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -692,7 +692,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Mas sempre podemos melhorar! Que tal criar um taxibot totalmente robotizado que funcione só com programação? Usem a criatividade!',
+          texto:'Mas sempre podemos melhorar! Que tal criar um taxibot totalmente robotizado que funcione só com programação?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -725,7 +725,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Hoje, vamos aprender sobre um comando poderoso nos algoritmos: os <b>laços</b>, também conhecidos como <b>loops</b>, em inglês.',
+          texto:'Hoje, vamos aprender sobre um comando poderoso dos algoritmos: os <b>laços</b>, também conhecidos como <b>loops</b>, em inglês.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -761,7 +761,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Por exemplo, ao criar um algoritmo para um robô industrial, podemos usar laços para instruir a repetição de atividades, como cortar, separar e parafusar peças.', //para um atleta, poderíamos usar laços para instruir a repetição de atividades, como pular e girar várias vezes.',
+          texto:'Por exemplo, ao criar um algoritmo para um robô industrial, podemos usar laços para instruir a repetição de ações como cortar, separar e parafusar peças.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -797,7 +797,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Os laços podem ser usados dentro de outros laços, e isso é chamado de <b>laços aninhados</b>.',
+          texto:'Os laços podem ser usados dentro de outros laços. A isso é chamamos de <b>laços aninhados</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -834,7 +834,7 @@ let livro_cw2 ={
          cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar antes de brincar, escolher entre vôlei ou futebol – tudo é uma decisão baseada em diferentes condições.',
+          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar antes de brincar, escolher entre vôlei ou futebol... Tudo isso depende de diferentes condições.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -846,19 +846,19 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
+          texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'', 
+          promptImagem:'Mae orientando um filho a levar a guarda-chuva', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
           {ordem:3,
           predecessor:2,
-          texto:'Essas condições ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+          texto:'Essas condições nos ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -870,10 +870,10 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Condições não são úteis apenas para decisões humanas, mas também em algoritmos para programas de computador e componentes eletrônicos.',
+          texto:'Condições não são úteis apenas para orientar humanos, mas também para programar computadores e componentes eletrônicos.',
           urlAudioTexto:'',
           textoSimplificado:'',
-          textoImpressoRecriado:'Condições não são úteis apenas para decisões humanas, mas também em algoritmos para programas de computador e componentes eletrônicos. Por exemplo, os sinais de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
+          textoImpressoRecriado:'Condições não são úteis apenas para orientar humanos, mas também para programar computadores e componentes eletrônicos. Por exemplo, os sinais de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
@@ -883,7 +883,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Por exemplo, os semáforos de carro e pedestre estão conectados eletronicamente para garantir que nunca tenham a mesma cor.',
+          texto:'Por exemplo, os semáforos de carro e pedestre estão conectados eletronicamente. Seus componentes eletrônicos garantem que os dois nunca tenham a mesma cor.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:0,
@@ -895,7 +895,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em algoritmos, usamos as <b>expressões condicionais</b> Se, Então e Senão para a tomada de decisões. Veja: <p><code><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+          texto:'Em algoritmos, utilizamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -907,7 +907,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Para escrever essas condições, usamos sinais matemáticos, como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
+          texto:'Note que, para escrever essas condições, usamos sinais matemáticos, como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -919,7 +919,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'E aí? Vocês estão prontos para praticar a programação com condicionais?', //Verificar com Alvim: plural ou singular?
+          texto:'E então? Estão prontos para praticar programação com condicionais?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
