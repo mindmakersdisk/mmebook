@@ -1544,8 +1544,8 @@ let livro_cw2 ={
       licao19:{
         id:'CW2AULA19CODE',
         /** padroesCurriculares: 
-        titulo:'Lição 19. Programação em Par, Depuração e Qualidade.',**/
-        infografico:{titulo:'Programação em Par, Depuração e Qualidade',
+        titulo:'Lição 19. Programação em Par e Depuração.',**/
+        infografico:{titulo:'Programação em Par e Depuração',
         tituloSimplificado:'Depuração',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1553,7 +1553,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'',
+          texto:'Trabalhar em par significa programar com um amigo. Isso é ótimo porque duas cabeças pensam melhor que uma. Juntas, podemos resolver problemas difíceis mais facilmente.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1565,7 +1565,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'',
+          texto:'Programar em par ajuda a encontrar bugs, que são como erros em um programa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1577,7 +1577,7 @@ let livro_cw2 ={
         
           {ordem:3,
           predecessor:2,
-          texto:'',
+          texto:'Quando duas pessoas trabalham juntas, uma digita, e a outra procura erros antes mesmo de o programa rodar. É como ajudar um amigo em um jogo, observando inimigos se aproximando.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1589,7 +1589,7 @@ let livro_cw2 ={
           
           {ordem:4,
           predecessor:3,
-          texto:'',
+          texto:'Sigam algumas dicas importantes para programar em par: o que digita é o "piloto" e o que procura erros é o "navegador".',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1601,7 +1601,7 @@ let livro_cw2 ={
           
           {ordem:5,
           predecessor:4,
-          texto:'',
+          texto:'Além disso, ambos devem se revezar para não ficarem cansados.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1613,7 +1613,7 @@ let livro_cw2 ={
           
           {ordem:6,
           predecessor:5,
-          texto:'',
+          texto:'Seguindo essas dicas, sua dupla fará programas de alta qualidade, com menos bugs.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1625,7 +1625,7 @@ let livro_cw2 ={
           
           {ordem:7,
           predecessor:6,
-          texto:'',
+          texto:'Programar em par é melhor porque dois programadores juntos fazem programas com menos erros e de alta qualidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1637,7 +1637,7 @@ let livro_cw2 ={
           
           {ordem:8,
           predecessor:7,
-          texto:'',
+          texto:'Então, lembrem-se, trabalhe em par para fazer bem feito!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
