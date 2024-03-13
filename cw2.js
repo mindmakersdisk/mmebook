@@ -185,7 +185,7 @@ let livro_cw2 ={
         id:'CW2AULA03CODE',
         /** padroesCurriculares: 
         titulo:'Lição 03. Eletricidade e Dispositivos Eletrônicos.',**/
-        infografico:{titulo:'Explorando a Eletricidade e Seus Segredos.',
+        infografico:{titulo:'Explorando a Eletricidade e Seus Segredos',
         tituloSimplificado:'Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -302,7 +302,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Por fim, os componentes <b>atuadores</b> são aqueles que executam a ação principal do aparelho, seja acender uma luz, fazer algum movimento ou outra qualquer..',
+          texto:'Por fim, os componentes <b>atuadores</b> são aqueles que executam a ação principal do aparelho, seja acender uma luz, fazer algum movimento ou outra qualquer.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -632,7 +632,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Damos o nome de <b>taxiamento</b> ao movimento que aviões fazem no chão, indo dos portões onde os passageiros embaracam até a pista do aeroporto, e vice-versa.',
+          texto:'Damos o nome de <b>taxiamento</b> ao movimento que aviões fazem no chão, indo dos portões onde os passageiros embarcam até a pista do aeroporto, e vice-versa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -785,7 +785,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Já imaginou criar um programa para um jogo onde um personagem caminha enquanto dá várias piruetas? Com os laços, isso fica fácil!',
+          texto:'Já imaginou criar um programa para um jogo onde uma personagem caminha enquanto dá várias piruetas? Com os laços, isso fica fácil!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -797,7 +797,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Os laços podem ser usados dentro de outros laços. A isso é chamamos de <b>laços aninhados</b>.',
+          texto:'Os laços podem ser utilizados dentro de outros laços. A isso chamamos de <b>laços aninhados</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -852,13 +852,13 @@ let livro_cw2 ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'',
-          promptImagem:'Mae orientando um filho a levar a guarda-chuva', 
+          promptImagem:'', //Mae orientando um filho a levar a guarda-chuva
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
           {ordem:3,
           predecessor:2,
-          texto:'Essas condições nos ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+          texto:'Essas condições nos ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
