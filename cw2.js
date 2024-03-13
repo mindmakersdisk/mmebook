@@ -939,8 +939,8 @@ let livro_cw2 ={
         id:'CW2AULA11CODE',
         /** padroesCurriculares: 
         titulo:'Lição 11. Projeto Biga-Robô.',**/
-        infografico:{titulo:'História das Carruagens',
-        tituloSimplificado:'Carruagens',
+        infografico:{titulo:'O Cavalo e a Roda',
+        tituloSimplificado:'O Cavalo e a Roda',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
         urlPodcast:'', **/
@@ -960,7 +960,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Após domesticar os cavalos, antigos inventores perceberam que poderiam utilizar sua força para diferentes finalidades.',
+          texto:'Antigos inventores perceberam que poderiam utilizar a força dos cavalos para diferentes finalidades.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -972,7 +972,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Cavalos eram usados na agricultura para ajudar a preparar a terra, puxando ferramentas chamadas arados, e faziam moinhos girarem para auxiliar nas tarefas diárias.',
+          texto:'Cavalos passaram a ser usados na agricultura para ajudar no preparo da terra, puxando ferramentas chamadas arados, e fazendo moinhos girarem para auxiliar nas tarefas diárias.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -984,7 +984,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Os cavalos também eram usados em veículos, como carroças ou carruagens, para levar objetos ou pessoas de um lugar para outro.',
+          texto:'Os cavalos também passaram a ser usados em veículos como carroças ou carruagens para levar objetos ou pessoas de um lugar para outro.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -997,7 +997,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Alguns veículos, como a biga romana, eram utilizados em corridas emocionantes, que atraíam tanto o público quanto as corridas de Fórmula 1 atuais.',
+          texto:'Alguns veículos como a biga romana eram utilizados em corridas emocionantes, que atraíam um grande público.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1009,7 +1009,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Hoje em dia, não precisamos mais de cavalos para puxar carruagens. Podemos usar robôs para fazer essa tarefa.',
+          texto:'Hoje em dia, não precisamos mais de cavalos para puxar carruagens... afinal, podemos usar robôs!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1021,7 +1021,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Que tal explorarmos a ideia de conectar um tipo de biga ao robô e criar uma biga-robô? Soltem a imaginação e vamos inventar nossas próprias bigas robotizadas!',
+          texto:'Que tal criar uma biga-robô? Soltem sua imaginação!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1049,7 +1049,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você sabe o que é um evento? Um <b>evento</b> é um acontecimento ou ação que pode disparar uma rotina, provando reações em resposta.',
+          texto:'Você sabe o que é um evento? Um <b>evento</b> é um acontecimento ou ação que pode disparar uma rotina, provocando reações em resposta.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1061,7 +1061,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Por exemplo, imagine que você está brincando e, de repente, seu gato pula na sua frente. Qual seria sua reação a esse evento?',
+          texto:'Por exemplo, imagine que você está brincando e, de repente, um gato pula na sua frente. Qual seria sua reação a esse evento?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1073,7 +1073,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Na computação, muitos eventos são provocados pelos usuários, que são as pessoas que usam o computador.',
+          texto:'Na computação, muitos eventos são provocados pelos usuários, como chamamos pessoas que usam o computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1085,7 +1085,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Um <b>evento de usuário</b> é disparado quando alguém clica com o mouse ou aperta uma tecla como o botão Enter, entre outras.',
+          texto:'Um <b>evento de usuário</b>, em um sistema computacional, é disparado quando o usuário clica com o mouse ou aperta uma tecla do teclado, por exemplo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1097,7 +1097,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Os programadores escrevem códigos para que os computadores respondam a esses eventos, abrindo janelas ou movendo personagens em jogos, por exemplo.',
+          texto:'Os programas de computador são escritos para responder a esses eventos. Por exemplo, abrindo janelas ou movendo personagens em jogos quando ocorre um evento de usuário.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1110,7 +1110,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Celulares, tablets e até relógios inteligentes são computadores móveis que permitem diversos tipos de eventos do usuário através de toque na tela ou do movimento do dispositivo.',
+          texto:'Celulares, tablets e relógios inteligentes são computadores móveis que permitem outros tipos de eventos do usuário. Por exemplo, um toque na tela ou um simples movimento do dispositivo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1122,7 +1122,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Alguns programas podem funcionar sozinhos, mas são raros. A maioria dos programas precisa de eventos para funcionar, como jogos ou aplicativos de redes sociais.',
+          texto:'Alguns programas podem funcionar sem interagir com os usuários. Mas a maioria dos programas que usamos, comos jogos ou aplicativos de redes sociais, estão sempre reagindo aos nossos eventos...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1134,7 +1134,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Eles respondem às nossas ações, tais como apertar uma tecla, clicar no mouse ou mexer um joystick.',
+          texto:'... Quando apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1146,7 +1146,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Os celulares e tablets têm <b>sensores</b> que podem enviar informações que podem disparar <b>eventos independentes</b>, sem qualquer ação do usuário.',
+          texto:'Além de eventos de usuário, existem também <b>eventos internos</b> nos próprios computadores, celulares e tablets.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1158,7 +1158,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Os programadores podem usar esses sensores de diversas formas. Por exemplo, se o aparelho ficar muito quente, um programa pode mandar um aviso para desligá-lo.',
+          texto:'Por exemplo, se um desses dispositivos ficar muito quente, ele pode disparar um evento para que um programa o desligue.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1184,7 +1184,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'As redes elétricas têm fios que levam a eletricidade das fontes de energia até nossas casas. ',
+          texto:'As <b>redes elétricas<b> possuem cabos que levam a eletricidade das <b>fontes de energia</b> até nossas casas. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1196,7 +1196,7 @@ let livro_cw2 ={
         
           {ordem:2,
           predecessor:1,
-          texto:'Os fios são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade. ',
+          texto:'Os cabos elétricos são formados por <b>fios</b> que, por sua vez, são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1208,7 +1208,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Cabos e fios são cobertos por um material chamado isolante, como plástico ou borracha, para evitar acidentes. ',
+          texto:'Os cabos e fios geralmente são cobertos por um material chamado <b>isolante</b>, como plástico ou borracha, para evitar acidentes. Afinal, eles não conduzem eletricidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1220,7 +1220,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Além dos metais, a água e os alimentos, como frutas, também podem conduzir eletricidade. ',
+          texto:'Além dos metais, outros materiais também podem conduzir eletricidade, por exemplo, a água e alimentos tais como as frutas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1232,7 +1232,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Os seres humanos também podem conduzir eletricidade e sentir choques elétricos.',
+          texto:'Os seres humanos também podem conduzir eletricidade e sentir choques elétricos, que são muito perigosos! Jamais toquem as tomadas elétricas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1244,7 +1244,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em nosso curso, usamos circuitos elétricos com carga baixa, que não são perigosos. Por isso, nós podemos utilizá-los com segurança, sem risco de choques.',
+          texto:'Não se preocupe. Em nosso curso, usamos circuitos elétricos com carga baixa, que não são perigosos. Por isso, podemos utilizá-los com segurança.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1256,7 +1256,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Conheça agora o Makey Makey, um aparelho eletrônico que nos permite usar materiais condutores para disparar eventos no computador. ', //Alvim: avaliar se vamos fazer menção ao Makey Makey ou usar nome genérico.
+          texto:'Conheça o Makey Makey, um dispositivo eletrônico que nos permite usar materiais condutores para disparar eventos no computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1268,7 +1268,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Um cacho de banana ou uma gelatina podem se tornar um teclado ou um mouse. Vamos experimentar?',
+          texto:'Com o Makey Makey, um cacho de banana ou uma gelatina podem se tornar um teclado ou um mouse. Vamos testar?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1299,7 +1299,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'A energia que movimenta nosso planeta vem do calor do sol, da força dos mares e do calor do centro da Terra, dando vida e movimento.',
+          texto:'A energia que movimenta nosso planeta vem do calor do Sol, da força dos mares e do calor do centro da Terra.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1311,7 +1311,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Com o tempo, nós também aprender a gerar energia elétrica para alimentar aparelhos diversos.',
+          texto:'Com o tempo, a humanidade descobriu meios de gerar energia para alimentar dispositivos elétricos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1323,7 +1323,7 @@ let livro_cw2 ={
         
           {ordem:3,
           predecessor:2,
-          texto:'Mas como a energia elétrica chega às nossas casas? A água gira turbinas em usinas hidroelétricas, que transformam esse movimento em eletricidade.',
+          texto:'Mas já pensaram em como a energia elétrica chega às nossas casas? A água gira turbinas em usinas hidrelétricas, que transformam esse movimento em eletricidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1335,7 +1335,7 @@ let livro_cw2 ={
           
           {ordem:4,
           predecessor:3,
-          texto:'A eletricidade é transmitida através dos fios e postes da rede elétrica, que levam a energia até nossas casas, fazendas e fábricas.',
+          texto:'A eletricidade, por sua vez, é transmitida por cabos da rede elétrica, que levam a energia até nossas casas, fazendas e fábricas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1347,7 +1347,7 @@ let livro_cw2 ={
           
           {ordem:5,
           predecessor:4,
-          texto:'Quando queremos utilizar essa energia, basta conectar um aparelho à tomada.',
+          texto:'Por isso, quando queremos utilizar essa energia, basta conectarmos um aparelho à tomada.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1359,7 +1359,7 @@ let livro_cw2 ={
           
           {ordem:6,
           predecessor:5,
-          texto:'Além das hidrelétricas, também conseguimos produzir energia com a luz do sol, o vento, o movimento das marés, combustíveis como a gasolina, o carvão, entre outros.',
+          texto:'Além das hidrelétricas, também conseguimos produzir energia com a luz do sol, com a força dos ventos e das marés, com combustíveis como a gasolina e o carvão, entre outros.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1371,7 +1371,7 @@ let livro_cw2 ={
           
           {ordem:7,
           predecessor:6,
-          texto:'Que tal aprender mais sobre a geração da energia, conectando componentes virtuais que simulam sua distribuição? Estão prontos?',
+          texto:'Agora vamos aprender mais sobre as várias fontes de energia, conectando nossas próprias redes no computador. Preparados?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1531,7 +1531,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Em 1876, Karl Benz inventou o primeiro automóvel, dando às pessoas autonomia para viajar sem a necessidade de um cavalo.',
+          texto:'Em 1876, Karl Benz inventou o primeiro automóvel, dando às pessoas a possibilidade de viajar sem depender de um cavalo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1543,7 +1543,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Os primeiros carros eram caros devido à construção demorada e contribuíram para a poluição à medida que sua produção cresceu.',
+          texto:'Mas os primeiros carros eram caros e poucos. À medida que sua produção cresceu, os contribuíram para a poluição.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
