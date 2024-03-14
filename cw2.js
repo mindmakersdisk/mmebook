@@ -1131,7 +1131,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'... Quando apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
+          texto:'Quando apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
