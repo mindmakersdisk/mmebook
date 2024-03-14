@@ -608,7 +608,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Eles foram inventados por um brasileiro chamado Santos Dumont!',
+          texto:'Eles foram inventados por um brasileiro chamado Santos Dumont.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -826,7 +826,7 @@ let livro_cw2 ={
         id:'CW2AULA09CODE',
         /** padroesCurriculares: 
         titulo:'Lição 09. Expressões Condicionais.',**/
-        infografico:{titulo:'Expressão Condicional: Se, Senão, se senão',
+        infografico:{titulo:'Expressão Condicional: Se, Senão, Se senão',
         tituloSimplificado:'Expressão Condicional',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1073,7 +1073,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Na computação, muitos eventos são provocados pelos usuários, como chamamos pessoas que usam o computador.',
+          texto:'Na computação, muitos eventos são provocados pelos usuários, como chamamos as pessoas que usam o computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1184,7 +1184,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'As <b>redes elétricas<b> possuem cabos que levam a eletricidade das <b>fontes de energia</b> até nossas casas. ',
+          texto:'As <b>redes elétricas</b> possuem cabos que levam a eletricidade das <b>fontes de energia</b> até nossas casas. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1196,7 +1196,7 @@ let livro_cw2 ={
         
           {ordem:2,
           predecessor:1,
-          texto:'Os cabos elétricos são formados por <b>fios</b> que, por sua vez, são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade.',
+          texto:'Os <b>cabos elétricos</b> são formados por <b>fios</b> que, por sua vez, são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1244,7 +1244,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Não se preocupe. Em nosso curso, usamos circuitos elétricos com carga baixa, que não são perigosos. Por isso, podemos utilizá-los com segurança.',
+          texto:'Não se preocupe. Em nosso curso, usamos dispositivos elétricos com carga baixa, que não são perigosos. Por isso, podemos utilizá-los com segurança.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
