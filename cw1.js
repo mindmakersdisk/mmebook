@@ -1757,7 +1757,7 @@ let livro_cw1 ={
     licao17:{id:'CW1AULA17CODE',
     /** padroesCurriculares: 
     titulo:'Lição 17. Depuração E Qualidade',**/
-    infografico:{titulo:'DETETIVES DO CÓDIGO: APRENDENDO SOBRE DEPURAÇÃO',
+    infografico:{titulo:'DETETIVES: APRENDENDO SOBRE DEPURAÇÃO',
     tituloSimplificado:'DEPURAÇÃO',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -2086,7 +2086,7 @@ let livro_cw1 ={
     licao22:{id:'CW1AULA22CODE',
     /** padroesCurriculares: 
     titulo:'Lição 16. Senhas e Segurança',**/
-    infografico:{titulo:'GUARDIÕES DIGITAIS: UMA JORNADA SOBRE SENHAS E SEGURANÇA',
+    infografico:{titulo:'UMA JORNADA SOBRE SENHAS E SEGURANÇA',
     tituloSimplificado:'SENHAS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
