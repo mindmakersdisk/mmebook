@@ -10,6 +10,7 @@ let livro_cw1 ={
   nomeFantasia: 'Introdução - Alunos em Alfabetização',
   nomeTecnico:'CW1 - Fundamentos em Ciência da Computação',
   resumo:'Módulo adequado à implantação no 1o ano do Ensino Fundamental, para alunos em alfabetização. Aborda fundamentos em letramento e pensamento computacional, introduzindo conceitos como sequencia, algoritmo, laço, evento, padrão e outros, de modo lúdico e prático.',
+  resumocapa: 'A computação tornou a aviação mais segura e eficiente. Graças a sistemas computadorizados, aviões são mais precisos em voar e pousar. A simulação de voo treina pilotos em ambientes seguros, e o gerenciamento de tráfego aéreo automatizado mantém os céus organizados.',
   isbn:'',
   autores:[],
   editor:'',
@@ -2662,14 +2663,7 @@ let livro_cw1 ={
 
   capaVerso:{
 	urlImagemTerceiraCapa:'',
-		textoTerceiraCapa:`MICROSCÓPIO
-
-    vOCÊ JÁ VIU UM MICROSCÓPIO ANTES?
-    O MICROSCÓPIO É UMA MÁQUINA ESPECIAL QUE AJUDA AS PESSOAS A VEREM COISAS MUITO PEQUENAS QUE NÃO CONSEGUIMOS VER COM OS NOSSOS OLHOS. 
-    ANTONIE VAN LEEUWENHOEK FOI O PRIMEIRO A OLHAR COISAS MUITO PEQUENAS COM UM MICROSCÓPIO. ELE VIU CÉLULAS E OUTROS BICHINHOS QUE SÃO 
-    MUITO PEQUENOS.
-    HOJE EM DIA, OS CIENTISTAS USAM O MICROSCÓPIO PARA ESTUDAR COISAS PEQUENINAS, COMO AS CÉLULAS DO NOSSO CORPO. 
-    O MICROSCÓPIO É MUITO IMPORTANTE PORQUE NOS AJUDA A VER COISAS QUE NOSSOS OLHOS NÃO CONSEGUEM VER SOZINHOS.`,
+		textoTerceiraCapa:``,
 
 		textoUltimaCapa: ''
 		},}
