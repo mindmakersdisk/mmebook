@@ -4,7 +4,7 @@ let livro_cw2 ={
   versao:'0.1.00',
   nomeFantasia: '',
   nomeTecnico:'CW2 - Fundamentos em Ciência da Computação 2',
-  resumo:'Módulo de continuidade ao CW1, para alunos em alfabetização. Aborda fundamentos em letramento e pensamento computacional, introduzindo conceitos como sequencia, algoritmo, laço, evento, padrão e outros, de modo lúdico e prático.',
+  resumo:'Módulo adequado para o Ensino Fundamental - Anos Iniciais, podendo ser implantado diretamente ou como sequência ao módulo CW1. Aborda fundamentos em letramento e pensamento computacional, praticando conceitos como algoritmo, laços, eventos, identificação de padrões, abstração e outros, de modo lúdico e prático, por meio do uso de dispositivos computacionais.',
   resumocapa: 'No automobilismo, a computação melhora a segurança e o desempenho dos veículos. Eletrônicos de bordo e telemetria analisam dados em tempo real, enquanto simulações computadorizadas auxiliam no design dos carros.',
   isbn:'',
   autores:[],

@@ -21,7 +21,7 @@ textoDescritivoImagem:'',},
   
   versao:'0.1.00',
   nomeFantasia: 'Expresso',
-  resumo:'Módulo expresso para implantação direta nos anos finais do Ensino Fundamental (F2), trazendo um resumo dos fundamentos ministrados nos módulos CW3, CW4 e CW5. É pré-requisito para o prosseguimento dos alunos no módulo CW6. Pode ser implantado do 5o ao 8o ano.',
+  resumo:'Módulo adequado à implantação direta para alunos do Ensino Fundamental a partir do 5o ano, trazendo um resumo dos conteúdos dos módulos CW3 a CW5. Aborda fundamentos em letramento e pensamento computacional como eventos, laços, programação de computadores e de robôs de forma lúdica e prática, por meio do uso de dispositivos computacionais.',
   nomeTecnico:'',
   isbn:'',
   resumocapa: 'A computação revolucionou a astronomia com telescópios avançados e processamento de dados. Satélites e missões espaciais, apoiados por poderosos cálculos computacionais, expandem nosso entendimento do universo.',
