@@ -5,7 +5,7 @@ let livro_cw3 ={
   nomeFantasia: '',
   nomeTecnico:'CW3',
   resumo:'Módulo adequado para o Ensino Fundamental - Anos Iniciais, dando sequência ao módulo CW2. Aborda o conceito de algoritmo e seus componentes lógicos como laços, funções, condições, operadores relacionais, comparativos, eventos, classes, objetos, aleatoriedade e padrões, de modo lúdico e prático, por meio do uso de dispositivos computacionais.',
-  resumocapa: 'A telefonia evoluiu com dispositivos móveis e redes de alta velocidade, possibilitados pela computação. Smartphones e apps de mensagens tornam a comunicação instantânea e acessível.',
+  resumoCapa: 'A telefonia evoluiu com dispositivos móveis e redes de alta velocidade, possibilitados pela computação. Smartphones e apps de mensagens tornam a comunicação instantânea e acessível.',
   isbn:'',
   autores:[],
   editor:'',

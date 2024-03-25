@@ -5,7 +5,7 @@ let livro_cw8 ={
   nomeFantasia: '',
   nomeTecnico:'CW8',
   resumo:'Módulo adequado para o Ensino Fundamental - Anos Finais, como sequência ao módulo CW7. Aborda conteúdos e habilidades no importante eixo de Cultura Digital (D-CULTURE), eixo que trata de campos como cibersegurança, privacidade, impacto das tecnologias digitais, ética no mundo digital e cyberbullying.',
-  resumocapa: 'A computação acelera a biotecnologia, com edição genética e sequenciamento genômico avançados. Automação e inteligência artificial impulsionam a pesquisa, trazendo avanços rápidos e personalizados na saúde.',
+  resumoCapa: 'A computação acelera a biotecnologia, com edição genética e sequenciamento genômico avançados. Automação e inteligência artificial impulsionam a pesquisa, trazendo avanços rápidos e personalizados na saúde.',
   isbn:'',
   autores:[],
   editor:'',

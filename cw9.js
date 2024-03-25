@@ -5,7 +5,7 @@ let livro_cw9 ={
   nomeFantasia: '',
   nomeTecnico:'CW9',
   resumo:'Módulo adequado para o último ano do Ensino Fundamental, como sequência ao módulo CW8. Aborda, no importante eixo de Cultura Digital (D-CULTURE), as "Tecnologias Assistivas", discutindo os desafios no dia a dia que deficientes auditivos e visuais enfrentam, e como as novas tecnologias podem vir a ajudá-los, assim como a utilização de serviços distribuídos via Internet, os Web Services, e recursos de captura de sensores de smartphones; passando pela correlação entre música, matemática e pensamento computacional, até a programação de apresentações georreferenciadas em mapas reais, produzindo animações explicativas sobre os mapas open source do OpenStreetMaps (OSM).',
-  resumocapa: 'Na engenharia, softwares de simulação e modelagem, junto à impressão 3D, tornam o design de produtos mais eficiente. Automação e IoT melhoram a construção e manutenção de infraestruturas.',
+  resumoCapa: 'Na engenharia, softwares de simulação e modelagem, junto à impressão 3D, tornam o design de produtos mais eficiente. Automação e IoT melhoram a construção e manutenção de infraestruturas.',
   isbn:'',
   autores:[],
   editor:'',
