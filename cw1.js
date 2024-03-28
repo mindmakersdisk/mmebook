@@ -1486,9 +1486,9 @@ let livro_cw1 ={
       urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'NUMERÓPOLIS É UMA CIDADE SUPER ROBOTIZADA, ONDE SÓ VIVEM ROBÔS.',
-      promptImagem:'Arte digital de uma cidade futurística',
+      promptImagem:'arte digital de uma cidade colorida e futurista, vista de cima',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
       {ordem:4,
@@ -1499,9 +1499,9 @@ let livro_cw1 ={
       urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'LÁ EM NUMERÓPOLIS, OS ROBÔS AMAM OS NÚMEROS!',
-      promptImagem:'Arte digital de uma rua em uma cidade futurística com robôs circulando, vestidos em roupas de diferentes profissões',
+      promptImagem:'arte digital de uma rua colorida e futurista, mostrando dois robôs engraçados conversando entre si, com balões de fala vazios',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:5,
@@ -1512,9 +1512,9 @@ let livro_cw1 ={
       urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'MAS OS ROBÔS DE NUMERÓPOLIS ESTÃO COM UM BAITA PROBLEMA PARA TRANSITAR NA CIDADE.',
-      promptImagem:'Arte digital de dois robôs sem braços conversando',
+      promptImagem:'arte digital de uma rua colorida e futurista, mostrando um robô engraçado coçando a cabeça',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:6,
@@ -1525,9 +1525,9 @@ let livro_cw1 ={
       urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'AS RUAS DA CIDADE NÃO TÊM PLACAS, ENTÃO OS ROBÔS FICAM PERDIDOS!',
-      promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de confusão',
+      promptImagem:'arte digital de uma rua colorida e futurista, mostrando um robô engraçado andando confuso pela rua',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:7,
@@ -1551,9 +1551,9 @@ let livro_cw1 ={
       urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'QUE TAL AJUDAR OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DOS NÚMEROS NAS RUAS?',
-      promptImagem:'',
+      promptImagem:'personagem infantil com um computador de mesa, programando',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:9,
@@ -1564,9 +1564,9 @@ let livro_cw1 ={
       urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'AGORA QUE VOCÊ JÁ SABE COMO PROGRAMAR, VAI SER MOLEZA AJUDAR NOSSOS AMIGOS, NÃO É? ',
-      promptImagem:'',
+      promptImagem:'Robô engraçado 3D acenando com a mão',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
     ]}},
 
@@ -1619,7 +1619,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'IMAGINE QUE VOCÊ QUER VER UM FILME E COMER PIPOCA.',
       promptImagem:'pintura de uma televisão a cores numa parede e uma mesa de café em frente. em cima da mesa é possível ver um bowl cheio de pipoca',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:4,
@@ -1632,7 +1632,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'MAS PARA ISSO, PRECISA TER FEITO O DEVER DE CASA.',
       promptImagem:'pintura de uma mesa cheia de livros abertos, canetas, lápis e cadernos',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:5,
@@ -1645,7 +1645,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'SE DEVER DE CASA = VERDADEIRO, ENTÃO VER FILME E COMER PIPOCA.',
       promptImagem:'pintura de uma personagem infantil sentada em um sofá, embrulhada em um cobertor e segurando um bowl cheio de pipoca',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:6,
@@ -1658,7 +1658,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'A DECISÃO É TOMADA COM BASE NA CONDIÇÃO.',
       promptImagem:'pintura de uma pessoa parada em frente a dois caminhos diferentes na floresta',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:7,
@@ -1671,7 +1671,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'',
       promptImagem:'pintura de uma pessoa pensando com o dedo na testa',
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:8,
@@ -1697,7 +1697,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES.',
       promptImagem:'pintura de programação de computador',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:10,
@@ -1710,7 +1710,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES BASEADAS EM CONDIÇÕES QUE PROGRAMAMOS NELES.',
       promptImagem:'pintura de um computador com diferentes símbolos de cheque e proibido flutuando',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:11,
@@ -1723,7 +1723,7 @@ let livro_cw1 ={
       textoImpressoRecriado:'SE VOCÊ ESTIVER JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊ PODE PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       promptImagem:'pintura de um jovem tocando uma parede com a mão',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
       {ordem:12,
