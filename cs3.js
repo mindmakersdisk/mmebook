@@ -818,7 +818,7 @@ let livro_cs3 ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'',
+        texto:'Vocês já aprenderam sobre os laços simples, onde repetimos um grupo de comandos um número específico de vezes usando o comando "repita".',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -830,7 +830,7 @@ let livro_cs3 ={
 
         {ordem:2,
         predecessor:1,
-        texto:'',
+        texto:'Agora, vamos explorar técnicas mais avançadas para tornar nossos programas mais eficientes e poderosos.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -842,7 +842,7 @@ let livro_cs3 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'',
+        texto:'Um exemplo disso é usar laços aninhados, onde um laço está dentro de outro, para reduzir a repetição de comandos.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -854,7 +854,7 @@ let livro_cs3 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'',
+        texto:'Veja como conseguimos desenhar três triângulos com apenas cinco comandos usando laços aninhados. Impressionante, não é?',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -866,7 +866,7 @@ let livro_cs3 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'',
+        texto:'Além disso, existem outros tipos de laços úteis, como o "Repita-Enquanto" e o "Repita-Até", que nos permitem repetir comandos enquanto uma condição for verdadeira ou até que uma condição seja verdadeira.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -878,7 +878,7 @@ let livro_cs3 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'',
+        texto:'Por exemplo, um DJ pode criar uma playlist para uma festa de dança ou um sargento pode organizar a banda do exército.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -890,7 +890,7 @@ let livro_cs3 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'',
+        texto:'Ao programar, é importante explorar os recursos da linguagem para tornar nosso código mais simples e fácil de entender.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -902,7 +902,7 @@ let livro_cs3 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'',
+        texto:'Veja este exemplo em linguagem de blocos, onde combinamos diferentes tipos de laços para criar programas poderosos. Vamos praticar?',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -910,31 +910,7 @@ let livro_cs3 ={
         urlImagem:'',
         promptImagem:'', 
         imagemFonte:'',
-        textoDescritivoImagem:'',},
-
-        {ordem:9,
-        predecessor:8,
-        texto:'',
-        urlAudioTexto:'',
-        textoSimplificado:'',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'', 
-        imagemFonte:'',
-        textoDescritivoImagem:'',},
-
-        {ordem:10,
-        predecessor:9,
-        texto:'',
-        urlAudioTexto:'',
-        textoSimplificado:'',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'', 
-        imagemFonte:'',
-        textoDescritivoImagem:'',},
+        textoDescritivoImagem:'',},        
 
       ]}},
 
