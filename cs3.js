@@ -216,7 +216,7 @@ let livro_cs3 ={
        cenas:[
          {ordem:1,
          predecessor:0,
-         texto:'Hoje, nós vamos descobrir como é divertido programar computadores. Estes serão seus primeiros passos na ciência da computação.',
+         texto:'Hoje, nós vamos descobrir como é divertido programar computadores.', //Estes serão seus primeiros passos na ciência da computação.',
          urlAudioTexto:'',
          textoSimplificado:'',
          textoImpresso:1,
@@ -448,7 +448,7 @@ let livro_cs3 ={
       id:'CSXAULA05CODE',
       /** padroesCurriculares: 
       titulo:'Lição 05. Robótica.',**/
-      infografico:{titulo:'Robótica com o Robô Esfera',
+      infografico:{titulo:'Robótica com Robôs de Duas Rodas',
       tituloSimplificado:'Robô Esfera',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -554,7 +554,7 @@ let livro_cs3 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'No nosso curso, vamos programar diferentes robôs, começando com um robô esfera, que se move como o BB-8 de Star Wars.',
+        texto:'No nosso curso, vamos programar robôs, começando com um robô que se move sobre duas rodas.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -566,7 +566,7 @@ let livro_cs3 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Podemos programar o robô esfera para se mover em diferentes velocidades e direções, mudar de cor, e muito mais.<p>Bem-vindo ao mundo dos robôs!',
+        texto:'Podemos programar os robôs de duas rodas para se mover em diferentes velocidades e direções, mudar de cor, e muito mais.<p>Bem-vindo ao mundo dos robôs!',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -599,7 +599,7 @@ let livro_cs3 ={
      cenas:[
        {ordem:1,
        predecessor:0,
-       texto:'Hoje, vamos aprender sobre um comando poderoso dos algoritmos: os <b>laços</b>, também conhecidos como <b>loops</b>, em inglês.',
+      texto:'Hoje, vamos aprender a programar usando um comando poderoso dos algoritmos: os <b>laços</b>, também conhecidos como <b>loops</b>, em inglês.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1080,7 +1080,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você sabe o que é um evento? Um <b>evento</b> é um acontecimento ou ação que pode disparar uma rotina, provocando reações em resposta.',
+          texto:'Como já aprendemos, um <b>evento</b> é um acontecimento ou ação que pode disparar uma rotina, provocando reações em resposta.', //Você sabe o que é um evento?
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1373,7 +1373,7 @@ let livro_cs3 ={
         id:'CSXAULA17CODE',
         /** padroesCurriculares: 
         titulo:'Lição 17. Expressão Lógica',**/
-        infografico:{titulo:'TODO Expressão Lógica',
+        infografico:{titulo:'Expressão Lógica',
         tituloSimplificado:'Lógica',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1381,7 +1381,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determinam quando um carro deve parar ou prosseguir?<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
+          texto:'Conforme nós já aprendemos, <b>expressões condicionais</b> como <b>Se</b> e <b>Então</b> são usadas para orientar a tomada de decisões. Por exemplo, no trânsito:<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1393,7 +1393,7 @@ let livro_cs3 ={
     
           {ordem:2,
           predecessor:1,
-          texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos chamados de <b>operadores relacionais</b>, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code>',
+          texto:'Em programação, usamos "Se", "Então" e "Senão" para fazer determinar decisões usando sinais matemáticos como <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp; então prossiga</code>',
           urlAudioTexto:'',	
           textoSimplificado:'',
           textoImpresso:1,
@@ -1405,7 +1405,7 @@ let livro_cs3 ={
     
           {ordem:3,
           predecessor:2,
-          texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspentão prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>senão</b> pare<br/></code>',
+          texto:'Podemos escrever decisões dentro de outras decisões. Assim, podemos definir as regras do trânsito, incluindo o sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspentão prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>senão</b> pare<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1417,7 +1417,7 @@ let livro_cs3 ={
     
           {ordem:4,
           predecessor:3,
-          texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+          texto:'Para juntar diferentes condições, usamos os termos <b>E/OU</b>. Eles são chamados de <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1429,7 +1429,7 @@ let livro_cs3 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:<p><code><b>se</b> hora = 06h00 então <br/>&nbsp;&nbsp; <b>se</b> dia = sábado ou dia = domingo <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então durma um pouco mais<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>senão</b> vá para a escola<br/></code>',
+          texto:'Operadores Lógicos ajudam a tomar decisões com base em diferentes informações, como sua agenda semanal. Por exemplo:<p><code><b>se</b> hora = 06h00 então <br/>&nbsp;&nbsp; <b>se</b> dia = sábado ou dia = domingo <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então durma um pouco mais<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>senão</b> vá para a escola<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1441,7 +1441,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Além dos operadores lógicos E/OU, podemos usar o <b>NÃO</b> para inverter uma decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede então<br/>&nbsp;&nbsp; <b>se</b> não estiver de jejum então beba água<br/></code>',
+          texto:'Além de <b>E/OU</b>, também temos o <b>NÃO</b>, que inverte uma decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede então<br/>&nbsp;&nbsp; <b>se</b> não estiver de jejum então beba água<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1453,7 +1453,7 @@ let livro_cs3 ={
             
           {ordem:7,
           predecessor:6,
-          texto:'Muita coisa nova, não é? Não se preocupe, você vai praticar muito a programação com condicionais, operadores relacionais e lógicos. E isso vai te levar longe!',
+          texto:'Muita coisa nova, não é? Mas não se preocupe, vamos praticar já para aprendermos a criar novos programas utilizando essas <b>Expressões Lógicas</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
