@@ -60,29 +60,38 @@ let livro_cs1 ={
 				texto:'VOCÊ SABE O QUE É UMA SEQUÊNCIA? JÁ OUVIU ESSA PALAVRA ANTES?',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
 				textoSimplificado:'SEQUÊNCIAS',
-				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-1.jpg',
-				promptImagem:'Imagem colorida e suave de uma jovem personagem feminina negra, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
-				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
+				urlImagem:'',
+				textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem colorida e suave de uma jovem personagem feminina negra, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
+				imagemImpresso:0,
+        imagemFonte:'ideogram',
+        textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema',},
 					 
 				{ordem:2,
 				predecessor:1,
 				texto:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/2.mp3',
 				textoSimplificado:'Sequência é ordem',
-				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-2-2.jpg',
+				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img2.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
 				promptImagem:'Imagem vívida e delicada de três ursos de pelúcia, cada um de um tamanho diferente, arranjados um ao lado do outro de maneira harmoniosa em um cenário tranquilo e colorido',
-				textoDescritivoImagem:'', /*opc*/},
+				imagemImpresso:1,
+        imagemFonte:'ideogram',
+        textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
         predecessor:2,
         texto:'ESSA ORDEM É SABER O QUE É PRIMEIRO, O QUE VEM DEPOIS DO PRIMEIRO, E ASSIM POR DIANTE.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/3.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-3.gif',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
+				urlImagem:'',
 		    promptImagem:'Imagem delicada e colorida de cinco bolas vibrantes alinhadas em sequência sobre uma mesa, em um ambiente sereno, cada bola com uma cor distinta e tons suaves. Acima de cada bola, números sequenciais flutuam, começando com 1 e terminando em 5',
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:4,
@@ -90,8 +99,12 @@ let livro_cs1 ={
         texto:'COM AS SEQUÊNCIAS, VOCÊ PODE COLOCAR TUDO EM ORDEM: PALAVRAS, BICHOS DE PELÚCIA, ACONTECIMENTOS DO DIA...',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/4.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_4.png',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
+        urlImagem:'',
         promptImagem:'uma imagem fofa de uma larva em cima de uma folha; uma imagem fofa de uma pupa pendurada numa folha; uma imagem fofa de uma borboleta pousada em uma folha', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:5,
@@ -99,11 +112,12 @@ let livro_cs1 ={
         texto:'POR EXEMPLO: QUAL É A SEQUÊNCIA DOS ACONTECIMENTOS DO SEU DIA?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/5.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-5-4-imgs.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img5.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'QUAL É SEQUÊNCIA DOS ACONTECIMENTOS NO SEU DIA?',
 		    promptImagem:'Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, se acordando na sua cama em um fundo pastel e desfocado. Ele exibe um semblante tranquilo, sonolento e feliz, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar o quarto;Imagem colorida e suave de um jovem personagem masculino, com olhos grandes e expressivos, tomando o café da manhã na mesa da cozinha com nuances de luz e sombra semelhantes a uma fotografia macro de natureza; Imagem colorida e suave de dois personagens fofos saindo de um prédio, vestidos com uniformes escolares, com olhos grandes e expressivos, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Mostrar a escola; Imagem colorida e suave e fofa de um banheiro com uma banheira cheia de espuma com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. O objetivo da imagem é mostrar que devemos tomar banho todos os dias.',
+        imagemImpresso:1,
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:6,
@@ -111,11 +125,12 @@ let livro_cs1 ={
         texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA SEQUÊNCIA, VOCÊ TAMBÉM PRECISA TER UMA REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA SEQUÊNCIA.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/6.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img6.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'VOCÊ PRECISA DE UMA REGRA.',
 		    promptImagem:'Imagem colorida e suave e fofa, no centro, uma prancheta vermelha com um papel anexado a ela. No papel, destaca-se um grande símbolo de checagem na cor verde. O fundo é desfocado com nuances suaves, lembrando uma fotografia macro da natureza.',
+        imagemImpresso:1,
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:7,
@@ -123,11 +138,12 @@ let livro_cs1 ={
         texto:'POR EXEMPLO: PARA COLOCAR OS ALUNOS EM SEQUÊNCIA, DO MENOR PARA O MAIOR, A REGRA SERÁ A ALTURA DE CADA UM.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/9.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-9.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img7.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
-        textoImpressoRecriado:'<b>SEQUÊNCIA</b>: ALUNOS <p><b>REGRA</b>: ALTURA - DO MENOR PARA O MAIOR.',
+        textoImpressoRecriado:'<b>SEQUÊNCIA</b>: CARROS DE BRINQUEDO <p><b>REGRA</b>: DO MENOR PARA O MAIOR.',
 		    promptImagem:'Imagem colorida e suave de três carrinhos fofos com tamanhos bem diferentes em fila com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
+        imagemImpresso:1,
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:8,
@@ -135,20 +151,25 @@ let livro_cs1 ={
         texto:'APRENDER SOBRE SEQUÊNCIAS É MUITO IMPORTANTE, POIS COM ELAS VOCÊ VAI PODER ORGANIZAR TUDO E ENTENDER O MUNDO AO SEU REDOR.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/10.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-10.jpg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
+        urlImagem:'',
         promptImagem:'Imagem colorida e suave de peças de um quebra cabeças espalhadas e bagunçadas sobre uma mesa com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
-		    textoDescritivoImagem:'', /*opc*/},
+		    imagemImpresso:0,
+        imagemFonte:'',
+        textoDescritivoImagem:'', /*opc*/},
   
         {ordem:9,
         predecessor:8,
         texto:'VAMOS TENTAR MAIS UMA VEZ? QUAL É A SEQUÊNCIA DAS FIGURAS? <P>O QUE ACONTECEU PRIMEIRO?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/11.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq_11.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img9.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'QUAL É A SEQUÊNCIA DAS FIGURAS? O QUE ACONTECEU PRIMEIRO?',
         promptImagem:'uma imagem fofa de uma larva em cima de uma folha; uma imagem fofa de uma pupa pendurada numa folha; uma imagem fofa de uma borboleta pousada em uma folha; uma imagem fofa de uma pupa marrom e seca pendurada numa folha; uma imagem fofa de uma folha cheia de ovos de borboleta', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:10,
@@ -156,9 +177,13 @@ let livro_cs1 ={
         texto:'ESTÁ PREPARADO PARA O MUNDO DAS SEQUÊNCIAS? VAMOS LÁ!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/12.mp3',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/Seq-12.jpg',
+        urlImagem:'',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Imagem colorida e suave de três cubos empilhados em cima de uma mesa com nuances de luz e sombra semelhantes a uma fotografia macro de natureza. Cada cubo tem um número apenas, sendo um com o número 1, outro 2, e outro 3.',
-		    textoDescritivoImagem:'', /*opc*/},
+		    imagemImpresso:0,
+        imagemFonte:'',
+        textoDescritivoImagem:'', /*opc*/},
 			]}},
 	  
 	  licao2:{id:'CS1AULA02CODE',
@@ -177,9 +202,10 @@ let livro_cs1 ={
         textoSimplificado:'Padrões',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_1.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'O QUE É UM PADRÃO?',
         promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Pessoa pensando', /*opc*/},
          
         {ordem:2,
@@ -189,9 +215,10 @@ let livro_cs1 ={
         textoSimplificado:'Padrões se repetem de forma lógica',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_2.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'PADRÕES SÃO ELEMENTOS QUE SE REPETEM DE FORMA LÓGICA.',
         promptImagem:'Arte digital de fofa de quatro circulos verdes enfileirados.', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
@@ -201,9 +228,10 @@ let livro_cs1 ={
         textoSimplificado:'Observe o que se repete',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_3.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'QUAIS SÃO AS COISAS QUE SE REPETEM AQUI?',
         promptImagem:'linda arte digital colorida de seis objetos alinhados: uma estrela amarela, um balde azul, uma estrela amarela, um círculo verde, um balde azul e um chapéu roxo', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:4,
@@ -213,9 +241,10 @@ let livro_cs1 ={
         textoSimplificado:'Observe o que se repete',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_4.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'OS PADRÕES ESTÃO EM MUITAS COISAS A NOSSO REDOR.',
         promptImagem:'Arte digital de um personagem escovando os dentes e três círculos acima da cabeça, com uma escova no primeiro círculo, uma escova com pasta de dente debaixo de uma torneira correndo água no segundo e uma escova e um tubo de pasta de dente no terceiro', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:5,
@@ -225,9 +254,10 @@ let livro_cs1 ={
         textoSimplificado:'Previsões com padrões',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_5.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'OS PADRÕES NOS AJUDAM A SABER O QUE VEM A SEGUIR.',
         promptImagem:'Arte digital de um mapa do Brasil em verde, com uma núvem e um raio sobre a região sudeste, um sol sobre a região nordeste e uma nuvem com gotas de chuva na região sul', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
           
         {ordem:6,
@@ -237,9 +267,10 @@ let livro_cs1 ={
         textoSimplificado:'Padrões resolvem problemas',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_6.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'IDENTIFICAR PADRÕES NOS AJUDA A RESOLVER PROBLEMAS.',
         promptImagem:'Arte digital de um cubo mágico com as cores misturadas e um outro cubo mágico ao lado, já resolvido', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:7,
@@ -249,9 +280,10 @@ let livro_cs1 ={
         textoSimplificado:'O padrão do dia e da noite',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_7.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'O PADRÃO DO SOL E DA LUA.',
         promptImagem:'Arte digital do sol e da lua', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:8,
@@ -261,9 +293,10 @@ let livro_cs1 ={
         textoSimplificado:'Padrões na dança',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_8.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'PADRÕES EM COREOGRAFIAS DE DANÇAS.',
         promptImagem:'Arte digital de dois bailarinos dançando em uma rua', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:9,
@@ -273,9 +306,10 @@ let livro_cs1 ={
         textoSimplificado:'Padrões e sequências',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_9.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'PADRÕES E SEQUÊNCIAS ANDAM JUNTOS.',
         promptImagem:'Arte digital de 6 figuras enfileiradas, sendo a primeira, a terceira e a quinta um triângulo amarelo e a segunda e a quarta um círculo azul. Onde deve ficar a sexta figura tem um ponto de interrogação', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:10,
@@ -283,8 +317,12 @@ let livro_cs1 ={
         texto:'OS PADRÕES PODEM SER ENCONTRADOS EM PALAVRAS, NÚMEROS, SÍMBOLOS, HORÁRIOS, COMPORTAMENTOS E MUITO MAIS.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões em todo lugar.',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pdr_10.jpeg',
         promptImagem:'Arte digital com vários cubos espalhados, de diferentes tamanhos e diferentes tons do mesmo azul', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
       ]}},
     
@@ -305,8 +343,12 @@ let livro_cs1 ={
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-1.jpg',
-				promptImagem:'Imagem vibrante e alegre de um personagem infantil curioso, com olhos arregalados, pensando para tentar resolver um problema, rodeado de ícones divertidos e coloridos representando etapas sequenciais.',
-				textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
+				textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem vibrante e alegre de um personagem infantil curioso, com olhos arregalados, pensando para tentar resolver um problema, rodeado de ícones divertidos e coloridos representando etapas sequenciais.',
+				imagemImpresso:0,
+        imagemFonte:'',
+        textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema', /*opc*/},
 					 
 				{ordem:2,
 				predecessor:1,
@@ -315,10 +357,11 @@ let livro_cs1 ={
 				textoSimplificado:'Algoritmos em todos os lugares',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-2.jpg',
 				textoImpresso:1,
-				imagemImpresso:1,
 				textoImpressoRecriado:'OS ALGORITMOS ESTÃO EM TODO LUGAR!',
 				promptImagem:'Imagem vibrante e alegre de uma cidade vista de cima, com componentes computacionais sendo mostrados em diferentes locais.',
-				textoDescritivoImagem:'Cidade super conectada, com componentes computacionais nos mais diversos locais', /*opc*/},
+				imagemImpresso:1,
+        imagemFonte:'',
+        textoDescritivoImagem:'Cidade super conectada, com componentes computacionais nos mais diversos locais', /*opc*/},
 
         {ordem:3,
         predecessor:2,
@@ -327,9 +370,10 @@ let livro_cs1 ={
         textoSimplificado:'O que é um algoritmo?',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-3.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMOS = INSTRUÇÕES.',
 		    promptImagem:'Imagem vibrante e alegre de uma lista com diferentes itens marcados como feitos.',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Lista com marcações de que tarefas foram executadas', /*opc*/},
 
         {ordem:4,
@@ -339,10 +383,11 @@ let livro_cs1 ={
         textoSimplificado:'Os algoritmos e os computadores',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-4.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMOS SERVEM PARA PROGRAMAR COMPUTADORES.',
         promptImagem:'Imagem vibrante e alegre de um personagem infantil sentada de costas, com um laptop à sua frente, com vários balões de linguagens de programação saindo da tela do computador.', 
-		    textoDescritivoImagem:'Programador em seu computador', /*opc*/},
+		    imagemImpresso:1,
+        imagemFonte:'',
+        textoDescritivoImagem:'Programador em seu computador', /*opc*/},
 
         {ordem:5,
         predecessor:4,
@@ -351,9 +396,10 @@ let livro_cs1 ={
         textoSimplificado:'Os algoritmos e as pessoas',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-5.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA FAZER UM CORAÇÃO DE PAPEL.',
         promptImagem:'Imagem vibrante e alegre dos passos para se fazer um coração de origami',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Computador mostrando um algoritmo e papel também mostrando um algoritmo', /*opc*/},
 
         {ordem:6,
@@ -363,9 +409,10 @@ let livro_cs1 ={
         textoSimplificado:'Uma receita é um algoritmo',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-6.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'RECEITAS TAMBÉM SÃO ALGORITMOS.',
         promptImagem:'Arte digital com seis imagens, uma ao lado da outra, sendo a primeira um prato com 2 fatias de pão. A segunda imagem mostra um pote de maionese ao fundo e uma faca passando maionese em uma fatia de pão. A terceira mostra um pedaço de quijo ao fundo e uma mão colocando uma fatia de queijo no pão que tem maionese. A quarta mostra duas mãos cortando fatias de um tomate. A quinta mostra a fatia de pão em cima do prata, com maionese embaixo, queijo e rodelas de tomate em cima. A última imagem mostra um sanduíche em cima de um prato, feito com pão, maionese, queijo, tomate e outra fatia de pão em cima.', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Preparo de uma receita com algoritmos', /*opc*/},
 
         {ordem:7,
@@ -375,9 +422,10 @@ let livro_cs1 ={
         textoSimplificado:'Rotina matinal também é um algoritmo',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg_6.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA ESCOVAR OS DENTES.',
 		    promptImagem:'Imagem vibrante e alegre com quatro imagens dos passos para escovação dos dentes: 1) colocar pasta de dente na escova; 2) escovar os dentes; 3) enxaguar boca; 4) passar fio dental nos dentes.',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Pessoa seguindo os passos para escovar os dentes', /*opc*/},
 
         {ordem:8,
@@ -387,9 +435,10 @@ let livro_cs1 ={
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-8.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMO PARA DOBRAR CAMISAS.',
         promptImagem:'Imagem vibrante e alegre de uma pilha de camisas coloridas dobradas',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Camisa dobrada seguindo algoritmos', /*opc*/},
 
         {ordem:9,
@@ -399,9 +448,10 @@ let livro_cs1 ={
         textoSimplificado:'Especificar as instruções',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-9.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'AS INSTRUÇÕES PRECISAM SER CLARAS.',
         promptImagem:'Imagem vibrante e alegre mostrando uma personagem infantil confusa, com olhos arregalados, com uma folha de papel na mão tentando resolver um problema, sem saber o que fazer e vários pontos de interrogação oando acima de sua cabeça.',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Pessoa confusa com o algoritmo que está tentando seguir', /*opc*/},
 
         {ordem:10,
@@ -410,8 +460,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo para beber leite',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-10.jpg',
-		    promptImagem:'Imagem vibrante e alegre mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada.',
-		imagemFonte:'bing',		
+		    textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem vibrante e alegre mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada.',
+		    imagemImpresso:0,
+        imagemFonte:'bing',		
         textoDescritivoImagem:'Copo de leite em cima de uma bancada', /*opc*/},
   
         {ordem:11,
@@ -420,7 +473,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'Passo 1',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-11.jpg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Imagem vibrante e alegre de uma mão de uma pessoa pegando um copo americano de vidro transparente de um armário.',
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'Mão pegando um copo', /*opc*/},
   
         {ordem:12,
@@ -429,7 +486,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'Passo 2',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-12.jpg',
-		    promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa colocando um copo de vidro americano transparente e vazio em cima de uma bancada em uma cozinha.',
+		    textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa colocando um copo de vidro americano transparente e vazio em cima de uma bancada em uma cozinha.',
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'Mão colocando um copo na bancada', /*opc*/},
   
         {ordem:13,
@@ -438,7 +499,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'Passo 3',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-13.jpg',
-		    promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa retirando uma caixa de leite de dentro de um geladeira.',
+		    textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa retirando uma caixa de leite de dentro de um geladeira.',
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'Mão pegando o leite da geladeira', /*opc*/},
   
         {ordem:14,
@@ -447,7 +512,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'Passo 4',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-14.jpg',
-		    promptImagem:'Imagem vibrante e alegre de um copo americano transparente de vidro que está em cima de uma bancada em uma cozinha sendo enchido de leite a partir de uma caixa de leite que uma mão de um personagem do tipo pessoa está segurando.',
+		    textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem vibrante e alegre de um copo americano transparente de vidro que está em cima de uma bancada em uma cozinha sendo enchido de leite a partir de uma caixa de leite que uma mão de um personagem do tipo pessoa está segurando.',
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'Mão colocando o leite dentro do copo', /*opc*/},
   
         {ordem:15,
@@ -456,7 +525,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'Passo 5',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-15.jpg',
-		    promptImagem:'Imagem vibrante e alegre de um personagem infantil bebendo leite de um copo americano de vidro transparente cheio de leite. O personagem deve estar bebendo o leite do copo. O xopo deve estar na boca do personagem,',
+		    textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'Imagem vibrante e alegre de um personagem infantil bebendo leite de um copo americano de vidro transparente cheio de leite. O personagem deve estar bebendo o leite do copo. O xopo deve estar na boca do personagem,',
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'Criança bebendo o leite', /*opc*/},
   
         {ordem:16,
@@ -466,9 +539,10 @@ let livro_cs1 ={
         textoSimplificado:'Instruções não especificadas geram erros',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-16.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'SEM INSTRUÇÕES CLARAS:',
 		    promptImagem:'Imagem vibrante e alegre de uma cozinha com uma poça de leite no chão.',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Poça de leite no chão', /*opc*/},
   
         {ordem:17,
@@ -478,9 +552,10 @@ let livro_cs1 ={
         textoSimplificado:'Algoritmos e resolução de problemas',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-17.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'PARTIR PROBLEMAS GRANDES EM VÁRIOS MENORES.',
 		    promptImagem:'Imagem colorida e divertida de uma caixa de papelão ampla e aberta, de onde emergem múltiplas caixinhas menores, todas fechadas, flutuando ao seu redor.',
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'Caixa grande de problemas com vários problemas menores saindo dela', /*opc*/},
   
         {ordem:18,
@@ -490,10 +565,11 @@ let livro_cs1 ={
         textoSimplificado:'Instruções claras',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-18.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ALGORITMOS PARA TUDO!',
         promptImagem:'Imagem vibrante e alegrecom os quatro passos básicos do crescimento de uma planta: 1) imagem mostrando um buraco na terra no qual a flor será plantada; 2) imagem mostrando a semente dentro do buraco; 3) imagem mostrando o broto da flor; 4) imagem mostrando uma flor.',
-		    textoDescritivoImagem:'Pessoa lendo um algoritmo e entendendo o que precisa ser feito', /*opc*/},
+		    imagemImpresso:1,
+        imagemFonte:'',
+        textoDescritivoImagem:'Pessoa lendo um algoritmo e entendendo o que precisa ser feito', /*opc*/},
 			]}},
     
       licao5:{},
@@ -512,7 +588,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_1.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robôs engraçados em 3d', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:2,
@@ -521,7 +601,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_2.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robô engraçado 3D construindo outro robô', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:3,
@@ -531,9 +615,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_3.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'O QUE SÃO ROBÔS?',
         promptImagem:'Robô engraçado 3D confuso com pontos de interrogação flutuando ao seu redor', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
         
         {ordem:4,
@@ -542,7 +627,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_4.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robô engraçado 3D acenando com a mão', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:5,
@@ -552,9 +641,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_5.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'OS ROBÔS SÃO MÁQUINAS QUE PODEM EXECUTAR DIFERENTES TAREFAS.',
         promptImagem:'Robô engraçado 3D explorando outros planetas', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:6,
@@ -564,9 +654,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_6.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'EXISTEM ROBÔS PARECIDOS COM HUMANOS E ROBÔS BEM DIFERENTES.',
         promptImagem:'Robô humanóide 3D engraçado andando na rua', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:7,
@@ -575,7 +666,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_7.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robôs engraçados 3D construindo um carro', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:8,
@@ -584,7 +679,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_8.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robô cirurgião 3d engraçado andando em um hospital', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:9,
@@ -593,7 +692,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_9.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robô engraçado 3D empurrando um carrinho cheio de compras', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:10,
@@ -603,9 +706,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_10.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ROBÔS TÊM CÉREBRO?',
         promptImagem:'robô engraçado 3d pensando', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:11,
@@ -615,9 +719,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_11.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'OS ROBÔS SÃO MÁQUINAS, ENTÃO PRECISAM SER PROGRAMADOS.',
         promptImagem:'Robô engraçado 3D ao lado de um computador, ouvindo o que o computador tem a dizer', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:12,
@@ -626,7 +731,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_12.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Desenho engraçado de robô 3D com um lápis', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:13,
@@ -636,9 +745,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_13.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'OS ROBÔS NÃO PENSAM, APENAS SEGUEM AS ORDENS QUE DAMOS.',
         promptImagem:'Robô engraçado 3D olhando para um computador, como se estivesse esperando que ele dissesse algo', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:14,
@@ -647,7 +757,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_14.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Robô engraçado 3D dirigindo um carro', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:15,
@@ -656,7 +770,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/robos_15.jpeg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'robôs engraçados 3d', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
         ]}},
     
@@ -675,9 +793,9 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'NO MUNDO DOS ROBÔS EXISTE UM LUGAR...',
         promptImagem:'Arte 3d de um planeta visto de longe', /*opc*/
+        imagemImpresso:1,
         imagemFonte:'leonardo',
         textoDescritivoImagem:'', /*opc*/},
   
@@ -688,9 +806,9 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_2.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'CHAMADO “ROBOLÂNDIA”, O PAÍS DOS ROBÔS.',
         promptImagem:'Arte 3d de um país visto de cima, com pelo menos quatro cidades distintas', /*opc*/
+        imagemImpresso:1,
         imagemFonte:'leonardo',
         textoDescritivoImagem:'', /*opc*/},
   
@@ -700,7 +818,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Arte 3d de uma cidade futurística', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
           
         {ordem:4,
@@ -710,9 +832,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_4.jpg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'E HOJE VAMOS CONHECER A CIDADE DE ROBÓPOLIS, A CAPITAL DA ROBOLÂNDIA.',
         promptImagem:'Arte 3d de uma rua numa cidade futurística, habitada por robôs', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:5,
@@ -722,9 +845,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_5.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'ONDE OS ROBÔS MORAM E TRABALHAM.',
         promptImagem:'Arte de diferentes robôs passando por uma rua, a caminho do trabalho, e um robô gari varrendo a calçada', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:6,
@@ -734,9 +858,10 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_6.jpeg',
         textoImpresso:1,
-        imagemImpresso:1,
         textoImpressoRecriado:'E COM A SUA AJUDA, ELES VÃO FAZER TODAS AS TAREFAS E MANTER A ENERGIA LÁ NO ALTO!',
         promptImagem:'Arte digital de uma pilha sendo energizada', /*opc*/
+        imagemImpresso:1,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:7,
@@ -745,7 +870,11 @@ let livro_cs1 ={
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
         promptImagem:'Arte digital de uma cidade futurística', /*opc*/
+        imagemImpresso:0,
+        imagemFonte:'',
         textoDescritivoImagem:'', /*opc*/},
       ]}},
   },
@@ -768,9 +897,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loops_1.jfif',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS LAÇOS SERVEM PARA O COMPUTADOR FAZER COISAS DE MODO REPETIDO.',
       promptImagem:'criança pulando corda, desenho animado', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -780,9 +910,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'É SÓ DAR A ORDEM PARA O COMPUTADOR: "FAÇA DE NOVO E DE NOVO..."',
       promptImagem:'computador desktop com o símbolo do infinito na tela, desenho animado', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -792,9 +923,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_3.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR CONTA QUANTAS VEZES PEDIMOS PARA ELE FAZER UMA AÇÃO E A REPETE NA QUANTIDADE CERTA.',
       promptImagem:'desenho animado de uma criança usando o computador', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -804,9 +936,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ, POR EXEMPLO..',
       promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -816,9 +949,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR SABE CONTAR E ENTENDE QUANDO TEM QUE FAZER A MESMA COISA VÁRIAS VEZES.',
       promptImagem:'desenho animado de um computador com cinco emojis de carinha sorridente na tela', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -828,9 +962,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS LAÇOS FAZEM OS SEUS ALGORITMOS MAIS RÁPIDOS E PODEROSOS.',
       promptImagem:'desenho animado de um computador com um balão de fala vazio em cima', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -840,9 +975,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_7.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS LAÇOS VÃO TE AJUDAR A TORNAR SEUS ALGORITMOS AINDA MAIS INCRÍVEIS!',
       promptImagem:'desenho animado que demonstre o que é internet das coisas', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
 	  
@@ -861,9 +997,9 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA.',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
+      imagemImpresso:1,
       imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -873,7 +1009,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
+      imagemImpresso:0,
       imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -884,9 +1023,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ESTA É NUMERÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -896,9 +1036,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'EM NUMERÓPOLIS, OS ROBÔS FAZEM DE TUDO PARA MANTER A ENERGIA LÁ NO ALTO...',
       promptImagem:'Arte digital de uma rua em uma cidade futurística com robôscirculando, vestidos em roupas de diferentes profissões', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -908,9 +1049,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'E COMO O NOME SUGERE, OS ROBÔS DE NUMERÓPOLIS AMAM NÚMEROS!',
       promptImagem:'Arte digital de dois robôs sem braços conversando', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -920,9 +1062,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'MAS OS ROBÔS DE NUMERÓPOLIS ESTÃO COM UM BAITA PROBLEMA PARA TRANSITAR NA CIDADE.',
       promptImagem:'Arte digital de uma rua d euma cidade futurística com diversos robôs sem braços circulando, com expressões de confusão', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -932,9 +1075,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_7.jpg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'AS RUAS DA CIDADE NÃO TÊM PLACAS, ENTÃO OS ROBÔS FICAM PERDIDOS!',
       promptImagem:'Arte digital e uma rua em uma cidade futurística e uma placa de trânsito com um sinal de interrogação', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -944,9 +1088,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_8.png',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'QUE TAL AJUDAR OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DOS NÚMEROS NAS RUAS?',
       promptImagem:'Arte digital de uma rua em uma cidade futurística com o número dois pintado na rua', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -955,7 +1100,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_9.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -964,7 +1113,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
       
       {ordem:11,
@@ -973,7 +1126,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_11.jpg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -982,7 +1139,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_12.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um robô desenhista', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -991,7 +1152,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_13.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma lâmpada acesa', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1000,7 +1165,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
     
@@ -1019,9 +1188,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*pode ser o mesmo dos outros infográficos*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1030,7 +1200,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1039,7 +1213,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_3.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*pode ser uma derivação da mesma imagem da ordem 2*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1049,9 +1227,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'MAS O LIXO ESTÁ SE ACUMULANDO. POR QUÊ?',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com lixo se acumulando pela rua', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1061,9 +1240,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'AH, NÃO! O ROBÔ-RECICLADOR ESTÁ QUEBRADO... E AGORA?',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com um robô que parece uma escavadeira, com uma roupa de gari quebrado em um canto da rua.', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1073,9 +1253,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'COMO OS OUTROS ROBÔS NÃO SABEM RECICLAR O LIXO, VOCÊ TERÁ QUE CRIAR UM PROGRAMA PARA AJUDAR A CIDADE.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com robôs circulando, com expressão de confusão', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1085,9 +1266,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_7.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A PRIMEIRA ETAPA É SEPARAR OS DIFERENTES TIPOS DE LIXO EM LIXEIRAS DIFERENTES.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com as quatro lixeiras de reciclagem enfileiradas', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1097,9 +1279,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_8.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A SEGUNDA ETAPA É LEVAR TUDO PARA O CENTRO DE RECICLAGEM.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com uma grande fábrica de reciclagem', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1109,9 +1292,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_9.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'NA TERCEIRA ETAPA, O QUE ANTES ERA LIXO VIRA UM PRODUTO NOVO!',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com dois robôs circulando com produtos reciclados', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1120,7 +1304,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_10.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com um grande símbolo de reciclagem em verde', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1130,9 +1318,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_11.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'O ROBÔ-RECICLADOR FAZ MUITA FALTA, NÃO É?',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com um robô com expressão de que está sentindo falta de alguma coisa', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1141,7 +1330,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_12.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística bem limpa', /*pode ser alguma variação de outras do mesmo infográfico*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
     
@@ -1165,7 +1358,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_1.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Quadrinhos de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser a mesma já utilizada antes*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1175,9 +1372,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'UM EVENTO É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
       promptImagem:'Quadrinhos de uma nuvem de chuva', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1187,9 +1385,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_3.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS PODEM SER COISAS QUE ACONTECEM TODOS OS DIAS...',
       promptImagem:'Quadrinhos de um personagem em frente a um espelho, escovando os dentes', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1199,9 +1398,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OU COISAS ESPECIAIS.',
       promptImagem:'uma criança soprando velas de um bolo de aniversário, quadrinhos', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1211,9 +1411,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS ESTÃO ATÉ NOS COMPUTADORES!',
       promptImagem:'quadrinhos de um computador', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1223,9 +1424,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS PODEM SER PROGRAMADOS.',
       promptImagem:'quadrinhos de um computador com vários códigos saindo da tela', /*pode ser alguma já utilizada*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1234,7 +1436,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_7.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'quadrinhos de uma criança jogando videogame', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1243,7 +1449,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_8.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1253,9 +1463,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_9.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'TOCAR NA TELA DO TABLET É UM EVENTO.',
       promptImagem:'uma pessoa usando um tablet, quadrinhos', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1265,9 +1476,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_10.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'APERTAR UMA TECLA NO TECLADO É UM EVENTO.',
       promptImagem:'uma pessoa apertando uma tecla em um teclado de computador, quadrinhos', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1277,9 +1489,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_11.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'TODO EVENTO PROVOCA UMA REAÇÃO DO COMPUTADOR.',
       promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1289,9 +1502,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_12.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'USAR O JOYSTICK PARA JOGAR VIDEOGAMES TAMBÉM DISPARA EVENTOS.',
       promptImagem:'quadrinhos de uma criança jogando videogame', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1301,9 +1515,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_13.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'NO VIDEOGAME, A REAÇÃO PODE SER O MOVIMENTO DE UM PERSONAGEM QUE VOCÊ CONTROLA.',
       promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1313,9 +1528,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_14.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS EVENTOS ESTÃO EM TODA PARTE!',
       promptImagem:'um computador desktop, um tablet, um celular, um videogame e uma TV, quadrinhos', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
 	  
@@ -1340,7 +1556,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_1.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um cadeado fechado e vários asteriscos voando em torno dele', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1350,9 +1570,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'PODEMOS PROTEGER NOSSOS DISPOSITIVOS.',
       promptImagem:'Arte digital de um cadeado em forma de escudo medieval com um notebook logo atrás, algumas nuvens e ícones de correspondência', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1361,7 +1582,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_3.png',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma tela de programa com um cadeado bem em cima', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1371,9 +1596,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'O QUE É UMA SENHA?',
       promptImagem:'Arte digital de uma box para digitar com vários asteriscos e um cadeado atrás', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1383,9 +1609,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A SENHA É COMO UMA CHAVE SECRETA.',
       promptImagem:'Arte digital colorida de um código secreto', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1395,9 +1622,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A SENHA PRECISA SER FORTE.',
       promptImagem:'Arte digital colorida de um braço forte segurando um cadeado', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1406,7 +1634,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_7.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1415,7 +1647,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_8.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma tranca de uma porta com uma chave', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1425,9 +1661,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_9.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA...',
       promptImagem:'Arte digital colorida de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1437,9 +1674,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_10.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'... E DÍFICIL DE ADIVINHAR.',
       promptImagem:'Arte digital de uma caixa de papelão aberta na parte de cima, com vários ícones de envelopes, chaves, balões de conversa saltando de dentro dela', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1449,9 +1687,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_11.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'QUANTO MAIS FORTE A SENHA, MAIS PROTEGIDO VOCÊ ESTÁ.',
       promptImagem:'Arte digital de personagem hackeando um computador', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1461,9 +1700,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_12.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'NÃO COMPARTILHE SUAS SENHAS!',
       promptImagem:'Arte digital de uma mão entregando uma chave para outra mão', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1473,9 +1713,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_13.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'SUA SENHA É SECRETA.',
       promptImagem:'Arte digital de um rosto com um dedo em frente à boca, fazendo sinal de segredo', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1485,9 +1726,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_14.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
       promptImagem:'Arte digital colorida de um ladrão carregando um laptop', /*pode ser uma variação do que já foi usado anteriormente*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:15,
@@ -1497,9 +1739,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_15.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'CUIDADO COM MENSAGENS ESTRANHAS.',
       promptImagem:'Arte digital de um laptop com um envelope bem na tela', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:16,
@@ -1508,7 +1751,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_16.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital colorida de um smatphone com um cadeado dourado na tela', /*pode ser uma variação da já usada anteriormente*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:17,
@@ -1518,9 +1765,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_17.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'VAMOS NOS PROTEGER!',
       promptImagem:'arte digital colorida que retrata a segurança cibernética', /*pode ser uma variação da já usada anteriormente*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:18,
@@ -1529,7 +1777,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_18.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um smatphone com um cadeado dourado na tela', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -1548,9 +1800,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_1.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'O QUE É UMA CONDICIONAL?',
       promptImagem:'pintura de uma pessoa pensando, com vários pontos de interrogação ao seu redor', /*pode ser usada alguma variação de outra imagem já pronta*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1559,7 +1812,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'pintura de uma pessoa pensando no que comer, com um prato de macarrão e um hambúrguer na mesa em frente', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1569,9 +1826,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_3.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'IMAGINE QUE VOCÊ QUER IR BRINCAR NO PARQUE.',
       promptImagem:'pintura de um parque com sol', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1581,9 +1839,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ANTES DE SAIR, PRECISA VERIFICAR SE ESTÁ CHOVENDO.',
       promptImagem:'pintura de uma nuvem chovendo', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1593,9 +1852,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'SE CHUVA = VERDADEIRO, ENTÃO BRINCAR DENTRO DE CASA. SENÃO, BRINCAR NO PARQUE.',
       promptImagem:'pintura de uma nuvem de chuva e um sol do outro lado', /*pode ser uma variação da outra*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1605,9 +1865,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A DECISÃO É TOMADA COM BASE NA CONDIÇÃO.',
       promptImagem:'pintura de uma pessoa parada em frente a dois caminhos diferentes na floresta', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1616,7 +1877,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_7.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'pintura de uma pessoa pensando com o dedo na testa', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1625,7 +1890,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_8-2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'pintura de uma criança do sexo feminino pensando em qual brinquedo vai brincar, com um ursinho de pelúcia e um trem de madeira na sua frente', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1635,9 +1904,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_9.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES.',
       promptImagem:'pintura de programação de computador', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1647,9 +1917,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_10.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES BASEADAS EM CONDIÇÕES QUE PROGRAMAMOS NELES.',
       promptImagem:'pintura de um computador com diferentes símbolos de cheque e proibido flutuando', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1659,9 +1930,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_11.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'SE VOCÊ ESTIVER JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊ PODE PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1670,7 +1942,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_12.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1679,7 +1955,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_13.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'pintura de um jovem pensando em um parque', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
     ]}},
@@ -1701,9 +1981,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_1.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE "DEPURAÇÃO", OU "DEBUGGING".',
       promptImagem:'lupa de arte digital sobre um laptop', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1713,9 +1994,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
       promptImagem:'um bug robótico 3D andando sobre um laptop em um fundo futurista e colorido', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1724,7 +2006,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_3-2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'investigador em um fundo colorido', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1733,7 +2019,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_4-2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'peças de um quebra-cabeça espalhadas por uma mesa em um fundo colorido', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1742,7 +2032,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_5.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de um quebra cabeças iniciado, que mostra a imagem de um robô engraçado, mas ainda faltando algumas peças para terminar', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1751,7 +2045,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_6.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'uma lupa 3D sobre um laptop em um fundo futurista e colorido', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1761,9 +2059,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_7.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A DEPURAÇÃO É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
       promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1773,9 +2072,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_8.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'E TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
       promptImagem:'arte digital de um computador com código flutuando em um fundo colorido', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1785,9 +2085,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_9.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS.',
       promptImagem:'Arte digital de programação de computadores', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1797,9 +2098,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_10-2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       promptImagem:'arte digital de depuração de computador', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1809,9 +2111,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_11.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       promptImagem:'digital art of pair programming in a colorful background', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1821,9 +2124,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_12.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       promptImagem:'arte digital de resolução de problemas em um fundo colorido', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1832,7 +2136,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_13-2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -1864,9 +2172,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1876,9 +2185,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'E HOJE VAMOS AJUDAR OS ROBÔS DA CIDADE NOVAMENTE.',
       promptImagem:'rua colorida e futurística com robôs engraçados andando por ela com expressão feliz', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1888,9 +2198,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_3.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'OS ROBÔS QUEREM ANDAR DE CARRO PELA CIDADE, MAS NÃO CONHECEM AS REGRAS DE TRÂNSITO.',
       promptImagem:'um robô 3D engraçado dirigindo um carro em uma rua colorida e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1900,9 +2211,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'PARA DIRIGIR COM SEGURANÇA, ELES PRECISAM CONHECER O QUE SIGNIFICA CADA COR QUE APARECE NOS SEMÁFOROS.',
       promptImagem:'uma rua colorida e futurista mostrando um grande semáforo', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1911,7 +2223,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_5.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1921,9 +2237,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA OS ROBÔS ATRAVESSAREM ROBÓPOLIS SEMPRE RESPEITANDO OS SINAIS DE TRÂNSITO.',
       promptImagem:'dois robôs engraçados dirigindo carros em uma rua colorida e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1933,9 +2250,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_7.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'o retrovisor de um carro engraçado super rápido em uma rua colorida e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -1958,10 +2276,11 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_1.jpg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER BINARÓPOLIS.',
       promptImagem:'um país colorido e futurista, visto de cima, mostrando diferentes cidades', /*opc*/
       imagemFonte:'leonardo',
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1970,7 +2289,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_2.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'dois robôs 3D engraçados andando em um parque colorido e futurista, com muitas árvores', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1980,9 +2303,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_3-2.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'POR AQUI , OS ROBÔS TAMBÉM AMAM OS NÚMEROS, MAS SÓ CONHECEM O UM E O ZERO.',
       promptImagem:'dois robôs engraçados conversando entre si com balões de fala em uma rua colorida e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1992,9 +2316,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_4.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'ESSE É O CÓDIGO PRIMITIVO DOS COMPUTADORES, TAMBÉM CONHECIDO COMO SISTEMA BINÁRIO.',
       promptImagem:'um robô 3D engraçado estudando um livro antigo em um ambiente colorido e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -2004,9 +2329,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_5.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'E ESSE SISTEMA UTILIZA SOMENTE DOIS SÍMBOLOS: 0 E 1.',
       promptImagem:'zeros e uns flutuando sobre um balão de fala em um cenário colorido e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -2016,9 +2342,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_6.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
       promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -2027,7 +2354,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_7.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'um computador com código binário na tela, em um fundo colorido e futurista', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -2037,9 +2368,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_8.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'NO SISTEMA BINÁRIO, O UM É REPRESENTADO POR UMA CAIXINHA BRANCA, QUE QUER DIZER: LIGADO.',
       promptImagem:'um processador de computador com um quadrado branco flutuando acima dele em um fundo colorido e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -2049,9 +2381,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_9.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'E O ZERO É REPRESENTADO POR UMA CAIXINHA PRETA, QUE QUER DIZER: DESLIGADO.',
       promptImagem:'um processador de computador com um quadrado preto flutuando acima dele em um fundo colorido e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -2061,9 +2394,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_10.png',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'PARA REPRESENTAR OS OUTROS NÚMEROS, USAMOS UMA SEQUÊNCIA DE CAIXINHAS BRANCAS E PRETAS.',
       promptImagem:'', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -2073,9 +2407,10 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_11.jpeg',
       textoImpresso:1,
-      imagemImpresso:1,
       textoImpressoRecriado:'AGORA VOCÊ CONHECE O SISTEMA BINÁRIO E VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -2084,7 +2419,11 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_12.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
+      imagemImpresso:0,
+      imagemFonte:'',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
