@@ -791,7 +791,7 @@ let livro_cs1 ={
         texto:'OLÁ! HOJE VAMOS CONHECER UM PAÍS MUITO ESPECIAL.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img1.jpg',
         textoImpresso:1,
         textoImpressoRecriado:'NO MUNDO DOS ROBÔS EXISTE UM LUGAR...',
         promptImagem:'Arte 3d de um planeta visto de longe', /*opc*/
@@ -804,7 +804,7 @@ let livro_cs1 ={
         texto:'A ROBOLÂNDIA! NESSE PAÍS INCRÍVEL SÓ VIVEM ROBÔS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img2.jpg',
         textoImpresso:1,
         textoImpressoRecriado:'CHAMADO “ROBOLÂNDIA”, O PAÍS DOS ROBÔS.',
         promptImagem:'Arte 3d de um país visto de cima, com pelo menos quatro cidades distintas', /*opc*/
@@ -817,7 +817,7 @@ let livro_cs1 ={
         texto:'O PRIMEIRO LUGAR DA ROBOLÂNDIA QUE VAMOS CONHECER É A SUA CAPITAL, A PRINCIPAL CIDADE DO PAÍS CHAMADA ROBÓPOLIS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
+        urlImagem:'',
         textoImpresso:0,
         textoImpressoRecriado:'',
         promptImagem:'Arte 3d de uma cidade futurística', /*opc*/
@@ -830,12 +830,12 @@ let livro_cs1 ={
         texto:'EM ROBÓPOLIS, OS ROBÔS HABITANTES SÃO MUITO EMPENHADOS EM TRABALHAR PARA MANTER A CIDADE FUNCIONANDO.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_4.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img4.jpg',
         textoImpresso:1,
         textoImpressoRecriado:'E HOJE VAMOS CONHECER A CIDADE DE ROBÓPOLIS, A CAPITAL DA ROBOLÂNDIA.',
         promptImagem:'Arte 3d de uma rua numa cidade futurística, habitada por robôs', /*opc*/
         imagemImpresso:1,
-        imagemFonte:'',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:5,
@@ -843,12 +843,12 @@ let livro_cs1 ={
         texto:'EM ROBÓPOLIS, OS ROBÔS HABITANTES PODEM TRABALHAR NO QUE QUISEREM! E NÓS VAMOS AJUDÁ-LOS A IR E VOLTAR DO TRABALHO, PARA FAZER TODAS AS SUAS TAREFAS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_5.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img5.jpeg',
         textoImpresso:1,
         textoImpressoRecriado:'ONDE OS ROBÔS MORAM E TRABALHAM.',
         promptImagem:'Arte de diferentes robôs passando por uma rua, a caminho do trabalho, e um robô gari varrendo a calçada', /*opc*/
         imagemImpresso:1,
-        imagemFonte:'',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:6,
@@ -856,12 +856,12 @@ let livro_cs1 ={
         texto:'AH! E NÃO PODEMOS NOS ESQUECER DE MANTER A ENERGIA DA CIDADE SEMPRE LÁ NO ALTO! PARA ISSO, TODOS DEVEMOS PARTICIPAR E AJUDAR UNS AOS OUTROS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_6.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img6.jpeg',
         textoImpresso:1,
         textoImpressoRecriado:'E COM A SUA AJUDA, ELES VÃO FAZER TODAS AS TAREFAS E MANTER A ENERGIA LÁ NO ALTO!',
         promptImagem:'Arte digital de uma pilha sendo energizada', /*opc*/
         imagemImpresso:1,
-        imagemFonte:'',
+        imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:7,
@@ -869,7 +869,7 @@ let livro_cs1 ={
         texto:'PRONTOS PARA O DESAFIO? MÃOS À OBRA!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
+        urlImagem:'',
         textoImpresso:0,
         textoImpressoRecriado:'',
         promptImagem:'Arte digital de uma cidade futurística', /*opc*/
