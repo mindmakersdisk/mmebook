@@ -869,12 +869,12 @@ let livro_cs1 ={
         texto:'PRONTOS PARA O DESAFIO? MÃOS À OBRA!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img7.jpg',
         textoImpresso:0,
         textoImpressoRecriado:'',
         promptImagem:'Arte digital de uma cidade futurística', /*opc*/
         imagemImpresso:0,
-        imagemFonte:'',
+        imagemFonte:'leonardo',
         textoDescritivoImagem:'', /*opc*/},
       ]}},
   },
@@ -895,12 +895,12 @@ let livro_cs1 ={
       texto:'SABE QUANDO VOCÊS FAZEM ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS LAÇOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loops_1.jfif',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img1.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'OS LAÇOS SERVEM PARA O COMPUTADOR FAZER COISAS DE MODO REPETIDO.',
       promptImagem:'criança pulando corda, desenho animado', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -908,12 +908,12 @@ let livro_cs1 ={
       texto:'OS COMPUTADORES TÊM UMA ESPÉCIE DE "SUPER MEMÓRIA" E CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS LAÇOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_2.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img2.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'É SÓ DAR A ORDEM PARA O COMPUTADOR: "FAÇA DE NOVO E DE NOVO..."',
       promptImagem:'computador desktop com o símbolo do infinito na tela, desenho animado', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -921,12 +921,12 @@ let livro_cs1 ={
       texto:'NÓS DIZEMOS AO COMPUTADOR QUANTAS VEZES ELE DEVE FAZER ALGO, E ELE CONTA AS VEZES QUE FEZ. QUANDO ATINGE O NÚMERO QUE DISSEMOS, ELE PARA DE FAZER A AÇÃO E CONTINUA COM OUTRAS COISAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_3.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img3.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR CONTA QUANTAS VEZES PEDIMOS PARA ELE FAZER UMA AÇÃO E A REPETE NA QUANTIDADE CERTA.',
       promptImagem:'desenho animado de uma criança usando o computador', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -934,12 +934,12 @@ let livro_cs1 ={
       texto:'VAMOS IMAGINAR QUE VOCÊ QUER DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_4.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img4.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ, POR EXEMPLO..',
       promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -947,12 +947,12 @@ let livro_cs1 ={
       texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_5.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR SABE CONTAR E ENTENDE QUANDO TEM QUE FAZER A MESMA COISA VÁRIAS VEZES.',
       promptImagem:'desenho animado de um computador com cinco emojis de carinha sorridente na tela', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -960,12 +960,12 @@ let livro_cs1 ={
       texto:'OS LAÇOS SÃO COMO TRUQUES DE REPETIÇÃO QUE AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. ELES DIZEM AO COMPUTADOR: "FAÇA ISSO VÁRIAS VEZES ATÉ EU DIZER PARA PARAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img6.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'OS LAÇOS FAZEM OS SEUS ALGORITMOS MAIS RÁPIDOS E PODEROSOS.',
       promptImagem:'desenho animado de um computador com um balão de fala vazio em cima', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -973,12 +973,12 @@ let livro_cs1 ={
       texto:'OS LAÇOS AJUDAM O COMPUTADOR A FAZER COISAS REPETITIVAS DE UM JEITO MUITO INTELIGENTE. NO FUTURO, QUANDO VOCÊ APRENDER MAIS SOBRE COMPUTAÇÃO, OS LAÇOS VÃO TE AJUDAR A FAZER COISAS INCRÍVEIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/loop_7.jpeg',
-      textoImpresso:1,
-      textoImpressoRecriado:'OS LAÇOS VÃO TE AJUDAR A TORNAR SEUS ALGORITMOS AINDA MAIS INCRÍVEIS!',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img7.jpeg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'desenho animado que demonstre o que é internet das coisas', /*opc*/
-      imagemImpresso:1,
-      imagemFonte:'',
+      imagemImpresso:0,
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
 	  
@@ -995,7 +995,7 @@ let livro_cs1 ={
       texto:'OLÁ, VOCÊS JÁ FORAM APRESENTADOS AO MUNDO DOS ROBÔS E JÁ CONHECERAM ROBÓPOLIS, NÃO É?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img1.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA.',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
@@ -1008,7 +1008,7 @@ let livro_cs1 ={
       texto:'ÓTIMO, PORQUE HOJE TEMOS MAIS UMA CIDADE PARA VISITAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_7.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img7.jpg',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
@@ -1021,12 +1021,12 @@ let livro_cs1 ={
       texto:'HOJE VAMOS CONHECER NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img3.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'ESTA É NUMERÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1034,12 +1034,12 @@ let livro_cs1 ={
       texto:'OS ROBÔS DE NUMERÓPOLIS FAZEM DE TUDO, SÃO GUARDAS, MOTORISTAS, FAZENDEIROS. ELES DÃO UM JEITO EM TUDO! SÓ NÃO CONSEGUEM AINDA ESCREVER, DESENHAR E PINTAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_4.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img4.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'EM NUMERÓPOLIS, OS ROBÔS FAZEM DE TUDO PARA MANTER A ENERGIA LÁ NO ALTO...',
       promptImagem:'Arte digital de uma rua em uma cidade futurística com robôscirculando, vestidos em roupas de diferentes profissões', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1047,12 +1047,12 @@ let livro_cs1 ={
       texto:'E POR AQUI, COMO O NOME DA CIDADE JÁ SUGERE, OS ROBÔS AMAM OS NÚMEROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_5.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img5.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'E COMO O NOME SUGERE, OS ROBÔS DE NUMERÓPOLIS AMAM NÚMEROS!',
       promptImagem:'Arte digital de dois robôs sem braços conversando', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1060,12 +1060,12 @@ let livro_cs1 ={
       texto:'MAS TEM UM PROBLEMA: ESTÁ UMA BAITA CONFUSÃO EM NUMERÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img6.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'MAS OS ROBÔS DE NUMERÓPOLIS ESTÃO COM UM BAITA PROBLEMA PARA TRANSITAR NA CIDADE.',
-      promptImagem:'Arte digital de uma rua d euma cidade futurística com diversos robôs sem braços circulando, com expressões de confusão', /*opc*/
+      promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de confusão', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1073,12 +1073,12 @@ let livro_cs1 ={
       texto:'AS RUAS DA CIDADE NÃO TÊM PLACAS, OS ROBÔS NÃO SABEM AO CERTO PARA ONDE ESTÃO INDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_7.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img7.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'AS RUAS DA CIDADE NÃO TÊM PLACAS, ENTÃO OS ROBÔS FICAM PERDIDOS!',
       promptImagem:'Arte digital e uma rua em uma cidade futurística e uma placa de trânsito com um sinal de interrogação', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1086,12 +1086,12 @@ let livro_cs1 ={
       texto:'MAS OLHA QUE IDEIA GENIAL: QUE TAL PINTAR NÚMEROS NAS RUAS, JÁ QUE EM NUMERÓPOLIS TODOS ADORAM NÚMEROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_8.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img8.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'QUE TAL AJUDAR OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DOS NÚMEROS NAS RUAS?',
       promptImagem:'Arte digital de uma rua em uma cidade futurística com o número dois pintado na rua', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1099,7 +1099,7 @@ let livro_cs1 ={
       texto:'COM ISSO, OS ROBÔS VÃO PODER DIZER PARA QUAL RUA QUEREM IR SOMENTE FALANDO O NÚMERO DA RUA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_9.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
@@ -1112,7 +1112,7 @@ let livro_cs1 ={
       texto:'SERÁ O FIM DA CONFUSÃO EM NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_3.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img3.jpg',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
@@ -1125,7 +1125,7 @@ let livro_cs1 ={
       texto:'O QUE VOCÊS ACHAM? SERÁ QUE CONSEGUIMOS AJUDAR OS ROBÔS DESSA CIDADE USANDO PROGRAMAÇÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_11.jpg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um computador com vários códigos aparecendo na tela', /*opc*/
@@ -1138,7 +1138,7 @@ let livro_cs1 ={
       texto:'O ROBÔ TAMBÉM VAI TER QUE SER CAPAZ DE SEGURAR UMA CANETA PARA ESSA TAREFA, NÃO É MESMO?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_12.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um robô desenhista', /*opc*/
@@ -1151,7 +1151,7 @@ let livro_cs1 ={
       texto:'VAMOS VER QUE IDEIAS VOCÊS TÊM PARA FAZER ISSO ACONTECER!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_13.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma lâmpada acesa', /*opc*/
@@ -1164,7 +1164,7 @@ let livro_cs1 ={
       texto:'VAMOS AJUDAR OS ROBÔS DE NUMERÓPOLIS? MÃOS À OBRA!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_1.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img1.jpg',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*opc*/
