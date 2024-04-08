@@ -1186,12 +1186,12 @@ let livro_cs1 ={
       texto:'OLÁ, DE NOVO! ESTAMOS DE VOLTA A ROBÓPOLIS, NESSA CIDADE ULTRA ROBOTIZADA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img4.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*pode ser o mesmo dos outros infográficos*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1199,7 +1199,7 @@ let livro_cs1 ={
       texto:'ROBÓPOLIS DEPENDE DA COLABORAÇÃO DE TODOS OS MORADORES PARA MANTER A ENERGIA SEMPRE LÁ NO ALTO. E ISSO TAMBÉM TEM A VER COM A LIMPEZA DA CIDADE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_2.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*opc*/
@@ -1212,7 +1212,7 @@ let livro_cs1 ={
       texto:'AQUI EM ROBÓPOLIS, TODOS COLABORAM PARA RECICLAR O LIXO E CONSERVAR A NATUREZA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_3.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com diversos robôs sem braços circulando, com expressões de felicidade', /*pode ser uma derivação da mesma imagem da ordem 2*/
@@ -1225,7 +1225,7 @@ let livro_cs1 ={
       texto:'MAS ALGO DE RUIM ESTÁ ACONTECENDO, O LIXO ESTÁ SE ACUMULANDO! POR QUE SERÁ?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_4.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'MAS O LIXO ESTÁ SE ACUMULANDO. POR QUÊ?',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com lixo se acumulando pela rua', /*opc*/
@@ -1238,7 +1238,7 @@ let livro_cs1 ={
       texto:'OPA, ACHO QUE ENCONTRAMOS O MOTIVO! O ROBÔ-RECICLADOR ESTÁ ESTRAGADO! E AGORA?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_5.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'AH, NÃO! O ROBÔ-RECICLADOR ESTÁ QUEBRADO... E AGORA?',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com um robô que parece uma escavadeira, com uma roupa de gari quebrado em um canto da rua.', /*opc*/
@@ -1251,7 +1251,7 @@ let livro_cs1 ={
       texto:'COMO OS OUTROS ROBÔS NÃO SABEM RECICLAR LIXO, ELES PRECISAM SER PROGRAMADOS PARA FAZER TODAS AS ETAPAS, ENQUANTO O ROBÔ-RECICLADOR ESTÁ SENDO CONSERTADO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_6.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'COMO OS OUTROS ROBÔS NÃO SABEM RECICLAR O LIXO, VOCÊ TERÁ QUE CRIAR UM PROGRAMA PARA AJUDAR A CIDADE.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com robôs circulando, com expressão de confusão', /*opc*/
@@ -1264,7 +1264,7 @@ let livro_cs1 ={
       texto:'A PRIMEIRA ETAPA É A CHAMADA “COLETA SELETIVA”, QUE É SEPARAR DIFERENTES TIPOS DE LIXO EM DIFERENTES LIXEIRAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_7.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'A PRIMEIRA ETAPA É SEPARAR OS DIFERENTES TIPOS DE LIXO EM LIXEIRAS DIFERENTES.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com as quatro lixeiras de reciclagem enfileiradas', /*opc*/
@@ -1277,7 +1277,7 @@ let livro_cs1 ={
       texto:'A SEGUNDA ETAPA É TRANSPORTAR OS LIXOS DEVIDAMENTE SEPARADOS EM CASA, PARA UM LOCAL QUE TENHA MÁQUINAS DE RECICLAGEM.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_8.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'A SEGUNDA ETAPA É LEVAR TUDO PARA O CENTRO DE RECICLAGEM.',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com uma grande fábrica de reciclagem', /*opc*/
@@ -1290,7 +1290,7 @@ let livro_cs1 ={
       texto:'E, FINALMENTE, NA TERCEIRA ETAPA ESSAS MÁQUINAS TRANSFORMAM CADA TIPO DE LIXO EM UM NOVO PRODUTO QUE PODE SER USADO NOVAMENTE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_9.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'NA TERCEIRA ETAPA, O QUE ANTES ERA LIXO VIRA UM PRODUTO NOVO!',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com dois robôs circulando com produtos reciclados', /*opc*/
@@ -1303,7 +1303,7 @@ let livro_cs1 ={
       texto:'ESTÁ FEITA A RECICLAGEM! O LIXO AGORA NÃO FICA ACUMULANDO POR AÍ, PREJUDICANDO A NATUREZA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_10.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com um grande símbolo de reciclagem em verde', /*opc*/
@@ -1316,7 +1316,7 @@ let livro_cs1 ={
       texto:'NOSSA, COMO O ROBÔ-RECICLADOR FAZ FALTA NÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_11.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'O ROBÔ-RECICLADOR FAZ MUITA FALTA, NÃO É?',
       promptImagem:'Arte digital de uma rua de uma cidade futurística com um robô com expressão de que está sentindo falta de alguma coisa', /*opc*/
@@ -1329,7 +1329,7 @@ let livro_cs1 ={
       texto:'MAS ENQUANTO ELE ESTÁ FORA DE OPERAÇÃO, NÃO TEM OUTRO JEITO: ROBÓPOLIS PRECISA CONTAR COM VOCÊS E COM SUA HABILIDADE DE PROGRAMAÇÃO! VAMOS SOCORRER OS ROBÔS NOVAMENTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_12.jpeg',
+      urlImagem:'',
       textoImpresso:0,
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma rua de uma cidade futurística bem limpa', /*pode ser alguma variação de outras do mesmo infográfico*/
