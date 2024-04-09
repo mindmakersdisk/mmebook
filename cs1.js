@@ -817,12 +817,12 @@ let livro_cs1 ={
         texto:'O PRIMEIRO LUGAR DA ROBOLÂNDIA QUE VAMOS CONHECER É A SUA CAPITAL, A PRINCIPAL CIDADE DO PAÍS CHAMADA ROBÓPOLIS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img3.jpg',
         textoImpresso:0,
         textoImpressoRecriado:'',
         promptImagem:'Arte 3d de uma cidade futurística', /*opc*/
         imagemImpresso:0,
-        imagemFonte:'trocar',
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'', /*opc*/},
           
         {ordem:4,
@@ -2083,12 +2083,12 @@ let livro_cs1 ={
       texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img9.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS.',
       promptImagem:'Arte digital de programação de computadores', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -2096,12 +2096,12 @@ let livro_cs1 ={
       texto:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img10.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       promptImagem:'arte digital de depuração de computador', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -2109,12 +2109,12 @@ let livro_cs1 ={
       texto:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img11.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       promptImagem:'digital art of pair programming in a colorful background', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -2122,12 +2122,12 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img12.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       promptImagem:'arte digital de resolução de problemas em um fundo colorido', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -2170,12 +2170,12 @@ let livro_cs1 ={
       texto:'OLÁ! ESTAMOS DE VOLTA A ROBÓPOLIS...',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/rob_3.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img3.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -2183,12 +2183,12 @@ let livro_cs1 ={
       texto:'NOSSA MISSÃO DE HOJE É AJUDAR OS NOSSOS AMIGOS DA CIDADE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_2.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img2.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'E HOJE VAMOS AJUDAR OS ROBÔS DA CIDADE NOVAMENTE.',
       promptImagem:'rua colorida e futurística com robôs engraçados andando por ela com expressão feliz', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -2196,12 +2196,12 @@ let livro_cs1 ={
       texto:'COMO OS ROBÔS DE ROBÓPOLIS NÃO ANDAM MUITO RÁPIDO, ELES QUEREM ANDAR DE CARRO. MAS NÃO CONHECEM AS REGRAS DE TRÂNSITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_3.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img3.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'OS ROBÔS QUEREM ANDAR DE CARRO PELA CIDADE, MAS NÃO CONHECEM AS REGRAS DE TRÂNSITO.',
       promptImagem:'um robô 3D engraçado dirigindo um carro em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -2209,12 +2209,12 @@ let livro_cs1 ={
       texto:'PARA DIRIGIR COM SEGURANÇA, ELES PRECISAM CONHECER O QUE SIGNIFICA CADA COR QUE APARECE NOS SEMÁFOROS, AQUELES SINAIS QUE CONTROLAM O TRÂNSITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_4.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img4.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'PARA DIRIGIR COM SEGURANÇA, ELES PRECISAM CONHECER O QUE SIGNIFICA CADA COR QUE APARECE NOS SEMÁFOROS.',
       promptImagem:'uma rua colorida e futurista mostrando um grande semáforo', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -2227,7 +2227,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -2235,12 +2235,12 @@ let livro_cs1 ={
       texto:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊS DEVEM CRIAR PROGRAMAS PARA QUE OS ROBÔS SEJAM CAPAZES DE ATRAVESSAR ROBÓPOLIS, SEMPRE RESPEITANDO AS CORES DO SEMÁFOROS QUE APARECEM PELO CAMINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img6.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA OS ROBÔS ATRAVESSAREM ROBÓPOLIS SEMPRE RESPEITANDO OS SINAIS DE TRÂNSITO.',
       promptImagem:'dois robôs engraçados dirigindo carros em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -2248,12 +2248,12 @@ let livro_cs1 ={
       texto:'VAI SER UM DESAFIO E TANTO... PÉ NA TÁBUA!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_7.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img7.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'o retrovisor de um carro engraçado super rápido em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -2274,13 +2274,12 @@ let livro_cs1 ={
       texto:'VAMOS HOJE CONTINUAR EM NOSSA DIVERTIDA JORNADA, CONHECENDO A CIDADE MAIS ESTRANHA DA TERRA DOS ROBÔS: BINARÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_1.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img1.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS CONHECER BINARÓPOLIS.',
       promptImagem:'um país colorido e futurista, visto de cima, mostrando diferentes cidades', /*opc*/
-      imagemFonte:'leonardo',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -2293,7 +2292,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'dois robôs 3D engraçados andando em um parque colorido e futurista, com muitas árvores', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -2301,12 +2300,12 @@ let livro_cs1 ={
       texto:'EM BINARÓPOLIS OS ROBÔS TAMBÉM GOSTAM DE NÚMEROS, MAS SÓ CONHECEM OS NÚMEROS “ZERO” E “UM”. ESTRANHO NÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_3-2.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img3.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'POR AQUI , OS ROBÔS TAMBÉM AMAM OS NÚMEROS, MAS SÓ CONHECEM O UM E O ZERO.',
       promptImagem:'dois robôs engraçados conversando entre si com balões de fala em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -2314,12 +2313,12 @@ let livro_cs1 ={
       texto:'POIS É... COMO BINARÓPOLIS É UMA CIDADE MUITO ANTIGA, ELES ATÉ HOJE SÓ CONVERSAM ATRAVÉS DO CÓDIGO PRIMITIVO DOS COMPUTADORES, CONHECIDO COMO “SISTEMA BINÁRIO”.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_4.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img4.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'ESSE É O CÓDIGO PRIMITIVO DOS COMPUTADORES, TAMBÉM CONHECIDO COMO SISTEMA BINÁRIO.',
       promptImagem:'um robô 3D engraçado estudando um livro antigo em um ambiente colorido e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -2327,12 +2326,12 @@ let livro_cs1 ={
       texto:'E O “SISTEMA BINÁRIO” SÓ UTILIZA OS DOIS SÍMBOLOS, ZERO E UM.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_5.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img5.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'E ESSE SISTEMA UTILIZA SOMENTE DOIS SÍMBOLOS: 0 E 1.',
       promptImagem:'zeros e uns flutuando sobre um balão de fala em um cenário colorido e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -2340,12 +2339,12 @@ let livro_cs1 ={
       texto:'OK, MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img6.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
       promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -2358,7 +2357,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'um computador com código binário na tela, em um fundo colorido e futurista', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -2366,12 +2365,12 @@ let livro_cs1 ={
       texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA. VEJA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_8.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img8.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'NO SISTEMA BINÁRIO, O UM É REPRESENTADO POR UMA CAIXINHA BRANCA, QUE QUER DIZER: LIGADO.',
-      promptImagem:'um processador de computador com um quadrado branco flutuando acima dele em um fundo colorido e futurista', /*opc*/
+      promptImagem:'um processador de computador com um cubo branco flutuando acima dele em um fundo colorido e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -2379,12 +2378,12 @@ let livro_cs1 ={
       texto:'E SÃO DESLIGADOS PARA REPRESENTAR O “ZERO”, QUE DESENHAMOS COMO UMA CAIXINHA PRETA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_9.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img9.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'E O ZERO É REPRESENTADO POR UMA CAIXINHA PRETA, QUE QUER DIZER: DESLIGADO.',
-      promptImagem:'um processador de computador com um quadrado preto flutuando acima dele em um fundo colorido e futurista', /*opc*/
+      promptImagem:'um processador de computador com um cubo preto flutuando acima dele em um fundo colorido e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -2392,12 +2391,12 @@ let livro_cs1 ={
       texto:'O COMPUTADOR ENTÃO USA VÁRIOS “ZEROS” E “UNS”, UM AO LADO DO OUTRO, PARA REPRESENTAR DIFERENTES NÚMEROS E LETRAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_10.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img10.png',
       textoImpresso:1,
       textoImpressoRecriado:'PARA REPRESENTAR OS OUTROS NÚMEROS, USAMOS UMA SEQUÊNCIA DE CAIXINHAS BRANCAS E PRETAS.',
       promptImagem:'', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'autoral',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -2405,12 +2404,12 @@ let livro_cs1 ={
       texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS COMO VOCÊ JÁ É RECONHECIDO COMO UM GRANDE AJUDANTE DE ROBÔS, VAI APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_11.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img11.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'AGORA VOCÊ CONHECE O SISTEMA BINÁRIO E VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -2423,7 +2422,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
