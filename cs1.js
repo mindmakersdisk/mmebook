@@ -1560,7 +1560,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um cadeado fechado e vários asteriscos voando em torno dele', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1568,12 +1568,12 @@ let livro_cs1 ={
       texto:'VOCÊS SABIAM QUE EXISTEM MANEIRAS DE PROTEGER NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS SEGUROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_2.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img2.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'PODEMOS PROTEGER NOSSOS DISPOSITIVOS.',
       promptImagem:'Arte digital de um cadeado em forma de escudo medieval com um notebook logo atrás, algumas nuvens e ícones de correspondência', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -1586,7 +1586,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma tela de programa com um cadeado bem em cima', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -1594,12 +1594,12 @@ let livro_cs1 ={
       texto:'UMA SENHA É UMA SEQUÊNCIA DE LETRAS, NÚMEROS OU SÍMBOLOS QUE USAMOS PARA ACESSAR COISAS IMPORTANTES, COMO NOSSOS DISPOSITIVOS ELETRÔNICOS, CONTAS DE E-MAIL, JOGOS E MUITO MAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_4.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img4.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'O QUE É UMA SENHA?',
       promptImagem:'Arte digital de uma box para digitar com vários asteriscos e um cadeado atrás', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -1607,12 +1607,12 @@ let livro_cs1 ={
       texto:'A SENHA É COMO UMA CHAVE SECRETA QUE APENAS NÓS DEVEMOS SABER.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_5.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img5.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'A SENHA É COMO UMA CHAVE SECRETA.',
       promptImagem:'Arte digital colorida de um código secreto', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -1620,12 +1620,12 @@ let livro_cs1 ={
       texto:'AGORA, POR QUE É IMPORTANTE TER UMA SENHA FORTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img6.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'A SENHA PRECISA SER FORTE.',
       promptImagem:'Arte digital colorida de um braço forte segurando um cadeado', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -1638,7 +1638,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1651,7 +1651,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma tranca de uma porta com uma chave', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1659,12 +1659,12 @@ let livro_cs1 ={
       texto:'POR ISSO, AS SENHAS SEMPRE DEVEM SER “FORTES”, OU SEJA, SUA SENHA DEVE SER ÚNICA E VOCÊ NÃO DEVE USAR A MESMA SENHA PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_9.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img9.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA...',
       promptImagem:'Arte digital colorida de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1672,12 +1672,12 @@ let livro_cs1 ={
       texto:'SE ALGUÉM DESCOBRIR SUA SENHA, NÃO QUEREMOS QUE ELA TENHA ACESSO A TODAS AS SUAS COISAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_10.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img10.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'... E DÍFICIL DE ADIVINHAR.',
       promptImagem:'Arte digital de uma caixa de papelão aberta na parte de cima, com vários ícones de envelopes, chaves, balões de conversa saltando de dentro dela', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1685,12 +1685,12 @@ let livro_cs1 ={
       texto:'QUANTO MAIS COMPLEXA A SENHA, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_11.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img11.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'QUANTO MAIS FORTE A SENHA, MAIS PROTEGIDO VOCÊ ESTÁ.',
       promptImagem:'Arte digital de personagem hackeando um computador', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1698,12 +1698,12 @@ let livro_cs1 ={
       texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA SENHA COM NINGUÉM, EXCETO COM SEUS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_12.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img12.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'NÃO COMPARTILHE SUAS SENHAS!',
       promptImagem:'Arte digital de uma mão entregando uma chave para outra mão', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1711,12 +1711,12 @@ let livro_cs1 ={
       texto:'MANTER A SENHA EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER SUAS INFORMAÇÕES PESSOAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_13.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img13.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'SUA SENHA É SECRETA.',
       promptImagem:'Arte digital de um rosto com um dedo em frente à boca, fazendo sinal de segredo', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:14,
@@ -1724,12 +1724,12 @@ let livro_cs1 ={
       texto:'ALÉM DAS SENHAS, É IMPORTANTE MANTER SEUS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM SUA PERMISSÃO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_14.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img14.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
-      promptImagem:'Arte digital colorida de um ladrão carregando um laptop', /*pode ser uma variação do que já foi usado anteriormente*/
+      promptImagem:'Uma ilustração digital cativante de um ladrão habilidoso roubando furtivamente um laptop de uma mesa bagunçada.', /*pode ser uma variação do que já foi usado anteriormente*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:15,
@@ -1737,12 +1737,12 @@ let livro_cs1 ={
       texto:'E SE VOCÊ RECEBER UMA MENSAGEM ESTRANHA PEDINDO SUA SENHA OU INFORMAÇÕES PESSOAIS, NUNCA RESPONDA. SEMPRE PEÇA AJUDA A UM ADULTO RESPONSÁVEL.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_15.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img15.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'CUIDADO COM MENSAGENS ESTRANHAS.',
       promptImagem:'Arte digital de um laptop com um envelope bem na tela', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:16,
@@ -1755,7 +1755,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital colorida de um smatphone com um cadeado dourado na tela', /*pode ser uma variação da já usada anteriormente*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:17,
@@ -1763,12 +1763,12 @@ let livro_cs1 ={
       texto:'QUEREMOS PROTEGER NOSSAS INFORMAÇÕES PESSOAIS E MANTER TUDO SEGURO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_17.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img16.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'VAMOS NOS PROTEGER!',
       promptImagem:'arte digital colorida que retrata a segurança cibernética', /*pode ser uma variação da já usada anteriormente*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:18,
@@ -1781,7 +1781,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um smatphone com um cadeado dourado na tela', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
@@ -1798,12 +1798,12 @@ let livro_cs1 ={
       texto:'VOCÊ JÁ OUVIU A PALAVRA “CONDIÇÃO”? E “CONDICIONAIS”? VAMOS APRENDER UM POUCO SOBRE ISSO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_1.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img1.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'O QUE É UMA CONDICIONAL?',
       promptImagem:'pintura de uma pessoa pensando, com vários pontos de interrogação ao seu redor', /*pode ser usada alguma variação de outra imagem já pronta*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1816,60 +1816,60 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'pintura de uma pessoa pensando no que comer, com um prato de macarrão e um hambúrguer na mesa em frente', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
       predecessor:2,
-      texto:'VAMOS IMAGINAR QUE VOCÊS QUEREM IR BRINCAR NO PARQUE.',
+      texto:'VAMOS IMAGINAR QUE VOCÊ QUER COMER PIPOCA ENQUANTO VÊ UM FILME.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_3.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img3.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'IMAGINE QUE VOCÊ QUER IR BRINCAR NO PARQUE.',
-      promptImagem:'pintura de um parque com sol', /*opc*/
+      textoImpressoRecriado:'IMAGINE QUE VOCÊ QUER VER UM FILME E COMER PIPOCA.',
+      promptImagem:'pintura de uma televisão a cores numa parede e uma mesa de café em frente. em cima da mesa é possível ver um bowl cheio de pipoca',
       imagemImpresso:1,
-      imagemFonte:'',
-      textoDescritivoImagem:'', /*opc*/},
+      imagemFonte:'dall-e 3',
+      textoDescritivoImagem:'',},
 
       {ordem:4,
       predecessor:3,
-      texto:'MAS ANTES DE SAIR DE CASA, VOCÊS PRECISAM VERIFICAR SE ESTÁ CHOVENDO LÁ FORA.',
+      texto:'MAS A SUA MÃE DISSE QUE VOCÊ SÓ PODE VER O FILME E COMER PIPOCA SE O DEVER DE CASA ESTIVER PRONTO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_4.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img4.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'ANTES DE SAIR, PRECISA VERIFICAR SE ESTÁ CHOVENDO.',
-      promptImagem:'pintura de uma nuvem chovendo', /*opc*/
+      textoImpressoRecriado:'MAS PARA ISSO, PRECISA TER FEITO O DEVER DE CASA.',
+      promptImagem:'pintura de uma mesa cheia de livros abertos, canetas, lápis e cadernos',
       imagemImpresso:1,
-      imagemFonte:'',
-      textoDescritivoImagem:'', /*opc*/},
+      imagemFonte:'dall-e 3',
+      textoDescritivoImagem:'',},
 
       {ordem:5,
       predecessor:4,
-      texto:'ENTÃO A CONDICIONAL SERIA: <code><b>SE</b> ESTIVER CHOVENDO <br/>&nbsp;&nbsp;<b>ENTÃO</b> VAMOS BRINCAR DENTRO DE CASA <br/><b>SE</b> NÃO ESTIVER CHOVENDO <br/>&nbsp;&nbsp;<b>ENTÃO</b> PODEMOS IR BRINCAR NO PARQUE</code>',
+      texto:'ENTÃO A <b>CONDICIONAL</b> SERIA: <code><b>SE</b> VOCÊ FEZ O DEVER DE CASA <br/>&nbsp;&nbsp;<b>ENTÃO</b> VOCÊ PODE VER O FILME E COMER PIPOCA</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_5.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img5.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'SE CHUVA = VERDADEIRO, ENTÃO BRINCAR DENTRO DE CASA. SENÃO, BRINCAR NO PARQUE.',
-      promptImagem:'pintura de uma nuvem de chuva e um sol do outro lado', /*pode ser uma variação da outra*/
+      textoImpressoRecriado:'SE DEVER DE CASA = VERDADEIRO, ENTÃO VER FILME E COMER PIPOCA.',
+      promptImagem:'pintura de uma personagem infantil sentada em um sofá, embrulhada em um cobertor e segurando um bowl cheio de pipoca',
       imagemImpresso:1,
-      imagemFonte:'',
-      textoDescritivoImagem:'', /*opc*/},
+      imagemFonte:'dall-e 3',
+      textoDescritivoImagem:'',},
 
       {ordem:6,
       predecessor:5,
-      texto:'VEJAM COMO ESSA CONDICIONAL NOS AJUDA A TOMAR UMA DECISÃO COM BASE NA CONDIÇÃO DO TEMPO. É COMO UMA REGRA QUE NOS GUIA!',
+      texto:'VEJAM COMO ESSA <b>CONDICIONAL</b> MOSTRA EXATAMENTE O QUE É PRECISO PARA QUE VOCÊ POSSA VER O FILME E COMER PIPOCA. É COMO UMA REGRA QUE NOS GUIA!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img6.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'A DECISÃO É TOMADA COM BASE NA CONDIÇÃO.',
-      promptImagem:'pintura de uma pessoa parada em frente a dois caminhos diferentes na floresta', /*opc*/
+      promptImagem:'pintura de uma pessoa parada em frente a dois caminhos diferentes na floresta',
       imagemImpresso:1,
-      imagemFonte:'',
-      textoDescritivoImagem:'', /*opc*/},
+      imagemFonte:'ideogram',
+      textoDescritivoImagem:'',},
 
       {ordem:7,
       predecessor:6,
@@ -1881,7 +1881,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'pintura de uma pessoa pensando com o dedo na testa', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -1894,7 +1894,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'pintura de uma criança do sexo feminino pensando em qual brinquedo vai brincar, com um ursinho de pelúcia e um trem de madeira na sua frente', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -1902,12 +1902,12 @@ let livro_cs1 ={
       texto:'E SABEM O QUE MAIS É LEGAL? AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_9.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img9.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES.',
       promptImagem:'pintura de programação de computador', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1915,12 +1915,12 @@ let livro_cs1 ={
       texto:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES COM BASE EM CONDIÇÕES QUE PROGRAMAMOS PARA ELES. É COMO SE ELES TIVESSEM REGRAS PRÓPRIAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_10.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img10.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES BASEADAS EM CONDIÇÕES QUE PROGRAMAMOS NELES.',
       promptImagem:'pintura de um computador com diferentes símbolos de cheque e proibido flutuando', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:11,
@@ -1928,12 +1928,12 @@ let livro_cs1 ={
       texto:'POR EXEMPLO, SE VOCÊS ESTIVEREM JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊS PODEM PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_11.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img11.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'SE VOCÊ ESTIVER JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊ PODE PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:12,
@@ -1946,7 +1946,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:13,
@@ -1959,7 +1959,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'pintura de um jovem pensando em um parque', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
     ]}},
@@ -1979,12 +1979,12 @@ let livro_cs1 ={
       texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO "DEPURAÇÃO", OU "DEBUGGING".',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_1.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img1.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE "DEPURAÇÃO", OU "DEBUGGING".',
       promptImagem:'lupa de arte digital sobre um laptop', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:2,
@@ -1992,12 +1992,12 @@ let livro_cs1 ={
       texto:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_2.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img2.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
       promptImagem:'um bug robótico 3D andando sobre um laptop em um fundo futurista e colorido', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -2010,7 +2010,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'investigador em um fundo colorido', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:4,
@@ -2023,7 +2023,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'peças de um quebra-cabeça espalhadas por uma mesa em um fundo colorido', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:5,
@@ -2036,7 +2036,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'Arte digital de um quebra cabeças iniciado, que mostra a imagem de um robô engraçado, mas ainda faltando algumas peças para terminar', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -2049,7 +2049,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'uma lupa 3D sobre um laptop em um fundo futurista e colorido', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
@@ -2057,12 +2057,12 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO NOS AJUDA A SOLUCIONAR PROBLEMAS E ENCONTRAR SOLUÇÕES. É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_7.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img7.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'A DEPURAÇÃO É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
       promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
@@ -2070,12 +2070,12 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_8.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img8.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'E TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
       promptImagem:'arte digital de um computador com código flutuando em um fundo colorido', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -2083,7 +2083,7 @@ let livro_cs1 ={
       texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_9.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS.',
       promptImagem:'Arte digital de programação de computadores', /*opc*/
@@ -2096,7 +2096,7 @@ let livro_cs1 ={
       texto:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_10-2.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
       promptImagem:'arte digital de depuração de computador', /*opc*/
@@ -2109,7 +2109,7 @@ let livro_cs1 ={
       texto:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_11.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
       promptImagem:'digital art of pair programming in a colorful background', /*opc*/
@@ -2122,7 +2122,7 @@ let livro_cs1 ={
       texto:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_12.jpeg',
+      urlImagem:'',
       textoImpresso:1,
       textoImpressoRecriado:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
       promptImagem:'arte digital de resolução de problemas em um fundo colorido', /*opc*/
@@ -2140,7 +2140,7 @@ let livro_cs1 ={
       textoImpressoRecriado:'',
       promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
       imagemImpresso:0,
-      imagemFonte:'',
+      imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
    
