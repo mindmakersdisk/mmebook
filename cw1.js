@@ -1209,6 +1209,7 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
+      //ACERTAR O TEXTO
       texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, PODEMOS USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2445,8 +2446,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:9,
+      predecessor:8,
       texto:'BOM... E COMO ROBÔS NÃO FAZEM NADA SEM UM BOM PROGRAMADOR, VOCÊ FOI CONVOCADO PARA DEFENDER UMA DAS CIDADES.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2458,8 +2459,8 @@ let livro_cw1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
-      {ordem:9,
-      predecessor:8,
+      {ordem:10,
+      predecessor:9,
       texto:'É A SUA PROGRAMAÇÃO QUE IRÁ FAZER A DIFERENÇA NESTE DIVERTIDO DESAFIO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2471,8 +2472,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:10,
-      predecessor:9,
+      {ordem:11,
+      predecessor:10,
       texto:'QUEM VAI GANHAR? NUMERÓPOLIS? OU LETRÓPOLIS?',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2550,12 +2551,12 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'E O “SISTEMA BINÁRIO” SÓ UTILIZA OS DOIS SÍMBOLOS, ZERO E UM.',
+      texto:'E O “SISTEMA BINÁRIO” SÓ UTILIZA OS SÍMBOLOS ZERO E UM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i14-binaropolis/img5.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'E ESSE SISTEMA UTILIZA SOMENTE DOIS SÍMBOLOS: 0 E 1.',
+      textoImpressoRecriado:'E ESSE SISTEMA UTILIZA SOMENTE OS SÍMBOLOS 0 E 1.',
       promptImagem:'zeros e uns flutuando sobre um balão de fala em um cenário colorido e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
