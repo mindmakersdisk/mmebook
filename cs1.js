@@ -55,21 +55,9 @@ let livro_cs1 ={
 			/** urlVideo:'',
 			urlPodcast:'', **/
 			cenas:[				
+					 
 				{ordem:1,
 				predecessor:0,
-				texto:'VOCÊ SABE O QUE É UMA SEQUÊNCIA? JÁ OUVIU ESSA PALAVRA ANTES?',
-				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/1.mp3',
-				textoSimplificado:'SEQUÊNCIAS',
-				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img1.jpg',
-				textoImpresso:0,
-        textoImpressoRecriado:'',
-        promptImagem:'Imagem colorida e suave de uma jovem personagem feminina negra, com olhos grandes e expressivos, segurando o queixo com uma mão e olhando para cima, em um fundo pastel e desfocado. Ela exibe um semblante pensativo e curioso, com nuances de luz e sombra semelhantes a uma fotografia macro de natureza.',
-				imagemImpresso:0,
-        imagemFonte:'dall-e 3',
-        textoDescritivoImagem:'Pessoa pensando para tentar resolver um problema',},
-					 
-				{ordem:2,
-				predecessor:1,
 				texto:'SEQUÊNCIA É A ORDEM EM QUE OS OBJETOS ESTÃO, OU A ORDEM EM QUE ACONTECEU ALGUMA COISA.',
 				urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/2.mp3',
 				textoSimplificado:'Sequência é ordem',
@@ -81,8 +69,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:3,
-        predecessor:2,
+        {ordem:2,
+        predecessor:1,
         texto:'ESSA ORDEM É SABER O QUE É PRIMEIRO, O QUE VEM DEPOIS DO PRIMEIRO, E ASSIM POR DIANTE.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/3.mp3',
         textoSimplificado:'',
@@ -94,8 +82,8 @@ let livro_cs1 ={
         imagemFonte:'trocar',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:4,
-        predecessor:3,
+        {ordem:3,
+        predecessor:2,
         texto:'COM AS SEQUÊNCIAS, VOCÊ PODE COLOCAR TUDO EM ORDEM: PALAVRAS, BICHOS DE PELÚCIA, ACONTECIMENTOS DO DIA...',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/4.mp3',
         textoSimplificado:'',
@@ -107,8 +95,8 @@ let livro_cs1 ={
         imagemFonte:'trocar',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:5,
-        predecessor:4,
+        {ordem:4,
+        predecessor:3,
         texto:'POR EXEMPLO: QUAL É A SEQUÊNCIA DOS ACONTECIMENTOS DO SEU DIA?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/5.mp3',
         textoSimplificado:'',
@@ -120,8 +108,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:6,
-        predecessor:5,
+        {ordem:5,
+        predecessor:4,
         texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA SEQUÊNCIA, VOCÊ TAMBÉM PRECISA TER UMA REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA SEQUÊNCIA.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/6.mp3',
         textoSimplificado:'',
@@ -133,8 +121,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:7,
-        predecessor:6,
+        {ordem:6,
+        predecessor:5,
         texto:'POR EXEMPLO: PARA COLOCAR OS ALUNOS EM SEQUÊNCIA, DO MENOR PARA O MAIOR, A REGRA SERÁ A ALTURA DE CADA UM.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/9.mp3',
         textoSimplificado:'',
@@ -146,8 +134,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:8,
-        predecessor:7,
+        {ordem:7,
+        predecessor:6,
         texto:'APRENDER SOBRE SEQUÊNCIAS É MUITO IMPORTANTE, POIS COM ELAS VOCÊ VAI PODER ORGANIZAR TUDO E ENTENDER O MUNDO AO SEU REDOR.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/10.mp3',
         textoSimplificado:'',
@@ -159,8 +147,8 @@ let livro_cs1 ={
         imagemFonte:'trocar',
         textoDescritivoImagem:'', /*opc*/},
   
-        {ordem:9,
-        predecessor:8,
+        {ordem:8,
+        predecessor:7,
         texto:'VAMOS TENTAR MAIS UMA VEZ? QUAL É A SEQUÊNCIA DAS FIGURAS? <P>O QUE ACONTECEU PRIMEIRO?',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/11.mp3',
         textoSimplificado:'',
@@ -172,8 +160,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
   
-        {ordem:10,
-        predecessor:9,
+        {ordem:9,
+        predecessor:8,
         texto:'ESTÁ PREPARADO PARA O MUNDO DAS SEQUÊNCIAS? VAMOS LÁ!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/CS1/i1/12.mp3',
         textoSimplificado:'',
@@ -194,22 +182,9 @@ let livro_cs1 ={
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
     urlPodcast:'', **/
-      cenas:[				
+      cenas:[				      
         {ordem:1,
         predecessor:0,
-        texto:'VOCÊ SABE O QUE É UM PADRÃO? JÁ OUVIU ESSA PALAVRA ANTES?',
-        urlAudioTexto:'',
-        textoSimplificado:'Padrões',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/img1.jpeg',
-        textoImpresso:1,
-        textoImpressoRecriado:'O QUE É UM PADRÃO?',
-        promptImagem:'Arte digital de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*opc*/
-        imagemImpresso:1,
-        imagemFonte:'ideogram',
-        textoDescritivoImagem:'Pessoa pensando', /*opc*/},
-         
-        {ordem:2,
-        predecessor:1,
         texto:'PADRÕES SÃO COISAS QUE SE REPETEM DE MANEIRA LÓGICA. POR EXEMPLO, O PADRÃO QUE PODE SER VISTO AQUI É QUE EXISTE UMA MAÇÃ VERMELHA, AO LADO DE UMA VERDE, E DE NOVO, E DE NOVO.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões se repetem de forma lógica',
@@ -221,8 +196,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:3,
-        predecessor:2,
+        {ordem:2,
+        predecessor:1,
         texto:'O QUE VOCÊ VÊ? QUAIS SÃO AS COISAS QUE SE REPETEM AQUI?',
         urlAudioTexto:'',
         textoSimplificado:'Observe o que se repete',
@@ -234,8 +209,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:4,
-        predecessor:3,
+        {ordem:3,
+        predecessor:2,
         texto:'OS PADRÕES ESTÃO EM MUITAS COISAS A NOSSO REDOR, COMO CORES, FORMAS, DESENHOS E OBJETOS.',
         urlAudioTexto:'',
         textoSimplificado:'Observe o que se repete',
@@ -247,8 +222,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:5,
-        predecessor:4,
+        {ordem:4,
+        predecessor:3,
         texto:'OS PADRÕES NOS AJUDAM A FAZER PREVISÕES, PORQUE ELES NOS AJUDAM A COMEÇAR A ENTENDER O QUE VEM A SEGUIR. É ASSIM, POR EXEMPLO, QUE OS PROFISSIONAIS SABEM QUANDO VAI CHOVER. ELES OBSERVAM OS PADRÕES E FAZEM UMA PREVISÃO.',
         urlAudioTexto:'',
         textoSimplificado:'Previsões com padrões',
@@ -260,8 +235,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
           
-        {ordem:6,
-        predecessor:5,
+        {ordem:5,
+        predecessor:4,
         texto:'RECONHECER PADRÕES TAMBÉM NOS AJUDA A RESOLVER PROBLEMAS, AFINAL, RECONHECER UM PADRÃO É O PRIMEIRO PASSO PARA A SOLUÇÃO.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões resolvem problemas',
@@ -273,8 +248,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:7,
-        predecessor:6,
+        {ordem:6,
+        predecessor:5,
         texto:'UM EXEMPLO DE PADRÃO NO NOSSO DIA A DIA É O NASCER E POR DO SOL E DA LUA. O SOL NASCE PARA COMEÇAR O DIA. NO FIM DO DIA ELE SE PÕE E A LUA NASCE. QUANDO A LUA SE PÕE, O SOL VOLTA PARA MAIS UM DIA.',
         urlAudioTexto:'',
         textoSimplificado:'O padrão do dia e da noite',
@@ -286,8 +261,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:8,
-        predecessor:7,
+        {ordem:7,
+        predecessor:6,
         texto:'QUANDO VOCÊ APRENDE OS PASSOS DE UMA DANÇA, PODE PERCEBER TAMBÉM OS PADRÕES EXISTENTES.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões na dança',
@@ -299,8 +274,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:9,
-        predecessor:8,
+        {ordem:8,
+        predecessor:7,
         texto:'E QUANDO VOCÊ PERCEBE OS PADRÕES, COLOCAR TUDO NUMA SEQUÊNCIA FICA MUITO MAIS FÁCIL, VOCÊ NÃO ACHA?',
         urlAudioTexto:'',
         textoSimplificado:'Padrões e sequências',
@@ -312,8 +287,8 @@ let livro_cs1 ={
         imagemFonte:'ideogram',
         textoDescritivoImagem:'', /*opc*/},
 
-        {ordem:10,
-        predecessor:9,
+        {ordem:9,
+        predecessor:8,
         texto:'OS PADRÕES PODEM SER ENCONTRADOS EM PALAVRAS, NÚMEROS, SÍMBOLOS, HORÁRIOS, COMPORTAMENTOS E MUITO MAIS.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões em todo lugar.',
@@ -861,7 +836,7 @@ let livro_cs1 ={
         textoImpressoRecriado:'E COM A SUA AJUDA, ELES VÃO FAZER TODAS AS TAREFAS E MANTER A ENERGIA LÁ NO ALTO!',
         promptImagem:'Arte digital de uma pilha sendo energizada', /*opc*/
         imagemImpresso:1,
-        imagemFonte:'ideogram',
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'', /*opc*/},
   
         {ordem:7,
@@ -897,7 +872,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img1.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'OS LAÇOS SERVEM PARA O COMPUTADOR FAZER COISAS DE MODO REPETIDO.',
+      textoImpressoRecriado:'OS LAÇOS SERVEM PARA PESSOAS OU COMPUTADORES FAZEREM COISAS DE MODO REPETIDO.',
       promptImagem:'criança pulando corda, desenho animado', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -922,10 +897,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img3.jpeg',
-      textoImpresso:1,
+      textoImpresso:0,
       textoImpressoRecriado:'O COMPUTADOR CONTA QUANTAS VEZES PEDIMOS PARA ELE FAZER UMA AÇÃO E A REPETE NA QUANTIDADE CERTA.',
       promptImagem:'desenho animado de uma criança usando o computador', /*opc*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -936,7 +911,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img4.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ, POR EXEMPLO..',
+      textoImpressoRecriado:'SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ, POR EXEMPLO...',
       promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -947,12 +922,12 @@ let livro_cs1 ={
       texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'O COMPUTADOR SABE CONTAR E ENTENDE QUANDO TEM QUE FAZER A MESMA COISA VÁRIAS VEZES.',
-      promptImagem:'desenho animado de um computador com cinco emojis de carinha sorridente na tela', /*opc*/
+      textoImpressoRecriado:'... BASTA DAR O COMANDO <b>REPITA</b> PARA ELE FAZER A MESMA COISA VÁRIAS VEZES.',
+      promptImagem:'comando repita', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemFonte:'autoral',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:6,
@@ -960,9 +935,9 @@ let livro_cs1 ={
       texto:'OS LAÇOS SÃO COMO TRUQUES DE REPETIÇÃO QUE AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. ELES DIZEM AO COMPUTADOR: "FAÇA ISSO VÁRIAS VEZES ATÉ EU DIZER PARA PARAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img6.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'OS LAÇOS FAZEM OS SEUS ALGORITMOS MAIS RÁPIDOS E PODEROSOS.',
+      textoImpressoRecriado:'O COMPUTADOR VAI CONTAR E FAZER A TAREFA DE MODO REPETIDO.',
       promptImagem:'desenho animado de um computador com um balão de fala vazio em cima', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1411,7 +1386,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img5.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'OS EVENTOS ESTÃO ATÉ NOS COMPUTADORES!',
+      textoImpressoRecriado:'OS EVENTOS ESTÃO ATÉ NOS COMPUTADORES E PODEM SER PROGRAMADOS.',
       promptImagem:'quadrinhos de um computador', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1423,10 +1398,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img6.jpg',
-      textoImpresso:1,
+      textoImpresso:0,
       textoImpressoRecriado:'OS EVENTOS PODEM SER PROGRAMADOS.',
       promptImagem:'quadrinhos de um computador com vários códigos saindo da tela', /*pode ser alguma já utilizada*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1527,10 +1502,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img14.jpg',
-      textoImpresso:1,
-      textoImpressoRecriado:'OS EVENTOS ESTÃO EM TODA PARTE!',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'um computador desktop, um tablet, um celular, um videogame e uma TV, quadrinhos', /*opc*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
@@ -1569,10 +1544,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img2.jpeg',
-      textoImpresso:1,
+      textoImpresso:0,
       textoImpressoRecriado:'PODEMOS PROTEGER NOSSOS DISPOSITIVOS.',
       promptImagem:'Arte digital de um cadeado em forma de escudo medieval com um notebook logo atrás, algumas nuvens e ícones de correspondência', /*opc*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1623,7 +1598,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img6.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'A SENHA PRECISA SER FORTE.',
-      promptImagem:'Arte digital colorida de um braço forte segurando um cadeado', /*opc*/
+      promptImagem:'', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
@@ -1659,12 +1634,12 @@ let livro_cs1 ={
       texto:'POR ISSO, AS SENHAS SEMPRE DEVEM SER “FORTES”, OU SEJA, SUA SENHA DEVE SER ÚNICA E VOCÊ NÃO DEVE USAR A MESMA SENHA PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img9.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img9.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA...',
-      promptImagem:'Arte digital colorida de um cadeado dourado com uma chave e vários outros cadeados prateados em volta', /*opc*/
+      textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA E DÍFICIL DE ADIVINHAR.',
+      promptImagem:'Arte digital colorida de um labirinto', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -1673,10 +1648,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img10.jpg',
-      textoImpresso:1,
-      textoImpressoRecriado:'... E DÍFICIL DE ADIVINHAR.',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma caixa de papelão aberta na parte de cima, com vários ícones de envelopes, chaves, balões de conversa saltando de dentro dela', /*opc*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1688,7 +1663,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img11.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'QUANTO MAIS FORTE A SENHA, MAIS PROTEGIDO VOCÊ ESTÁ.',
-      promptImagem:'Arte digital de personagem hackeando um computador', /*opc*/
+      promptImagem:'ilustração colorida de arte digital de um cavaleiro defendendo um castelo contra um exército. O cavaleiro, em armadura brilhante, segura um grande escudo em forma de cadeado, bloqueando efetivamente o avanço do exército.', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
@@ -1699,10 +1674,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img12.jpeg',
-      textoImpresso:1,
-      textoImpressoRecriado:'NÃO COMPARTILHE SUAS SENHAS!',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma mão entregando uma chave para outra mão', /*opc*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1727,7 +1702,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img14.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
-      promptImagem:'Uma ilustração digital cativante de um ladrão habilidoso roubando furtivamente um laptop de uma mesa bagunçada.', /*pode ser uma variação do que já foi usado anteriormente*/
+      promptImagem:'arte digital colorida de um detentor de chaves em um mundo digital. Este personagem tem grandes chaves penduradas em um cinto. Ele está ao lado de diversos dispositivos como tablets, smartphones e computadores, todos trancados com pequenos cadeados brilhantes..', /*pode ser uma variação do que já foi usado anteriormente*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
@@ -1764,10 +1739,10 @@ let livro_cs1 ={
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img16.jpg',
-      textoImpresso:1,
-      textoImpressoRecriado:'VAMOS NOS PROTEGER!',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'arte digital colorida que retrata a segurança cibernética', /*pode ser uma variação da já usada anteriormente*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
@@ -1793,21 +1768,9 @@ let livro_cs1 ={
     /** urlVideo:'',
     urlPodcast:'', **/
       cenas:[				
+      
       {ordem:1,
       predecessor:0,
-      texto:'VOCÊ JÁ OUVIU A PALAVRA “CONDIÇÃO”? E “CONDICIONAIS”? VAMOS APRENDER UM POUCO SOBRE ISSO.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img1.jpeg',
-      textoImpresso:1,
-      textoImpressoRecriado:'O QUE É UMA CONDICIONAL?',
-      promptImagem:'pintura de uma pessoa pensando, com vários pontos de interrogação ao seu redor', /*pode ser usada alguma variação de outra imagem já pronta*/
-      imagemImpresso:1,
-      imagemFonte:'ideogram',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:2,
-      predecessor:1,
       texto:'AS CONDICIONAIS NOS AJUDAM A ENTENDER COMO AS COISAS PODEM SER DIFERENTES DEPENDENDO DE CERTAS CONDIÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1819,8 +1782,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:3,
-      predecessor:2,
+      {ordem:2,
+      predecessor:1,
       texto:'VAMOS IMAGINAR QUE VOCÊ QUER COMER PIPOCA ENQUANTO VÊ UM FILME.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1832,21 +1795,21 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'',},
 
-      {ordem:4,
-      predecessor:3,
+      {ordem:3,
+      predecessor:2,
       texto:'MAS A SUA MÃE DISSE QUE VOCÊ SÓ PODE VER O FILME E COMER PIPOCA SE O DEVER DE CASA ESTIVER PRONTO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img4.jpg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img3.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'MAS PARA ISSO, PRECISA TER FEITO O DEVER DE CASA.',
       promptImagem:'pintura de uma mesa cheia de livros abertos, canetas, lápis e cadernos',
       imagemImpresso:1,
-      imagemFonte:'dall-e 3',
+      imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:5,
-      predecessor:4,
+      {ordem:4,
+      predecessor:3,
       texto:'ENTÃO A <b>CONDICIONAL</b> SERIA: <code><b>SE</b> VOCÊ FEZ O DEVER DE CASA <br/>&nbsp;&nbsp;<b>ENTÃO</b> VOCÊ PODE VER O FILME E COMER PIPOCA</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1858,8 +1821,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'',},
 
-      {ordem:6,
-      predecessor:5,
+      {ordem:5,
+      predecessor:4,
       texto:'VEJAM COMO ESSA <b>CONDICIONAL</b> MOSTRA EXATAMENTE O QUE É PRECISO PARA QUE VOCÊ POSSA VER O FILME E COMER PIPOCA. É COMO UMA REGRA QUE NOS GUIA!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1871,8 +1834,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:7,
-      predecessor:6,
+      {ordem:6,
+      predecessor:5,
       texto:'VIRAM COMO AS CONDICIONAIS NOS AJUDAM A ENTENDER O QUE VAI ACONTECER COM BASE EM CERTAS CONDIÇÕES?',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1884,8 +1847,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:7,
+      predecessor:6,
       texto:'ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER AS CONSEQUÊNCIAS DE NOSSAS AÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1897,21 +1860,21 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:9,
-      predecessor:8,
+      {ordem:8,
+      predecessor:7,
       texto:'E SABEM O QUE MAIS É LEGAL? AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img9.jpeg',
-      textoImpresso:1,
-      textoImpressoRecriado:'AS CONDICIONAIS TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES.',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'pintura de programação de computador', /*opc*/
-      imagemImpresso:1,
+      imagemImpresso:0,
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:10,
-      predecessor:9,
+      {ordem:9,
+      predecessor:8,
       texto:'OS COMPUTADORES PODEM SEGUIR INSTRUÇÕES COM BASE EM CONDIÇÕES QUE PROGRAMAMOS PARA ELES. É COMO SE ELES TIVESSEM REGRAS PRÓPRIAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1923,21 +1886,21 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:11,
-      predecessor:10,
+      {ordem:10,
+      predecessor:9,
       texto:'POR EXEMPLO, SE VOCÊS ESTIVEREM JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊS PODEM PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img11.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img11.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'SE VOCÊ ESTIVER JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊ PODE PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:12,
-      predecessor:11,
+      {ordem:11,
+      predecessor:10,
       texto:'A CONDICIONAL SERIA: <code><b>SE</b> O PERSONAGEM ENCONTRAR UMA PAREDE <br/>&nbsp;&nbsp;<b>ENTÃO</b> ELE DEVE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1949,8 +1912,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:13,
-      predecessor:12,
+      {ordem:12,
+      predecessor:11,
       texto:'AS CONDICIONAIS PODEM SER USADAS DE MANEIRAS DIVERTIDAS E INTERESSANTES, NÃO É MESMO? ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER COMO AS COISAS FUNCIONAM.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2060,7 +2023,7 @@ let livro_cs1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img7.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'A DEPURAÇÃO É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
-      promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido', /*opc*/
+      promptImagem:'arte digital de um investigador procurando pistas no chão', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
@@ -2083,12 +2046,12 @@ let livro_cs1 ={
       texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img9.jpeg',
-      textoImpresso:1,
-      textoImpressoRecriado:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS.',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img9.jpg',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de programação de computadores', /*opc*/
-      imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemImpresso:0,
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
@@ -2365,12 +2328,12 @@ let livro_cs1 ={
       texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA. VEJA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img8.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img8.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'NO SISTEMA BINÁRIO, O UM É REPRESENTADO POR UMA CAIXINHA BRANCA, QUE QUER DIZER: LIGADO.',
       promptImagem:'um processador de computador com um cubo branco flutuando acima dele em um fundo colorido e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:9,
@@ -2378,12 +2341,12 @@ let livro_cs1 ={
       texto:'E SÃO DESLIGADOS PARA REPRESENTAR O “ZERO”, QUE DESENHAMOS COMO UMA CAIXINHA PRETA.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img9.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img9.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'E O ZERO É REPRESENTADO POR UMA CAIXINHA PRETA, QUE QUER DIZER: DESLIGADO.',
       promptImagem:'um processador de computador com um cubo preto flutuando acima dele em um fundo colorido e futurista', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:10,
