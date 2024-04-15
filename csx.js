@@ -2760,9 +2760,9 @@ let livro_csx ={
         textoSimplificado:'Sistema RGB',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_6.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img6.jpg',
         promptImagem:'Create a pixel art of an open laptop screen displaying the RGB color model, with distinct sections showcasing the primary colors: Red, Green, and Blue', 
-        imagemFonte:'googleimages',
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'Sistema RGB de cores.', },
 
         {ordem:7,
