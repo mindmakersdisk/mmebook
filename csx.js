@@ -651,7 +651,7 @@ let livro_csx ={
         textoDescritivoImagem:'bit interrupetor ligado ao bit controlador, que por sua vez, está ligado ao bit aparelho', },
   
         {ordem:16,
-        predecessor:17,
+        predecessor:15,
         texto:'Preparados para os primeiros desafios com circuitos elétricos? Mãos a obra.',
         urlAudioTexto:'',
         textoSimplificado:'Circuito Elétrico',
