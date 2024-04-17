@@ -180,7 +180,7 @@ let livro_csx ={
         textoSimplificado:'Tudo em um único aparelho',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Nos últimos anos, os criativos fabricantes conseguiram integrar todas as partes de um computador de mesa em um só aparelho, pequeno o suficiente para carregar conosco. São os celulares e tablets, também conhecidos como computadores móveis.',
+        textoImpressoRecriado:'Os avanços tecnológicos nos permitiram reduzir um computador de mesa para um tamanho que cabe na palma da mão, criando os computadores móveis',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img11.jpg',
         promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
         imagemFonte:'dall-e 3',
