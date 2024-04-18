@@ -870,12 +870,12 @@ let livro_cs1 ={
       texto:'OS COMPUTADORES TÊM UMA ESPÉCIE DE "SUPER MEMÓRIA" E CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS <b>LAÇOS</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img2.jpeg',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img4.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'PEÇA PARA O COMPUTADOR: REPITA ISSO.',
+      textoImpressoRecriado:'DÊ UM COMANDO PARA O COMPUTADOR OU ROBÔ REPETIR ALGO E ELE VAI OBEDECER.',
       promptImagem:'computador desktop com o símbolo do infinito na tela, desenho animado', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
+      imagemFonte:'autoral',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:3,
@@ -898,7 +898,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img4.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ, POR EXEMPLO...',
+      textoImpressoRecriado:'POR EXEMPLO, SE VOCÊ QUISER FAZER O MESMO DESENHO VÁRIAS VEZES, COMO A CARINHA FELIZ...',
       promptImagem:'desenho animado de uma tela de computador com um emoji sorridente na tela', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -911,7 +911,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'... BASTA DAR O COMANDO <b>REPITA</b> PARA ELE FAZER A MESMA COISA VÁRIAS VEZES.',
+      textoImpressoRecriado:'... BASTA DAR O COMANDO REPITA EM VOLTA DA TAREFA.',
       promptImagem:'comando repita', /*opc*/
       imagemImpresso:1,
       imagemFonte:'autoral',
@@ -1050,7 +1050,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img8.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'QUE TAL AJUDAR OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DOS NÚMEROS NAS RUAS?',
+      textoImpressoRecriado:'AJUDE OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DE NÚMEROS NAS RUAS!',
       promptImagem:'Arte digital de uma rua em uma cidade futurística com o número dois pintado na rua', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1150,7 +1150,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img4.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
+      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS, ONDE TODOS OS ROBÔS AJUDAM A MANTER A CIDADE LIMPA!',
       promptImagem:'Arte digital de um planeta futurístico, mostrando diferentes cidades.', /*pode ser o mesmo dos outros infográficos*/
       imagemImpresso:1,
       imagemFonte:'leonardo',
@@ -1347,7 +1347,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img3.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'EVENTOS PODEM ACONTECER TODOS OS DIAS.',
+      textoImpressoRecriado:'EVENTOS PODEM ACONTECER TODOS OS DIAS: O SOL NASCEU.',
       promptImagem:'crie uma imagem, estilo história em quadrinhos, do sol nascendo pela manhã', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1360,7 +1360,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img4.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'OU QUANDO MENOS ESPERAMOS.',
+      textoImpressoRecriado:'OU QUANDO MENOS ESPERAMOS: "OLHA, UM ARCO-ÍRIS!"',
       promptImagem:'arco iris, quadrinhos', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1425,7 +1425,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img9.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'TOCAR NA TELA DO TABLET É UM EVENTO.',
+      textoImpressoRecriado:'TOCAR NA TELA DO CELULAR OU DO TABLET É UM EVENTO.',
       promptImagem:'uma pessoa usando um tablet, quadrinhos', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1477,7 +1477,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img13.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'NO SEU VIDEOGRAME, UM EVENTO PODE FAZER O PERSONAGEM PULAR.',
+      textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO NO JOGO, FAZENDO O PERSONAGEM PULAR.',
       promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1571,7 +1571,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img5.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'A SENHA É COMO UMA CHAVE SECRETA.',
+      textoImpressoRecriado:'A SENHA É COMO UMA CHAVE SECRETA QUE A GENTE CRIA E NÃO FALA PARA NINGUÉM.',
       promptImagem:'Arte digital colorida de um código secreto', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1579,6 +1579,19 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
+      texto:'ENTÃO, SÓ A GENTE CONSEGUE ABRIR UMA CAIXA QUE TEM COISAS QUE SÃO NOSSAS.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img6new.webp',
+      textoImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'Arte digital colorida de uma caixa com várias coisas saindo dela', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'dall-e 3',
+      textoDescritivoImagem:'', /*opc*/},
+
+      {ordem:7,
+      predecessor:6,
       texto:'AGORA, POR QUE É IMPORTANTE TER UMA <b>SENHA</b> FORTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1590,8 +1603,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:7,
-      predecessor:6,
+      {ordem:8,
+      predecessor:7,
       texto:'É PORQUE QUEREMOS MANTER NOSSAS COISAS <b>SEGURAS</b> E PROTEGIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1603,8 +1616,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:9,
+      predecessor:8,
       texto:'ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA <b>SENHA</b> PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1616,8 +1629,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:9,
-      predecessor:8,
+      {ordem:10,
+      predecessor:9,
       texto:'POR ISSO, AS <b>SENHAS</b> SEMPRE DEVEM SER “FORTES”, OU SEJA, SUA <b>SENHA</b> DEVE SER ÚNICA E VOCÊ NÃO DEVE USAR A MESMA <b>SENHA</b> PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1629,8 +1642,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:10,
-      predecessor:9,
+      {ordem:11,
+      predecessor:10,
       texto:'SE ALGUÉM DESCOBRIR SUA <b>SENHA</b>, NÃO QUEREMOS QUE ELA TENHA ACESSO A TODAS AS SUAS COISAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1642,8 +1655,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:11,
-      predecessor:10,
+      {ordem:12,
+      predecessor:11,
       texto:'QUANTO MAIS DIFERENTE A <b>SENHA</b>, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1655,8 +1668,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:12,
-      predecessor:11,
+      {ordem:13,
+      predecessor:12,
       texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA <b>SENHA</b> COM NINGUÉM, ALÉM DE SEUS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1668,8 +1681,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:13,
-      predecessor:12,
+      {ordem:14,
+      predecessor:13,
       texto:'MANTER A <b>SENHA</b> EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER SUAS INFORMAÇÕES PESSOAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1681,8 +1694,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:14,
-      predecessor:13,
+      {ordem:15,
+      predecessor:14,
       texto:'ALÉM DAS <b>SENHAS</b>, É IMPORTANTE MANTER SEUS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM SUA PERMISSÃO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1694,8 +1707,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:15,
-      predecessor:14,
+      {ordem:16,
+      predecessor:15,
       texto:'E SE VOCÊ RECEBER UMA MENSAGEM ESTRANHA PEDINDO SUA <b>SENHA</b> OU INFORMAÇÕES PESSOAIS, NUNCA RESPONDA. SEMPRE PEÇA AJUDA A UM ADULTO RESPONSÁVEL.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1707,8 +1720,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:16,
-      predecessor:15,
+      {ordem:17,
+      predecessor:16,
       texto:'A <b>SEGURANÇA</b> É MUITO IMPORTANTE QUANDO SE TRATA DE <b>SENHAS</b> E DISPOSITIVOS ELETRÔNICOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1720,8 +1733,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:17,
-      predecessor:16,
+      {ordem:18,
+      predecessor:17,
       texto:'QUEREMOS PROTEGER NOSSAS INFORMAÇÕES PESSOAIS E MANTER TUDO <b>SEGURO</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1733,8 +1746,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:18,
-      predecessor:17,
+      {ordem:19,
+      predecessor:18,
       texto:'VAMOS APRENDER E MANTER NOSSOS DISPOSITIVOS E INFORMAÇÕES PROTEGIDOS JUNTOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1931,7 +1944,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img1.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE "DEPURAÇÃO", OU "DEBUGGING".',
+      textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE "DEPURAÇÃO", OU "DEBUGGING", EM INGLÊS.',
       promptImagem:'lupa de arte digital sobre um laptop', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -2122,7 +2135,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img3.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'ESTAMOS DE VOLTA À ROBÓPOLIS.',
+      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS.',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',

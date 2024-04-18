@@ -257,7 +257,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Um algoritmo é uma sequência de instruções que visam orientar uma pessoa ou máquina a fazer alguma tarefa de modo perfeito, explicando cada passo.',
+        texto:'Um algoritmo é como uma receita que mostra passo a passo como fazer algo sem erros, tanto para pessoas quanto para máquinas.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos',
         textoImpresso:1,
@@ -293,7 +293,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Outras usam diagramas, que são formados por quadrados, círculos e outras formas geométricas ligadas por linhas e contendo texto.',
+        texto:'Algumas pessoas preferem diagramas com formas como quadrados e círculos, conectados por linhas, com pequenos textos explicativos.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com Diagramas',
         textoImpresso:1,
@@ -495,7 +495,7 @@ let livro_csx ={
               
         {ordem:2,
         predecessor:1,
-        texto:'Primeiramente, se é elétrico tem haver com a eletricidade que existe, por exemplo, nos raios que ocorrem durante as chuvas fortes.',
+        texto:'Primeiro, o que faz algo ser elétrico? É a eletricidade, como a que vemos brilhando nos céus durante uma tempestade. Ou a que faz nossos brinquedos e luzes funcionarem quando ligamos na tomada.',
         urlAudioTexto:'',
         textoSimplificado:'Eletricidade e Raio',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_2.jpg',
@@ -600,7 +600,7 @@ let livro_csx ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Interessante, não é mesmo? Aprender sobre circuitos elétricos é um grande passo para despertar o cientista criativo que vive em você.',
+        texto:'É fascinante como tudo se conecta, certo? Descobrir como os circuitos elétricos trabalham é como decifrar um enigma - e cada passo que você dá desvenda um pouco mais do inventor que existe dentro de você!',
         urlAudioTexto:'',
         textoSimplificado:'Cientista criativo',
 	      textoImpresso:1,
@@ -675,7 +675,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Bem-vindo ao mundo dos Robôs. Todos conhecemos os robôs dos cinemas e dos jogos. Alguns são versáteis, não possuem pernas e se movem rolando com rodas ou esteiras. Outros são parecidos conosco, têm dois braços, duas pernas, esses são chamados de humanóides. E alguns são bem estranhos, misturando diversas formas.',
+        texto:'Já imaginou entrar no mundo incrível dos robôs? Alguns parecem saídos direto de filmes e jogos, com formas que lembram a nossa ou com estruturas surpreendentes. Já ouviu falar dos humanoides? São robôs que se parecem muito com pessoas. E tem outros que são uma verdadeira colcha de retalhos de formas e funções.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs',
         textoImpresso:1,
@@ -807,7 +807,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'As condições podem se basear em qualquer informação conhecida. Por exemplo, regras para parar ou prosseguir com o carro dependem dos sinais de trânsito.<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
+        texto:'Condições são como as regras de um semáforo: se o sinal está vermelho, paramos; se está verde, podemos seguir. Assim, usamos o que sabemos para tomar decisões.<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -929,7 +929,7 @@ let livro_csx ={
   
         {ordem:4,
         predecessor:3,
-        texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+        texto:'Às vezes, precisamos que várias coisas sejam verdade ao mesmo tempo, ou pelo menos uma delas. Na programação, usamos palavras como <b>E</b> e <b>OU</b> para isso, que são conhecidos como <b>Operadores Lógicos</b>. Veja como eles funcionam comparando com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         //texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Operadores Lógicos',
@@ -966,7 +966,7 @@ let livro_csx ={
           
         {ordem:7,
         predecessor:6,
-        texto:'Muita coisa nova, não é? Não se preocupe, você vai praticar muito a programação com condicionais, operadores relacionais e lógicos. E isso vai te levar longe!',
+        texto:'Parece muita informação, mas não se preocupe! Vamos praticar bastante com as condições, operadores relacionais e lógicos em programação. E isso vai abrir um mundo de possibilidades!',
         urlAudioTexto:'',
         textoSimplificado:'Expressão Lógica e Condicional',
         textoImpresso:1,
