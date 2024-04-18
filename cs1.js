@@ -214,12 +214,12 @@ let livro_cs1 ={
         texto:'OS <b>PADRÕES</b> ESTÃO EM MUITAS COISAS A NOSSO REDOR, COMO CORES, FORMAS, DESENHOS E OBJETOS.',
         urlAudioTexto:'',
         textoSimplificado:'Observe o que se repete',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/img4.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/img3.webp',
         textoImpresso:1,
         textoImpressoRecriado:'PADRÕES ESTÃO POR TODA PARTE.',
         promptImagem:'Arte digital de um personagem escovando os dentes e três círculos acima da cabeça, com uma escova no primeiro círculo, uma escova com pasta de dente debaixo de uma torneira correndo água no segundo e uma escova e um tubo de pasta de dente no terceiro', /*opc*/
         imagemImpresso:1,
-        imagemFonte:'ideogram',
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:4,
@@ -279,7 +279,7 @@ let livro_cs1 ={
         texto:'E QUANDO VOCÊ PERCEBE OS <b>PADRÕES</b>, COLOCAR TUDO NUMA SEQUÊNCIA FICA MUITO MAIS FÁCIL, VOCÊ NÃO ACHA?',
         urlAudioTexto:'',
         textoSimplificado:'Padrões e sequências',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/img9.jpeg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pg12.8.jpeg',
         textoImpresso:1,
         textoImpressoRecriado:'PADRÕES E SEQUÊNCIAS ANDAM JUNTOS.',
         promptImagem:'Arte digital de 6 figuras enfileiradas, sendo a primeira, a terceira e a quinta um triângulo amarelo e a segunda e a quarta um círculo azul. Onde deve ficar a sexta figura tem um ponto de interrogação', /*opc*/
