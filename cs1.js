@@ -2148,7 +2148,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img2.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'E HOJE VAMOS AJUDAR OS ROBÔS DA CIDADE NOVAMENTE.',
+      textoImpressoRecriado:'E HOJE VAMOS AJUDAR OS ROBÔS DA CIDADE MAIS UMA VEZ!',
       promptImagem:'rua colorida e futurística com robôs engraçados andando por ela com expressão feliz', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -2200,7 +2200,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img6.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA OS ROBÔS ATRAVESSAREM ROBÓPOLIS SEMPRE RESPEITANDO OS SINAIS DE TRÂNSITO.',
+      textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA OS ROBÔS ATRAVESSAREM ROBÓPOLIS, RESPEITANDO OS SINAIS DE TRÂNSITO.',
       promptImagem:'dois robôs engraçados dirigindo carros em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
