@@ -51,7 +51,9 @@ let livro_csx ={
    /* conteudo */
   unidade1:{
 	  titulo:'Fundamentos de Programação',
-	  descricao:'Nesta unidade, você será formalmente apresentado ao computador e aos dispositivos eletrônicos, além de dar seus primeiros passos em programação. Você aprenderá a resolver problemas lógicos e a conectar o pensamento computacional às atividades práticas através do algoritmo, como também a programar laços e expressões condicionais e lógicas que exercitam seu pensamento crítico e analítico.',
+	  descricao:`Nesta unidade, aprenderemos formalmente sobre o computador e os dispositivos computacionais, dando nossos primeiros passos em programação. 
+
+	  Aprenderemos a criar algoritmos com laços, eventos, expressões lógicas e condicionais para solucionar problemas e exercitar nosso pensamento crítico, analítico e computacional.`,
 	  licao1:{
 		  id:'CSXAULA01CODE',
 		  /** padroesCurriculares: 
@@ -64,7 +66,7 @@ let livro_csx ={
 			cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Hoje, você vai descobrir como é divertido programar computadores e montar circuitos elétricos. Estes serão seus primeiros passos na ciência da computação.',
+        texto:'Hoje, descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
         textoSimplificado:'Primeiros passos',
         textoImpresso:1,
@@ -76,7 +78,7 @@ let livro_csx ={
       
         {ordem:2,
         predecessor:1,
-        texto:'Você aprenderá a criar videogames, robôs e outras invenções que desejar.',
+        texto:'Aprenderemos a criar videogames, robôs e outras invenções computacionais que desejarmos...',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_2.mp3',
         textoSimplificado:'Videogames, robôs e resolução de problemas.',
         textoImpresso:1,
@@ -88,7 +90,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Seja para se divertir com os amigos ou mesmo, quem sabe, para resolver problemas reais e tornar o mundo um lugar melhor para todos.',
+        texto:'...aprendendo a resolver problemas do mundo moderno enquanto nos divertimos trabalhando em equipe.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_3.mp3',
         textoSimplificado:'Resolução de problemas',
         textoImpressoRecriado:'Você aprenderá a criar videogames, robôs e outras invenções que desejar. Seja para se divertir com os amigos ou, quem sabe, resolver problemas reais e melhorar o mundo para todos.',
@@ -99,7 +101,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Você mal se deu por gente e já tentava tocar o teclado de um computador ou talvez na tela de um celular.',
+        texto:'Você já deve ter tocado na tela de um celular e visto alguém digitando no teclado de um computador de mesa...',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_5.mp3',
         textoSimplificado:'Começo do uso da tecnologia',
         textoImpresso:1,
@@ -112,7 +114,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Se você já prestou atenção em um computador desses que ficam em casa, em cima da mesa, deve ter notado que ele tem pelo menos quatro partes:',
+        texto:'Se prestou atenção no computador, deve ter notado que ele tem quatro partes principais:',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_6.mp3',
         textoSimplificado:'Desktop e suas partes',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_6.png',
@@ -165,7 +167,7 @@ let livro_csx ={
   
         {ordem:10,
         predecessor:9,
-        texto:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos, como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. As possibilidades são infinitas.',
+        texto:'Além dessas quatro partes básicas, o computador pode estar ligado a muitos outros tipos de dispositivos, como caixas de som, impressoras, joysticks, simuladores de instrumentos musicais, entre outros. As possibilidades são infinitas...',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_11.mp3',
         textoSimplificado:'Outros dispositivos',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_11.png',
@@ -175,12 +177,12 @@ let livro_csx ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Nos últimos anos, os criativos fabricantes conseguiram juntar todas as partes do computador de mesa em um só aparelho, pequeno o suficiente para carregarmos conosco: são os celulares e tablets, também conhecidos como computadores móveis.',
+        texto:'Neste século, avanços tecnológicos nos permitiram reduzir o tamanho dos computadores ao ponto de podermos levá-los conosco. São os chamados computadores móveis, como tablets ou celulares.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_12.mp3',
         textoSimplificado:'Tudo em um único aparelho',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Os avanços tecnológicos nos permitiram reduzir um computador de mesa para um tamanho que cabe na palma da mão, criando os computadores móveis',
+        textoImpressoRecriado:'Neste século, avanços tecnológicos permitiram reduzir o tamanho dos computadores ao ponto de podermos levá-los conosco. São os chamados computadores móveis, como tablets ou celulares.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img11.jpg',
         promptImagem:'Digital art of a modern smartphone with various brightly colored media icons - such as music, video, image, and text symbols - dynamically emerging from the screen, symbolizing the multitude of media forms accessible through the device.', 
         imagemFonte:'dall-e 3',
@@ -188,7 +190,7 @@ let livro_csx ={
   
         {ordem:12,
         predecessor:11,
-        texto:'Mas já existem hoje computadores ainda menores que nossos telefones celulares, embutidos dentro de nossos carros, TVs, elevadores, aparelhos de som e eletrodomésticos.',
+        texto:'E hoje já convivemos com computadores ainda menores que telefones celulares, embutidos dentro de carros, TVs, elevadores, aparelhos de som e eletrodomésticos.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_13.mp3',
         textoSimplificado:'Internet das Coisas',
         textoImpresso:1,
@@ -200,7 +202,7 @@ let livro_csx ={
   
         {ordem:13,
         predecessor:12,
-        texto:'Você não os vê, mas esses computadores embutidos tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
+        texto:'Não os vemos, mas esses computadores embutidos tornam os aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
         textoSimplificado:'Computadores embutidos',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_13_new.jpg',
@@ -210,7 +212,7 @@ let livro_csx ={
   
         {ordem:14,
         predecessor:13,
-        texto:'E prepare-se, em um futuro próximo, também encontraremos computadores em roupas, móveis, sapatos. Enfim, em todas as coisas!',
+        texto:'Com o passar do tempo, encontramos mais e mais desses microcomputadores em roupas, móveis, sapatos... enfim, em todas as coisas!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_15.mp3',
         textoSimplificado:'Futuro',
         textoImpresso:1,
@@ -223,7 +225,7 @@ let livro_csx ={
   
         {ordem:15,
         predecessor:14,
-        texto:'Mas então, o que é realmente um computador? Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros, e até mesmo controlar carros, robôs ou cidades.',
+        texto:'Mas então, o que é realmente um computador? Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros e até mesmo controlar carros, robôs ou cidades.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_17.mp3',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_17.jpg',
@@ -233,7 +235,7 @@ let livro_csx ={
   
         {ordem:16,
         predecessor:15,
-        texto:'E o mais legal é que vamos aprender a fazer tudo isso neste curso!',
+        texto:'E o mais incrivel é que vamos aprender como isso é possível, neste curso!',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_14.mp3',
         textoSimplificado:'O curso',
         textoImpresso:1,
@@ -257,7 +259,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Um algoritmo é como uma receita que mostra passo a passo como fazer algo sem erros, tanto para pessoas quanto para máquinas.',
+        texto:'Um algoritmo é como uma receita passo a passo, criada para orientar uma pessoa ou computador a fazer algo sem erros.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos',
         textoImpresso:1,
@@ -269,7 +271,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os algoritmos às vezes não usam textos, mas ainda assim são algoritmos, apenas usando uma linguagem diferente.',
+        texto:'Os algoritmos às vezes não usam textos, mas ainda assim são algoritmos... apenas usando uma linguagem diferente.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e suas linguagens',
         textoImpresso:1,
@@ -281,7 +283,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Por exemplo, algumas pessoas usam imagens como linguagem para um algoritmo.',
+        texto:'Por exemplo, algumas pessoas criam algoritmos com imagens. Dizemos que as imagens são a linguagem do algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com imagens',
         textoImpresso:1,
@@ -293,7 +295,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Algumas pessoas preferem diagramas com formas como quadrados e círculos, conectados por linhas, com pequenos textos explicativos.',
+        texto:'Outras usam diagramas com formas geométricas com conexões e textos explicativos.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com Diagramas',
         textoImpresso:1,
@@ -317,7 +319,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para algoritmos mais simples, basta uma lista numerada contendo um texto explicativo para cada passo a ser feito. Um após o outro.',
+        texto:'Para algoritmos mais simples, basta uma lista numerada contendo um texto explicativo para cada passo.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo simples',
         textoImpresso:1,
@@ -341,7 +343,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Como observamos na prática, programas de computador são, basicamente, algoritmos escritos em uma linguagem que o computador entende.',
+        texto:'E, por fim, programas de computador também são algoritmos, escritos em uma linguagem que o computador entende.',
         urlAudioTexto:'',
         textoSimplificado:'Programa de computador',
         textoImpresso:1,
@@ -365,7 +367,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Hoje você vai conhecer um poderoso comando em algoritmos: os <b>laços</b>, também chamados de loops, em inglês.',
+        texto:'Hoje conheceremos um poderoso comando utilizado em algoritmos: o <b>laço</b>, também chamado de loop, em inglês.',
         urlAudioTexto:'',
         textoSimplificado:'Laço em Algoritmos',
         textoImpresso:1,
@@ -389,7 +391,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Os laços são poderosos porque evitam a repetição de comandos. Com um pequeno algoritmo ou programa, você faz coisas impressionantes.',
+        texto:'Os laços são poderosos porque evitam a repetição de comandos. Com um pequeno algoritmo ou programa, fazemos coisas impressionantes.',
         urlAudioTexto:'',
         textoSimplificado:'Laços são poderosos',
         textoImpresso:1,
@@ -401,7 +403,12 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Um laço de programação pode envolver vários comandos que são repetidos juntos, como uma rotina de exercícios envolve diferentes atividades, como alongamento, flexões, agachamentos e corrida no lugar, que são repetidas em sequência a cada manhã.',
+        texto:`Um laço pode envolver um ou vários comandos, que são repetidos em bloco, como uma rotina de exercícios diários: 
+		[repita todo dia às 8h
+		   - alongue
+		   - faça flexões de braço
+		   - faça agachamentos
+		 ]`,
         urlAudioTexto:'',
         textoSimplificado:'Vários comandos',
         textoImpresso:1,
@@ -413,7 +420,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Em várias atividades, como no esporte e na dança, os laços são muito comuns. Quando queremos que algo se repita por um número específico de vezes, definimos o número de vezes no laço. Por exemplo, na imagem podemos indicar um laço com 5 repetições de pirueta para a bailarina.',
+        texto:'Quando queremos instruir alguém a repetir algo por um número determinado de vezes, definimos o número exato no laço do algoritmo. Laços desse tipo são muito comuns em algoritmos para treino de esportistas ou dançarinos.',
         urlAudioTexto:'',
         textoSimplificado:'Laços pelo Mundo',
         textoImpresso:1,
@@ -425,7 +432,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para programar um veículo de fórmula 1 para ganhar uma corrida, o seguinte comando deveria ser executado: <p>Repita 76 vezes (Dê a volta mais rápida que conseguir).',
+        texto:'Algoritmo para orientar um piloto de Fórmula 1: <p>Repita 76 vezes (Dê a volta mais rápida que conseguir).',
         urlAudioTexto:'',
         textoSimplificado:'Laços na Fórmula 1',
         textoImpresso:1,
@@ -449,7 +456,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Comandos de Laços também podem ser utilizados dentro de outros comandos de laço. Quando isso acontece, esses laços são chamados de <b>laços aninhados</b></p> Como um exemplo de laço aninhado, veja com atenção esse exemplo que usa um laço "simples" para desenhar cada quadrado.',
+        texto:'Laços podem ser utilizados dentro de outros comandos de laço. São os chamados <b>laços aninhados</b></p> Tente entender como este programa desenha um quadrado com lados de tamanhos iguais...',
         urlAudioTexto:'',
         textoSimplificado:'Laços Aninhados',
         textoImpresso:1,
@@ -462,7 +469,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Prepare-se! Com os laços os nossos programas vão dar um show!',
+        texto:'Prepare-se! Com os laços os seus programas vão dar um show!',
         urlAudioTexto:'',
         textoSimplificado:'Laços em Programas',
         textoImpresso:1,
@@ -495,7 +502,7 @@ let livro_csx ={
               
         {ordem:2,
         predecessor:1,
-        texto:'Primeiro, o que faz algo ser elétrico? É a eletricidade, como a que vemos brilhando nos céus durante uma tempestade. Ou a que faz nossos brinquedos e luzes funcionarem quando ligamos na tomada.',
+        texto:'Primeiro, o que faz algo ser <b>elétrico</b>? É a eletricidade, como a que vemos brilhando nos céus durante uma tempestade. Ou a que faz os aparelhos funcionarem quando ligados na tomada.',
         urlAudioTexto:'',
         textoSimplificado:'Eletricidade e Raio',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_2.jpg',
@@ -518,7 +525,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'E quando falamos em circuito, dá a entender que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1.',
+        texto:'E quando falamos em <b>circuito</b>, entendemos que é algo que dá uma volta e se fecha, como um círculo ou um circuito de Fórmula 1.',
         urlAudioTexto:'',
         textoSimplificado:'Círculo e Fórmula 1',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_4_flickr.jpg',
@@ -528,7 +535,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Um circuito elétrico é um conjunto formado por um gerador, um condutor e aparelhos que utilizam a energia para funcionar.',
+        texto:'Um circuito elétrico é um conjunto formado por <b>fios condutores</b> que ligam e transportam energia de um <b>gerador</b> até um <b>aparelho</b> que precisa de energia para funcionar.',
         urlAudioTexto:'',
         textoSimplificado:'Circuito elétrico e suas partes',
         textoImpresso:1,
@@ -541,7 +548,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'O gerador é a fonte de energia elétrica. Ele pode ser de corrente contínua, como as pilhas e baterias, ou de corrente alternada, como a energia que recebemos das companhias de eletricidade.',
+        texto:'O <b>gerador</b> é a fonte que produz a energia elétrica, como as pilhas e baterias. A energia das tomadas é produzida por imensos geradores das companhias de energia, capazes de energizar cidades inteiras..',
 	      urlAudioTexto:'',
         textoSimplificado:'Gerador',
 	      textoImpresso:1,
@@ -553,7 +560,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'O condutor é o meio pelo qual a energia é transmitida em um circuito fechado. Fios são exemplos comuns de condutores.',
+        texto:'O <b>condutor</b> é o meio pelo qual a energia é transmitida em um circuito. Os fios ou cablos são os exemplos mais comuns de condutores.',
         urlAudioTexto:'',
         textoSimplificado:'Condutor',
 	      textoImpresso:1,
@@ -565,7 +572,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'E, por fim, temos os aparelhos que utilizam essa energia, como lâmpadas, ventiladores e demais eletrodomésticos.',
+        texto:'E, por fim, os <b>aparelhos</b> elétricos, como lâmpadas, ventiladores e eletrodomésticos, são a razão de existir do circuito.',
         urlAudioTexto:'',
         textoSimplificado:'Aparelhos que utilizam energia',
 	      textoImpresso:1,
@@ -577,7 +584,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'É também muito comum que circuitos elétricos contenham dispositivos de controle, como os botões de ligar e desligar ou de aumentar e diminuir o som.',
+        texto:'Além do <b>gerador</b>, do <b>condutor</b> e do <b>aparelho</b>, é muito comum que os circuitos elétricos também possuam <b>controladores</b> de energia, como os botões de ligar e desligar, e botões de rotacionar, por exemplo, para aumentar e diminuir o som.',
         urlAudioTexto:'',
         textoSimplificado:'Dispositivos de controle',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_9.jpg',
@@ -587,7 +594,7 @@ let livro_csx ={
   
         {ordem:10,
         predecessor:9,
-        texto:'Esses dispositivos nos permitem controlar melhor a quantidade de eletricidade que circula em cada parte do circuito para não termos que conectar e desconectar fios condutores para ligar ou desligar uma lâmpada, por exemplo.',
+        texto:'Como o nome sugere, esses dispositivos nos permitem controlar a quantidade de eletricidade que chega aos aparelhos, sem precisarmos conectar e desconectar fios para ligar ou desligar uma lâmpada, por exemplo.',
         urlAudioTexto:'',
         textoSimplificado:'Dispositivos de controle',
         textoImpresso:1,
@@ -600,7 +607,7 @@ let livro_csx ={
   
         {ordem:11,
         predecessor:10,
-        texto:'É fascinante como tudo se conecta, certo? Descobrir como os circuitos elétricos trabalham é como decifrar um enigma - e cada passo que você dá desvenda um pouco mais do inventor que existe dentro de você!',
+        texto:'Veremos como é fascinante entender e controlar a energia que flui pelos fios e dá vida aos inventos modernos... especialmente quando nós somos os inventores!',
         urlAudioTexto:'',
         textoSimplificado:'Cientista criativo',
 	      textoImpresso:1,
@@ -612,7 +619,7 @@ let livro_csx ={
 	            
 	      {ordem:12,
         predecessor:11,
-        texto:'E para isso, começaremos usando os somosBits, pequenos componentes eletrônicos usados para montar circuitos de forma rápida e segura.',
+        texto:'Para começar, usaremos pequenos componentes eletrônicos que nos permitem montar circuitos de forma rápida e segura.',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_12_new.png',
@@ -622,7 +629,7 @@ let livro_csx ={
   
         {ordem:13,
         predecessor:12,
-        texto:'Cada peça do somosBits, chamada de bit, é como um componente dos circuitos elétricos que existem em nossa casa. Lembram-se do gerador, controlador, condutor e aparelho?',
+        texto:'Cada componente do nosso kit simula um componente dos circuitos elétricos reais, que existem em nossa casa e escola. Lembram-se do gerador, controlador, condutor e aparelho?',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_13_new.png',
@@ -632,7 +639,7 @@ let livro_csx ={
   
         {ordem:14,
         predecessor:13,
-        texto:'Cada bit é colorido para difereniciar a sua função em um circuito elétrico. Geradores possuem uma marcação azul, controladores rosa, condutores laranja e aparelhos verde.',
+        texto:'Cada componente é colorido para diferenciar sua função no circuito elétrico.',
         urlAudioTexto:'',
         textoSimplificado:'somosBits',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_14_new.png',
@@ -642,7 +649,7 @@ let livro_csx ={
   
         {ordem:15,
         predecessor:14,
-        texto:'E bits podem ser ligados uns aos outros através de imãs para fazermos circuitos rapidamente.',
+        texto:'Os componentes podem ser ligados uns aos outros para criar circuitos rapidamente, e de modo seguro.',
         urlAudioTexto:'',
         textoSimplificado:'Bits conectados por imã',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_15_new.png',
@@ -652,7 +659,7 @@ let livro_csx ={
   
         {ordem:16,
         predecessor:15,
-        texto:'Preparados para os primeiros desafios com circuitos elétricos? Mãos a obra.',
+        texto:'Preparado para seus primeiros desafios com circuitos elétricos? Mãos a obra!',
         urlAudioTexto:'',
         textoSimplificado:'Circuito Elétrico',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img_16.jpg',
@@ -675,7 +682,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Já imaginou entrar no mundo incrível dos robôs? Alguns parecem saídos direto de filmes e jogos, com formas que lembram a nossa ou com estruturas surpreendentes. Já ouviu falar dos humanoides? São robôs que se parecem muito com pessoas. E tem outros que são uma verdadeira colcha de retalhos de formas e funções.',
+        texto:'Todos conhecemos os robôs dos filmes e jogos: alguns se movem com rodas ou esteiras, outros possuem formas humanóides, que lembram a nossa e muitos são bem exóticos, feitos mesmo para serem engraçados... mas como esses robôs se comparam aos robôs reais?',
         urlAudioTexto:'',
         textoSimplificado:'Robôs',
         textoImpresso:1,
@@ -687,7 +694,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Mas como surgiram os robôs? Tudo começou com os autômatos, há alguns séculos atrás. Um autômato é um boneco que tem mecanismos que geram movimentos feitos para parecer como se agissem por sua própria vontade. Autômatos são considerados um tipo primitivo de robô. Para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco.',
+        texto:'Vamos começar entendendo a origem dos robôs: os <b>autômatos</b>. Inventados há alguns séculos atrás, os autômatos são bonecos com mecanismos que produzem movimentos parecidos com os nossos e até parecem agir por vontade própria. Mas para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco... ainda assim, os autômatos já são considerados um tipo primitivo de robô.',
         urlAudioTexto:'',
         textoSimplificado:'Autômatos',
         textoImpresso:1,
@@ -699,7 +706,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Nos robôs de hoje, que usam os computadores como cérebro, é possível modificar seus movimentos bastando alterar programas sem reconstruir seus mecanismos. Mas como são os robôs de hoje comparados com os robôs de filmes e do passado?',
+        texto:'Os robôs atuais usam computadores como o cérebro-controlador de seus movimentos. Por isso, para modificá-los, basta alterar seus programas.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs de hoje',
         textoImpresso:1,
@@ -711,7 +718,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Alguns robôs, chamados industriais, conseguem pegar objetos, cortar, compactar, separar, furar tudo com alta precisão e velocidade incomparável. Por isso são usados para montar carros, empacotar produtos, engarrafar bebidas, cortar chocolates e muito mais.',
+        texto:'Alguns deles, chamados industriais, conseguem pegar objetos, cortar, compactar, separar, furar tudo com alta precisão e velocidade incomparável. Por isso são usados para montar carros, empacotar produtos, engarrafar bebidas, cortar chocolates e muito mais.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Industriais',
         textoImpresso:1,
@@ -723,7 +730,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Alguns robôs ajudam médicos a realizar cirurgias complicadas. Às vezes, até sozinhos. Tudo isso graças a uma programação muito inteligente.',
+        texto:'Robôs reais também já ajudam médicos a realizar cirurgias complicadas. Às vezes, até sozinhos. Tudo isso graças a uma programação muito inteligente.',
         urlAudioTexto:'',	
         textoSimplificado:'Robôs Cirurgiões',
         textoImpresso:1,
@@ -735,7 +742,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'E tem aqueles robôs que vão até onde os humanos não conseguem ir. Eles são construídos e programados para explorar planetas, luas, asteroides e cometas, coletando informações e nos enviando por mensagens sem que precisemos arriscar a nossa vida.',
+        texto:'Também já existem robôs que vão até onde os humanos não conseguem ir, construídos e programados para explorar planetas, luas, cometas... coletando informações e nos enviando por mensagens, sem colocar nenhuma pessoa em risco.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs Exploradores',
         textoImpresso:1,
@@ -747,7 +754,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Gostou? Pois você vai programar e criar seus primeiros robôs neste curso. <p> Quer começar? <p> O primeiro passo é aprender programação de computador para poder controlar um robô.',
+        texto:'Gostou? Para controlarmos nosso primeiro robô, o primeiro passo é aprender sua linguagem de programação, ou seja, os comandos de programação que controlam seus movimentos.',
         urlAudioTexto:'',
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
@@ -759,7 +766,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Conheça o primeiro robô que você vai programar! Ele é muito versátil e divertido; juntos, vocês enfrentarão desafios cada vez maiores!',
+        texto:'O primeiro robô que iremos programar é muito versátil e divertido!',
         urlAudioTexto:'',
         textoSimplificado:'mBot',
         textoImpresso:1,
@@ -769,17 +776,7 @@ let livro_csx ={
         imagemFonte:'autoral',
         textoDescritivoImagem:'Robô mBot.', },
 
-        {ordem:9,
-        predecessor:8,
-        texto:'Após aprender a programar, você poderá montar seus próprios robôs. Com a mecânica, você construirá os mecanismos dos robôs, como braços, carrocerias e outras partes que sua imaginação conceber. Com um pouco de eletrônica e seus conhecimentos sobre eletricidade e circuitos elétricos, você poderá dar ao seu robô habilidades sensoriais, como ouvir sons, detectar obstáculos e desviar, e muito mais. <p>Então, você está no caminho certo!',
-        urlAudioTexto:'',
-        textoSimplificado:'Mecânica',
-        textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Robos/img9.jpg',
-        promptImagem:'Ilustração colorida de um Kit de Robótica empolgante espalhado sobre uma mesa: engrenagens, rodas, placas eletrônicas, fios, parafusos e uma pequena ferramenta, prontos para serem montados em um robô por mãos jovens e entusiasmadas<p>Ilustração de um Kit de Eletrônica para Robótica sobre uma mesa: circuitos, baterias, fios, LEDs, motores e um manual de instruções. As peças estão prontas para serem montadas por um jovem entusiasmado para criar seu próprio robô.', 
-        imagemFonte:'leonardo',
-        textoDescritivoImagem:'Um kit com peças da mecânica e de eletrônica para montar um robô.', },
+
       ]}},
   
 
@@ -795,7 +792,7 @@ let livro_csx ={
 			cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Já percebeu quantas decisões você tem que tomar em um dia comum de sua vida? Usar uma camiseta branca ou preta, estudar primeiro e depois brincar, jogar vôlei ou futebol. Você decide o que fazer verificando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são condicionantes.',
+        texto:'Já percebeu quantas decisões nós tomamos em um dia comum de nossas vidas? Uso a camiseta branca ou preta? Estudo antes ou depois de ver o filme? Vou jogar vôlei ou futebol hoje? Acabamos decidindo com base em certas condições, que podemos também expressar em algoritmos. Por exemplo: <p><code><b>se</b> estiver chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são as condicionantes.',
         urlAudioTexto:'',
         textoSimplificado:'Expressões Condicionais',
         textoImpresso:1,
@@ -807,7 +804,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Condições são como as regras de um semáforo: se o sinal está vermelho, paramos; se está verde, podemos seguir. Assim, usamos o que sabemos para tomar decisões.<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
+        texto:'Sempre avaliamos condições quando dirigimos e vemos um semáforo: se o sinal está vermelho então paramos; se está verde, então seguimos em frente. Quando queremos que outra pessoa se comporte conforme uma condição, nós usamos condicionais nos algoritmos. Ex.: <p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -819,7 +816,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'O interessante é que essas condições podem ser utilizadas tanto em algoritmos, para orientar pessoas, como também em programas de computador ou mesmo em circuitos eletrônicos.',
+        texto:'As condicionais podem ser utilizadas tanto em algoritmos, para orientar pessoas, como também em programas de computador, ou mesmo em circuitos eletrônicos.',
         urlAudioTexto:'',
         textoSimplificado:'Condicionais em todo lugar',
         textoImpresso:1,
@@ -831,7 +828,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Um bom exemplo são os sinais de carro e pedestre. Já reparou que conforme um deles fica verde, o outro fica sempre vermelho? Isso funciona sem falhas porque os circuitos eletrônicos de ambos os sinais estão interligados e porque os engenheiros projetaram os circuitos para que seja impossível que ambos tenham a mesma cor.',
+        texto:'Um bom exemplo são os sinais de carro e pedestre. Já reparou que "se um deles fica verde então o outro fica sempre vermelho"? Isso funciona sem falhas porque os circuitos eletrônicos de ambos os sinais estão interligados e os engenheiros projetaram essas condicionais nos circuitos, de modo que ambos jamais tenham a mesma cor.',
         urlAudioTexto:'',
         textoSimplificado:'Sinais de carro e pedestre',
 	      textoImpresso:1,
@@ -843,7 +840,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Usamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmos. E chamamos a essa estrutura de Expressão Condicional. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code><br/>Ele define as decisões que os motoristas devem tomar conforme as condições dos sinais de trânsito.',
+        texto:'Para expressar condicionais em algoritmos, usamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b>, criando uma Expressão Condicional. <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code><br/>.',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
 	      textoImpresso:1,
@@ -855,7 +852,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para escrever condições, muitas vezes pegamos sinais emprestados da matemática. São os chamados operadores relacionais. Os sinais de operadores mais comuns são: <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
+        texto:'Para escrever condicionais em programas, pegamos sinais emprestados da matemática, usando os chamados operadores relacionais. Os mais comuns são <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja os exemplos: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
         urlAudioTexto:'',
         textoSimplificado:'Sinais da Matemática',
 	      textoImpresso:1,
@@ -864,19 +861,7 @@ let livro_csx ={
         promptImagem:'Create a realistic image of a highway with cars driving on it and road signs indicating the maximum speed limit. The scene should depict cars traveling and the speed limit signs clearly visible.', 
         imagemFonte:'dall-e 3',
         imagemArremate:1,
-        textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', },
-
-        {ordem:7,
-        predecessor:8,
-        texto:'Mas e quanto ao sinal amarelo? Como será que representamos esse sinal por meio de condicionais?<p>Deixaremos para aprender isso na próxima lição. Até lá, aproveite para praticar muito a programação com condicionais e operadores relacionais!',
-        urlAudioTexto:'',
-        textoSimplificado:'Expressão Lógica e Condicionais',
-		    textoImpresso:1,
-        imagemImpresso:1,
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExprCond/img7.jpg',
-        promptImagem:'Imagem de semárofo, com sinal amarelo + interrogação',
-        imagemFonte:'dall-e 3',
-        textoDescritivoImagem:'Três imagens. Na primeira uma programadora. Na segunda um processador de computador. Na terceira um circuito eletrônico.', },
+        textoDescritivoImagem:'Algoritmo usando os sinais da matemática igual, maior que e menor que, conforme já descrito.', }
       ]}},
 
 
@@ -892,7 +877,7 @@ let livro_csx ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Você já aprendeu sobre o uso de <b>expressões condicionais</b>.</p> Você se lembra que condicionais podem ser utilizadas para se escrever as regras associadas aos sinais de trânsito que determinam quando um carro deve parar ou prosseguir?<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
+        texto:'Já aprendemos sobre o uso de <b>expressões condicionais</b>, utilizando sinais de trânsito como exemplo:<p><code><b>se</b> o sinal estiver vermelho então pare<br/><b>se</b> o sinal estiver verde então prossiga<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -904,7 +889,7 @@ let livro_csx ={
   
         {ordem:2,
         predecessor:1,
-        texto:'Para escrever condições em linguagems de programação, é comum usarmos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para definir decisões em algoritmo chamadas de estrutura de <b>Expressão Condicional</b>.<p> Esses termos são utilizados juntamente com alguns sinais matemáticos chamados de <b>operadores relacionais</b>, tais como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code>',
+        texto:'Vimos que, em algoritmos, definimos condicionais usando os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> em uma <b>Expressão Condicional</b>, que também podem trazer sinais matemáticos como <b>operadores relacionais</b>... como os sinais de <b>igual (=)</b>, de <b>maior que (>)</b> e de <b>menor que (<)</b>. <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga <br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare</code>',
         urlAudioTexto:'',	
         textoSimplificado:'Algoritmo de Trânsito',
         textoImpresso:1,
@@ -916,7 +901,7 @@ let livro_csx ={
   
         {ordem:3,
         predecessor:2,
-        texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspentão prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>senão</b> pare<br/></code>',
+        texto:'Vamos evoluir agora para as <b>Expressões condicionais aninhadas</b>. Assim como fizemos com os laços, também podemos aninhar expressões condicionais. Por exemplo, vamos tratar o sinal amarelo:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspentão prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<b>senão</b> pare<br/></code>',
         //texto:'Podemos escrever expressões condicionais dentro de outra expressão condicional. Desse modo, podemos, por exemplo, escrever as regras dos sinais de trânsito, incluindo as regras associadas ao sinal amarelo. Vejo o exemplo:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;<b> senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = amarelo então<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>se</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo de Trânsito',
@@ -929,7 +914,7 @@ let livro_csx ={
   
         {ordem:4,
         predecessor:3,
-        texto:'Às vezes, precisamos que várias coisas sejam verdade ao mesmo tempo, ou pelo menos uma delas. Na programação, usamos palavras como <b>E</b> e <b>OU</b> para isso, que são conhecidos como <b>Operadores Lógicos</b>. Veja como eles funcionam comparando com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+        texto:'<b>Operadores Lógicos</b>: também é muito útil utilizar mais de uma condição ao mesmo tempo, em expressões condicionais. Seja exigindo que todas sejam verdadeiras para que os comandos abaixo do "Se" sejam executados, neste caso usando o termo <b>E</b>. Seja para exigir que ao menos uma delas seja verdade, para isso, usando o termo <b>OU</b>. Estes termos são conhecidos como <b>Operadores Lógicos</b>. Veja um exemplo de expressão condicional com uso de "E":<p><code><b>se</b> sinal = vermelho então pare<br/><b>senão se</b> sinal = verde então prossiga<br/><b>senão se</b></b> sinal = amarelo E já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         //texto:'Uma expressão pode também usar os termos <b>E/OU</b> quando é composta por várias condições. São os chamados <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o exemplo anterior:<p><code><b>se</b> sinal = vermelho então pare<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b> sinal = verde então prossiga<br/>&nbsp;&nbsp;&nbsp;<b>senão se</b></b> sinal = amarelo e já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;então prossiga <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Operadores Lógicos',
@@ -942,7 +927,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Os operadores lógicos podem ser utilizados para expressar condições baseadas em qualquer tipo de informação conhecida, desde que a expressão seja composta por duas ou mais condições. Por exemplo, para definir ações a serem realizadas de acordo com sua agenda semanal:<p><code><b>se</b> hora = 06h00 então <br/>&nbsp;&nbsp; <b>se</b> dia = sábado ou dia = domingo <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então durma um pouco mais<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>senão</b> vá para a escola<br/></code>',
+        texto:'<b>Operadores lógicos</b> podem ser utilizados para definir ações conforme uma agenda semanal, por exemplo:<p><code><b>se</b> hora = 6 então <br/>&nbsp;&nbsp; <b>se</b> dia = sábado ou dia = domingo <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; então durma um pouco mais<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>senão</b> vá para a escola<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Condições',
         textoImpresso:1,
@@ -954,7 +939,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Além dos operadores lógicos E/OU, podemos usar o <b>NÃO</b> para inverter uma decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede então<br/>&nbsp;&nbsp; <b>se</b> não estiver de jejum então beba água<br/></code>',
+        texto:'<b>Negativa</b>. Além dos operadores lógicos E/OU, também podemos usar o <b>NÃO</b> em expressões lógicas, para inverter um critério de decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede então<br/>&nbsp;&nbsp; <b>se</b> não estiver de jejum então beba água<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'Operador Lógico NÃO',
         textoImpresso:1,
@@ -966,7 +951,7 @@ let livro_csx ={
           
         {ordem:7,
         predecessor:6,
-        texto:'Parece muita informação, mas não se preocupe! Vamos praticar bastante com as condições, operadores relacionais e lógicos em programação. E isso vai abrir um mundo de possibilidades!',
+        texto:'Todas essas possibilidades podem parecer um pouco confusas no início, mas mas não se preocupe! Vamos praticar bastante, programando soluções de desafios com expressões condicionais, operadores relacionais e lógicos... e isso tornará suas criações digitais ainda mais poderosas.',
         urlAudioTexto:'',
         textoSimplificado:'Expressão Lógica e Condicional',
         textoImpresso:1,
@@ -981,7 +966,9 @@ let livro_csx ={
 
   unidade2:{
     titulo:'Programação Orientada a Eventos',
-	  descricao:'Nesta unidade, você aprenderá o conceito de programação orientada a eventos, como ela é implementada em linguagens de programação visual, como o Scratch, e a importância de eventos no ciclo de vida dos programas. Você será apresentado ao Scratch, um ambiente de programação que torna o aprendizado de programação acessível e divertido, permitindo criar suas próprias histórias, jogos e animações digitais. Com o Scratch, você utilizará os princípios da programação orientada a eventos para dar vida às suas ideias, controlando personagens e objetos em um mundo virtual, e entenderá como eventos e ações interagem durante a execução de um programa.',
+	  descricao:`Nesta unidade, aprenderemos programação orientada a eventos utilizando a linguagem de programação visual Scratch, compreendendo a importância de eventos no ciclo de vida dos programas. 
+	  
+	  Veremos que o Scratch é um ambiente de programação altamente flexível e interativo, que torna o aprendizado de programação divertido e acessível. Com o Scratch, poderemos criar nossas próprias histórias, jogos e animações digitais, controlando personagens e objetos em um mundo virtual, e entenderá como eventos e ações interagem durante a execução de um programa.`,
     licao8:{
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
@@ -1625,7 +1612,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Após transferir a foto para o computador, você pode editar detalhes para adaptá-la aos seus projetos de programação.',
+        texto:'Após transferir a foto para o computador, podemos editar detalhes para adaptá-la aos projetos de programação.',
         urlAudioTexto:'',
         textoSimplificado:'Fotos modificadas digitalmente',
         textoImpresso:1,
@@ -1638,7 +1625,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para realizar essas modificações, utilizamos programas de edição de imagens, que permitem, por exemplo, alterar fotos de familiares e amigos para que possam ser inseridos como personagens em suas animações ou videogames.',
+        texto:'Para realizar essas modificações, utilizamos programas de edição de imagens, que permitem, por exemplo, alterar fotos de familiares e amigos para que possam ser inseridos como personagens em animações ou videogames.',
         urlAudioTexto:'',
         textoSimplificado:'Fotos editadas de um pai, uma mãe e o filho deles',
         textoImpresso:1,
@@ -1651,7 +1638,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Planeje as poses necessárias para as fotos. Fotografe as pessoas contra uma parede de cor vibrante. Certifique-se de que a cor das roupas da pessoa fotografada seja diferente da cor da parede para evitar problemas com a edição. Depois, importe as fotos para o computador.',
+        texto:'Para isso: planeje as poses necessárias para as fotos. Em seguida, fotografe as pessoas contra uma parede de cor vibrante, certificando-se de que a cor das roupas sejam diferentes da cor da parede (para evitar problemas com a edição). E, então, importe as fotos para o computador.',
         urlAudioTexto:'',
         textoSimplificado:'Foto de uma pessoa em um fundo amarelo vivo',
         textoImpresso:1,
@@ -1664,7 +1651,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'O próximo passo é editar as fotos para remover o fundo. Para isso, você pode utilizar aplicativos online de edição de fotos que oferecem ferramentas como a <b>varinha mágica</b>, úteis para esta finalidade. Vamos praticar?',
+        texto:'O próximo passo é editar as fotos para remover o fundo. Para isso, utilize aplicativos online de edição de fotos que oferecem ferramentas como a <b>varinha mágica</b>, úteis para esta finalidade. Vamos praticar?',
         urlAudioTexto:'',
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,
