@@ -57,7 +57,7 @@ let livro_cw1 ={
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
-        texto:'OS <b>ALGORITMOS</b> ESTÃO EM TUDO O QUE NOS RODEIA, SÃO APLICADOS EM TUDO E SÃO USADOS EM TODA A TECNOLOGIA E EM TODAS AS DECISÕES QUE TOMAMOS DIARIAMENTE.',
+        texto:'OS <b>ALGORITMOS</b> ESTÃO NO MUNDO QUE NOS RODEIA E SÃO USADOS EM TODA A TECNOLOGIA CONHECIDA HOJE.',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos em todos os lugares',
 				urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img1.webp',
@@ -83,7 +83,7 @@ let livro_cw1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM <b>ALGORITMOS</b> QUE DÃO ORDENS AO COMPUTADOR PARA QUE ESTE REALIZE UMA DETERMINADA TAREFA.',
+        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM <b>ALGORITMOS</b> QUE DÃO ORDENS AO COMPUTADOR PARA QUE ELE REALIZE UMA DETERMINADA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e os computadores',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img4.jpg',
@@ -109,7 +109,7 @@ let livro_cw1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'UMA RECEITA DE CULINÁRIA É UM <b>ALGORITMO</b>, O PROCESSO DE DOBRAR UMA CAMISA OU UM PAR DE CALÇAS TAMBÉM É UM ALGORITMO.',
+        texto:'UMA RECEITA DE CULINÁRIA É UM <b>ALGORITMO</b>, O PROCESSO DE DOBRAR UMA CAMISA OU UM PAR DE CALÇAS TAMBÉM É UM <b>ALGORITMO</b>.',
         urlAudioTexto:'',
         textoSimplificado:'Uma receita é um algoritmo',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img6.jpg',
@@ -135,7 +135,7 @@ let livro_cw1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'E PODEMOS CRIAR <b>ALGORITMOS</b> PARA AS MAIS DIVERSAS TAREFAS DO SEU DIA. SEJA PARA UMA MÁQUINA OU PESSOA EXECUTAR.',
+        texto:'E PODEMOS CRIAR <b>ALGORITMOS</b> PARA AS MAIS DIVERSAS TAREFAS DO DIA. SEJA PARA NÓS MESMOS OU OUTRAS PESSOAS EXECUTAREM.',
         urlAudioTexto:'',
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img6.webp',
@@ -148,7 +148,7 @@ let livro_cw1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'MAS FIQUE ATENTO: SE ESTIVERMOS CRIANDO UM <b>ALGORITMO</b> PARA QUE OUTRA PESSOA EXECUTE, PRECISAMOS DEIXAR AS INSTRUÇÕES O MAIS ESPECÍFICAS POSSÍVEL.',
+        texto:'QUANDO ESTAMOS CRIANDO UM <b>ALGORITMO</b> PARA QUE OUTRA PESSOA EXECUTE, PRECISAMOS DEIXAR AS INSTRUÇÕES MUITO CLARAS E OBJETIVAS.',
         urlAudioTexto:'',
         textoSimplificado:'Especificar as instruções',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img9.jpg',
@@ -161,7 +161,7 @@ let livro_cw1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'OS COMPUTADORES E AS OUTRAS PESSOAS NÃO SABEM QUAIS AS SUAS INTENÇÕES E PENSAMENTOS, VEJA O EXEMPLO DO <b>ALGORITMO</b> PARA BEBER UM COPO DE LEITE:',
+        texto:'VEJAMOS O EXEMPLO DO <b>ALGORITMO</b> PARA BEBER UM COPO DE LEITE:',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo para beber leite',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img10.jpg',
@@ -239,7 +239,7 @@ let livro_cw1 ={
   
         {ordem:15,
         predecessor:14,
-        texto:'IMAGINE SE NÃO ESTIVESSE ESPECIFICADO QUE O LEITE PRECISA IR DENTRO DO COPO? CERTAMENTE ELE IRIA PARAR NO CHÃO!',
+        texto:'SE NÃO ESTIVESSE CLARO QUE O LEITE PRECISA IR DENTRO DO COPO, CERTAMENTE ELE IRIA PARAR NO CHÃO!',
         urlAudioTexto:'',
         textoSimplificado:'Instruções não especificadas geram erros',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img_16.jpg',
@@ -252,7 +252,7 @@ let livro_cw1 ={
   
         {ordem:16,
         predecessor:15,
-        texto:'ENTÃO, OS <b>ALGORITMOS</b> NOS AJUDAM A DIVIDIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
+        texto:'OS <b>ALGORITMOS</b> NOS AJUDAM A PARTIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e resolução de problemas',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img16.webp',
@@ -301,7 +301,7 @@ let livro_cw1 ={
         
         {ordem:2,
         predecessor:1,
-        texto:'COM OS <b>COMPUTADORES</b>, PODEMOS CRIAR VIDEOGAMES, PROGRAMAR ROBÔS E MUITAS OUTRAS COISAS, SEJA PARA SE DIVERTIR COM OS AMIGOS OU MESMO, QUEM SABE, PARA RESOLVER PROBLEMAS REAIS E TORNAR O MUNDO UM LUGAR MELHOR PARA TODOS.',
+        texto:'COM OS <b>COMPUTADORES</b>, PODEMOS CRIAR VIDEOGAMES, PROGRAMAR ROBÔS E MUITAS OUTRAS COISAS, SEJA PARA DIVERSÃO COM OS AMIGOS OU MESMO PARA RESOLVER PROBLEMAS REAIS E TORNAR O MUNDO UM LUGAR MELHOR PARA TODOS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img2.jpg',
@@ -327,7 +327,7 @@ let livro_cw1 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'ELE CONSEGUE CONTAR MUITO RÁPIDO, PODEMOS USAR PARA DESENHAR, TOCAR MÚSICAS E ATÉ USAMOS CONVERSAR COM NOSSOS AMIGOS QUE ESTÃO LONGE.',
+        texto:'ELE É UMA MÁQUINA QUE PODEMOS USAR PARA DESENHAR, TOCAR MÚSICAS E ATÉ USAMOS CONVERSAR COM NOSSOS AMIGOS QUE ESTÃO LONGE.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img4.jpg',
@@ -353,7 +353,7 @@ let livro_cw1 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'SE VOCÊS JÁ PRESTARAM ATENÇÃO EM UM <b>COMPUTADOR</b> DESSES QUE FICAM EM CASA, SOBRE A MESA, DEVEM TER NOTADO QUE ELE TEM PELO MENOS 4 PARTES:',
+        texto:'SE VOCÊS PRESTARMOS ATENÇÃO EM UM <b>COMPUTADOR</b> DESSES QUE FICAM EM CASA, SOBRE A MESA, PODEMOS PERCEBER QUE ELE TEM 4 PARTES:',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_6.png',
@@ -547,7 +547,7 @@ let livro_cw1 ={
         
         {ordem:4,
         predecessor:3,
-        texto:'UM <b>ROBÔ</b> É UMA MÁQUINA ESPECIAL QUE PODE FAZER COISAS DIFERENTES SEM A AJUDA DIRETA DE UMA PESSOA.',
+        texto:'UM <b>ROBÔ</b> É UMA MÁQUINA QUE PODE FAZER COISAS DIFERENTES SEM A AJUDA DIRETA DE UMA PESSOA.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i3-robos/img4.jpg',
@@ -715,20 +715,7 @@ let livro_cw1 ={
         cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'OLÁ, VOCÊS JÁ FORAM APRESENTADOS AOS ROBÔS NESTE CURSO. E ENTÃO? VOCÊS GOSTAM DE ROBÔS?',
-        urlAudioTexto:'',
-        textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/img1.jpg',
-        textoImpresso:0,
-        textoImpressoRecriado:'',
-        promptImagem:'faça uma imagem de robôs diferentes, com robôs de filmes e outros',
-        imagemImpresso:0,
-        imagemFonte:'leonardo',
-        textoDescritivoImagem:'',},
-
-        {ordem:2,
-        predecessor:1,
-        texto:'ÓTIMO! POIS HOJE TEMOS UMA CIDADE CURIOSA PARA VISITAR: LETRÓPOLIS, UMA CIDADE ONDE SÓ VIVEM ROBÔS.',
+        texto:'HOJE TEMOS UMA CIDADE CURIOSA PARA VISITAR: LETRÓPOLIS, UMA CIDADE ONDE SÓ VIVEM ROBÔS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/img2.jpg',
@@ -739,8 +726,8 @@ let livro_cw1 ={
         imagemFonte:'leonardo',
         textoDescritivoImagem:'',},
 
-        {ordem:3,
-        predecessor:2,
+        {ordem:2,
+        predecessor:1,
         texto:'EM LETRÓPOLIS, OS ROBÔS AMAM AS LETRAS, ESPECIALMENTE AS VOGAIS.',
         urlAudioTexto:'',
         textoSimplificado:'',
@@ -767,7 +754,7 @@ let livro_cw1 ={
         
         {ordem:5,
         predecessor:4,
-        texto:'E HOJE OS HABITANTES DE LETRÓPOLIS PRECISAM DA SUA AJUDA: ESTÁ UMA BAITA CONFUSÃO POR LÁ!',
+        texto:'E HOJE OS HABITANTES DE LETRÓPOLIS PRECISAM DE AJUDA: ESTÁ UMA BAITA CONFUSÃO POR LÁ!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/img5.jpeg',
@@ -832,7 +819,7 @@ let livro_cw1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'O QUE VOCÊS ACHAM? SERÁ QUE CONSEGUIMOS AJUDAR OS ROBÔS DESSA CIDADE USANDO PROGRAMAÇÃO? MÃOS À OBRA!',
+        texto:'SERÁ QUE CONSEGUIMOS AJUDAR OS ROBÔS DESSA CIDADE USANDO PROGRAMAÇÃO? MÃOS À OBRA!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/img10.jpg',
@@ -861,7 +848,7 @@ let livro_cw1 ={
       cenas:[
       {ordem:1,
       predecessor:0,
-      texto:'NA SUA CASA TEM MUITAS COISAS QUE DEPENDEM DE <b>ELETRICIDADE</b>, CERTO?',
+      texto:'TEM MUITAS COISAS EM CASA QUE DEPENDEM DE <b>ELETRICIDADE</b>, CERTO?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i5-circuitos/img1.jpg',
@@ -900,19 +887,6 @@ let livro_cw1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'VOCÊ SABE O QUE É UM <b>CIRCUITO</b>?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'',
-      imagemImpresso:0,
-      imagemFonte:'',
-      textoDescritivoImagem:'',},
-
-      {ordem:5,
-      predecessor:4,
       texto:'UM <b>CIRCUITO</b> É COMO SE FOSSE UM CAMINHO A SER PERCORRIDO, QUE DÁ UMA VOLTA COMPLETA E SE FECHA, COMO SE FOSSE UMA PISTA DE CARROS DE CORRIDA.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -924,8 +898,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:6,
-      predecessor:5,
+      {ordem:5,
+      predecessor:4,
       texto:'UM <b>CIRCUITO</b> ELÉTRICO É COMO UM CAMINHO PARA A ELETRICIDADE, MAS EM VEZ DE UMA PISTA, USAMOS FIOS OU FITAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -937,8 +911,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:7,
-      predecessor:6,
+      {ordem:6,
+      predecessor:5,
       texto:'OS <b>CIRCUITOS EM PAPEL</b> SÃO UMA ÓTIMA OPORTUNIDADE DE ENTENDERMOS UM POUCO MAIS SOBRE ISSO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -950,8 +924,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:7,
+      predecessor:6,
       texto:'PARA MONTAR UM <b>CIRCUITO EM PAPEL</b>, PRECISAMOS DE UMA FITA METÁLICA, DE COBRE, QUE VAI SERVIR DE CAMINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -963,8 +937,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:9,
-      predecessor:8,
+      {ordem:8,
+      predecessor:7,
       texto:'PRECISAMOS TAMBÉM DE UMA <b>BATERIA</b>. AS <b>BATERIAS</b> SÃO COMO PEQUENAS CAIXINHAS DE ENERGIA. ELAS NOS DÃO A ELETRICIDADE DE QUE PRECISAMOS PARA FAZER AS COISAS FUNCIONAREM.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -976,9 +950,22 @@ let livro_cw1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
+      {ordem:9,
+      predecessor:8,
+      texto:'AS <b>BATERIAS</b> POSSUEM POLARIDADES DIFERENTES. A POLARIDADE É COMO UM SEGREDO QUE ELA NOS CONTA PARA SABERMOS COMO COLOCÁ-LA NO LUGAR CERTO.',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:0,
+      textoImpressoRecriado:'',
+      promptImagem:'',
+      imagemImpresso:0,
+      imagemFonte:'',
+      textoDescritivoImagem:'',},
+
       {ordem:10,
       predecessor:9,
-      texto:'AS <b>BATERIAS</b> POSSUEM POLARIDADES DIFERENTES. A POLARIDADE É COMO UM SEGREDO QUE ELA NOS CONTA PARA SABERMOS COMO COLOCÁ-LA NO LUGAR CERTO.',
+      texto:'QUANDO OLHAMOS PARA A <b>BATERIA</b>, VEMOS DOIS LADOS E UM DESSES LADOS TEM UM SÍMBOLO DE MAIS (+).',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -991,7 +978,7 @@ let livro_cw1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'QUANDO OLHAMOS PARA A <b>BATERIA</b>, VEMOS DOIS LADOS E UM DESSES LADOS TEM UM SÍMBOLO DE MAIS (+).',
+      texto:'QUANDO COLOCAMOS A <b>BATERIA</b> NO <b>CIRCUITO EM PAPEL</b>, PRECISAMOS DEIXAR O LADO POSITIVO VIRADO PARA O LUGAR CERTO. ASSIM, O <b>CIRCUITO</b> FUNCIONA DIREITINHO!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1004,7 +991,7 @@ let livro_cw1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'QUANDO COLOCAMOS A <b>BATERIA</b> NO <b>CIRCUITO EM PAPEL</b>, PRECISAMOS DEIXAR O LADO POSITIVO VIRADO PARA O LUGAR CERTO. ASSIM, O <b>CIRCUITO</b> FUNCIONA DIREITINHO!',
+      texto:'SE COLOCARMOS A <b>BATERIA</b> AO CONTRÁRIO, O <b>CIRCUITO</b> NÃO VAI FUNCIONAR, PORQUE ELE FICA CONFUSO E NÃO ENTENDE O QUE A <b>BATERIA</b> ESTÁ DIZENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1017,19 +1004,6 @@ let livro_cw1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'SE COLOCARMOS A <b>BATERIA</b> AO CONTRÁRIO, O <b>CIRCUITO</b> NÃO VAI FUNCIONAR, PORQUE ELE FICA CONFUSO E NÃO ENTENDE O QUE A <b>BATERIA</b> ESTÁ DIZENDO.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'',
-      imagemImpresso:0,
-      imagemFonte:'',
-      textoDescritivoImagem:'',},
-
-      {ordem:14,
-      predecessor:13,
       texto:'E PRECISAMOS TAMBÉM DE UM <b>LED</b>. ELE É COMO SE FOSSE UMA LÂMPADA, QUE VAI ACENDER NO NOSSO <b>CIRCUITO</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1041,8 +1015,8 @@ let livro_cw1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
-      {ordem:15,
-      predecessor:14,
+      {ordem:14,
+      predecessor:13,
       texto:'DEPOIS QUE TEMOS TODOS OS MATERIAIS, PODEMOS MONTAR UM <b>CIRCUITO</b> E VER A LUZ SE ACENDER!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1054,8 +1028,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
 
-      {ordem:17,
-      predecessor:15,
+      {ordem:15,
+      predecessor:14,
       texto:'A ELETRICIDADE É MUITO LEGAL, NÃO É? COMPREENDENDO COMO OS <b>CIRCUITOS</b> FUNCIONAM, PODEMOS CRIAR COISAS INCRÍVEIS QUE NOS AJUDAM NO DIA A DIA.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1067,9 +1041,9 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
 
-      {ordem:18,
-      predecessor:17,
-      texto:'MAS LEMBRE-SE DE NUNCA MEXER COM ELETRICIDADE SEM A AJUDA OU SUPERVISÃO DE UM ADULTO.',
+      {ordem:16,
+      predecessor:15,
+      texto:'MAS ATENÇÃO: NUNCA DEVEMOS MEXER COM ELETRICIDADE SEM A AJUDA OU SUPERVISÃO DE UM ADULTO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i5-circuitos/img18.jpeg',
@@ -1080,9 +1054,9 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:19,
-      predecessor:18,
-      texto:'E NUNCA COLOQUE OBJETOS NA TOMADA OU BRINQUE COM FIOS ELÉTRICOS. ELES PODEM SER PERIGOSOS.',
+      {ordem:17,
+      predecessor:16,
+      texto:'E NUNCA DEVEMOS COLOCAR OBJETOS NA TOMADA OU BRINCAR COM FIOS ELÉTRICOS. ELES PODEM SER PERIGOSOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i5-circuitos/img19.jpg',
@@ -1093,9 +1067,9 @@ let livro_cw1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
-      {ordem:20,
-      predecessor:19,
-      texto:'LEMBRE-SE SEMPRE DE ESTAR EM SEGURANÇA E DIVERTIR-SE EXPLORANDO O MUNDO DA ELETRICIDADE!',
+      {ordem:18,
+      predecessor:17,
+      texto:'DEVEMOS SEMPRE ESTAR EM SEGURANÇA PARA EXPLORAR O MUNDO DA ELETRICIDADE!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1131,7 +1105,7 @@ let livro_cw1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'OS COMPUTADORES TÊM UMA ESPÉCIE DE "SUPER MEMÓRIA" E CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS <b>LAÇOS</b>.',
+      texto:'OS COMPUTADORES CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS <b>LAÇOS</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img4.jpg',
@@ -1157,7 +1131,7 @@ let livro_cw1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'VAMOS IMAGINAR QUE VOCÊ QUER DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
+      texto:'VAMOS IMAGINAR QUE QUEREMOS DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img4.webp',
@@ -1170,7 +1144,7 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
+      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, PODEMOS USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpg',
@@ -1183,7 +1157,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'OS LAÇOS SÃO COMO TRUQUES DE REPETIÇÃO QUE AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. ELES DIZEM AO COMPUTADOR: "FAÇA ISSO VÁRIAS VEZES ATÉ EU DIZER PARA PARAR.',
+      texto:'OS LAÇOS AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. NO FUTURO, QUANDO OS LAÇOS VÃO NOS AJUDAR A FAZER COISAS INCRÍVEIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img5.jpeg',
@@ -1194,18 +1168,6 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:7,
-      predecessor:6,
-      texto:'OS LAÇOS AJUDAM O COMPUTADOR A FAZER COISAS REPETITIVAS DE UM JEITO MUITO INTELIGENTE. NO FUTURO, QUANDO VOCÊ APRENDER MAIS SOBRE COMPUTAÇÃO, OS LAÇOS VÃO TE AJUDAR A FAZER COISAS INCRÍVEIS!',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Desenhe uma cena de um programador rodeado por uma teia de algoritmos complexos, com laços se entrelaçando ao redor dele, enquanto ele está imerso em seu trabalho, revelando uma expressão de concentração e determinação em seu rosto. As linhas de código fluem das pontas dos laços, iluminando a cena com uma aura digital, desenho animado',
-      imagemImpresso:0,
-      imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
     ]}},
 
     licao10:{},
@@ -1260,7 +1222,7 @@ let livro_cw1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'E VOCÊS SABIAM QUE OS PROGRAMAS DE COMPUTADORES TAMBÉM ENTENDEM EVENTOS?',
+      texto:'E PROGRAMAS DE COMPUTADORES TAMBÉM ENTENDEM EVENTOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img4.webp',
@@ -1389,19 +1351,6 @@ let livro_cw1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'OLÁ, VOCÊS SE LEMBRAM DE LETRÓPOLIS?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/img2.jpg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'uma ilha nevada colorida e futurista',
-      imagemImpresso:0,
-      imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
-
-      {ordem:2,
-      predecessor:1,
       texto:'HOJE VAMOS CONHECER UMA OUTRA CIDADE: O NOME DELA É NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1413,8 +1362,8 @@ let livro_cw1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
-      {ordem:3,
-      predecessor:2,
+      {ordem:2,
+      predecessor:1,
       texto:'NUMERÓPOLIS TAMBÉM É UMA CIDADE SUPER ROBOTIZADA, ONDE SOMENTE VIVEM ROBÔS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1426,8 +1375,8 @@ let livro_cw1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'',},
 
-      {ordem:4,
-      predecessor:3,
+      {ordem:3,
+      predecessor:2,
       texto:'E, COMO O PRÓPRIO NOME JÁ DIZ, OS ROBÔS DAQUI AMAM OS NÚMEROS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1439,9 +1388,9 @@ let livro_cw1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'',},
 
-      {ordem:5,
-      predecessor:4,
-      texto:'ENTÃO, COMO OS ROBÔS DE NUMERÓPOLIS SÃO AMIGOS DOS ROBÔS DE LETRÓPOLIS, ELES DECIDIRAM CHAMAR VOCÊ PARA AJUDAR NA CIDADE.',
+      {ordem:4,
+      predecessor:3,
+      texto:'OS ROBÔS DE NUMERÓPOLIS ESTÃO COM UM GRANDE PROBLEMA E PRECISAM DE AJUDA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i8-numeropolis/img5.jpeg',
@@ -1452,8 +1401,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:6,
-      predecessor:5,
+      {ordem:5,
+      predecessor:4,
       texto:'AS RUAS DA CIDADE NÃO TÊM PLACAS, OS ROBÔS NÃO SABEM AO CERTO PARA ONDE ESTÃO INDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1465,9 +1414,9 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:7,
-      predecessor:6,
-      texto:'ONDE SERÁ QUE VOCÊ JÁ VIU ESSE PROBLEMA, NÃO É MESMO? ',
+      {ordem:6,
+      predecessor:5,
+      texto:'ONDE SERÁ QUE JÁ VIMOS ESSE PROBLEMA ANTES?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1478,9 +1427,9 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
 
-      {ordem:8,
-      predecessor:7,
-      texto:'E COMO VOCÊ JÁ SABE PROGRAMAÇÃO, QUE TAL AJUDAR A PINTAR OS NÚMEROS NAS RUAS DA CIDADE E ACABAR COM A CONFUSÃO QUE ESTÁ POR LÁ?',
+      {ordem:7,
+      predecessor:6,
+      texto:'QUE TAL AJUDAR A PINTAR OS NÚMEROS NAS RUAS DA CIDADE E ACABAR COM A CONFUSÃO QUE ESTÁ POR LÁ?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i8-numeropolis/img8.jpeg',
@@ -1491,8 +1440,8 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
-      {ordem:9,
-      predecessor:8,
+      {ordem:8,
+      predecessor:7,
       texto:'VAMOS AJUDAR OS ROBÔS DE NUMERÓPOLIS? MÃOS À OBRA!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1572,7 +1521,7 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'VEJAM COMO ESSA <b>CONDICIONAL</b> MOSTRA EXATAMENTE O QUE É PRECISO PARA QUE VOCÊ POSSA VER O FILME E COMER PIPOCA. É COMO UMA REGRA QUE NOS GUIA!',
+      texto:'ESSA <b>CONDICIONAL</b> MOSTRA EXATAMENTE O QUE É PRECISO PARA VER O FILME E COMER PIPOCA. É COMO UMA REGRA QUE NOS GUIA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img6.jpeg',
@@ -1598,7 +1547,7 @@ let livro_cw1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'E SABEM O QUE MAIS É LEGAL? AS <b>CONDICIONAIS</b> TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
+      texto:'E O MAIS LEGAL É QUE AS <b>CONDICIONAIS</b> TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img9.jpeg',
@@ -1624,7 +1573,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'POR EXEMPLO, SE VOCÊS ESTIVEREM JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊS PODEM PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
+      texto:'POR EXEMPLO, SE ESTIVERMOS JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, PODEMOS PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img9.webp',
@@ -1675,7 +1624,7 @@ let livro_cw1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO <b>DEPURAÇÃO</b>, OU <b>DEBUGGING</b>.',
+      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO <b>DEPURAÇÃO</b>, OU <b>DEBUGGING</b>, EM INGLÊS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img1.jpeg',
@@ -1688,7 +1637,7 @@ let livro_cw1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
+      texto:'UM <b>BUG</b>, DO INGLÊS <b>BICHO</b>, É UM PROBLEMA QUE ACONTECE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img2.jpeg',
@@ -1740,7 +1689,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ESSA PEÇA INCORRETA É UM BUG E É PRECISO <b>DEPURAR</b> A SITUAÇÃO, ENCONTRAR O BUG E CORRIGI-LO.',
+      texto:'ESSA PEÇA INCORRETA É UM <b>BUG</b> E É PRECISO <b>DEPURAR</b> A SITUAÇÃO, ENCONTRAR O BUG E CORRIGI-LO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1779,7 +1728,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU BUGS. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
+      texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU <b>BUGS</b>. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img9.jpeg',
@@ -1831,7 +1780,7 @@ let livro_cw1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'VAMOS CONTINUAR APRENDENDO E VAMOS NOS TORNAR VERDADEIROS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
+      texto:'VAMOS CONTINUAR APRENDENDO PARA SERMOS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1858,7 +1807,7 @@ let livro_cw1 ={
       cenas:[
       {ordem:1,
       predecessor:0,
-      texto:'OLÁ! VAMOS CONHECER UM POUCO MAIS SOBRE LETRÓPOLIS, A CIDADE DOS ROBÔS QUE GOSTAM DE LETRAS?',
+      texto:'VAMOS CONHECER UM POUCO MAIS SOBRE LETRÓPOLIS, A CIDADE DOS ROBÔS QUE GOSTAM DE LETRAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/img2.jpg',
@@ -1923,7 +1872,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'NÃO PENSEM QUE É FÁCIL! NO SLALOM, A CADA OBSTÁCULO OS ROBÔS DEVEM DESVIAR PARA UM LADO DIFERENTE, FAZENDO UM ZIGUEZAGUE QUE EXIGE UMA EXCELENTE PROGRAMAÇÃO!',
+      texto:'NO SLALOM, A CADA OBSTÁCULO, OS ROBÔS DEVEM DESVIAR PARA UM LADO DIFERENTE, FAZENDO UM ZIGUEZAGUE QUE EXIGE UMA EXCELENTE PROGRAMAÇÃO!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i11-jogosinverno/img6.jpeg',
@@ -1949,7 +1898,7 @@ let livro_cw1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'POIS É, COMO VOCÊS SABEM, OS ROBÔS NÃO FAZEM NADA QUE NÃO ESTEJAM PROGRAMADOS PARA FAZER. NA VERDADE, É A CRIATIVIDADE DO PROGRAMADOR QUE OS FAZ ESQUIAR!',
+      texto:'COMO SABEMOS, OS ROBÔS NÃO FAZEM NADA QUE NÃO ESTEJAM PROGRAMADOS PARA FAZER. NA VERDADE, É A CRIATIVIDADE DO PROGRAMADOR QUE OS FAZ ESQUIAR!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i11-jogosinverno/img8.jpeg',
@@ -1962,7 +1911,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'E ADIVINHEM! VOCÊS, QUE JÁ ESTÃO APRENDENDO A PROGRAMAR ROBÔS, FORAM SELECIONADOS PARA PARTICIPAR DA EQUIPE DE PROGRAMAÇÃO DE SLALOM DE LETRÓPOLIS!',
+      texto:'E ADIVINHEM QUEM VAI PARTICIPAR DA EQUIPE DE PROGRAMAÇÃO DE SLALOM DE LETRÓPOLIS?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i11-jogosinverno/img9.jpeg',
@@ -2017,7 +1966,7 @@ let livro_cw1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'VOCÊS SABIAM QUE EXISTEM MANEIRAS DE <b>PROTEGER</b> NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS <b>SEGUROS</b>?',
+      texto:'EXISTEM MANEIRAS DE PROTEGER NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS <b>SEGUROS</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img2.jpeg',
@@ -2069,20 +2018,20 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'AGORA, POR QUE É IMPORTANTE TER UMA <b>SENHA</b> FORTE?',
+      texto:'ENTÃO, SÓ A GENTE CONSEGUE ABRIR UMA CAIXA QUE TEM COISAS QUE SÃO NOSSAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:0,
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img10.webp',
+      textoImpresso:1,
       textoImpressoRecriado:'',
-      promptImagem:'Arte digital colorida de um braço forte segurando um cadeado',
-      imagemImpresso:0,
-      imagemFonte:'',
-      textoDescritivoImagem:'',},
+      promptImagem:'Arte digital colorida de uma caixa com várias coisas saindo dela', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'dall-e 3',
+      textoDescritivoImagem:'', /*opc*/},
 
       {ordem:7,
       predecessor:6,
-      texto:'É PORQUE QUEREMOS MANTER NOSSAS COISAS <b>SEGURAS</b> E <b>PROTEGIDAS</b>.',
+      texto:'E ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA <b>SENHA</b> PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img7.jpeg',
@@ -2095,20 +2044,7 @@ let livro_cw1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA <b>SENHA</b> PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de uma tranca de uma porta com uma chave',
-      imagemImpresso:0,
-      imagemFonte:'',
-      textoDescritivoImagem:'',},
-
-      {ordem:9,
-      predecessor:8,
-      texto:'POR ISSO, AS <b>SENHAS</b> SEMPRE DEVEM SER “FORTES”, OU SEJA, ELA DEVE SER ÚNICA E NÃO DEVEMOS USAR A MESMA <b>SENHA</b> PARA TUDO.',
+      texto:'POR ISSO, AS <b>SENHAS</b> SEMPRE DEVEM SER “FORTES”, OU SEJA, A <b>SENHA</b> DEVE SER ÚNICA E NÃO DEVEMOS USAR A MESMA <b>SENHA</b> PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img9.webp',
@@ -2119,22 +2055,9 @@ let livro_cw1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'',},
 
-      {ordem:10,
-      predecessor:9,
-      texto:'SE ALGUÉM DESCOBRIR NOSSA <b>SENHA</b>, NÃO QUEREMOS QUE ELA TENHA ACESSO A TODAS AS NOSSAS COISAS!',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img10.webp',
-      textoImpresso:1,
-      textoImpressoRecriado:'ENTÃO, SÓ A GENTE CONSEGUE ABRIR UMA CAIXA QUE TEM COISAS QUE SÃO NOSSAS.',
-      promptImagem:'crie uma imagem colorida de um baú cheio de ícones digitais e tecnológicos saindo dele',
-      imagemImpresso:1,
-      imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
-
-      {ordem:11,
-      predecessor:10,
-      texto:'QUANTO MAIS COMPLEXA A <b>SENHA</b>, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
+      {ordem:9,
+      predecessor:8,
+      texto:'QUANTO MAIS DIFERENTE A <b>SENHA</b>, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img11.webp',
@@ -2147,7 +2070,7 @@ let livro_cw1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'ASSIM COMO NÃO EMPRESTAMOS A CHAVE DE CASA PARA QUALQUER PESSOA, NÃO DEVEMOS COMPARTILHAR NOSSAS <b>SENHAS</b> COM NINGUÉM ALÉM DE NOSSOS PAIS OU RESPONSÁVEIS.',
+      texto:'ASSIM COMO NÃO EMPRESTAMOS A CHAVE DE CASA PARA QUALQUER PESSOA, NÃO DEVEMOS COMPARTILHAR <b>SENHAS</b> COM NINGUÉM, ALÉM DE NOSSOS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img12.jpeg',
@@ -2160,7 +2083,7 @@ let livro_cw1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'MANTER A <b>SENHA</b> EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER NOSSAS INFORMAÇÕES PESSOAIS.',
+      texto:'MANTER A <b>SENHA</b> EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER INFORMAÇÕES PESSOAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img13.webp',
@@ -2173,7 +2096,7 @@ let livro_cw1 ={
 
       {ordem:14,
       predecessor:13,
-      texto:'ALÉM DAS <b>SENHAS</b>, É IMPORTANTE MANTER NOSSOS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM NOSSA PERMISSÃO.',
+      texto:'ALÉM DAS <b>SENHAS</b>, É IMPORTANTE MANTER OS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM PERMISSÃO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img14.webp',
@@ -2186,7 +2109,7 @@ let livro_cw1 ={
 
       {ordem:15,
       predecessor:14,
-      texto:'E SE RECEBERMOS UMA MENSAGEM ESTRANHA PEDINDO NOSSA <b>SENHA</b> OU INFORMAÇÕES PESSOAIS, NUNCA DEVEMOS RESPONDER. SEMPRE DEVEMOS PEDIR AJUDA A UM RESPONSÁVEL.',
+      texto:'E SE RECEBERMOS MENSAGENS ESTRANHAS, PEDINDO <b>SENHAS</b> OU INFORMAÇÕES PESSOAIS, NUNCA DEVEMOS RESPONDER OU ABRIR, PODE SER PERIGOSO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img15.webp',
@@ -2199,7 +2122,7 @@ let livro_cw1 ={
 
       {ordem:16,
       predecessor:15,
-      texto:'A <b>SEGURANÇA</b> É MUITO IMPORTANTE QUANDO SE TRATA DE <b>SENHAS</b> E DISPOSITIVOS ELETRÔNICOS.',
+      texto:'QUEREMOS PROTEGER NOSSAS INFORMAÇÕES PESSOAIS E MANTER TUDO <b>SEGURO</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2356,7 +2279,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'BOM... E COMO ROBÔS NÃO FAZEM NADA SEM UM BOM PROGRAMADOR, VOCÊ FOI CONVOCADO PARA DEFENDER UMA DAS CIDADES.',
+      texto:'ROBÔS NÃO FAZEM NADA SEM UMA BOA PROGRAMAÇÃO, ENTÃO É PRECISO DEDICAÇÃO PARA DEFENDER UMA DAS CIDADES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i13-numerxletr/img9.webp',
@@ -2369,7 +2292,7 @@ let livro_cw1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'É A SUA PROGRAMAÇÃO QUE IRÁ FAZER A DIFERENÇA NESTE DIVERTIDO DESAFIO.',
+      texto:'É A PROGRAMAÇÃO QUE IRÁ FAZER A DIFERENÇA NESTE DIVERTIDO DESAFIO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i13-numerxletr/img9.jpeg',
@@ -2472,7 +2395,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'OK, MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
+      texto:'MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i14-binaropolis/img6.jpg',
@@ -2485,7 +2408,7 @@ let livro_cw1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'BOM, OS COMPUTADORES USAM O “SISTEMA BINÁRIO” PARA REPRESENTAR DE TUDO: LETRAS, NÚMEROS, IMAGENS, SONS... ENTÃO DEVE TER UM JEITO.',
+      texto:'OS COMPUTADORES USAM O “SISTEMA BINÁRIO” PARA REPRESENTAR DE TUDO: LETRAS, NÚMEROS, IMAGENS, SONS... ENTÃO DEVE TER UM JEITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -2498,7 +2421,7 @@ let livro_cw1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA. VEJA.',
+      texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img8.webp',
@@ -2537,7 +2460,7 @@ let livro_cw1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS COMO VOCÊ JÁ É RECONHECIDO COMO UM GRANDE AJUDANTE DE ROBÔS, VAI APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
+      texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS VAMOS APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i14-binaropolis/img11.jpeg',
@@ -2546,19 +2469,6 @@ let livro_cw1 ={
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
-
-      {ordem:12,
-      predecessor:0,
-      texto:'PREPARADOS?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'uma rua colorida, futurista e muito limpa',
-      imagemImpresso:0,
-      imagemFonte:'',
       textoDescritivoImagem:'',},
     ]}},
     
@@ -2572,7 +2482,13 @@ let livro_cw1 ={
 
   capaVerso:{
 	urlImagemTerceiraCapa:'',
-		textoTerceiraCapa:``,
+		textoTerceiraCapa:`OS AVIÕES AGORA SÃO MAIS SEGUROS E CONFORTÁVEIS PARA OS PASSAGEIROS GRAÇAS À TECNOLOGIA, QUE AJUDOU A MELHORAR VÁRIAS COISAS, NÃO SÓ NOS AVIÕES DE PASSAGEIROS, MAS NOS AVIÕES DE ENTREGAS TAMBÉM.
 
-		textoUltimaCapa: ''
+    ATUALMENTE, SERVIÇOS DE ENTREGAS PODEM SER FEITOS POR DRONES E OS PILOTOS DE AVIÕES DE PASASGEIROS USAM TABLETS NO LUGAR DE GUIAS ELETRÔNICOS, O QUE FAZ COM QUE O AVIÃO SEJA MAIS LEVE E ECONOMIZE COMBUSTÍVEL.
+    
+    EXISTEM, INCLUSIVE, EMPRESAS TRABALHANDO EM UMA FORMA DE RASTREAR OS AVIÕES EM TEMPO REAL USANDO REDES WI-FI. ISSO PODE SIGNIFICAR QUE EM BREVE TEREMOS APLICATIVOS NOS NOSSOS CELULARES QUE VÃO NOS MOSTRAR ONDE OS AVIÕES ESTÃO VOANDO.`,
+
+		textoUltimaCapa: `O MUNDO COMPUTACIONAL NA AVIAÇÃO
+    
+    A computação tornou a aviação mais segura e eficiente. Graças a sistemas computadorizados, aviões são mais precisos em voar e pousar. A simulação de voo treina pilotos em ambientes seguros, e o gerenciamento de tráfego aéreo automatizado mantém os céus organizados.`
 		},}

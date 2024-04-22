@@ -44,8 +44,10 @@ let livro_cs1 ={
 		  /* idem licoes */}},
   
 /* conteudo */
-  unidade1:{/* licao sem infografico, deve exibir algo como 'projeto/laboratório sem novo conceito teórico' */
-	  licao1:{
+  unidade1:{
+    titulo:'ALGORITMOS E PADRÕES',
+	  descricao:'NESTA UNIDADE, VAMOS EMBARCAR EM UMA JORNADA DIVERTIDA PELO MUNDO DOS ALGORITMOS E PADRÕES, QUE SÃO A BASE DA COMPUTAÇÃO MODERNA.',
+	    licao1:{
 		  id:'CS1AULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Sequências.',**/
@@ -84,7 +86,7 @@ let livro_cs1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'COM AS <b>SEQUÊNCIAS</b>, VOCÊ PODE COLOCAR TUDO EM ORDEM: PALAVRAS, BICHOS DE PELÚCIA, ACONTECIMENTOS DO DIA...',
+        texto:'COM AS <b>SEQUÊNCIAS</b>, PODEMOS COLOCAR TUDO EM ORDEM: PALAVRAS, BICHOS DE PELÚCIA, ACONTECIMENTOS DO DIA...',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -110,7 +112,7 @@ let livro_cs1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA <b>SEQUÊNCIA</b>, VOCÊ TAMBÉM PRECISA TER UMA REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA <b>SEQUÊNCIA</b>.',
+        texto:'PARA SABER COMO ORDENAR AS COISAS EM UMA <b>SEQUÊNCIA</b>, PRECISAMOS TER UMA REGRA QUE VAI DEFINIR COMO AS COISAS VÃO SER ORGANIZADAS DENTRO DA <b>SEQUÊNCIA</b>.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Inf_Sequencias/img6.jpeg',
@@ -136,7 +138,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'APRENDER SOBRE <b>SEQUÊNCIAS</b> É MUITO IMPORTANTE, POIS COM ELAS VOCÊ VAI PODER ORGANIZAR TUDO E ENTENDER O MUNDO AO SEU REDOR.',
+        texto:'APRENDER SOBRE <b>SEQUÊNCIAS</b> É MUITO IMPORTANTE, POIS COM ELAS PODEMOS ORGANIZAR TUDO E ENTENDER O MUNDO AO NOSSO REDOR.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -185,7 +187,7 @@ let livro_cs1 ={
       cenas:[				      
         {ordem:1,
         predecessor:0,
-        texto:'<b>PADRÕES</b> SÃO COISAS QUE SE REPETEM DE MANEIRA LÓGICA. POR EXEMPLO, O <b>PADRÃO</b> QUE PODE SER VISTO AQUI É QUE EXISTE UMA BOLA VERDE, AO LADO DE OUTRA, E DE NOVO, E DE NOVO.',
+        texto:'<b>PADRÕES</b> SÃO COISAS QUE SE REPETEM DE MANEIRA LÓGICA. POR EXEMPLO, O <b>PADRÃO</b> QUE PODEMOS VER AQUI É QUE EXISTE UMA BOLA VERDE, AO LADO DE OUTRA, E DE NOVO, E DE NOVO.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões se repetem de forma lógica',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/img2.jpeg',
@@ -263,7 +265,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'QUANDO VOCÊ APRENDE OS PASSOS DE UMA DANÇA, PODE PERCEBER TAMBÉM OS <b>PADRÕES</b> EXISTENTES.',
+        texto:'QUANDO APRENDEMOS OS PASSOS DE UMA DANÇA, PODEMOS PERCEBER TAMBÉM OS <b>PADRÕES</b> EXISTENTES.',
         urlAudioTexto:'',
         textoSimplificado:'Padrões na dança',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/img8.jpeg',
@@ -276,7 +278,7 @@ let livro_cs1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'E QUANDO VOCÊ PERCEBE OS <b>PADRÕES</b>, COLOCAR TUDO NUMA SEQUÊNCIA FICA MUITO MAIS FÁCIL, VOCÊ NÃO ACHA?',
+        texto:'E QUANDO PERCEBEMOS OS <b>PADRÕES</b>, COLOCAR TUDO NUMA SEQUÊNCIA FICA MUITO MAIS FÁCIL, VOCÊ NÃO ACHA?',
         urlAudioTexto:'',
         textoSimplificado:'Padrões e sequências',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Ident_pad/pg12.8.jpeg',
@@ -314,7 +316,7 @@ let livro_cs1 ={
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
-				texto:'OS <b>ALGORITMOS</b> ESTÃO EM TUDO O QUE NOS RODEIA, SÃO APLICADOS EM TUDO E SÃO USADOS EM TODA A TECNOLOGIA E EM TODAS AS DECISÕES QUE TOMAMOS DIARIAMENTE.',
+				texto:'OS <b>ALGORITMOS</b> ESTÃO NO MUNDO QUE NOS RODEIA E SÃO USADOS EM TODA A TECNOLOGIA CONHECIDA HOJE.',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos em todos os lugares',
 				urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/img2.webp',
@@ -340,7 +342,7 @@ let livro_cs1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM <b>ALGORITMOS</b> QUE DÃO ORDENS AO COMPUTADOR PARA QUE ESTE REALIZE UMA DETERMINADA TAREFA.',
+        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM <b>ALGORITMOS</b> QUE DÃO ORDENS AO COMPUTADOR PARA QUE ELE REALIZE UMA DETERMINADA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e os computadores',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/img4.webp',
@@ -392,7 +394,7 @@ let livro_cs1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'E VOCÊ PODE CRIAR <b>ALGORITMOS</b> PARA AS MAIS DIVERSAS TAREFAS DO SEU DIA. SEJA PARA VOCÊ OU OUTRA PESSOA EXECUTAR.',
+        texto:'E PODEMOS CRIAR <b>ALGORITMOS</b> PARA AS MAIS DIVERSAS TAREFAS DO DIA. SEJA PARA NÓS MESMOS OU OUTRAS PESSOAS EXECUTAREM.',
         urlAudioTexto:'',
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/img8.webp',
@@ -405,7 +407,7 @@ let livro_cs1 ={
 
         {ordem:8,
         predecessor:9,
-        texto:'MAS FIQUE ATENTO: SE VOCÊ ESTÁ CRIANDO UM <b>ALGORITMO</b> PARA QUE OUTRA PESSOA EXECUTE, VOCÊ PRECISA DEIXAR SUAS INSTRUÇÕES O MAIS ESPECÍFICAS POSSÍVEL.',
+        texto:'QUANDO ESTAMOS CRIANDO UM <b>ALGORITMO</b> PARA QUE OUTRA PESSOA EXECUTE, PRECISAMOS DEIXAR AS INSTRUÇÕES MUITO CLARAS E OBJETIVAS.',
         urlAudioTexto:'',
         textoSimplificado:'Especificar as instruções',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/img9.jpeg',
@@ -418,7 +420,7 @@ let livro_cs1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'OS COMPUTADORES E AS OUTRAS PESSOAS NÃO SABEM QUAIS AS SUAS INTENÇÕES E PENSAMENTOS, VEJA O EXEMPLO DO <b>ALGORITMO</b> PARA BEBER UM COPO DE LEITE:',
+        texto:'VEJAMOS O EXEMPLO DO <b>ALGORITMO</b> PARA BEBER UM COPO DE LEITE:',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo para beber leite',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-10.jpg',
@@ -431,7 +433,7 @@ let livro_cs1 ={
   
         {ordem:10,
         predecessor:9,
-        texto:'PASSO 1: PEGAR UM COPO DO ARMÁRIO;',
+        texto:'PASSO 1: PEGUE UM COPO DO ARMÁRIO;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 1',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-11.jpg',
@@ -444,7 +446,7 @@ let livro_cs1 ={
   
         {ordem:11,
         predecessor:10,
-        texto:'PASSO 2: COLOCAR O COPO EM CIMA DA MESA;',
+        texto:'PASSO 2: COLOQUE O COPO EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 2',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-12.jpg',
@@ -457,7 +459,7 @@ let livro_cs1 ={
   
         {ordem:12,
         predecessor:11,
-        texto:'PASSO 3: PEGAR O LEITE DA GELADEIRA;',
+        texto:'PASSO 3: PEGUE O LEITE DA GELADEIRA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 3',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-13.jpg',
@@ -470,7 +472,7 @@ let livro_cs1 ={
   
         {ordem:13,
         predecessor:12,
-        texto:'PASSO 4: COLOCAR O LEITE DENTRO DO COPO QUE ESTÁ EM CIMA DA MESA;',
+        texto:'PASSO 4: COLOQUE O LEITE DENTRO DO COPO QUE ESTÁ EM CIMA DA MESA;',
         urlAudioTexto:'',
         textoSimplificado:'Passo 4',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-14.jpg',
@@ -483,7 +485,7 @@ let livro_cs1 ={
   
         {ordem:14,
         predecessor:13,
-        texto:'PASSO 5: BEBER O LEITE QUE ESTÁ NO COPO.',
+        texto:'PASSO 5: BEBA O LEITE QUE ESTÁ NO COPO.',
         urlAudioTexto:'',
         textoSimplificado:'Passo 5',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/alg-15.jpg',
@@ -496,7 +498,7 @@ let livro_cs1 ={
   
         {ordem:15,
         predecessor:14,
-        texto:'IMAGINE SE NÃO ESTIVESSE ESPECIFICADO QUE O LEITE PRECISA IR DENTRO DO COPO? CERTAMENTE ELE IRIA PARAR NO CHÃO!',
+        texto:'SE NÃO ESTIVESSE CLARO QUE O LEITE PRECISA IR DENTRO DO COPO, CERTAMENTE ELE IRIA PARAR NO CHÃO!',
         urlAudioTexto:'',
         textoSimplificado:'Instruções não especificadas geram erros',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/img16.jpeg',
@@ -509,7 +511,7 @@ let livro_cs1 ={
   
         {ordem:16,
         predecessor:15,
-        texto:'ENTÃO, OS <b>ALGORITMOS</b> NOS AJUDAM A PARTIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
+        texto:'OS <b>ALGORITMOS</b> NOS AJUDAM A PARTIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e resolução de problemas',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Algoritmos/img17.webp',
@@ -828,7 +830,7 @@ let livro_cs1 ={
   
         {ordem:7,
         predecessor:6,
-        texto:'PRONTOS PARA O DESAFIO? MÃOS À OBRA!',
+        texto:'VOCÊ ESTÁ PRONTO PARA O DESAFIO? MÃOS À OBRA!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img7.jpg',
@@ -843,7 +845,8 @@ let livro_cs1 ={
   
   
   unidade2:{
-	  
+	  titulo:'LAÇOS, EVENTOS E CONDICIONAIS',
+	  descricao:'NESTA UNIDADE, VAMOS APRENDER SOBRE LAÇOS, EVENTOS E CONDICIONAIS, COMANDOS QUE TORNAM OS PROGRAMAS MUITO MAIS PODEROSOS.',
 	  licao8:{/** padroesCurriculares: 
     titulo:'Lição 08. Laços.',**/
     infografico:{titulo:'LAÇOS',
@@ -854,7 +857,7 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'SABE QUANDO VOCÊS FAZEM ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS <b>LAÇOS</b>!',
+      texto:'QUANDO FAZEMOS ALGO VÁRIAS VEZES, COMO PULAR OU BATER PALMAS, ESTAMOS REPETINDO UMA AÇÃO. OS COMPUTADORES TAMBÉM PODEM REPETIR AÇÕES E PARA ISSO ELES USAM OS <b>LAÇOS</b>!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img1.jpeg',
@@ -867,7 +870,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'OS COMPUTADORES TÊM UMA ESPÉCIE DE "SUPER MEMÓRIA" E CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS <b>LAÇOS</b>.',
+      texto:'QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA A MESMA COISA VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS <b>LAÇOS</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img4.jpg',
@@ -893,7 +896,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'VAMOS IMAGINAR QUE VOCÊ QUER DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
+      texto:'VAMOS IMAGINAR QUE QUEREMOS DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img4.jpeg',
@@ -906,7 +909,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, VOCÊ PODE USAR UM <b>LAÇO</b> E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO PARA VOCÊ.',
+      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, PODEMOS USAR UM <b>LAÇO</b> E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpg',
@@ -919,7 +922,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'OS <b>LAÇOS</b> SÃO COMO TRUQUES DE REPETIÇÃO QUE AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. ELES DIZEM AO COMPUTADOR: "FAÇA ISSO VÁRIAS VEZES ATÉ EU DIZER PARA PARAR.',
+      texto:'OS <b>LAÇOS</b> AJUDAM O COMPUTADOR A FAZER COISAS REPETITIVAS DE UM JEITO MUITO EFICIENTE. NO FUTURO, QUANDO VOCÊ APRENDER MAIS SOBRE COMPUTAÇÃO, OS <b>LAÇOS</b> VÃO TE AJUDAR A FAZER COISAS INCRÍVEIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpeg',
@@ -927,19 +930,6 @@ let livro_cs1 ={
       textoImpressoRecriado:'O COMPUTADOR VAI REPETIR A TAREFA MUITAS VEZES.',
       promptImagem:'desenho animado de um computador com um balão de fala vazio em cima', /*opc*/
       imagemImpresso:1,
-      imagemFonte:'ideogram',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:7,
-      predecessor:6,
-      texto:'OS <b>LAÇOS</b> AJUDAM O COMPUTADOR A FAZER COISAS REPETITIVAS DE UM JEITO MUITO INTELIGENTE. NO FUTURO, QUANDO VOCÊ APRENDER MAIS SOBRE COMPUTAÇÃO, OS <b>LAÇOS</b> VÃO TE AJUDAR A FAZER COISAS INCRÍVEIS!',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img7.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'desenho animado que demonstre o que é internet das coisas', /*opc*/
-      imagemImpresso:0,
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
     ]}},
@@ -954,7 +944,7 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'OLÁ, VOCÊS JÁ FORAM APRESENTADOS AO MUNDO DOS ROBÔS E JÁ CONHECERAM ROBÓPOLIS, NÃO É?',
+      texto:'HOJE VAMOS CONHECER MAIS UMA CIDADE DA ROBOLÂNDIA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img1.jpg',
@@ -967,20 +957,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'ÓTIMO, PORQUE HOJE TEMOS MAIS UMA CIDADE PARA VISITAR.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img7.jpg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de uma cidade futurística vista de cima', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'leonardo',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:3,
-      predecessor:2,
-      texto:'HOJE VAMOS CONHECER NUMERÓPOLIS.',
+      texto:'HOJE É O DIA DE CONHECER NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/img3.jpg',
@@ -991,8 +968,8 @@ let livro_cs1 ={
       imagemFonte:'leonardo',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:4,
-      predecessor:3,
+      {ordem:3,
+      predecessor:2,
       texto:'OS ROBÔS DE NUMERÓPOLIS FAZEM DE TUDO, SÃO GUARDAS, MOTORISTAS, FAZENDEIROS. ELES DÃO UM JEITO EM TUDO! SÓ NÃO CONSEGUEM AINDA ESCREVER, DESENHAR E PINTAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1004,8 +981,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:5,
-      predecessor:4,
+      {ordem:4,
+      predecessor:3,
       texto:'E POR AQUI, COMO O NOME DA CIDADE JÁ SUGERE, OS ROBÔS AMAM OS NÚMEROS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1017,8 +994,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:6,
-      predecessor:5,
+      {ordem:5,
+      predecessor:4,
       texto:'MAS TEM UM PROBLEMA: ESTÁ UMA BAITA CONFUSÃO EM NUMERÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1030,8 +1007,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:7,
-      predecessor:6,
+      {ordem:6,
+      predecessor:5,
       texto:'AS RUAS DA CIDADE NÃO TÊM PLACAS, OS ROBÔS NÃO SABEM AO CERTO PARA ONDE ESTÃO INDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1043,8 +1020,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:7,
+      predecessor:6,
       texto:'MAS OLHA QUE IDEIA GENIAL: QUE TAL PINTAR NÚMEROS NAS RUAS, JÁ QUE EM NUMERÓPOLIS TODOS ADORAM NÚMEROS?',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1056,8 +1033,8 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:9,
-      predecessor:8,
+      {ordem:8,
+      predecessor:7,
       texto:'COM ISSO, OS ROBÔS VÃO PODER DIZER PARA QUAL RUA QUEREM IR SOMENTE FALANDO O NÚMERO DA RUA.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1069,8 +1046,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:10,
-      predecessor:9,
+      {ordem:9,
+      predecessor:8,
       texto:'SERÁ O FIM DA CONFUSÃO EM NUMERÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1082,9 +1059,9 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
       
-      {ordem:11,
-      predecessor:10,
-      texto:'O QUE VOCÊS ACHAM? SERÁ QUE CONSEGUIMOS AJUDAR OS ROBÔS DESSA CIDADE USANDO PROGRAMAÇÃO?',
+      {ordem:10,
+      predecessor:9,
+      texto:'E ENTÃO? SERÁ QUE CONSEGUIMOS AJUDAR OS ROBÔS DESSA CIDADE USANDO PROGRAMAÇÃO?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_11.jpeg',
@@ -1095,8 +1072,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:12,
-      predecessor:11,
+      {ordem:11,
+      predecessor:10,
       texto:'O ROBÔ TAMBÉM VAI TER QUE SER CAPAZ DE SEGURAR UMA CANETA PARA ESSA TAREFA, NÃO É MESMO?',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1108,9 +1085,9 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:13,
-      predecessor:12,
-      texto:'VAMOS VER QUE IDEIAS VOCÊS TÊM PARA FAZER ISSO ACONTECER!',
+      {ordem:12,
+      predecessor:11,
+      texto:'VAMOS VER QUE IDEIAS TEMOS PARA FAZER ISSO ACONTECER!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Numeropolis/num_13.jpeg',
@@ -1121,8 +1098,8 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:14,
-      predecessor:13,
+      {ordem:13,
+      predecessor:12,
       texto:'VAMOS AJUDAR OS ROBÔS DE NUMERÓPOLIS? MÃOS À OBRA!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1145,7 +1122,7 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'OLÁ, DE NOVO! ESTAMOS DE VOLTA A ROBÓPOLIS, NESSA CIDADE ULTRA ROBOTIZADA.',
+      texto:'ESTAMOS DE VOLTA A ROBÓPOLIS, NESSA CIDADE ULTRA ROBOTIZADA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img4.jpg',
@@ -1288,7 +1265,7 @@ let livro_cs1 ={
 
       {ordem:12,
       predecessor:11,
-      texto:'MAS ENQUANTO ELE ESTÁ FORA DE OPERAÇÃO, NÃO TEM OUTRO JEITO: ROBÓPOLIS PRECISA CONTAR COM VOCÊS E COM SUA HABILIDADE DE PROGRAMAÇÃO! VAMOS SOCORRER OS ROBÔS NOVAMENTE?',
+      texto:'MAS ENQUANTO ELE ESTÁ FORA DE OPERAÇÃO, NÃO TEM OUTRO JEITO: ROBÓPOLIS PRECISA CONTAR COM A AJUDA DE HABILIDOSOS PROGRAMADORES! VAMOS SOCORRER OS ROBÔS NOVAMENTE?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robociclagem/robocicl_12.jpeg',
@@ -1316,19 +1293,6 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'VOCÊ SABIA QUE MUITAS COISAS QUE ACONTECEM À NOSSA VOLTA PODEM SER CONSIDERADAS <b>EVENTOS</b>?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_1.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Quadrinhos de uma pessoa pensando, com vários pontos de interrogação em volta dela', /*pode ser a mesma já utilizada antes*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:2,
-      predecessor:1,
       texto:'UM <b>EVENTO</b> É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1340,8 +1304,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:3,
-      predecessor:2,
+      {ordem:2,
+      predecessor:1,
       texto:'POR EXEMPLO, ACORDAR DE MANHÃ, ESCOVAR OS DENTES, TOMAR O CAFÉ DA MANHÃ E IR PARA A ESCOLA SÃO <b>EVENTOS</b> QUE OCORREM TODOS OS DIAS EM NOSSAS VIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1353,8 +1317,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:4,
-      predecessor:3,
+      {ordem:3,
+      predecessor:2,
       texto:'MAS EXISTEM <b>EVENTOS</b> QUE SÃO INESPERADOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1366,9 +1330,9 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:5,
-      predecessor:4,
-      texto:'E VOCÊS SABIAM QUE OS PROGRAMAS DE COMPUTADORES TAMBÉM ENTENDEM <b>EVENTOS</b>?',
+      {ordem:4,
+      predecessor:3,
+      texto:'OS PROGRAMAS DE COMPUTADORES TAMBÉM ENTENDEM <b>EVENTOS</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img5.jpg',
@@ -1379,8 +1343,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:6,
-      predecessor:5,
+      {ordem:5,
+      predecessor:4,
       texto:'ELES SÃO PROGRAMADOS PARA REALIZAR AÇÕES QUANDO CERTOS <b>EVENTOS</b> ACONTECEM.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1392,9 +1356,9 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:7,
-      predecessor:6,
-      texto:'POR EXEMPLO, QUANDO VOCÊ CLICA EM UM BOTÃO EM UM JOGO, ISSO É UM <b>EVENTO</b> PARA O COMPUTADOR E ELE PODE RESPONDER MOSTRANDO UMA ANIMAÇÃO OU FAZENDO UM SOM.',
+      {ordem:6,
+      predecessor:5,
+      texto:'POR EXEMPLO, QUANDO CLICAMOS EM UM BOTÃO EM UM JOGO, ISSO É UM <b>EVENTO</b> PARA O COMPUTADOR E ELE PODE RESPONDER MOSTRANDO UMA ANIMAÇÃO OU FAZENDO UM SOM.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_7.jpeg',
@@ -1405,22 +1369,9 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:8,
-      predecessor:7,
-      texto:'OS <b>EVENTOS</b> NA COMPUTAÇÃO PODEM SER MUITOS.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/ev_8.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:9,
-      predecessor:8,
-      texto:'POR EXEMPLO, QUANDO VOCÊ TOCA A TELA DE UM TABLET, ISSO É UM <b>EVENTO</b> DE TOQUE.',
+      {ordem:7,
+      predecessor:6,
+      texto:'QUANDO TOCAMOS A TELA DE UM TABLET, É UM <b>EVENTO</b> DE TOQUE.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img9.jpg',
@@ -1431,9 +1382,9 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:10,
-      predecessor:9,
-      texto:'QUANDO VOCÊ APERTA UMA TECLA EM UM TECLADO, ISSO É UM <b>EVENTO</b> DE TECLADO.',
+      {ordem:8,
+      predecessor:7,
+      texto:'QUANDO APERTAMOS UMA TECLA EM UM TECLADO, É UM <b>EVENTO</b> DE TECLADO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img10.jpg',
@@ -1444,9 +1395,9 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:11,
-      predecessor:10,
-      texto:'QUANDO VOCÊ PRESSIONA UM BOTÃO PARA PULAR EM UM JOGO, O PERSONAGEM PULA!',
+      {ordem:9,
+      predecessor:8,
+      texto:'QUANDO PRESSIONAMOS UM BOTÃO PARA PULAR EM UM JOGO, O PERSONAGEM PULA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img12.jpg',
@@ -1457,8 +1408,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:12,
-      predecessor:11,
+      {ordem:10,
+      predecessor:9,
       texto:'OS COMPUTADORES ESTÃO SEMPRE PRONTOS PARA DETECTAR ESSES <b>EVENTOS</b> E REAGIR A ELES.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1470,21 +1421,21 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
       
-      {ordem:13,
-      predecessor:12,
+      {ordem:11,
+      predecessor:10,
       texto:'ISSO ACONTECE PORQUE O COMPUTADOR ENTENDEU O <b>EVENTO</b> DO BOTÃO SENDO PRESSIONADO E TOMOU A AÇÃO DE FAZER O PERSONAGEM PULAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img13.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO NO JOGO, FAZENDO O PERSONAGEM PULAR.',
-      promptImagem:'um computador desktop com código flutuando, quadrinhos', /*pode ser alguma já utilizada*/
+      promptImagem:'um computador desktop com código flutuando, quadrinhos',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:14,
-      predecessor:13,
+      {ordem:12,
+      predecessor:11,
       texto:'OS <b>EVENTOS</b> ESTÃO POR TODA PARTE, DESDE AS COISAS QUE FAZEMOS QUANDO ACORDAMOS ATÉ AS AÇÕES QUE TOMAMOS COM A AJUDA DE DISPOSITIVOS ELETRÔNICOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1501,7 +1452,9 @@ let livro_cs1 ={
   
    
   unidade3:{
-	  
+	  titulo:'CONDICIONAIS E SEGURANÇA',
+	  descricao:'NESTA UNIDADE, VAMOS APRENDER MAIS SOBRE ESTRUTURAS DE CONDIÇÃO E TAMBÉM SOBRE SEGURANÇA NO MUNDO DOS COMPUTADORES.',
+	    
     licao15:{},
    
     licao16:{/** padroesCurriculares: 
@@ -1527,7 +1480,7 @@ let livro_cs1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'VOCÊS SABIAM QUE EXISTEM MANEIRAS DE PROTEGER NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS <b>SEGUROS</b>?',
+      texto:'EXISTEM MANEIRAS DE PROTEGER NOSSAS INFORMAÇÕES E MANTER NOSSOS DISPOSITIVOS <b>SEGUROS</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img2.jpeg',
@@ -1592,71 +1545,32 @@ let livro_cs1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'AGORA, POR QUE É IMPORTANTE TER UMA <b>SENHA</b> FORTE?',
+      texto:'E ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA <b>SENHA</b> PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img6.webp',
-      textoImpresso:1,
-      textoImpressoRecriado:'SENHA BOA É DIFÍCIL DE ACERTAR.',
-      promptImagem:'', /*opc*/
-      imagemImpresso:1,
+      textoImpresso:0,
+      textoImpressoRecriado:'',
+      promptImagem:'arte digital colorida de um quebra cabeças', /*opc*/
+      imagemImpresso:0,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
       {ordem:8,
       predecessor:7,
-      texto:'É PORQUE QUEREMOS MANTER NOSSAS COISAS <b>SEGURAS</b> E PROTEGIDAS.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_7.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de um laptop com correntes passando por sua tela e um cadeado trancando essas correntes', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:9,
-      predecessor:8,
-      texto:'ASSIM COMO USAMOS UMA CHAVE PARA TRANCAR UMA PORTA, USAMOS UMA <b>SENHA</b> PARA "TRANCAR" NOSSOS DISPOSITIVOS E CONTAS PARA QUE APENAS NÓS POSSAMOS ACESSÁ-LOS.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_8.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de uma tranca de uma porta com uma chave', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:10,
-      predecessor:9,
-      texto:'POR ISSO, AS <b>SENHAS</b> SEMPRE DEVEM SER “FORTES”, OU SEJA, SUA <b>SENHA</b> DEVE SER ÚNICA E VOCÊ NÃO DEVE USAR A MESMA <b>SENHA</b> PARA TUDO.',
+      texto:'POR ISSO, AS <b>SENHAS</b> SEMPRE DEVEM SER “FORTES”, OU SEJA, A <b>SENHA</b> DEVE SER ÚNICA E NÃO DEVEMOS USAR A MESMA <b>SENHA</b> PARA TUDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img9.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'UMA SENHA FORTE É ÚNICA E DÍFICIL DE ADIVINHAR.',
+      textoImpressoRecriado:'UMA SENHA BOA É DIFÍCIL DE ADIVINHAR.',
       promptImagem:'Arte digital colorida de um labirinto', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:11,
-      predecessor:10,
-      texto:'SE ALGUÉM DESCOBRIR SUA <b>SENHA</b>, NÃO QUEREMOS QUE ELA TENHA ACESSO A TODAS AS SUAS COISAS!',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img10.jpg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital de uma caixa de papelão aberta na parte de cima, com vários ícones de envelopes, chaves, balões de conversa saltando de dentro dela', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:12,
-      predecessor:11,
+      {ordem:9,
+      predecessor:8,
       texto:'QUANTO MAIS DIFERENTE A <b>SENHA</b>, MAIS DIFÍCIL SERÁ PARA ALGUÉM DESCOBRI-LA.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1668,9 +1582,9 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:13,
-      predecessor:12,
-      texto:'ASSIM COMO VOCÊ NÃO EMPRESTA A CHAVE DA SUA CASA, VOCÊ NÃO DEVE COMPARTILHAR A SUA <b>SENHA</b> COM NINGUÉM, ALÉM DE SEUS PAIS OU RESPONSÁVEIS.',
+      {ordem:10,
+      predecessor:9,
+      texto:'ASSIM COMO NÃO EMPRESTAMOS A CHAVE DE CASA PARA QUALQUER PESSOA, NÃO DEVEMOS COMPARTILHAR <b>SENHAS</b> COM NINGUÉM, ALÉM DE NOSSOS PAIS OU RESPONSÁVEIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img12.jpeg',
@@ -1681,9 +1595,9 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:14,
-      predecessor:13,
-      texto:'MANTER A <b>SENHA</b> EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER SUAS INFORMAÇÕES PESSOAIS.',
+      {ordem:11,
+      predecessor:10,
+      texto:'MANTER A <b>SENHA</b> EM SEGREDO É UMA MANEIRA IMPORTANTE DE PROTEGER INFORMAÇÕES PESSOAIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img13.jpg',
@@ -1694,9 +1608,9 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:15,
-      predecessor:14,
-      texto:'ALÉM DAS <b>SENHAS</b>, É IMPORTANTE MANTER SEUS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM SUA PERMISSÃO.',
+      {ordem:12,
+      predecessor:11,
+      texto:'ALÉM DAS <b>SENHAS</b>, É IMPORTANTE MANTER OS DISPOSITIVOS PROTEGIDOS. ISSO SIGNIFICA NÃO OS DEIXAR DESBLOQUEADOS OU SEM SUPERVISÃO PARA QUE OUTRAS PESSOAS NÃO POSSAM ACESSÁ-LOS SEM PERMISSÃO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img14.jpeg',
@@ -1707,9 +1621,9 @@ let livro_cs1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:16,
-      predecessor:15,
-      texto:'E SE VOCÊ RECEBER UMA MENSAGEM ESTRANHA PEDINDO SUA <b>SENHA</b> OU INFORMAÇÕES PESSOAIS, NUNCA RESPONDA. SEMPRE PEÇA AJUDA A UM ADULTO RESPONSÁVEL.',
+      {ordem:13,
+      predecessor:12,
+      texto:'E SE RECEBERMOS MENSAGENS ESTRANHAS, PEDINDO <b>SENHAS</b> OU INFORMAÇÕES PESSOAIS, NUNCA DEVEMOS RESPONDER OU ABRIR, PODE SER PERIGOSO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img15.webp',
@@ -1720,21 +1634,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:17,
-      predecessor:16,
-      texto:'A <b>SEGURANÇA</b> É MUITO IMPORTANTE QUANDO SE TRATA DE <b>SENHAS</b> E DISPOSITIVOS ELETRÔNICOS.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/seg_16.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'Arte digital colorida de um smatphone com um cadeado dourado na tela', /*pode ser uma variação da já usada anteriormente*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:18,
-      predecessor:17,
+      {ordem:14,
+      predecessor:13,
       texto:'QUEREMOS PROTEGER NOSSAS INFORMAÇÕES PESSOAIS E MANTER TUDO <b>SEGURO</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1746,8 +1647,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:19,
-      predecessor:18,
+      {ordem:15,
+      predecessor:14,
       texto:'VAMOS APRENDER E MANTER NOSSOS DISPOSITIVOS E INFORMAÇÕES PROTEGIDOS JUNTOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1815,7 +1716,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img5.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'SE DEVER DE CASA = VERDADEIRO, ENTÃO VER FILME E COMER PIPOCA.',
+      textoImpressoRecriado:'SE FEZ O DEVER DE CASA, ENTÃO VEJA FILME E COMA PIPOCA.',
       promptImagem:'pintura de uma personagem infantil sentada em um sofá, embrulhada em um cobertor e segurando um bowl cheio de pipoca',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1823,7 +1724,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'VEJAM COMO ESSA <b>CONDICIONAL</b> MOSTRA EXATAMENTE O QUE É PRECISO PARA QUE VOCÊ POSSA VER O FILME E COMER PIPOCA. É COMO UMA REGRA QUE NOS GUIA!',
+      texto:'ESSA <b>CONDICIONAL</b> MOSTRA EXATAMENTE O QUE É PRECISO FAZER PARA VER O FILME E COMER PIPOCA. É COMO UMA REGRA QUE NOS GUIA!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img6.jpeg',
@@ -1836,7 +1737,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'VIRAM COMO AS <b>CONDICIONAIS</b> NOS AJUDAM A ENTENDER O QUE VAI ACONTECER COM BASE EM CERTAS <b>CONDIÇÕES</b>?',
+      texto:'AS <b>CONDICIONAIS</b> NOS AJUDAM A ENTENDER O QUE VAI ACONTECER COM BASE EM CERTAS <b>CONDIÇÕES</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_7.jpeg',
@@ -1862,7 +1763,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'E SABEM O QUE MAIS É LEGAL? AS <b>CONDICIONAIS</b> TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
+      texto:'E O MAIS LEGAL É QUE AS <b>CONDICIONAIS</b> TAMBÉM SÃO USADAS NA PROGRAMAÇÃO DE COMPUTADORES!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img9.jpeg',
@@ -1888,7 +1789,7 @@ let livro_cs1 ={
 
       {ordem:10,
       predecessor:9,
-      texto:'POR EXEMPLO, SE VOCÊS ESTIVEREM JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, VOCÊS PODEM PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
+      texto:'POR EXEMPLO, SE ESTIVERMOS JOGANDO UM JOGO E O PERSONAGEM CHEGAR A UMA PAREDE, PODEMOS PROGRAMAR O JOGO PARA QUE O PERSONAGEM MUDE DE DIREÇÃO E CONTINUE SE MOVENDO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img11.jpg',
@@ -1912,19 +1813,6 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:12,
-      predecessor:11,
-      texto:'AS <b>CONDICIONAIS</b> PODEM SER USADAS DE MANEIRAS DIVERTIDAS E INTERESSANTES, NÃO É MESMO? ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER COMO AS COISAS FUNCIONAM.',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/cond_13.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'pintura de um jovem pensando em um parque', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
     ]}},
    
     licao18:{},
@@ -1939,7 +1827,7 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO <b>DEPURAÇÃO</b>, OU <b>DEBUGGING</b>.',
+      texto:'HOJE VAMOS APRENDER SOBRE ALGO MUITO IMPORTANTE CHAMADO <b>DEPURAÇÃO</b>, OU <b>DEBUGGING</b>, EM INGLÊS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img1.jpg',
@@ -1978,7 +1866,7 @@ let livro_cs1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'IMAGINE UM QUEBRA-CABEÇA.',
+      texto:'VAMOS IMAGINAR UM QUEBRA-CABEÇA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_4-2.jpeg',
@@ -1991,7 +1879,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'SE VOCÊS ESTIVEREM MONTANDO UM QUEBRA-CABEÇA E PERCEBEREM QUE UMA PEÇA NÃO SE ENCAIXA CORRETAMENTE, VOCÊS PRECISAM DESCOBRIR ONDE A PEÇA ERRADA ESTÁ E ENCONTRAR A PEÇA CORRETA PARA COLOCAR NO LUGAR.',
+      texto:'SE ESTIVERMOS MONTANDO UM QUEBRA-CABEÇA E PERCEBERMOS QUE UMA PEÇA NÃO SE ENCAIXA CORRETAMENTE, PRECISAMOS DESCOBRIR ONDE A PEÇA ERRADA ESTÁ E ENCONTRAR A PEÇA CORRETA PARA COLOCAR NO LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_5.jpeg',
@@ -2095,7 +1983,7 @@ let livro_cs1 ={
 
       {ordem:13,
       predecessor:12,
-      texto:'VAMOS CONTINUAR APRENDENDO E VOCÊS SE TORNARÃO VERDADEIROS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
+      texto:'VAMOS CONTINUAR APRENDENDO PARA SERMOS DETETIVES DA SOLUÇÃO DE PROBLEMAS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/dep_13-2.jpeg',
@@ -2115,7 +2003,9 @@ let livro_cs1 ={
   
    
   unidade4:{
-	  
+	  titulo:'ALGORITMOS E SISTEMA BINÁRIO',
+	  descricao:'NESTA ÚLTIMA UNIDADE, VAMOS DESCOBRIR UM GRANDE SEGREDO DOS COMPUTADORES: O SISTEMA BINÁRIO. O SISTEMA BINÁRIO É USADO PELOS COMPUTADORES PARA GUARDAR E EXIBIR LETRAS, NÚMEROS, IMAGENS, SONS E ATÉ VÍDEOS.',
+	    
     licao22:{},
    
     licao23:{},
@@ -2130,12 +2020,12 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'OLÁ! ESTAMOS DE VOLTA A ROBÓPOLIS...',
+      texto:'ESTAMOS DE VOLTA A ROBÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robopolis/img3.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'ESTAMOS DE VOLTA A ROBÓPOLIS.',
+      textoImpressoRecriado:'',
       promptImagem:'Arte digital de uma cidade futurística', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -2182,20 +2072,7 @@ let livro_cs1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'VOCÊS PODEM AJUDAR?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/transit_5.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:6,
-      predecessor:5,
-      texto:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊS DEVEM CRIAR PROGRAMAS PARA QUE OS ROBÔS SEJAM CAPAZES DE ATRAVESSAR ROBÓPOLIS, SEMPRE RESPEITANDO AS CORES DO SEMÁFOROS QUE APARECEM PELO CAMINHO.',
+      texto:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, DEVEMOS CRIAR PROGRAMAS PARA QUE OS ROBÔS SEJAM CAPAZES DE ATRAVESSAR ROBÓPOLIS, SEMPRE RESPEITANDO AS CORES DO SEMÁFOROS QUE APARECEM PELO CAMINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img6.jpg',
@@ -2206,8 +2083,8 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:7,
-      predecessor:6,
+      {ordem:6,
+      predecessor:5,
       texto:'VAI SER UM DESAFIO E TANTO... PÉ NA TÁBUA!',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2234,7 +2111,7 @@ let livro_cs1 ={
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'VAMOS HOJE CONTINUAR EM NOSSA DIVERTIDA JORNADA, CONHECENDO A CIDADE MAIS ESTRANHA DA TERRA DOS ROBÔS: BINARÓPOLIS!',
+      texto:'VAMOS CONTINUAR EM NOSSA DIVERTIDA JORNADA, CONHECENDO A CIDADE MAIS ESTRANHA DA TERRA DOS ROBÔS: BINARÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img1.jpg',
@@ -2299,7 +2176,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'OK, MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
+      texto:'MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img6.jpeg',
@@ -2325,7 +2202,7 @@ let livro_cs1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA. VEJA.',
+      texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img8.webp',
@@ -2364,7 +2241,7 @@ let livro_cs1 ={
 
       {ordem:11,
       predecessor:10,
-      texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS COMO VOCÊ JÁ É RECONHECIDO COMO UM GRANDE AJUDANTE DE ROBÔS, VAI APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
+      texto:'É UM POUCO CONFUSO A PRINCÍPIO, MAS VAMOS APRENDER UM POUCO SOBRE ESSE CÓDIGO MISTERIOSO PARA AJUDAR BINARÓPOLIS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img11.jpg',
@@ -2375,18 +2252,6 @@ let livro_cs1 ={
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:12,
-      predecessor:0,
-      texto:'PREPARADOS?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/bin_12.jpeg',
-      textoImpresso:0,
-      textoImpressoRecriado:'',
-      promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
-      imagemImpresso:0,
-      imagemFonte:'trocar',
-      textoDescritivoImagem:'', /*opc*/},
     ]}},
    
     licao28:{},	 
