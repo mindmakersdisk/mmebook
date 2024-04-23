@@ -966,9 +966,9 @@ let livro_csx ={
 
   unidade2:{
     titulo:'Programação Orientada a Eventos',
-	  descricao:`Nesta unidade, aprenderemos programação orientada a eventos utilizando a linguagem de programação visual Scratch, compreendendo a importância de eventos no ciclo de vida dos programas. 
+	  descricao:`Nesta unidade, aprenderemos programação orientada a eventos, compreendendo o conceito de eventos no mundo físico e sua importância no mundo digital, no ciclo de vida dos programas. 
 	  
-	  Veremos que o Scratch é um ambiente de programação altamente flexível e interativo, que torna o aprendizado de programação divertido e acessível. Com o Scratch, poderemos criar nossas próprias histórias, jogos e animações digitais, controlando personagens e objetos em um mundo virtual, e entenderá como eventos e ações interagem durante a execução de um programa.`,
+	  Avançaremos para a linguagem de programação Scratch, conhecendo seu ambiente de programação altamente flexível, interativo e orientado a eventos. O Scratch nos permite criar e programar nossas próprias histórias, jogos e animações. Por fim, para conseguirmos produzir nossos próprios personagens e elementos com autonomia, conheceremos a história das animações e algumas técnicas básicas para captura e edição de imagens.`,
     licao8:{
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
@@ -981,7 +981,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados ou que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em um horário determinado, por exemplo.',
+        texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados, que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em um horário determinado, por exemplo.',
         urlAudioTexto:'',
         textoSimplificado:'Eventos',
         textoImpresso:1,
@@ -993,7 +993,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Um evento é um acontecimento ou ação eventual que pode alterar uma rotina, provocando reações em resposta. Imagine que você esteja estudando concentrado e, de repente, seu gato pula em cima da mesa. Qual seria a sua reação a esse evento?',
+        texto:'Um evento pode alterar uma rotina, provocando reações em resposta. Imagine que você esteja estudando concentrado e, de repente, seu gato pula em cima da mesa. Qual seria a sua reação?',
         urlAudioTexto:'',
         textoSimplificado:'Eventos e Reações',
         textoImpresso:1,
@@ -1005,7 +1005,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Em computação, muitos eventos são provocados pelos usuários, que são as pessoas que utilizam o computador. Um <b>evento de usuário</b> pode ser, por exemplo, um clique com o mouse ou o pressionamento da tecla <b>Enter</b>. Um programador pode criar códigos para responder a esses eventos, como abrir uma nova janela ou mover um personagem em um jogo.',
+        texto:'Em computação, muitos eventos são provocados pelos <b>usuários</b>, as pessoas que utilizam o computador. Um <b>evento de usuário</b> pode ser, por exemplo, um clique com o mouse ou o pressionamento da tecla <b>Enter</b>. para <b>tratar um evento</b>, um programador pode criar códigos para responder a eles, como abrir uma nova janela ou mover um personagem em um jogo.',
         urlAudioTexto:'',
         textoSimplificado:'Reação', 
         textoImpresso:1,
@@ -1017,7 +1017,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Smartphones, tablets e até smartwatches são computadores móveis que possibilitam novos tipos de eventos do usuário, como toques na tela ou movimentos do dispositivo.',
+        texto:'Smartphones, tablets e até smartwatches são computadores móveis que possibilitam tipos específicos de eventos do usuário, como toques na tela ou movimentos como girar o próprio dispositivo.',
         urlAudioTexto:'',	
         textoSimplificado:'Exemplos',
         textoImpresso:1,
@@ -1029,7 +1029,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'É possível criar um programa que funcione sem a interferência de eventos, mas eles são raros. A maioria dos programas é dirigida por eventos, como os jogos ou aplicativos de redes sociais, que frequentemente reagem a ações do usuário, como apertar uma tecla, clicar com o mouse ou manipular um joystick.',
+        texto:'É possível criar um programa que funcione sem a interferência de eventos, mas eles são raros. A maioria dos programas é dirigido por eventos, como os jogos ou aplicativos de redes sociais, que frequentemente reagem a ações do usuário, como apertar uma tecla, clicar com o mouse ou manipular um joystick.',
         urlAudioTexto:'',
         textoSimplificado:'Sem Eventos',
         textoImpresso:1,
@@ -1089,7 +1089,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Assim como os seres humanos, robôs e dispositivos eletrônicos podem ser equipados com sensores. Estes componentes eletrônicos, semelhantes aos órgãos sensoriais humanos, captam sinais do ambiente e os encaminham para dispositivos computacionais em computadores, celulares ou robôs.',
+        texto:'Assim como os seres humanos, robôs e dispositivos eletrônicos podem ser equipados com sensores. Estes componentes eletrônicos, semelhantes aos órgãos sensoriais humanos, captam sinais do ambiente e os encaminham para aparelhos computacionais como computadores, celulares ou robôs.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
@@ -1150,7 +1150,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Existem também sensores eletrônicos que podem detectar odores ou sabores, mas atualmente são caros e têm aplicação limitada.',
+        texto:'Existem também sensores eletrônicos que podem detectar odores ou sabores. Mas eles ainda são caros, com aplicação limitada.',
         urlAudioTexto:'',
         textoSimplificado:'Sensor Olfato e Paladar',
         textoImpresso:1,
@@ -1162,7 +1162,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Os robôs e dispositivos eletrônicos podem possuir sensores que superam nossas capacidades sensoriais. Sensores de infravermelho, por exemplo, detectam um espectro de luz invisível para nós, enquanto sensores de ultrassom captam sons além do alcance da nossa audição.',
+        texto:'Os robôs e aparelhos eletrônicos podem ser equipados com sensores que superam nossas capacidades sensoriais. Sensores de infravermelho, por exemplo, detectam um espectro de luz invisível para nós. E sensores de ultrassom captam sons além do alcance da nossa audição.',
         urlAudioTexto:'',
         textoSimplificado:'Outros Sensores',
         textoImpresso:1,
@@ -1174,7 +1174,7 @@ let livro_csx ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Há uma vasta gama de sensores disponíveis, com os quais podemos criar dispositivos e robôs extraordinários. Que tal começarmos a experimentar?',
+        texto:'Há uma vasta gama de sensores disponíveis, com os quais podemos criar dispositivos e robôs extraordinários, que reagem a mudanças no ambiente como nós, humanos!',
         urlAudioTexto:'',
         textoSimplificado:'Sensores Diversos',
         textoImpresso:1,
@@ -1200,7 +1200,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'O Scratch é uma linguagem de programação versátil, desenvolvida pelo MIT, voltada para a criação de jogos e histórias animadas. Seu mascote é um gato também chamado Scratch. O uso é gratuito e permite o compartilhamento de projetos com Scratchers de todo o mundo!',
+        texto:'O Scratch é uma linguagem de programação super versátil, voltada para a criação e programação de jogos e histórias animadas. Desenvolvido pelo MIT, o instituto de tecnologia da universidade de Harvard, o Scratch se tornou um grande sucesso, utilizado por milhões de alunos e adultos, ao redor do mundo.',
         urlAudioTexto:'',
         textoSimplificado:'Scratch',
         textoImpresso:1,
@@ -1212,7 +1212,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Criamos uma versão própria do Scratch integrada à Plataforma CS++, para evitar que você tenha que fazer um login duplicado e para manter seus projetos organizaods na mesma base.',
+        texto:'Em nosso curso, utilizaremos uma versão do Scratch integrada à Plataforma CS++. Com isso, não precisaremos fazer um novo cadastro no site scratch.mit.edu, mantendo logins e senhas duplicadas. Mas tudo que você aprender funcionará exatamente da mesma maneira, nos dois ambientes!',
         urlAudioTexto:'',
         textoSimplificado:'Scratch',
         textoImpresso:1,
@@ -1236,7 +1236,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Você pode enriquecer seu jogo ou história adicionando efeitos sonoros especiais, incluindo músicas e uma variedade de sons, como o fechar de uma porta, uma buzina e outros.',
+        texto:'Você pode enriquecer seu jogo ou história adicionando efeitos sonoros especiais, incluindo músicas e uma variedade de sons, como "o fechar de uma porta", uma buzina e outros.',
         urlAudioTexto:'',
         textoSimplificado:'Música e Som',
         textoImpresso:1,
@@ -1248,7 +1248,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'O palco é o espaço onde a ação ocorre. Neste retângulo, todos os personagens se movem. O palco pode ser decorado com diferentes cenários de fundo, e há muitos disponíveis, transportando seus atores para locais como o espaço, estádios de futebol, paisagens nevadas ou interiores de casas, por exemplo.',
+        texto:'O palco é o espaço onde a ação ocorre. Neste retângulo, todos os personagens se movem. O palco pode ser decorado com diferentes cenários de fundo disponíveis, transportando seus atores para locais como o espaço, estádios de futebol, paisagens nevadas ou interiores de casas, por exemplo.',
         urlAudioTexto:'',	
         textoSimplificado:'Palco',
         textoImpresso:1,
@@ -1260,7 +1260,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Você também pode tirar uma foto e usar sua própria casa ou escola como cenário para um jogo. Para tornar a experiência ainda mais envolvente, é possível alterar o cenário de fundo do palco tantas vezes quanto desejar durante o jogo, como ao mudar de fase.',
+        texto:'Podemos criar cenários inéditos, tirando uma foto e usando nossa própria casa ou escola como cenário de um jogo. Para tornar a experiência mais envolvente, podemos inclusive mudar o cenário usando programação, quantas vezes desejarmos, como em mudanças de fase de nosso jogo.',
         urlAudioTexto:'',
         textoSimplificado:'Mudança de Palco',
         textoImpresso:1,
@@ -1273,7 +1273,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'E por fim, resta a você dar vida ao espetáculo, unindo todos os elementos do Scratch com muita programação! É a programação que permite mover os atores, trocar cenários, produzir sons e muito mais. Portanto, deixe a teoria de lado, porque é hora de entrar em ação!',
+        texto:'E, por fim, é com a programação que damos vida ao espetáculo! É ela que nos permite mover os atores, trocar cenários, produzir sons, exibir pontuações e muito mais. O limite é a sua imaginação!',
         urlAudioTexto:'',
         textoSimplificado:'Programação no mmScratch',
         textoImpresso:1,
@@ -1296,7 +1296,7 @@ let livro_csx ={
         cenas:[				
           {ordem:1,
           predecessor:0,
-          texto:'A indústria de videogames hoje é tão importante quanto a indústria do cinema e já produziu seus próprios heróis. Criadores e programadores de jogos de sucesso como Minecraft e Super Mario tornaram-se famosos e bilionários, fazendo o que mais amam.',
+          texto:'A indústria de videogames se tornou maior e mais importante que a indústria do cinema e já produziu seus próprios heróis. Criadores e programadores de jogos de sucesso como Minecraft e Super Mario tornaram-se famosos e bilionários, fazendo o que mais amam.',
           urlAudioTexto:'',
           textoSimplificado:'Videogames famosos como o Minecraft e o Super Mario Bros.',
           textoImpresso:1,
@@ -1308,7 +1308,7 @@ let livro_csx ={
   
           {ordem:2,
           predecessor:1,
-          texto:'Além de dominarem a programação e serem apaixonados por jogos, todos eles começaram com uma ideia original!',
+          texto:'Além de dominarem programação e serem apaixonados por jogos, todos eles começaram com uma ideia bem criativa e original...',
           urlAudioTexto:'',
           textoSimplificado:'Grande ideia.',
           textoImpresso:1,
@@ -1320,7 +1320,7 @@ let livro_csx ={
   
           {ordem:3,
           predecessor:2,
-          texto:'E a jornada deles apenas começou a partir daí; eles tiveram que desvendar essa ideia, planejando meticulosamente cada aspecto do jogo, incluindo personagens, cenários, regras, música e efeitos sonoros.',
+          texto:'A <b>decomposição<b> dessas ideias se mostrou igualmente importante, quebrando em detalhes os variados aspectos imaginados para o jogo como personagens, cenários, regras, música e efeitos sonoros...',
           urlAudioTexto:'',
           textoSimplificado:'Planejamento de um jogo.',
           textoImpresso:1,
@@ -1332,7 +1332,7 @@ let livro_csx ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Cada detalhe é crucial em um jogo, mas o principal objetivo dos criadores é desenvolver um jogo que seja divertido, desafiador e cativante para os jogadores, concorda?',
+          texto:'E, por fim, além de um bom conceito detalhado, um bom jogo precisa de desafios engajadores, eventos surpreendentes, cenas e regras que prendam a atenção e se tornem cativante para os jogadores.',
           urlAudioTexto:'',
           textoSimplificado:'Criando um jogo desafiante e cativante.',
           textoImpresso:1,
@@ -1344,7 +1344,7 @@ let livro_csx ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Isso é o que os profissionais chamam de <b>gameplay</b>. Com frequência, os programadores conseguem lançar a primeira versão de um jogo, incorporando todos os detalhes imaginados.',
+          texto:'Isso é o que os profissionais chamam de <b>gameplay</b> - a "experiência de jogar". Normalmente, os programadores de jogo até conseguem lançar sua primeira versão já incorporando todos os detalhes imaginados...',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
@@ -1356,7 +1356,7 @@ let livro_csx ={
   
           {ordem:6,
           predecessor:5,
-          texto:'No entanto, eles também dedicam bastante tempo aprimorando regras, personagens e detalhes para enriquecer a experiência de jogo.',
+          texto:'...mas passam bastante tempo aprimorando suas regras, personagens e detalhes para enriquecer essa experiência.',
           urlAudioTexto:'',
           textoSimplificado:'Aprimorando a experiência de jogo.',
           textoImpresso:1,
@@ -1368,7 +1368,7 @@ let livro_csx ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Muitos criadores de jogos desenvolvem histórias cativantes para envolver os jogadores e, assim, enriquecer o <b>gameplay</b> de seus jogos.',
+          texto:'E não é só uma questão de programação: uma estratégia de muitos criadores é conceber histórias tão cativantes que se tornam chaves para o <b>gameplay</b> de seus jogos.',
           urlAudioTexto:'',
           textoSimplificado:'Jogos com histórias envolventes.',
           textoImpresso:1,
@@ -1380,7 +1380,7 @@ let livro_csx ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Chegou a hora de exercitar sua criatividade na criação de histórias, programando uma animação no computador!',
+          texto:'Na área da criação de jogos, como nas demais áreas de trabalho da vida moderna, há um enorme espaço para os mais diferentes perfis criativos. A boa notícia é que o desenvolvimento de jogos é, sem dúvida, uma excelente forma de exercitar e aprimorar a sua criatividade!',
           urlAudioTexto:'',
           textoSimplificado:'Criação de uma animação no computador.',
           textoImpresso:1,
@@ -1404,7 +1404,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'As primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à época em que os humanos viviam em cavernas, isto é, na Pré-história.',
+        texto:'Nossas primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à época em nós, humanos, vivíamos em cavernas. Isto é, na Pré-história.',
         urlAudioTexto:'',
         textoSimplificado:'Primórdios das Animações',
         textoImpresso:1,
@@ -1416,7 +1416,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Eles desenhavam animais com patas sobrepostas, que pareciam se mover quando o observador passava uma tocha sobre o desenho na parede da rocha.',
+        texto:'Desenhávamos animais com patas sobrepostas em rochas, que pareciam se mover quando um observador passava uma tocha sobre eles.',
         urlAudioTexto:'',
         textoSimplificado:'Animação na pré-história',
         textoImpresso:1,
@@ -1428,7 +1428,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Milênios mais tarde, no Egito Antigo, alguns desenhos em paredes retratavam figuras humanas em sequências de movimento, semelhante às atuais histórias em quadrinhos, criando a impressão de ação ao serem visualizados em sequência.',
+        texto:'Milênios mais tarde, no Egito Antigo, passamos a retratar figuras humanas em sequências chaves de cenas. Elas funcionam de modo análogo às atuais histórias em quadrinhos, despertando a imaginação do observador para criar as ações e movimentos ausentes.',
         urlAudioTexto:'',
         textoSimplificado:'Pintura Egípcia',
         textoImpresso:1,
@@ -1440,7 +1440,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Há mais de 5.000 anos, antes mesmo da invenção do papel, um artesão criou um vaso ornado com desenhos que, ao ser girado, dava a impressão de um alce saltando para alcançar as folhas de uma árvore.',
+        texto:'Há mais de 5.000 anos, antes mesmo da invenção do papel, um artesão criou um vaso com desenhos que, quando girado, criava uma visão nítida de um alce saltando. Neste sistema, evoluímos dos movimentos imaginários para os  ilusórios, mais realísticos.',
         urlAudioTexto:'',
         textoSimplificado:'Arte XXX',
         textoImpresso:1,
@@ -1453,7 +1453,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Foi apenas cerca de 150 anos atrás que surgiram os primeiros dispositivos de animação utilizando papel, como o folioscópio, também conhecido como flip-book. Trata-se de um bloco de papel contendo desenhos sequenciais que, ao serem rapidamente folheados, criam a ilusão de movimento.',
+        texto:'Foi apenas cerca de 150 anos atrás que surgiram os primeiros dispositivos de animação ilusória utilizando papel como o folioscópio, também conhecido como flip-book. Trata-se de um bloco de papel contendo desenhos sequenciais que, ao ser rapidamente folheado, cria a ilusão de movimento como no antigo vaso.',
         urlAudioTexto:'',	
         textoSimplificado:'Folioscópio',
         textoImpresso:1,
@@ -1465,7 +1465,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'O taumatrópio foi outro brinquedo de animação bastante popular no século XIX, que criava a ilusão de sobrepor duas imagens distintas, como colocar um pássaro dentro de uma gaiola ou fazer uma princesa beijar um príncipe.',
+        texto:'O taumatrópio foi outro brinquedo de animação bastante popular no século XIX. Ele parte de duas imagens distintas desenhadas em seus lados opostos, como um pássaro solto e uma gaiola vazia. Ao ser girado, dá a ilusão de que o pássaro agora está aprisionado na gaiola.',
         urlAudioTexto:'',
         textoSimplificado:'Taumatrópio',
         textoImpresso:1,
@@ -1477,7 +1477,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Inspirado pelo taumatrópio, o fenaquistiscópio utilizava um disco giratório para criar a ilusão de um movimento contínuo e prolongado. Ele consistia em vários desenhos de um mesmo objeto em posições ligeiramente alteradas, dispostos ao redor de uma placa circular que, quando girada diante de um espelho, criava a impressão de uma imagem em movimento.',
+        texto:'Evoluindo o taumatrópio, o fenaquistiscópio passou a utilizar um disco giratório, criando a ilusão de um movimento contínuo e prolongado. Para isso, utiliza uma sequencia de desenhos com pessoas, animais ou objetos em posições ligeiramente alteradas, disposta na borda do disco.',
         urlAudioTexto:'',
         textoSimplificado:'Fenaquistiscópio',
         textoImpresso:1,
@@ -1489,7 +1489,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Esses dispositivos de animação pioneiros continuaram a evoluir, levando à criação do zootrópio, que permitia a inserção de tiras de desenhos substituíveis para variar as animações. Ele é composto por um tambor circular com ranhuras cortadas, por onde os espectadores podem observar as tiras de desenhos que criam a ilusão de movimento quando o tambor gira.',
+        texto:'Esses dispositivos pioneiros da animação continuaram a evoluir até o zootrópio, que permitia a inserção de tiras de desenhos substituíveis em um tambor giratório. Através de ranhuras no tambor, cortadas no tamanho de cada cena, os espectadores podem observar a ilusão de movimentos.',
         urlAudioTexto:'',
         textoSimplificado:'Zootrópio',
         textoImpresso:1,
@@ -1501,7 +1501,7 @@ let livro_csx ={
 
         {ordem:9,
         predecessor:8,
-        texto:'A concepção do zootrópio também deu origem às primeiras animações tridimensionais (3D), substituindo desenhos por bonecos.',
+        texto:'A concepção do zootrópio deu origem às primeiras animações tridimensionais (3D), substituindo desenhos por bonecos.',
         urlAudioTexto:'',
         textoSimplificado:'Zootrópio 3D',
         textoImpresso:1,
@@ -1514,7 +1514,7 @@ let livro_csx ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Essas invenções fundamentaram um princípio essencial: a percepção de movimento é uma ilusão criada pela exibição sequencial de imagens estáticas ao nosso cérebro.',
+        texto:'Todas essas invenções se baseiam em um princípio fundamental da animação: é possível enganar o cérebro humano, fazendo-o enxergar movimentos quando é exposto a imagens estáticas substituidas rapidamente.',
         urlAudioTexto:'',
         textoSimplificado:'Ilusão ótica de movimento',
         textoImpresso:1,
@@ -1526,7 +1526,7 @@ let livro_csx ={
   
         {ordem:11,
         predecessor:10,
-        texto:'Esse princípio é o alicerce da animação moderna, inclusive a digital, como é o caso dos GIFs animados. Os GIFs são arquivos que contêm múltiplos <b>frames</b>, que são exibidos rapidamente em sequência para criar a ilusão de movimento, similar a um vídeo.',
+        texto:'Esse princípio é o mesmo utilizado em animações digitais como em vídeos ou GIFs animados. Os GIFs animados são arquivos que contêm múltiplos <b>frames</b>, nome dado a estas imagens. As várias imagens do GIF Animado são trocadas rapidamente, produzindo a ilusão desejada.',
         urlAudioTexto:'',
         textoSimplificado:'GIF animado',
         textoImpresso:1,
@@ -1538,7 +1538,7 @@ let livro_csx ={
 
         {ordem:12,
         predecessor:11,
-        texto:'Agora, vamos embarcar em uma jornada prática pela história da animação, de seus primórdios até o digital.',
+        texto:'Agora que já entendemos o conceito, vamos comprová-lo na prática... dos primórdios até a animação digital!',
         urlAudioTexto:'',
         textoSimplificado:'Revisão',
         textoImpresso:0,
@@ -1562,7 +1562,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Uma imagem é considerada digital quando está em um formato que pode ser processado por um programa de computador. Ao tirarmos fotos usando um computador, tablet ou celular, elas são automaticamente criadas como arquivos digitais.',
+        texto:'Uma imagem é considerada digital quando está em um formato que pode ser processado por um programa de computador. Ao tirarmos fotos usando um computador, tablet ou celular, elas já são automaticamente criadas como arquivos digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Imagens digitais',
         textoImpresso:1,
@@ -1575,7 +1575,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'É possível utilizar equipamentos como digitalizadores ou scanners para converter desenhos em papel, os quais chamamos de analógicos, em arquivos digitais.',
+        texto:'Mas é também possível utilizar equipamentos como digitalizadores ou scanners para converter desenhos em papel, que chamamos de analógicos, em arquivos digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Scanner',
         textoImpresso:1,
@@ -1587,7 +1587,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Quando utilizamos o computador para criar imagens, como em capturas de tela ou editores de fotos, elas já são geradas no formato digital.',
+        texto:'Quando utilizamos o computador para criar imagens, como em capturas de tela ou editores de fotos, elas também já são geradas no formato digital.',
         //texto:'Naturalmente, as imagens criadas diretamente no computador, como em programas de captura de tela ou editores de imagens, já são formatadas como digitais.',
         urlAudioTexto:'',
         textoSimplificado:'Ilustraçãos digitais',
@@ -1625,7 +1625,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para realizar essas modificações, utilizamos programas de edição de imagens, que permitem, por exemplo, alterar fotos de familiares e amigos para que possam ser inseridos como personagens em animações ou videogames.',
+        texto:'Para realizar essas modificações, utilizamos programas de edição de imagens. Eles nos permitem, por exemplo, alterar fotos de familiares e amigos para utilizá-los como personagens de nossas animações ou videogames.',
         urlAudioTexto:'',
         textoSimplificado:'Fotos editadas de um pai, uma mãe e o filho deles',
         textoImpresso:1,
@@ -1638,7 +1638,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Para isso: planeje as poses necessárias para as fotos. Em seguida, fotografe as pessoas contra uma parede de cor vibrante, certificando-se de que a cor das roupas sejam diferentes da cor da parede (para evitar problemas com a edição). E, então, importe as fotos para o computador.',
+        texto:'Para isso: planeje as poses necessárias para as fotos. Em seguida, fotografe as pessoas contra uma parede de cor vibrante. Certifique-se de que a cor das roupas sejam diferentes da cor da parede para evitar problemas com a edição. E, então, importe as fotos para o computador.',
         urlAudioTexto:'',
         textoSimplificado:'Foto de uma pessoa em um fundo amarelo vivo',
         textoImpresso:1,
@@ -1651,7 +1651,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,          
-        texto:'O próximo passo é editar as fotos para remover o fundo. Para isso, utilize aplicativos online de edição de fotos que oferecem ferramentas como a <b>varinha mágica</b>, úteis para esta finalidade. Vamos praticar?',
+        texto:'Como próximo passo, edite as fotos para remover o fundo. Para isso, utilize aplicativos online de edição de fotos que oferecem ferramentas como a <b>varinha mágica</b>. Vamos praticar?',
         urlAudioTexto:'',
         textoSimplificado:'Programa de edição de imagens',
         textoImpresso:1,

@@ -2018,7 +2018,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ENTÃO, SÓ A GENTE CONSEGUE ABRIR UMA CAIXA QUE TEM COISAS QUE SÃO NOSSAS.',
+      texto:'ENTÃO, SÓ A GENTE, QUE TEM A CHAVE, CONSEGUE ABRIR A CAIXA QUE GUARDA NOSSAS COISAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img10.webp',
@@ -2101,7 +2101,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img14.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
+      textoImpressoRecriado:'NÃO DEIXE O CELULAR OU TABLET DESBLOQUEADOS.',
       promptImagem:'crie uma imagem colorida de uma senhora guardiã de chaves, com muitas chaves no cinto e laptops, tablets e celulares bloqueados, flutuando',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',

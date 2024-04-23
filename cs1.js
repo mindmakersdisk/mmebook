@@ -1532,7 +1532,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ENTÃO, SÓ A GENTE CONSEGUE ABRIR UMA CAIXA QUE TEM COISAS QUE SÃO NOSSAS.',
+      texto:'ENTÃO, SÓ A GENTE, QUE TEM A CHAVE, CONSEGUE ABRIR A CAIXA QUE GUARDA NOSSAS COISAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img6new.webp',
@@ -1615,7 +1615,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img14.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'NÃO DEIXE SEUS DISPOSITIVOS DESBLOQUEADOS.',
+      textoImpressoRecriado:'NÃO DEIXE O CELULAR OU TABLET DESBLOQUEADOS.',
       promptImagem:'arte digital colorida de um detentor de chaves em um mundo digital. Este personagem tem grandes chaves penduradas em um cinto. Ele está ao lado de diversos dispositivos como tablets, smartphones e computadores, todos trancados com pequenos cadeados brilhantes..', /*pode ser uma variação do que já foi usado anteriormente*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
