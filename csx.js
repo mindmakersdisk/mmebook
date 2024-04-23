@@ -1668,9 +1668,9 @@ let livro_csx ={
     unidade3:{
 	  
       titulo:'Dados Digitais',
-      descricao:`Nesta unidade, após aprendermos sobre as portas lógicas - as "expressões condicionais" dos circuitos eletrônicos, adentraremos no fantástico mundo dos dados digitais. Entenderemos a diferença entre dados e informações, o que são estruturas de dados tais como listas e matrizes, e como elas são úteis na solução de variados problemas da vida moderna. 
+      descricao:`Nesta unidade, após aprender sobre portas lógicas, as expressões condicionais dos circuitos eletrônicos, embarcaremos no fantástico mundo dos dados digitais. Entenderemos a diferença entre dados e informações, o que são estruturas de dados e como as listas e matrizes são úteis na solução de variados problemas computacionais. 
       
-      Mergulhando mais à fundo, conheceremos o sistema binário: o formato de dados "interno" dos computadores, entendendo como ele utiliza apenas dois dígitos 0 (zero) e 1 (um) para armazenar e processar os mais diferentes tipos de informação que produzimos e consumimos no mundo digital, começando por textos e números.`,
+      Mergulhando mais a fundo nos dados digitais, vamos aprender sobre sistema binário: o código interno dos computadores. Ele nos explica como os computadores conseguem armazenar e processar textos, números, sons, imagens e vídeos em formato digital, utilizando apenas os dígitos 0 (zero) e 1 (um).`,
       
       licao15:{},
   
@@ -1899,7 +1899,7 @@ let livro_csx ={
   
             {ordem:7,
             predecessor:6,
-            texto:'Temos ainda dados do tipo "imagem", representados visualmente como uma ilustração, gráfico ou fotografia,  dados do tipo "alfabético", que contém apenas letras do alfabeto, e muitos outros tipos!',
+            texto:'Temos ainda dados do tipo "imagem", que podem conter uma ilustração, gráfico ou fotografia; dados do tipo "alfabético", que podem conter apenas letras do alfabeto; e de muitos outros tipos!',
             urlAudioTexto:'',
             textoSimplificado:'TODO',
             textoImpresso:1,
@@ -2210,7 +2210,7 @@ let livro_csx ={
           textoSimplificado:'tabela de valores posicionais',
           textoImpresso:1,
           imagemImpresso:1,
-          textoImpressoRecriado:'Vamos agora entender como os computadores usam o sistema binário para armazenar e processar números. Usamos o <b>sistema decimal</b> para processar números em nosso cotidiano. Esse sistema, como o nome sugere, utiliza dez dígitos (de 0 a 9) e, com base neles, define um sistema capaz de representar qualquer valor numérico. Por exemplo: define que cada posição à esquerda de um dígito vale dez vezes mais que a posição à sua direita.',
+          textoImpressoRecriado:'Vamos desvendar agora como os computadores representam números. Nós, seres humanos, preferimos o sistema decimal, que conta com dez símbolos, do zero ao nove. No sistema decimal, cada posição à esquerda de um dígito tem um valor dez vezes maior que a posição imediatamente à sua direita.',
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_3.png',
           promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
           imagemFonte:'stablecog',
@@ -2274,7 +2274,7 @@ let livro_csx ={
           textoSimplificado:'Exemplos de números em binário',
           textoImpresso:1,
           imagemImpresso:1,
-          textoImpressoRecriado:'Para representar quantidades maiores que 3 no sistema binário, acrescentaoms mais 0s ou 1s à esquerda, lembrando sempre que cada nova posição vale o dobro da anterior.',
+          textoImpressoRecriado:'Para representar quantidades superiores a 3, o sistema binário adiciona mais bits à esquerda, e cada nova posição representa o dobro do valor da posição anterior.',
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_8.png',
           promptImagem:'Quadro negro com escrita de diversos valores em binário, como 16, 42, 120 e 1024.', 
           imagemFonte:'craiyon',
@@ -2283,7 +2283,7 @@ let livro_csx ={
   
           {ordem:9,
           predecessor:8,
-          texto:'E os computadores vão muito além das letras e números: o sistema binário é a base do mundo digital, utilizado para representar tudo o que você vê na internet e nos computadores.',
+          texto:'E os dados digitais vão muito além das letras e números: o sistema binário nos permite representar tudo o que vemos na internet e usamos nos computadores.',
           urlAudioTexto:'',
           textoSimplificado:'Armazenamento computacional de vídeos, sons e imagens.',
           textoImpresso:1,
