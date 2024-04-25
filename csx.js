@@ -53,7 +53,7 @@ let livro_csx ={
 	  titulo:'Fundamentos de Programação',
 	  descricao:`Nesta unidade, aprenderemos formalmente sobre o computador e os dispositivos computacionais, dando nossos primeiros passos em programação. 
 
-	  Aprenderemos a criar algoritmos com laços, eventos, expressões lógicas e condicionais para solucionar problemas e exercitar nosso pensamento crítico, analítico e computacional.`,
+	  Aprenderemos a criar algoritmos com laços, eventos, expressões lógicas e condicionais para solucionar problemas e exercitar o pensamento crítico, analítico e computacional.`,
 	  licao1:{
 		  id:'CSXAULA01CODE',
 		  /** padroesCurriculares: 
@@ -66,7 +66,7 @@ let livro_csx ={
 			cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Hoje, descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
+        texto:'Descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
         textoSimplificado:'Primeiros passos',
         textoImpresso:1,
@@ -93,7 +93,7 @@ let livro_csx ={
         texto:'...aprendendo a resolver problemas do mundo moderno enquanto nos divertimos trabalhando em equipe.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_3.mp3',
         textoSimplificado:'Resolução de problemas',
-        textoImpressoRecriado:'Aprenderemos a criar videogames, robôs e outras invenções computacionais que desejarmos, aprendendo a resolver problemas do mundo moderno enquanto nos divertimos trabalhando em equipe.',
+        textoImpressoRecriado:'Aprenderemos a criar videogames, robôs e outras invenções computacionais para resolver problemas do mundo moderno enquanto nos divertimos trabalhando em equipe.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_3_new.jpg',
         promptImagem:'Digital art of a cozy room: a lively group of teenagers laughing, sharing moments both among themselves and engrossed in their colorful screens of laptops and tablets. The room blends the warmth of camaraderie with bright, playful hues from their devices, seamlessly merging tech fun with friendship.',
         imagemFonte:'bing',
@@ -106,7 +106,7 @@ let livro_csx ={
         textoSimplificado:'Começo do uso da tecnologia',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Você já deve ter tocado na tela de um celular e visto alguém digitando no teclado de um computador de mesa...',
+        textoImpressoRecriado:'Mas antes, vamos conhecer o computador. Você já deve ter tocado na tela de um celular e visto alguém digitando no teclado de um computador de mesa...',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img4.jpeg',
         promptImagem:'Digital art of a cute baby girl sitting on the floor, reaching out towards a big, colorful laptop that is fully visible in front of her. The baby curiosity and fascination with technology are clearly displayed in the scene', 
         imagemFonte:'ideogram',
@@ -159,7 +159,7 @@ let livro_csx ={
         textoSimplificado:'Mouse',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Se prestou atenção no computador, deve ter notado que ele tem quatro partes principais: A torre, ou CPU, que contém o cérebro do computador, também chamado de unidade de processamento. O teclado, no qual digitamos letras, números e símbolos que os programas de computador entendem. O monitor, que é a tela do computador. E o mouse, com o qual podemos abrir diferentes programas, clicando nas pequenas imagens e botões que aparecem na tela.',
+        textoImpressoRecriado:'Se prestou atenção, deve ter notado que ele tem quatro partes principais: A torre, ou CPU, que contém o cérebro do computador, também chamado de unidade de processamento. O teclado, no qual digitamos letras, números e símbolos que os programas de computador entendem. O monitor, que é a tela do computador. E o mouse, com o qual podemos abrir diferentes programas, clicando nas pequenas imagens e botões que aparecem na tela.',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_10.png',
         promptImagem:'Desktop computer highlighting each of its parts in a green bachground, digital art', 
         imagemFonte:'ilustrador',
@@ -217,7 +217,7 @@ let livro_csx ={
         textoSimplificado:'Futuro',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Não os vemos, mas esses computadores embutidos tornam os aparelhos mais inteligentes e capazes de nos ajudar no dia a dia. Com o passar do tempo, encontramos mais e mais desses microcomputadores em roupas, móveis, sapatos... enfim, em todas as coisas!',
+        textoImpressoRecriado:'Não os vemos, mas esses computadores embutidos tornam os aparelhos mais inteligentes e capazes de nos ajudar no dia a dia. Com o passar do tempo, encontramos mais e mais desses microcomputadores em roupas, móveis, sapatos...',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img14.jpg',
         promptImagem:'Digital art of a futuristic outfit with a pair of shoes, all glowing with digital elements. Tech icons representing sensors, connectivity modules, and microchips are embedded in the fabric and the shoes, suggesting advanced wearable technology integrated into everyday clothing and footwear', 
         imagemFonte:'dall-e 3',
@@ -379,7 +379,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os laços são comandos que nos permitem instruir o computador a executar repetidamente comandos ou grupo de comandos, sem precisar repeti-los no algoritmo.',
+        texto:'Os laços são comandos que nos permitem instruir o computador a executar um comando várias vezes, sem precisar repeti-los no algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Laço',
         textoImpresso:1,
@@ -560,7 +560,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'O <b>condutor</b> é o meio pelo qual a energia é transmitida em um circuito. Os fios ou cablos são os exemplos mais comuns de condutores.',
+        texto:'O <b>condutor</b> é o meio pelo qual a energia é transmitida em um circuito. Os fios e cabos são os exemplos mais comuns de condutores.',
         urlAudioTexto:'',
         textoSimplificado:'Condutor',
 	      textoImpresso:1,
@@ -572,7 +572,7 @@ let livro_csx ={
 
         {ordem:8,
         predecessor:7,
-        texto:'E, por fim, os <b>aparelhos</b> elétricos, como lâmpadas, ventiladores e eletrodomésticos, são a razão de existir do circuito.',
+        texto:'E, por fim, os <b>aparelhos</b> elétricos, como lâmpadas, ventiladores e eletrodomésticos. Eles são a razão de existir do circuito.',
         urlAudioTexto:'',
         textoSimplificado:'Aparelhos que utilizam energia',
 	      textoImpresso:1,
@@ -599,7 +599,7 @@ let livro_csx ={
         textoSimplificado:'Dispositivos de controle',
         textoImpresso:1,
         imagemImpresso:1,
-        textoImpressoRecriado:'Além do <b>gerador</b>, do <b>condutor</b> e do <b>aparelho</b>, é comum que os circuitos elétricos também possuam <b>controladores</b> de energia, como os botões de ligar e desligar. Como o nome sugere, esses componentes nos permitem controlar a quantidade de eletricidade que chega aos aparelhos, sem precisarmos conectar e desconectar fios.', 
+        textoImpressoRecriado:'Além do <b>gerador</b>, do <b>condutor</b> e do <b>aparelho</b>, é comum que os circuitos elétricos também possuam <b>controladores</b> de energia, como os botões de ligar e desligar. Como o nome sugere, esses componentes nos permitem controlar a quantidade de eletricidade que chega ao aparelho, sem precisarmos conectar e desconectar fios.', 
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CircElet/img10.webp',
         promptImagem:'Foto de um arranha-céu espelhado impressionante, com ícones flutuantes de IoT - termostato, iluminação, segurança, elevadores - para ilustrar como a tecnologia controla o funcionamento do edifício. Cada ícone é conectado ao edifício por linhas de luz digital',  
         imagemFonte:'dall-e 3',
@@ -682,7 +682,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Todos conhecemos os robôs dos filmes e jogos: alguns se movem com rodas ou esteiras, outros possuem formas humanóides, que lembram a nossa e muitos são bem exóticos, feitos mesmo para serem engraçados... mas como esses robôs se comparam aos robôs reais?',
+        texto:'Todos conhecemos os robôs dos filmes e jogos: alguns se movem com rodas ou esteiras, outros possuem formas humanóides, que lembram a nossa, e muitos são bem exóticos, feitos mesmo para serem engraçados... mas como esses robôs se comparam aos robôs reais?',
         urlAudioTexto:'',
         textoSimplificado:'Robôs',
         textoImpresso:1,
@@ -706,7 +706,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Os robôs atuais usam computadores como o cérebro-controlador de seus movimentos. Por isso, para modificá-los, basta alterar seus programas.',
+        texto:'Os robôs atuais usam computadores como o cérebro, para controlar seus movimentos. Por isso, para modificá-los, basta alterar seus programas.',
         urlAudioTexto:'',
         textoSimplificado:'Robôs de hoje',
         textoImpresso:1,
@@ -1349,7 +1349,7 @@ let livro_csx ={
           textoSimplificado:'Jogos com excelente gameplay',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img5.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/CriVidGames/img5.webp',
           promptImagem:'Foto de pessoas em uma fila, aguardando a abertura da loja para comprar um jogo na data de seu lançamento mundial.', 
           imagemFonte:'dall-e 3',
           textoDescritivoImagem:'TODO.', },
@@ -1963,7 +1963,7 @@ let livro_csx ={
     
             {ordem:12,
             predecessor:11,
-            texto:'Assim como as refinarias nos permitem produzir gasolina e produtos úteis a partir do petróleo bruto, as linguagens de programação nos permitem transformar dados brutos e transformá-los em informação, um dos bens mais preciosos de nossa era.',
+            texto:'Assim como as refinarias nos permitem produzir gasolina e produtos úteis a partir do petróleo bruto, as linguagens de programação nos permitem processar dados brutos e transformá-los em informação, um dos bens mais preciosos de nossa era.',
             urlAudioTexto:'',
             textoSimplificado:'TODO',
             textoImpresso:1,
@@ -2245,19 +2245,6 @@ let livro_csx ={
   
           {ordem:6,
           predecessor:5,
-          texto:'O sistema binário é como um "código secreto" - aqueles que o dominam foram capazes conceber os computadores no passado, e de se comunicar de uma maneira indecifrável para os não iniciados.',
-          urlAudioTexto:'',
-          textoSimplificado:'Código secreto',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_6.jpg',
-          promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
-          imagemFonte:'bing',
-          imagemArremate:1,
-          textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
-  
-          {ordem:7,
-          predecessor:6,
           texto:'Para representar quantidades maiores que 3 no sistema binário, acrescentaoms mais 0s ou 1s à esquerda, lembrando sempre que cada nova posição vale o dobro da anterior.',
           urlAudioTexto:'',
           textoSimplificado:'Representação de sistema binário',
@@ -2267,8 +2254,8 @@ let livro_csx ={
           imagemArremate:1,
           textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito um dado em código binário do tamanho de um byte _ ou seja, um código binário composto por oito casas de valores binários. Abaixo do código binário, há os números 0, 1, 2, 4 e 8, escritos da direita para a esquerda, para indicar o valor, em sistema decimal, de cada uma das casas do byte.', },
   
-          {ordem:8,
-          predecessor:7,          
+          {ordem:7,
+          predecessor:6,          
           texto:'Por isso, reforçando: números no sistema binário podem se tornar muito grandes, mas é possível representar qualquer número com ele.',
           urlAudioTexto:'',
           textoSimplificado:'Exemplos de números em binário',
@@ -2281,8 +2268,8 @@ let livro_csx ={
           imagemArremate:1,
           textoDescritivoImagem:'Imagem de um quadro negtro, em que foi escrito diversos números em sistema binário, como 16, 42, 120 e 1024.', },
   
-          {ordem:9,
-          predecessor:8,
+          {ordem:8,
+          predecessor:7,
           texto:'E os dados digitais vão muito além das letras e números: o sistema binário nos permite representar tudo o que vemos na internet e usamos nos computadores.',
           urlAudioTexto:'',
           textoSimplificado:'Armazenamento computacional de vídeos, sons e imagens.',
@@ -2293,6 +2280,20 @@ let livro_csx ={
           imagemFonte:'dall-e 3',
           imagemArremate:1,
           textoDescritivoImagem:'Imagem de uma televisão, reproduzindo um vídeo.Imagem de um tablet, exibindo a curva de um som musical.E imagem um monitor, exibindo uma imagem em 3d digital.', },
+
+          {ordem:9,
+          predecessor:8,
+          texto:'O sistema binário é como um "código secreto" - aqueles que o dominam foram capazes conceber os computadores no passado, e de se comunicar de uma maneira indecifrável para os não iniciados.',
+          urlAudioTexto:'',
+          textoSimplificado:'Código secreto',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_6.jpg',
+          promptImagem:'Draw a letter envelope with a stamp representing secret content.', //'Envelope de carta com selo de conteúdo secreto', 
+          imagemFonte:'bing',
+          imagemArremate:1,
+          textoDescritivoImagem:'Imagem de envelope de carta com selo de conteúdo secreto, escrito, de fora a fora, com codigos binários, com "zeros" e "uns".', },
+    
         ]}},
   
       
@@ -2332,7 +2333,7 @@ let livro_csx ={
   
           {ordem:3,
           predecessor:2,
-          texto:'Um arquivos de música digital com 3 minutos em qualidade de 16 bits pode ocupar dezenas de milhões de bytes, como 30MB, o que significa centenas de milhões de dígitos binários 0 ou 1, também chamados de bits.',
+          texto:'Um arquivo de música digital com 3 minutos em qualidade de 16 bits pode ocupar dezenas de milhões de bytes, como 30MB, o que significa centenas de milhões de dígitos binários 0 ou 1, também chamados de bits.',
           urlAudioTexto:'',
           textoSimplificado:'Tamanho em formato digital de uma música de 3 minutos duração',
           textoImpresso:1,
@@ -2418,7 +2419,7 @@ let livro_csx ={
   
           {ordem:10,
           predecessor:9,
-          texto:'Em um algoritmo de compressão sem perda, este arquivo poderia usar números para substituir os textos repetidos, reduzindo o tamanho do arquivo. O segredo está em detectar padrões repetitivos que ocupam mais espaço e substituí-los para minimizar o arquivo ao menor tamanho possível.',
+          texto:'Já em um algoritmo de compressão sem perda, este arquivo poderia usar números para substituir os textos repetidos, reduzindo o tamanho do arquivo. O segredo está em detectar padrões repetitivos que ocupam mais espaço e substituí-los para minimizar o arquivo ao menor tamanho possível.',
           urlAudioTexto:'',
           textoSimplificado:'Sumário do resultado para 30 questões de uma prova de múltipla escolha',
           textoImpresso:1,
@@ -2437,7 +2438,7 @@ let livro_csx ={
       titulo:'Computação Segura e Criativa',
 descricao:`Nesta unidade, vamos refletir sobre ética, responsabilidade, privacidade e segurança na era digital, aprendendo a utilizar a computação para impactar a sociedade positivamente, e de uma maneira responsável. 
 
-Em seguida, aprofundaremos em possibilidades criativas, conhecendo os pixels e as cores RGB, fundamentais para a compreensão das imagens digitais, e o Story Lab, um divertido laboratório de programação que nos permite contar  histórias de modo criativo e divertido.`,
+Em seguida, aprofundaremos em possibilidades criativas, conhecendo os pixels e as cores RGB, fundamentais para a compreensão das imagens digitais... além do Story Lab, um divertido laboratório de programação que nos permite contar  histórias de modo criativo e divertido.`,
 licao22:{
 id:'CSXAULA22CODE',
 /** padroesCurriculares: 
@@ -2739,9 +2740,9 @@ cenas:[
   textoSimplificado:'Cores Primárias',
   textoImpresso:1,
   imagemImpresso:1,
-  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img_5.jpeg',
+  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img5.webp',
   promptImagem:'',
-  imagemFonte:'ideogram',
+  imagemFonte:'dall-e 3',
   textoDescritivoImagem:'Três tubos de tinta, sendo o primeiro tubo com tinta azul, o segundo com tinta verde e o último tubo com tinta vermelha.', },
 
   {ordem:6,
@@ -2751,7 +2752,7 @@ cenas:[
   textoSimplificado:'Sistema RGB',
   textoImpresso:1,
   imagemImpresso:1,
-  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img6.jpg',
+  urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PixlCores/img6.webp',
   promptImagem:'Create a pixel art of an open laptop screen displaying the RGB color model, with distinct sections showcasing the primary colors: Red, Green, and Blue', 
   imagemFonte:'dall-e 3',
   textoDescritivoImagem:'Sistema RGB de cores.', },
@@ -2770,7 +2771,7 @@ cenas:[
 
   {ordem:8,
   predecessor:7,
-  texto:'Hoje sabemos que mesmo pessoas que não são daltônicas podem perceber uma mesma cor de maneira diferente. Faça o teste: como você vê este vestido, em branco e dourado ou em azul e preto?',
+  texto:'Hoje sabemos que mesmo pessoas que não são daltônicas podem perceber uma mesma cor de maneira diferente. Faça o teste: como você vê este vestido, em branco e dourado, ou em azul e preto?',
   urlAudioTexto:'',
   textoSimplificado:'Curiosidade',
   textoImpresso:1,
