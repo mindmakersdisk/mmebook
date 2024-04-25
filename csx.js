@@ -1094,7 +1094,7 @@ let livro_csx ={
         textoSimplificado:'Sensores Eletrônicos',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'https://storage.cloud.google.com/mindmakers/cpsciimageinf/CSX/Sensores/img3.png',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/Sensores/img3.png',
         promptImagem:'Sensores eletrônicos',
         imagemFonte:'dall-e 3',
         imagemArremate:1,
