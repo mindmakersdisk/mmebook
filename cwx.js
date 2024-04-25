@@ -1703,7 +1703,7 @@ let livro_cwx ={
           textoSimplificado:'Condicionais e expressões lógicas.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i16%20-%20Portas%20L%C3%B3gicas/Slide%202.webp',
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i16%20-%20Portas%20L%C3%B3gicas/slide%202.png',
           promptImagem:'Imagem de pessoa usando guarda chuva.',
           imagemFonte:'autoral',
           textoDescritivoImagem:'Imagem de ambiente externo, em um dia chuvoso, destacando uma pessoa que está utilizando um guarda-chuva.', },
