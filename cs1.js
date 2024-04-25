@@ -1832,7 +1832,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img1.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE "DEPURAÇÃO", OU "DEBUGGING", EM INGLÊS.',
+      textoImpressoRecriado:'HOJE VAMOS APRENDER SOBRE DEPURAÇÃO, OU DEBUG, EM INGLÊS.',
       promptImagem:'lupa de arte digital sobre um laptop', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1845,7 +1845,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img2.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'UM BUG, DO INGLÊS "BICHO", É UM PROBLEMA QUE ACONTECE.',
+      textoImpressoRecriado:'USAMOS BUG, QUE É "BICHO", EM INGLÊS, COMO APELIDO PARA ERROS EM PROGRAMAS.',
       promptImagem:'um bug robótico 3D andando sobre um laptop em um fundo futurista e colorido', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1910,7 +1910,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img7.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'DEPURAR É COMO SER DETETIVE, PARA ACHAR E CONSERTAR ERROS.',
+      textoImpressoRecriado:'DEBUG, OU DEPURAÇÃO, É O TRABALHO DE INVESTIGAÇÃO PARA DESCOBRIR ESSES ERROS.',
       promptImagem:'arte digital de um investigador procurando pistas no chão', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1923,7 +1923,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img8.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'E TAMBÉM É USADA NA PROGRAMAÇÃO DE COMPUTADORES.',
+      textoImpressoRecriado:'É MUITO DIFÍCIL FAZER UM PROGRAMA CERTO LOGO DA PRIMEIRA VEZ...',
       promptImagem:'arte digital de um computador com código flutuando em um fundo colorido', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1949,7 +1949,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img10.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'OS PROGRAMADORES USAM A DEPURAÇÃO PARA ENCONTRAR E CORRIGIR ESSES ERROS.',
+      textoImpressoRecriado:'POR ISSO OS PROGRAMADORES SÃO MUITO ACOSTUMADOS A USAR A DEPURAÇÃO.',
       promptImagem:'arte digital de depuração de computador', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1962,7 +1962,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img11.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'ELES EXAMINAM O CÓDIGO CUIDADOSAMENTE, TESTAM DIFERENTES PARTES E FAZEM ALTERAÇÕES ATÉ QUE TUDO FUNCIONE CORRETAMENTE.',
+      textoImpressoRecriado:'APÓS CRIAR SEU PROGRAMA, ELES  PROCURAM POR BUGS E OS CORRIGEM, ANTES MESMO DE EXECUTAR.',
       promptImagem:'digital art of pair programming in a colorful background', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1975,7 +1975,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Depura%C3%A7%C3%A3o/img12.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'A DEPURAÇÃO É UMA HABILIDADE IMPORTANTE QUE NOS AJUDA A RESOLVER PROBLEMAS E ENCONTRAR SOLUÇÕES.',
+      textoImpressoRecriado:'COM O HÁBITO DA DEPURAÇÃO, SEUS PROGRAMAS FUNCIONAM CORRETAMENTE E DE MODO MUITO MAIS RÁPIDO!',
       promptImagem:'arte digital de resolução de problemas em um fundo colorido', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
