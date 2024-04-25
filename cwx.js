@@ -107,7 +107,7 @@ let livro_cwx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Você já deve ter tocado na tela de um celular e visto alguém digitando no teclado de um computador de mesa...',
-        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i1%20-%20Computador%20e%20Dispositivos%20Computacionais/slide%205.webp',
+        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i1%20-%20Computador%20e%20Dispositivos%20Computacionais/slide%204.webp',
         promptImagem:'Digital art of a cute baby girl sitting on the floor, reaching out towards a big, colorful laptop that is fully visible in front of her. The baby curiosity and fascination with technology are clearly displayed in the scene', 
         imagemFonte:'ideogram',
         textoDescritivoImagem:'Bebê tentando digitar em um computador', },
