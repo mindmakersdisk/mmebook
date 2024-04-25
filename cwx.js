@@ -1588,7 +1588,7 @@ let livro_cwx ={
   
           {ordem:3,
           predecessor:2,
-          texto:'A <b>decomposição<b> dessas ideias se mostrou igualmente importante, quebrando em detalhes os variados aspectos imaginados para o jogo como personagens, cenários, regras, música e efeitos sonoros...',
+          texto:'A <b>decomposição</b> dessas ideias se mostrou igualmente importante, quebrando em detalhes os variados aspectos imaginados para o jogo como personagens, cenários, regras, música e efeitos sonoros...',
           urlAudioTexto:'',
           textoSimplificado:'Planejamento de um jogo.',
           textoImpresso:1,
