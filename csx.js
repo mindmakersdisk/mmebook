@@ -694,7 +694,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Vamos começar entendendo a origem dos robôs: os <b>autômatos</b>. Inventados há alguns séculos atrás, os autômatos são bonecos com mecanismos que produzem movimentos parecidos com os nossos e até parecem agir por vontade própria. Mas para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco... ainda assim, os autômatos são considerados um tipo primitivo de robô.',
+        texto:'Vamos começar entendendo a origem dos robôs: os <b>autômatos</b>. Inventados a alguns séculos atrás, os autômatos são bonecos com mecanismos que produzem movimentos parecidos com os nossos e até parecem agir por vontade própria. Mas para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco... ainda assim, os autômatos são considerados um tipo primitivo de robô.',
         urlAudioTexto:'',
         textoSimplificado:'Autômatos',
         textoImpresso:1,
