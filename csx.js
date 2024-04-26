@@ -66,7 +66,7 @@ let livro_csx ={
 			cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
+        texto:'Neste curso, descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
         textoSimplificado:'Primeiros passos',
         textoImpresso:1,
@@ -241,7 +241,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Mas então, o que é realmente um computador? Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros e até mesmo controlar carros, robôs ou cidades. E o mais incrivel é que vamos aprender como isso é possível, neste curso!',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img16%2C.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img16.webp',
         promptImagem:'Digital art of a joyful black girl sitting at her computer, a broad smile on her face as she is programming. Bright, colorful lines of code are displayed on the screen, reflecting in her wide, enthusiastic eyes. The scene exudes positivity, creativity, and the powerful potential of coding', 
         imagemFonte:'dall-e 3',
         textoDescritivoImagem:'Laptop com uma mão em segundo plano, dando a entender que a pessoa está programando', },
@@ -283,7 +283,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Por exemplo, algumas pessoas criam algoritmos com imagens. Dizemos que as imagens são a linguagem do algoritmo.',
+        texto:'Por exemplo, algumas pessoas criam algoritmos com imagens. Neste caso, dizemos que as imagens são a linguagem do algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com imagens',
         textoImpresso:1,
@@ -295,7 +295,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Outras usam diagramas com formas geométricas com conexões e textos explicativos.',
+        texto:'Outras usam diagramas como linguagem algorítmica, compostos por figuras geométricas, textos e conexões...',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com Diagramas',
         textoImpresso:1,
@@ -379,7 +379,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os laços são comandos que nos permitem instruir o computador a executar um comando várias vezes, sem precisar repeti-los no algoritmo.',
+        texto:'Os laços são comandos que nos permitem instruir o computador a executar um comando ou grupo de comandos várias vezes, sem precisar repeti-los no algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Laço',
         textoImpresso:1,
@@ -391,7 +391,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Os laços são poderosos porque evitam a repetição de comandos. Com um pequeno algoritmo ou programa, fazemos coisas impressionantes.',
+        texto:'Os laços são poderosos porque reduzem o número de comandos e o tamanho dos algoritmos e programas. Fazemos mais, com menor esforço.',
         urlAudioTexto:'',
         textoSimplificado:'Laços são poderosos',
         textoImpresso:1,
@@ -754,7 +754,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Gostou? Para controlarmos nosso primeiro robô, o primeiro passo é aprender sua linguagem de programação, ou seja, os comandos de programação que controlam seus movimentos.',
+        texto:'Gostou? Para controlar um robô, o primeiro passo é aprender sua linguagem de programação, ou seja, os comandos de programação que controlam seus movimentos.',
         urlAudioTexto:'',
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
@@ -792,7 +792,7 @@ let livro_csx ={
 			cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Já percebeu quantas decisões nós tomamos em um dia comum de nossas vidas? Uso a camiseta branca ou preta? Estudo antes ou depois de ver o filme? Vou jogar vôlei ou futebol hoje? Acabamos decidindo com base em certas condições, que podemos também expressar em algoritmos. Por exemplo: <p><code><b>se</b> estiver chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são as condicionantes.',
+        texto:'Já percebeu quantas decisões nós tomamos em um dia comum de nossas vidas? Uso a camiseta branca ou preta? Estudo antes ou depois de ver o filme? Vou jogar vôlei ou futebol hoje? Acabamos decidindo com base em certas condições, que podemos também expressar em algoritmos. Por exemplo: <p><code><b>se</b> estiver chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são as condicionais.',
         urlAudioTexto:'',
         textoSimplificado:'Expressões Condicionais',
         textoImpresso:1,
@@ -968,7 +968,7 @@ let livro_csx ={
     titulo:'Programação Orientada a Eventos',
 	  descricao:`Nesta unidade, aprenderemos programação orientada a eventos, compreendendo o conceito de eventos no mundo físico e sua importância no mundo digital, no ciclo de vida dos programas. 
 	  
-	  Avançaremos para a linguagem de programação Scratch, conhecendo seu ambiente de programação altamente flexível, interativo e orientado a eventos. O Scratch nos permite criar e programar nossas próprias histórias, jogos e animações. Por fim, para conseguirmos produzir nossos próprios personagens e elementos com autonomia, conheceremos a história das animações e algumas técnicas básicas para captura e edição de imagens.`,
+	  Avançaremos para a linguagem de programação Scratch, conhecendo seu ambiente de programação altamente flexível, interativo e orientado a eventos. O Scratch nos permite criar e programar nossas próprias histórias, jogos e animações. Por fim, para conseguirmos produzir personagens e elementos com autonomia, conheceremos a história das animações e algumas técnicas básicas para captura e edição de imagens.`,
     licao8:{
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
@@ -981,7 +981,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados, que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em um horário determinado, por exemplo.',
+        texto:'Em nosso dia a dia, damos o nome de evento a acontecimentos externos importantes, recorrentes ou inesperados.',
         urlAudioTexto:'',
         textoSimplificado:'Eventos',
         textoImpresso:1,
@@ -1041,7 +1041,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Os dispositivos móveis também contam com sensores capazes de gerar eventos independentes do usuário, mas que podem ser aproveitados por programadores experientes. Por exemplo, ao detectar a temperatura elevada de um aparelho, um programa pode enviar um alerta para que o usuário tome medidas para resfriá-lo.',
+        texto:'Os dispositivos móveis também contam com sensores capazes de gerar eventos independentes do usuário, mas que podem ser aproveitados por programadores experientes. Por exemplo, ao detectar a temperatura elevada de um aparelho, um programa pode enviar um alerta para o usuário.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores',
         textoImpresso:1,
@@ -1404,7 +1404,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Nossas primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à Pré-história, época em que nós, humanos, vivíamos em cavernas.',
+        texto:'Nossas primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à pré-história, época em que nós, humanos, vivíamos em cavernas.',
         urlAudioTexto:'',
         textoSimplificado:'Primórdios das Animações',
         textoImpresso:1,
@@ -1704,7 +1704,7 @@ let livro_csx ={
           textoSimplificado:'Condicionais e expressões lógicas.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i16%20-%20Portas%20L%C3%B3gicas/slide%202.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img2.png',
           promptImagem:'Imagem de pessoa usando guarda chuva.',
           imagemFonte:'autoral',
           textoDescritivoImagem:'Imagem de ambiente externo, em um dia chuvoso, destacando uma pessoa que está utilizando um guarda-chuva.', },
@@ -2046,7 +2046,7 @@ let livro_csx ={
             imagemFonte:'autoral',
             textoDescritivoImagem:'TODO.', },
     
-            {ordem:6,
+            /*{ordem:6,
             predecessor:5,
             texto:'Mas suponha que, em nosso calendário, desejamos armazenar não apenas um texto por dia, mas também informações sobre o clima, compromissos e aniversários. Para isso servem os registros.',
             urlAudioTexto:'',
@@ -2056,10 +2056,10 @@ let livro_csx ={
             urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img6.jpeg',
             promptImagem:'Imagem de uma calendário mensal, poluido, em que cada dia contém dados diversos além do seu número e dia da semana, como temperatura, agenda do usuário, data de aniversário de conhecidos.', 
             imagemFonte:'ideogram',
-            textoDescritivoImagem:'TODO.', },
+            textoDescritivoImagem:'TODO.', },*/
   
-            {ordem:7,
-            predecessor:6,
+            {ordem:6,
+            predecessor:5,
             texto:'Combinando listas e matrizes, temos a capacidade de criar sistemas de informação robustos.',
             urlAudioTexto:'',
             textoSimplificado:'TODO',
@@ -2070,8 +2070,8 @@ let livro_csx ={
             imagemFonte:'ideogram',
             textoDescritivoImagem:'TODO.', },
     
-            {ordem:8,
-            predecessor:7,
+            {ordem:7,
+            predecessor:6,
             texto:'Preparado para esse grande passo? Com listas e matrizes você estará pronto para explorar <b>o petróleo do século XXI</b>!',
             urlAudioTexto:'',
             textoSimplificado:'TODO',
@@ -2210,7 +2210,7 @@ let livro_csx ={
           textoSimplificado:'tabela de valores posicionais',
           textoImpresso:1,
           imagemImpresso:1,
-          textoImpressoRecriado:'Vamos desvendar agora como os computadores representam números. Nós, seres humanos, preferimos o sistema decimal, que conta com dez símbolos, do zero ao nove. No sistema decimal, cada posição à esquerda de um dígito tem um valor dez vezes maior que a posição imediatamente à sua direita.',
+          textoImpressoRecriado:'Vamos agora entender como eles usam o sistema binário para armazenar e processar números: Usamos o sistema decimal para processar números em nosso cotidiano. Esse sistema, como o nome sugere, utiliza dez dígitos (de 0 a 9) e, com base neles, define um sistema capaz de representar qualquer valor numérico. Por exemplo: define que cada posição à esquerda de um dígito vale dez vezes mais que a posição à sua direita.',
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_3.png',
           promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
           imagemFonte:'stablecog',
@@ -2628,7 +2628,7 @@ cenas:[
   textoSimplificado:'Candidato reprovado em entrevista de emprego',
   textoImpresso:1,
   imagemImpresso:1,
-  textoImpressoRecriado:'Com o tempo, nossas pegadas digitais acumuladas podem acabar usadas por algoritmos maliciosos, ou que formam uma imagem equivocada de quem somos. O problema ocorre quando alguma empresa utiliza essa falsa imagem e toma decisões importantes que nos afetam, com base nela. À vezes os culpados somos nós mesmos: um vídeo que parecia apenas engraçado de compartilhar há muitos anos atrás, pode hoje ser inapropriado e nos impedir de conseguir uma vaga em escola ou um emprego.',
+  textoImpressoRecriado:'Com o tempo, nossas pegadas digitais acumuladas podem acabar usadas por algoritmos maliciosos, ou que formam uma imagem equivocada de quem somos. O problema ocorre quando alguma empresa utiliza essa falsa imagem e toma decisões importantes que nos afetam, com base nela. E ás vezes os culpados somos nós mesmos: um vídeo que parecia apenas engraçado de compartilhar há muitos anos atrás, pode hoje ser inapropriado e nos impedir de conseguir uma vaga em escola ou um emprego.',
   urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img7.jpg',
   promptImagem:'Create a 2D illustration with a 3D perspective, using shades of blue and purple, targeting an audience aged 12 to 14. The image should depict a recruiter sitting in a chair, facing a computer. The recruiter is reviewing the content of a video posted on a social media platform by one of the job applicants. In the recruiters right hand, they hold the candidates resume, which has been stamped in red with the word "rejected".', //'Ilustração em 3D de um recrutador, assentado em uma cadeira, de frente para um computador, verificando um vídeo postado em uma rede social pelo candidato a uma vaga de emprego. O candidato está localizado à frente do computador, mais ao fundo da imagem, e veste uma roupa social. Na mão direita, o recrutador segura o currículo do candidato, que possui um grande carimbo vermelho com a palavra "reprovado".', 
   imagemFonte:'dall-e 3',
@@ -2723,7 +2723,7 @@ cenas:[
 
   {ordem:4,
   predecessor:3,
-  texto:'Além dos pixels, para manipular imagens e gráficos digitais, é também essencial entender as cores. James Clerk Maxwell, precursor da fotografia colorida, viveu no século XIX, antes mesmo da invenção da televisão e do cinema.',
+  texto:'Além dos pixels, para manipular imagens e gráficos digitais, é importante entender as cores. Vejamos um pouco de sua história: James Clerk Maxwell, precursor da fotografia colorida, viveu no século XIX, antes mesmo da invenção da televisão e do cinema.',
   urlAudioTexto:'',
   textoSimplificado:'Cores',
   textoImpresso:1,
@@ -2801,7 +2801,7 @@ cenas:[
   textoImpresso:1,
   imagemImpresso:1,
   urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img1.webp',
-  promptImagem:'image of a little boy reading a book and being swept away into the magical world of reading', 
+  promptImagem:'image of a teenage boy reading a book and being swept away into the magical world of reading', 
   imagemFonte:'dall-e 3', 
   textoDescritivoImagem:'TODO.', },
 
@@ -2813,7 +2813,7 @@ cenas:[
   textoImpresso:1,
   imagemImpresso:1,
   urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img2.webp',
-  promptImagem:'tropical vector illustration of a cute adventure of a trastronaut, compositions inspired by space, dark and moody landscapes, rounded space landscapes, 3d render', 
+  promptImagem:'tropical vector illustration of a cute adventure of an astronaut, compositions inspired by space, dark and moody landscapes, rounded space landscapes, 3d render', 
   imagemFonte:'dall-e 3',
   textoDescritivoImagem:'TODO.', },
 
@@ -3206,7 +3206,7 @@ cenas:[
 
   {ordem:2,
   predecessor:1,
-  texto:'Por exemplo, o nascer do sol ou um horário definido no despertador iniciam sua rotina diária de acordar, tomar banho, tomar café...',
+  texto:'Por exemplo, o nascer do sol ou um horário definido no despertador iniciam nossa rotina diária de acordar, tomar banho, café...',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
@@ -3228,7 +3228,7 @@ cenas:[
 
   {ordem:4,
   predecessor:3,
-  texto:'Por isso, devido à sua importância, simular esses eventos naturais no mundo computacional é muito útil!',
+  texto:'Por isso, devido à sua importância, simular esses eventos naturais no mundo computacional é muito útil.',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
@@ -3240,7 +3240,7 @@ cenas:[
 
   {ordem:5,
   predecessor:4,
-  texto:'No mundo dos jogos e animações, podemos programar personagens para reagir a mudanças simuladas das estações ou do clima; ou para executarem uma determinada rotina, todos os domingos. Esse mesmo tipo de simulação também poderia ser usada para testar se um novo sistema de irrigação reage corretamente à mudança de clima, antes de ser instalado.',
+  texto:'No mundo dos jogos e animações, podemos programar personagens para reagir a mudanças simuladas das estações ou do clima; ou para executarem uma determinada rotina, todos os domingos. Esse mesmo tipo de simulação também pode ser usada para testar se um novo sistema de irrigação reage corretamente à mudança de clima, antes de ser instalado.',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
@@ -3347,7 +3347,7 @@ cenas:[
 
   {ordem:14,
   predecessor:13,
-  texto:'Agora é sua vez de criar animações sazonais que reagem a eventos naturais!',
+  texto:'Agora é sua vez de criar animações que reagem a eventos naturais!',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
