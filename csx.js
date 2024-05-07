@@ -1190,15 +1190,15 @@ let livro_csx ={
       id:'CSXAULA10CODE',
       /** padroesCurriculares: 
       titulo:'Lição 10. Sensores e Eventos.',**/
-      infografico:{titulo:'TODO Sensores e Eventos',
-      tituloSimplificado:'Eventos com Sensores',
+      infografico:{titulo:'REVISAR Explorando Sensores e Eventos em Computação',
+      tituloSimplificado:'Sensores e Eventos',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
       urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'',
+        texto:'Hoje, vamos aprofundar nossos conhecimentos sobre sensores e eventos computacionais, entendendo como dispositivos e robôs podem ser programados para responder a diferentes estímulos do ambiente.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1211,7 +1211,7 @@ let livro_csx ={
         
         {ordem:2,
         predecessor:1,
-        texto:'',
+        texto:`Sensores agem como extensões dos dispositivos, permitindo que eles "sintam" o mundo ao redor. Essas percepções são convertidas em sinais eletrônicos que os dispositivos usam para tomar decisões e reagir.`,
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1224,7 +1224,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'',
+        texto:'Quando um sensor detecta uma mudança, ele desencadeia <b>eventos</b> — respostas programadas para situações específicas.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1237,7 +1237,7 @@ let livro_csx ={
         
         {ordem:4,
         predecessor:3,
-        texto:'',
+        texto:'Por exemplo, se um <b>sensor de luz</b> em um celular perceber que o ambiente está escuro, ele pode ajustar automaticamente o brilho da tela. Este é um evento disparado pelo sensor de luz.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1250,7 +1250,7 @@ let livro_csx ={
 
         {ordem:5,
         predecessor:4,
-        texto:'',
+        texto:'Da mesma forma, robôs educacionais equipados com <b>sensores segue-linha</b> detectam a presença e a direção de uma linha no chão. Quando detectam uma curva, um evento é disparado para ajustar o curso do robô, permitindo que ele siga a linha com precisão.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1263,7 +1263,7 @@ let livro_csx ={
         
         {ordem:6,
         predecessor:5,
-        texto:'',
+        texto:'<b>Sensores de ultrassom</b> são vitais para robôs que operam em ambientes complexos. Se detectam um objeto próximo, um evento é disparado, fazendo o robô parar ou desviar, evitando colisões.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1276,7 +1276,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'',
+        texto:'Nos dispositivos móveis, muitos eventos são disparados por ações do usuário, como toques na tela. Um <b>sensor de toque</b> identifica onde e como a tela foi tocada, e um evento correspondente é ativado, facilitando interações como abrir aplicativos ou jogar games.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1299,7 +1299,33 @@ let livro_csx ={
         imagemFonte:'',
         imagemArremate:1,
         textoDescritivoImagem:'', },
-      ]}},
+
+        {ordem:9,
+        predecessor:8,
+        texto:'Eventos também podem ser automáticos, como os avisos de chuva que um sensor de umidade emite quando detecta aumento na umidade do ar, indicando que talvez seja hora de fechar as janelas.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+
+        {ordem:10,
+        predecessor:9,
+        texto:'Agora, prepare-se para explorar como programar esses eventos, manipular os sensores em nossos robôs educacionais.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+  ]}},
 
     licao11:{
 		  id:'CSXAULA11CODE',
