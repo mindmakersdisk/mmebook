@@ -46,6 +46,8 @@ let livro_cw1 ={
   
 /* conteudo */
   unidade1:{
+    titulo:'Algoritmos e Robôs',
+    descricao:'Nesta unidade, você será apresentado ao conceito de algoritmos e vai conhecer o primeiro robô que você vai programar.',
 	  licao1:{id:'CW1AULA01CODE',
 		/** padroesCurriculares: 
 		titulo:'Lição 01. Algoritmos.',**/
@@ -836,7 +838,8 @@ let livro_cw1 ={
   },
 
   unidade2:{
-	
+    titulo:'Laços e Eventos',
+    descricao:'Nesta unidade, você aprenderá a usar os laços para repetir comandose verá como os eventos atuam na programação.',
     licao8:{id:'CW1AULA08CODE',
     /** padroesCurriculares: 
     titulo:'Lição 08. Eletricidade e Circuitos em Papel.',**/
@@ -1458,6 +1461,8 @@ let livro_cw1 ={
   },
    
   unidade3:{
+    titulo:'Condicionais e Depuração',
+    descricao:'Nesta unidade, você aprenderá a usar condicionais e se tornará um verdadeiro detetive, para encontrar bugs nos programas.',
     licao15:{id:'CW1AULA15CODE',
     /** padroesCurriculares: 
     titulo:'Lição 17. Condicionais.',**/
@@ -1941,7 +1946,8 @@ let livro_cw1 ={
   },
   
   unidade4:{
-	  
+	  titulo:'Senhas e Segurança',
+    descricao:'Nesta unidade, você aprenderá um pouco sobre o uso das senhas para manter tudo seguro no seu computador.',
     licao22:{id:'CW1AULA22CODE',
     /** padroesCurriculares: 
     titulo:'Lição 16. Senhas e Segurança',**/
