@@ -10,7 +10,7 @@ let livro_csx ={
   versao:'0.1.00',
   nomeFantasia: 'Expresso',
   resumo:'Módulo expresso para implantação direta nos anos finais do Ensino Fundamental (F2), trazendo um resumo dos fundamentos ministrados nos módulos CS3, CS4 e CS5. É pré-requisito para o prosseguimento dos alunos no módulo CS6. Pode ser implantado do 5o ao 8o ano.',
-  nomeTecnico:'',
+  nomeTecnico:'CSX',
   isbn:'',
   autores:[],
   editor:'',
