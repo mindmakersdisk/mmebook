@@ -36,7 +36,7 @@ let livro_cs3 ={
 
   visaogeral:{
 	  infografico:{
-		  titulo:'',//'Resumo do Módulo CS3',
+		  titulo:'Resumo do Módulo CS3',
 		  /* idem licoes */
 	  }},
   
@@ -48,7 +48,7 @@ let livro_cs3 ={
 		  id:'CSXAULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Eletricidade e Circuitos em Papel',**/
-      infografico:{titulo:'Explorando a Eletricidade e Seus Segredos',
+      infografico:{titulo:'Lição 01. Explorando a Eletricidade e Seus Segredos',
       tituloSimplificado:'Eletricidade',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -208,7 +208,7 @@ let livro_cs3 ={
       id:'CSXAULA03CODE',
       /** padroesCurriculares: 
        titulo:'Lição 03. Dispositivos Computacionais.',**/
-       infografico:{titulo:'Computador e Dispositivos Computacionais',
+       infografico:{titulo:'Lição 03. Computador e Dispositivos Computacionais',
        tituloSimplificado:'O Computador',
        estiloPadrao:'basicoPaisagem',
        /** urlVideo:'',
@@ -340,7 +340,7 @@ let livro_cs3 ={
       id:'CSXAULA04CODE',
       /** padroesCurriculares: 
       titulo:'Lição 04. Algoritmo++',**/
-		  infografico:{titulo:'Algoritmos no Nosso Dia a Dia',
+		  infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
         tituloSimplificado:'Algoritmos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -448,7 +448,7 @@ let livro_cs3 ={
       id:'CSXAULA05CODE',
       /** padroesCurriculares: 
       titulo:'Lição 05. Robótica.',**/
-      infografico:{titulo:'Robótica com Robôs de Duas Rodas',
+      infografico:{titulo:'Lição 05. Robótica com Robôs de Duas Rodas',
       tituloSimplificado:'Robô de Duas Rodas',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -591,7 +591,7 @@ let livro_cs3 ={
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
      titulo:'Lição 08. Laços++.',**/
-     infografico:{titulo:'Laço++',
+     infografico:{titulo:'Lição 08. Laço++',
      tituloSimplificado:'Laço',
      estiloPadrao:'basicoPaisagem',
      /** urlVideo:'',
@@ -702,7 +702,7 @@ let livro_cs3 ={
       id:'CSXAULA10CODE',
       /** padroesCurriculares: 
       titulo:'Lição 10. Expressão Condicional++',**/
-		  infografico:{titulo:'Expressão Condicional++',
+		  infografico:{titulo:'Lição 10. Expressão Condicional++',
         tituloSimplificado:'Expressão Condicional',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -811,7 +811,7 @@ let livro_cs3 ={
       id:'CSXAULA11CODE',
       /** padroesCurriculares: 
       titulo:'Lição 11. Laços Avançados',**/
-		  infografico:{titulo:'Laços Avançados',
+		  infografico:{titulo:'Lição 11. Laços Avançados',
       tituloSimplificado:'',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -959,7 +959,7 @@ let livro_cs3 ={
       id:'CSXAULA14CODE',
       /** padroesCurriculares: 
      titulo:'Lição 14. Programação em Par e Depuração.',**/
-     infografico:{titulo:'Programação em Par e Depuração',
+     infografico:{titulo:'Lição 14. Programação em Par e Depuração',
      tituloSimplificado:'Depuração',
      estiloPadrao:'basicoPaisagem',
      /** urlVideo:'',
@@ -1085,7 +1085,7 @@ let livro_cs3 ={
         id:'CSXAULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Eventos++.',**/
-        infografico:{titulo:'Eventos++',
+        infografico:{titulo:'Lição 15. Eventos++',
         tituloSimplificado:'Eventos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1218,7 +1218,7 @@ let livro_cs3 ={
         id:'CSXAULA16CODE',
         /** padroesCurriculares: 
         titulo:'Lição 16. Dados e Decomposição',**/
-        infografico:{titulo:'Dados e Decomposição',
+        infografico:{titulo:'Lição 16. Dados e Decomposição',
         tituloSimplificado:'Dados e Decomposição',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1386,7 +1386,7 @@ let livro_cs3 ={
         id:'CSXAULA17CODE',
         /** padroesCurriculares: 
         titulo:'Lição 17. Expressão Lógica',**/
-        infografico:{titulo:'Expressão Lógica',
+        infografico:{titulo:'Lição 17. Expressão Lógica',
         tituloSimplificado:'Lógica',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1488,7 +1488,7 @@ let livro_cs3 ={
         id:'CSXAULA21CODE',
         /** padroesCurriculares: 
         titulo:'Lição 21. Busca e Privacidade',**/
-        infografico:{titulo:'Busca e Privacidade',
+        infografico:{titulo:'Lição 21. Busca e Privacidade',
         tituloSimplificado:'Busca e Privacidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1637,7 +1637,7 @@ let livro_cs3 ={
         id:'CSXAULA22CODE',
         /** padroesCurriculares: 
         titulo:'Lição 22. Os Primórdios da Animação.',**/
-        infografico:{titulo:'Animações do Analógico ao Digital',
+        infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
         tituloSimplificado:'Animações',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1787,7 +1787,7 @@ let livro_cs3 ={
         id:'CSXAULA26CODE',
         /** padroesCurriculares: 
         titulo:'Lição 26. Introdução ao Laboratório de Histórias.',**/
-        infografico:{titulo:'Introdução ao Story Lab',
+        infografico:{titulo:'Lição 26. Introdução ao Story Lab',
         tituloSimplificado:'O Story Lab',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',

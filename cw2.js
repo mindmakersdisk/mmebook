@@ -50,7 +50,7 @@ let livro_cw2 ={
         id:'CW2AULA01CODE',
         /** padroesCurriculares: 
         titulo:'Lição 01. Dispositivos Computacionais.',**/
-        infografico:{titulo:'Computador e Dispositivos Computacionais',
+        infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
         tituloSimplificado:'O Computador',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -186,7 +186,7 @@ let livro_cw2 ={
         id:'CW2AULA03CODE',
         /** padroesCurriculares: 
         titulo:'Lição 03. Eletricidade e Dispositivos Eletrônicos.',**/
-        infografico:{titulo:'Explorando a Eletricidade e Seus Segredos',
+        infografico:{titulo:'Lição 03. Explorando a Eletricidade e Seus Segredos',
         tituloSimplificado:'Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -344,7 +344,7 @@ let livro_cw2 ={
         id:'CW2AULA04CODE',
         /** padroesCurriculares: 
         titulo:'Lição 04. Algoritmo, Identificação de Padrão e Sequência.',**/
-        infografico:{titulo:'Algoritmos no Nosso Dia a Dia',
+        infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
         tituloSimplificado:'Algoritmos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -452,7 +452,7 @@ let livro_cw2 ={
         id:'CW2AULA05CODE',
         /** padroesCurriculares: 
         titulo:'Lição 05. Robótica.',**/
-        infografico:{titulo:'Robótica com o Robô Esfera',
+        infografico:{titulo:'Lição 05. Robótica com o Robô Esfera',
         tituloSimplificado:'Robô Esfera',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -588,7 +588,7 @@ let livro_cw2 ={
         id:'CW2AULA06CODE',
         /** padroesCurriculares: 
         titulo:'Lição 06. Projeto Taxibot.',**/
-        infografico:{titulo:'Taxibot: Taxiamento Robotizado',
+        infografico:{titulo:'Lição 06. Taxibot: Taxiamento Robotizado',
         tituloSimplificado:'Taxibot',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -717,7 +717,7 @@ let livro_cw2 ={
         id:'CW2AULA08CODE',
         /** padroesCurriculares: 
         titulo:'Lição 08. Laços.',**/
-        infografico:{titulo:'Laço em Algoritmos',
+        infografico:{titulo:'Lição 08. Laço em Algoritmos',
         tituloSimplificado:'Laço',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -826,7 +826,7 @@ let livro_cw2 ={
         id:'CW2AULA09CODE',
         /** padroesCurriculares: 
         titulo:'Lição 09. Expressões Condicionais.',**/
-        infografico:{titulo:'Expressão Condicional: Se, Senão, Se senão',
+        infografico:{titulo:'Lição 09. Expressão Condicional: Se, Senão, Se senão',
         tituloSimplificado:'Expressão Condicional',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -939,7 +939,7 @@ let livro_cw2 ={
         id:'CW2AULA11CODE',
         /** padroesCurriculares: 
         titulo:'Lição 11. Projeto Biga-Robô.',**/
-        infografico:{titulo:'O Cavalo e a Roda',
+        infografico:{titulo:'Lição 11. O Cavalo e a Roda',
         tituloSimplificado:'O Cavalo e a Roda',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1040,7 +1040,7 @@ let livro_cw2 ={
         id:'CW2AULA13CODE',
         /** padroesCurriculares: 
         titulo:'Lição 13. Eventos.',**/
-        infografico:{titulo:'Eventos',
+        infografico:{titulo:'Lição 13. Eventos',
         tituloSimplificado:'Eventos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1174,7 +1174,7 @@ let livro_cw2 ={
         d:'CSXAULA14CODE',
         /** padroesCurriculares: 
         titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade.',**/
-        infografico:{titulo:'Materiais Condutores e Não Condutores de Eletricidade',
+        infografico:{titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade',
         tituloSimplificado:'Materiais Condutores de Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1289,7 +1289,7 @@ let livro_cw2 ={
         id:'CW2AULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Geração e Distribuição de Energia.',**/
-        infografico:{titulo:'Geração e Distribuição de Energia',
+        infografico:{titulo:'Lição 15. Geração e Distribuição de Energia',
         tituloSimplificado:'Geração de Energia',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1387,7 +1387,7 @@ let livro_cw2 ={
         id:'CW2AULA16CODE',
         /** padroesCurriculares: 
         titulo:'Lição 16. Sensores e os Órgãos do Sentido.',**/
-        infografico:{titulo:'Sensores e os Sentidos Humanos',
+        infografico:{titulo:'Lição 16. Sensores e os Sentidos Humanos',
         tituloSimplificado:'Sensores',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1521,7 +1521,7 @@ let livro_cw2 ={
         id:'CW2AULA17CODE',
         /** padroesCurriculares: 
         titulo:'Lição 17. Projeto Carro Robotizados.',**/
-        infografico:{titulo:'O Carro: Passado e Futuro',
+        infografico:{titulo:'Lição 17. O Carro: Passado e Futuro',
         tituloSimplificado:'O Carro',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1609,7 +1609,7 @@ let livro_cw2 ={
         id:'CW2AULA19CODE',
         /** padroesCurriculares: 
         titulo:'Lição 19. Programação em Par e Depuração.',**/
-        infografico:{titulo:'Programação em Par e Depuração',
+        infografico:{titulo:'Lição 19. Programação em Par e Depuração',
         tituloSimplificado:'Depuração',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1740,7 +1740,7 @@ let livro_cw2 ={
         id:'CW2AULA22CODE',
         /** padroesCurriculares: 
         titulo:'Lição 22. Os Primórdios da Animação.',**/
-        infografico:{titulo:'Animações do Analógico ao Digital',
+        infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
         tituloSimplificado:'Animações',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1894,7 +1894,7 @@ let livro_cw2 ={
         id:'CW2AULA26CODE',
         /** padroesCurriculares: 
         titulo:'Lição 26. Introdução ao Laboratório de Histórias.',**/
-        infografico:{titulo:'Introdução ao Story Lab',
+        infografico:{titulo:'Lição 26. Introdução ao Story Lab',
         tituloSimplificado:'O Story Lab',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2059,10 +2059,10 @@ let livro_cw2 ={
          ]}},
 
       licao27:{
-        id:'CW2AULA26CODE',
+        id:'CW2AULA27CODE',
         /** padroesCurriculares: 
         titulo:'Lição 27. Projeto Missão Criativa - Minha Primeira Animação Digital',**/
-        infografico:{titulo:'Missão Criativa: História em Quadrinho Animada',
+        infografico:{titulo:'Lição 27. Missão Criativa: História em Quadrinho Animada',
         tituloSimplificado:'Missão Criativa',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
