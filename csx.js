@@ -44,7 +44,7 @@ let livro_csx ={
   
   visaogeral:{
 	  infografico:{
-		  titulo:'Resumo do Módulo CSX',
+		  titulo:'',//'Resumo do Módulo CSX',
 		  /* idem licoes */
 	  }},
   

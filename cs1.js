@@ -40,7 +40,7 @@ let livro_cs1 ={
   
   visaogeral:{
 	  infografico:{
-		  titulo:'Resumo do Módulo CS1',
+		  titulo:'',//'Resumo do Módulo CS1',
 		  /* idem licoes */}},
   
 /* conteudo */

@@ -36,7 +36,7 @@ let livro_cs3 ={
 
   visaogeral:{
 	  infografico:{
-		  titulo:'Resumo do Módulo CSX',
+		  titulo:'',//'Resumo do Módulo CS3',
 		  /* idem licoes */
 	  }},
   
@@ -922,7 +922,7 @@ let livro_cs3 ={
         imagemImpresso:1,
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/LacosAvanc/img_9.webp',
         promptImagem:'Ilustre uma figura tipo pintura feita em aquarela, utilizando tons de laranja, verde aquamarine, violeta e branco, com as bordas esmaecidas, até ficarem brancas,  de um sala de espera, mostrando clientes confortavelmente acomodados em um sofá, com foco em um ar-condicionado que está mantendo o ambiente fresco.', 
-        imagemFonte:'',
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'',},
 
         {ordem:10,
@@ -932,9 +932,9 @@ let livro_cs3 ={
         textoSimplificado:'',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'', 
-        imagemFonte:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/LacosAvanc/img_10.webp',
+        promptImagem:'lustre uma figura tipo pintura feita em aquarela, utilizando tons de laranja, verde aquamarine, violeta e branco, com as bordas esmaecidas, até ficarem brancas,  que mostra um programador em sua estação de trabalho, com um monitor exibindo claramente trechos de código que utilizam laços aninhados e laços "repita enquanto/até". A cena deve permitir visualizar como esses elementos tornam os programas mais simples, compreensíveis e poderosos, dentro de um ambiente de escritório decorado com livros de programação e fluxogramas.', 
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'',},
 
         {ordem:11,
@@ -944,9 +944,9 @@ let livro_cs3 ={
         textoSimplificado:'',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'', 
-        imagemFonte:'',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/LacosAvanc/img_11.webp',
+        promptImagem:'Crie uma ilustração em estilo aquarela que representa um ambiente de sala de aula ou oficina, onde um grupo diversificado de pessoas está reunido ao redor de computadores, praticando programação. A cena capta a ideia de combinar laços aninhados com "laços repita" e "laços até" para criar programas poderosos, com elementos visuais como snippets de código coloridos e fluxogramas nas telas perfeitamente ilustrados. A paleta de cores inclui tons de laranja, verde aquamarine, violeta e branco, com as bordas esmaecidas e detalhes artísticos que reforçam o tema.', 
+        imagemFonte:'dall-e 3',
         textoDescritivoImagem:'',},        
 
       ]}},
