@@ -46,16 +46,12 @@ let livro_cw1 ={
   
 /* conteudo */
   unidade1:{
-    titulo:'Algoritmos e Robôs',
-    descricao:'Nesta unidade, você será apresentado ao conceito de algoritmos e vai conhecer o primeiro robô que você vai programar.',
+    titulo:'ALGORITMOS E ROBÔS',
+    descricao:'NESTA UNIDADE, VOCÊ SERÁ APRESENTADO AO CONCEITO DE ALGORITMOS E VAI CONHECER O PRIMEIRO ROBÔ QUE VOCÊ VAI PROGRAMAR.',
 	  licao1:{id:'CW1AULA01CODE',
-		/** padroesCurriculares: 
-		titulo:'Lição 01. Algoritmos.',**/
-		infografico:{titulo:'DESVENDANDO O MUNDO DOS ALGORITMOS',
+		infografico:{titulo:'LIÇÃO 01. DESVENDANDO O MUNDO DOS ALGORITMOS',
 		tituloSimplificado:'ALGORITMOS',
 		estiloPadrao:'basicoPaisagem',
-		/** urlVideo:'',
-		urlPodcast:'', **/
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
@@ -280,13 +276,9 @@ let livro_cw1 ={
 			]}},
     
     licao2:{id:'CW1AULA02CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 02. O Computador.',**/
-    infografico:{titulo:'DESCOBRINDO O COMPUTADOR',
+    infografico:{titulo:'LIÇÃO 02. DESCOBRINDO O COMPUTADOR',
     tituloSimplificado:'COMPUTADOR',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
@@ -500,13 +492,9 @@ let livro_cw1 ={
     licao3:{},
       
     licao4:{id:'CW1AULA04CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 04. Robôs.',**/
-    infografico:{titulo:'VAMOS APRENDER SOBRE ROBÔS',
+    infografico:{titulo:'LIÇÃO 04. VAMOS APRENDER SOBRE ROBÔS',
     tituloSimplificado:'ROBÔS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
@@ -707,13 +695,9 @@ let livro_cw1 ={
       licao5:{},
     
       licao6:{id:'CW1AULA06CODE',
-      /** padroesCurriculares: 
-      titulo:'Lição 06. Letrópolis.',**/
-      infografico:{titulo:'A CIDADE DAS VOGAIS: UMA AVENTURA EM LETRÓPOLIS',
+      infografico:{titulo:'LIÇÃO 06. A CIDADE DAS VOGAIS: UMA AVENTURA EM LETRÓPOLIS',
       tituloSimplificado:'LETRÓPOLIS',
       estiloPadrao:'basicoPaisagem',
-      /** urlVideo:'',
-      urlPodcast:'', **/
         cenas:[				
         {ordem:1,
         predecessor:0,
@@ -838,16 +822,12 @@ let livro_cw1 ={
   },
 
   unidade2:{
-    titulo:'Laços e Eventos',
-    descricao:'Nesta unidade, você aprenderá a usar os laços para repetir comandose verá como os eventos atuam na programação.',
+    titulo:'LAÇOS E EVENTOS',
+    descricao:'NESTA UNIDADE, VOCÊ APRENDERÁ A USAR OS LAÇOS PARA REPETIR COMANDOS E VERÁ COMO OS EVENTOS ATUAM NA PROGRAMAÇÃO.',
     licao8:{id:'CW1AULA08CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 08. Eletricidade e Circuitos em Papel.',**/
-    infografico:{titulo:'CIRCUITOS EM PAPEL: UMA JORNADA ELETRIZANTE',
+    infografico:{titulo:'LIÇÃO 08. CIRCUITOS EM PAPEL: UMA JORNADA ELETRIZANTE',
     tituloSimplificado:'CIRCUITOS EM PAPEL',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[
       {ordem:1,
       predecessor:0,
@@ -1085,13 +1065,9 @@ let livro_cw1 ={
       ]}},
 	 
     licao9:{id:'CW1AULA09CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 09. Laços.',**/
-    infografico:{titulo:'VAMOS REPETIR! APRENDENDO SOBRE LAÇOS',
+    infografico:{titulo:'LIÇÃO 09. VAMOS REPETIR! APRENDENDO SOBRE LAÇOS',
     tituloSimplificado:'LAÇOS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1176,13 +1152,9 @@ let livro_cw1 ={
     licao10:{},
 
     licao11:{id:'CW1AULA11CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 11. Eventos.',**/
-    infografico:{titulo:'DESCOBRINDO OS EVENTOS NA PROGRAMAÇÃO',
+    infografico:{titulo:'LIÇÃO 11. DESCOBRINDO OS EVENTOS NA PROGRAMAÇÃO',
     tituloSimplificado:'EVENTOS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1344,13 +1316,9 @@ let livro_cw1 ={
     licao12:{},
 	  
     licao13:{id:'CW1AULA13CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 13. Numerópolis.',**/
-    infografico:{titulo:'BEM VINDOS A NUMERÓPOLIS!',
+    infografico:{titulo:'LIÇÃO 13. BEM VINDOS A NUMERÓPOLIS!',
     tituloSimplificado:'NUMERÓPOLIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1461,16 +1429,12 @@ let livro_cw1 ={
   },
    
   unidade3:{
-    titulo:'Condicionais e Depuração',
-    descricao:'Nesta unidade, você aprenderá a usar condicionais e se tornará um verdadeiro detetive, para encontrar bugs nos programas.',
+    titulo:'CONDICIONAIS E DEPURAÇÃO',
+    descricao:'NESTA UNIDADE, VOCÊ APRENDERÁ A USAR CONDICIONAIS E SE TORNARÁ UM VERDADEIRO DETETIVE, PARA ENCONTRAR BUGS NOS PROGRAMAS.',
     licao15:{id:'CW1AULA15CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 17. Condicionais.',**/
-    infografico:{titulo:'EXPLORANDO CAMINHOS COM AS CONDICIONAIS',
+    infografico:{titulo:'LIÇÃO 15. EXPLORANDO CAMINHOS COM AS CONDICIONAIS',
     tituloSimplificado:'CONDICIONAIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1619,13 +1583,9 @@ let livro_cw1 ={
     licao16:{},
 
     licao17:{id:'CW1AULA17CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 17. Depuração E Qualidade',**/
-    infografico:{titulo:'DETETIVES: APRENDENDO SOBRE DEPURAÇÃO',
+    infografico:{titulo:'LIÇÃO 17. DETETIVES: APRENDENDO SOBRE DEPURAÇÃO',
     tituloSimplificado:'DEPURAÇÃO',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1802,13 +1762,9 @@ let livro_cw1 ={
     licao19:{},
 
     licao20:{id:'CW1AULA20CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 20. Jogos Robóticos de Inverno.',**/
-    infografico:{titulo:'OS JOGOS ROBÓTICOS DE INVERNO',
+    infografico:{titulo:'LIÇÃO 20. OS JOGOS ROBÓTICOS DE INVERNO',
     tituloSimplificado:'JOGOS DE INVERNO',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[
       {ordem:1,
       predecessor:0,
@@ -1946,16 +1902,12 @@ let livro_cw1 ={
   },
   
   unidade4:{
-	  titulo:'Senhas e Segurança',
-    descricao:'Nesta unidade, você aprenderá um pouco sobre o uso das senhas para manter tudo seguro no seu computador.',
+	  titulo:'SENHAS E SEGURANÇA',
+    descricao:'NESTA UNIDADE, VOCÊ APRENDERÁ UM POUCO SOBRE O USO DAS SENHAS PARA MANTER TUDO SEGURO NO SEU COMPUTADOR.',
     licao22:{id:'CW1AULA22CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 16. Senhas e Segurança',**/
-    infografico:{titulo:'UMA JORNADA SOBRE SENHAS E SEGURANÇA',
+    infografico:{titulo:'LIÇÃO 22. UMA JORNADA SOBRE SENHAS E SEGURANÇA',
     tituloSimplificado:'SENHAS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -2171,13 +2123,9 @@ let livro_cw1 ={
     licao24:{},
    
     licao25:{id:'CW1AULA25CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 25. Numerópolis VS. Letrópolis.',**/
-    infografico:{titulo:'A GRANDE DISPUTA: NUMERÓPOLIS VS. LETRÓPOLIS',
+    infografico:{titulo:'LIÇÃO 25. A GRANDE DISPUTA: NUMERÓPOLIS VS. LETRÓPOLIS',
     tituloSimplificado:'NUMERÓPOLIS VS. LETRÓPOLIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[
       {ordem:1,
       predecessor:0,
@@ -2326,13 +2274,9 @@ let livro_cw1 ={
     licao26:{},
 
     licao27:{id:'CW1AULA27CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 27. Binarópolis.',**/
-    infografico:{titulo:'A CIDADE DOS 1s e 0s: CONHECENDO BINARÓPOLIS',
+    infografico:{titulo:'LIÇÃO 27. A CIDADE DOS 1s e 0s: CONHECENDO BINARÓPOLIS',
     tituloSimplificado:'BINARÓPOLIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
