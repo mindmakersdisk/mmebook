@@ -44,7 +44,7 @@ let livro_csx ={
   
   visaogeral:{
 	  infografico:{
-		  titulo:'',//'Resumo do Módulo CSX',
+		  titulo:'Resumo do Módulo CSX',
 		  /* idem licoes */
 	  }},
   
@@ -58,7 +58,7 @@ let livro_csx ={
 		  id:'CSXAULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Dispositivos Computacionais.',**/
-		  infografico:{titulo:'Computador e Dispositivos Computacionais',
+		  infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
 		  tituloSimplificado:'O Computador',
 		  estiloPadrao:'basicoPaisagem',
 			/** urlVideo:'',
@@ -251,7 +251,7 @@ let livro_csx ={
       id:'CSXAULA02CODE',
       /** padroesCurriculares: 
       titulo:'Lição 02. Algoritmo, Identificação de Padrão e Sequência.',**/
-      infografico:{titulo:'Algoritmos no Dia a Dia',
+      infografico:{titulo:'Lição 02. Algoritmos no Dia a Dia',
       tituloSimplificado:'Algoritmos',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -359,7 +359,7 @@ let livro_csx ={
       id:'CSXAULA03CODE',
       /** padroesCurriculares: 
       titulo:'Lição 03. Laços.',**/
-      infografico:{titulo:'Laço em Algoritmos',
+      infografico:{titulo:'Lição 03. Laço em Algoritmos',
       tituloSimplificado:'Laço',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -484,7 +484,7 @@ let livro_csx ={
 		  id:'CSXAULA04CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 04. Circuito Elétrico.',**/
-		  infografico:{titulo:'O Circuito Elétrico',
+		  infografico:{titulo:'Lição 04. O Circuito Elétrico',
 			tituloSimplificado:'Circuito',
 			estiloPadrao:'basicoPaisagem',
 			cenas:[				
@@ -674,7 +674,7 @@ let livro_csx ={
       id:'CSXAULA05CODE',
       /** padroesCurriculares: 
       titulo:'Lição 05. Robótica.',**/
-      infografico:{titulo:'Robôs',
+      infografico:{titulo:'Lição 05. Robôs',
       tituloSimplificado:'Robôs',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -784,7 +784,7 @@ let livro_csx ={
 		  id:'CSXAULA06CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 06. Expressões Condicionais.',**/
-		  infografico:{titulo:'Expressão Condicional',
+		  infografico:{titulo:'Lição 06. Expressão Condicional',
 			tituloSimplificado:'Condicional',
 			estiloPadrao:'basicoPaisagem',
 			/** urlVideo:'',
@@ -869,7 +869,7 @@ let livro_csx ={
       id:'CSXAULA07CODE',
       /** padroesCurriculares: 
       titulo:'Lição 07. Expressões Lógicas.',**/
-      infografico:{titulo:'Expressão Lógica',
+      infografico:{titulo:'Lição 07. Expressão Lógica',
       tituloSimplificado:'Lógica',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -973,7 +973,7 @@ let livro_csx ={
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
       titulo:'Lição 08. Eventos.',**/
-      infografico:{titulo:'Eventos',
+      infografico:{titulo:'Lição 08. Eventos',
       tituloSimplificado:'Evento',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1056,7 +1056,7 @@ let livro_csx ={
       id:'CSXAULA09CODE',
       /** padroesCurriculares: 
       titulo:'Lição 09. IA - Sensores e os Órgãos do Sentido.',**/
-      infografico:{titulo:'Sensores e os Sentidos Humanos',
+      infografico:{titulo:'Lição 09. Sensores e os Sentidos Humanos',
       tituloSimplificado:'Sensores',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1190,7 +1190,7 @@ let livro_csx ={
       id:'CSXAULA10CODE',
       /** padroesCurriculares: 
       titulo:'Lição 10. Sensores e Eventos.',**/
-      infografico:{titulo:'Explorando Sensores e Eventos em Computação',
+      infografico:{titulo:'Lição 10. Explorando Sensores e Eventos em Computação',
       tituloSimplificado:'Sensores e Eventos',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1331,7 +1331,7 @@ let livro_csx ={
 		  id:'CSXAULA11CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 11. A Linguagem de Programação Scratch.',**/
-		  infografico:{titulo:'A Linguagem de Programação Scratch',
+		  infografico:{titulo:'Lição 11. A Linguagem de Programação Scratch',
       tituloSimplificado:'Scratch',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1427,7 +1427,7 @@ let livro_csx ={
       id:'CSXAULA12CODE',
       /** padroesCurriculares: 
       titulo:'Lição 12. Videogame.',**/
-      infografico:{titulo:'Criando Videogames',
+      infografico:{titulo:'Lição 12. Criando Videogames',
       tituloSimplificado:'Videogames',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1535,7 +1535,7 @@ let livro_csx ={
       id:'CSXAULA13CODE',
       /** padroesCurriculares: 
       titulo:'Lição 13. Animações Analógicas e Digitais.',**/
-      infografico:{titulo:'Animações do Analógico ao Digital',
+      infografico:{titulo:'Lição 13. Animações do Analógico ao Digital',
       tituloSimplificado:'Animação',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1693,7 +1693,7 @@ let livro_csx ={
       id:'CSXAULA14CODE',
       /** padroesCurriculares: 
       titulo:'Lição 14. Linguagens Midiáticas e Tecnologias Digitais',**/
-      infografico:{titulo:'Editando Imagens Digitais',
+      infografico:{titulo:'Lição 14. Editando Imagens Digitais',
       tituloSimplificado:'Imagens Digitais',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1815,7 +1815,7 @@ let livro_csx ={
         id:'CSXAULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Robótica com Delocamento Relativo.',**/
-        infografico:{titulo:'TODO Robótica com Delocamento Relativo',
+        infografico:{titulo:'Lição 15. Robótica com Delocamento Relativo',
         tituloSimplificado:'Deslocamento Relativo',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1930,7 +1930,7 @@ let livro_csx ={
         id:'CSXAULA16CODE',
         /** padroesCurriculares: TESTE
         titulo:'Lição 16. Circuitos Figital com Portas Lógicas.',**/
-        infografico:{titulo:'Portas Lógicas',
+        infografico:{titulo:'Lição 16. Portas Lógicas',
         tituloSimplificado:'Portas Lógicas',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2067,7 +2067,7 @@ let livro_csx ={
           id:'CSXAULA17CODE',
           /** padroesCurriculares: 
           titulo:'Lição 17. Dados.',**/
-          infografico:{titulo:'Dados e Informação',
+          infografico:{titulo:'Lição 17. Dados e Informação',
           tituloSimplificado:'Dados',
           estiloPadrao:'basicoPaisagem',
           /** urlVideo:'',
@@ -2232,7 +2232,7 @@ let livro_csx ={
           id:'CSXAULA18CODE',
           /** padroesCurriculares: 
           titulo:'Lição 18. Matrizes e Registros.',**/
-          infografico:{titulo:'Matrizes e Registros',
+          infografico:{titulo:'Lição 18. Matrizes e Registros',
           tituloSimplificado:'Registros',
           estiloPadrao:'basicoPaisagem',
           /** urlVideo:'',
@@ -2340,7 +2340,7 @@ let livro_csx ={
         id:'CSXAULA19CODE',
         /** padroesCurriculares: 
         titulo:'Lição 19. Sistema Binário - Letras',**/
-        infografico:{titulo:'Sistema Binário - Letras',
+        infografico:{titulo:'Lição 19. Sistema Binário - Letras',
         tituloSimplificado:'Sistema Binário',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2425,7 +2425,7 @@ let livro_csx ={
         id:'CSXAULA20CODE',
         /** padroesCurriculares: 
         titulo:'Lição 20. Sistema Binário - Números',**/
-        infografico:{titulo:'Sistema Binário - Números',
+        infografico:{titulo:'Lição 20. Sistema Binário - Números',
         tituloSimplificado:'Números Binários',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2553,7 +2553,7 @@ let livro_csx ={
         id:'CSXAULA21CODE',
         /** padroesCurriculares: 
         titulo:'Lição 21. Mídias Digitais - Compactação de Arquivos',**/
-        infografico:{titulo:'Compressão de Arquivos Digitais',
+        infografico:{titulo:'Lição 21. Compressão de Arquivos Digitais',
         tituloSimplificado:'Compressão de Arquivos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
