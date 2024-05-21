@@ -1815,7 +1815,7 @@ let livro_csx ={
         id:'CSXAULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Robótica com Delocamento Relativo.',**/
-        infografico:{titulo:'Lição 15. Robótica com Delocamento Relativo',
+        infografico:{titulo:'Lição 15. TODO Robótica com Delocamento Relativo',
         tituloSimplificado:'Deslocamento Relativo',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2695,7 +2695,7 @@ licao22:{
 id:'CSXAULA22CODE',
 /** padroesCurriculares: 
 titulo:'Lição 22. Ética digital',**/
-infografico:{titulo:'Ética Digital',
+infografico:{titulo:'Lição 22. Ética Digital',
 tituloSimplificado:'Ética Digital',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -2797,7 +2797,7 @@ licao23:{
 id:'CSXAULA23CODE',
 /** padroesCurriculares: 
 titulo:'Lição 23. Pegada Digital',**/
-infografico:{titulo:'Rastro Digital',
+infografico:{titulo:'Lição 23. Rastro Digital',
 tituloSimplificado:'Rastro Digital',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -2930,7 +2930,7 @@ licao24:{
 id:'CSXAULA24CODE',
 /** padroesCurriculares: 
 titulo:'Lição 24. Pixel e Cores.',**/
-infografico:{titulo:'Pixel e Cores',
+infografico:{titulo:'Lição 24. Pixel e Cores',
 ituloSimplificado:'Pixel',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -3039,7 +3039,7 @@ licao25:{
 id:'CSXAULA25CODE',
 /** padroesCurriculares: 
 titulo:'Lição 25. Introdução ao Laboratório de Histórias',**/
-infografico:{titulo:'Introdução ao Story Lab',
+infografico:{titulo:'Lição 25. Introdução ao Story Lab',
 tituloSimplificado:'Story Lab',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -3290,7 +3290,7 @@ licao26:{
 id:'CSXAULA26CODE',
 /** padroesCurriculares: 
 titulo:'Lição 26. IA - Conversação Computacional',**/
-infografico:{titulo:'Conversação Computacional',
+infografico:{titulo:'Lição 26. Conversação Computacional',
 tituloSimplificado:'Conversação Computacional',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -3438,7 +3438,7 @@ licao27:{
 id:'CSXAULA27CODE',
 /** padroesCurriculares: 
 titulo:'Lição 27. IA - Simuladores de Eventos do Dia a Dia',**/
-infografico:{titulo:'Eventos do Dia a Dia',
+infografico:{titulo:'Lição 27. Eventos do Dia a Dia',
 tituloSimplificado:'Eventos Cotidianos',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
