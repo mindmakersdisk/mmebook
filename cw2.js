@@ -933,7 +933,7 @@ let livro_cw2 ={
 
 
         licao10:{
-        id:'CSXAULA10CODE',
+        id:'CW2AULA10CODE',
         /** padroesCurriculares: 
        titulo:'Lição 10. Formas Geométricas com Robôs.',**/
         infografico:{titulo:'Lição 10. Guia Pratico: Usando Transferidor com Robôs',
@@ -1288,7 +1288,7 @@ let livro_cw2 ={
 
 
       licao14:{
-        d:'CSXAULA14CODE',
+        d:'CW2AULA14CODE',
         /** padroesCurriculares: 
         titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade.',**/
         infografico:{titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade',
@@ -1844,7 +1844,7 @@ let livro_cw2 ={
 
 
          licao20:{
-          id:'CSXAULA20CODE',
+          id:'CW2AULA20CODE',
           /** padroesCurriculares: 
           titulo:'Lição 20. Navegação e Comunicação Segura',**/ //TODO Verificar com Alvim a adequação desse infográfico à lição
           infografico:{titulo:'Lição 20. Busca e Privacidade',
@@ -2377,7 +2377,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Tentem dar UM toque pessoal às suas histórias. Vamos lá?',
+          texto:'Tentem dar um toque pessoal às suas histórias. Vamos lá?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
