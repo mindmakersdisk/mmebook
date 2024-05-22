@@ -50,7 +50,7 @@ let livro_cw2 ={
         id:'CW2AULA01CODE',
         /** padroesCurriculares: 
         titulo:'Lição 01. Dispositivos Computacionais.',**/
-        infografico:{titulo:'Computador e Dispositivos Computacionais',
+        infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
         tituloSimplificado:'O Computador',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -186,7 +186,7 @@ let livro_cw2 ={
         id:'CW2AULA03CODE',
         /** padroesCurriculares: 
         titulo:'Lição 03. Eletricidade e Dispositivos Eletrônicos.',**/
-        infografico:{titulo:'Explorando a Eletricidade e Seus Segredos',
+        infografico:{titulo:'Lição 03. Explorando a Eletricidade e Seus Segredos',
         tituloSimplificado:'Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -344,7 +344,7 @@ let livro_cw2 ={
         id:'CW2AULA04CODE',
         /** padroesCurriculares: 
         titulo:'Lição 04. Algoritmo, Identificação de Padrão e Sequência.',**/
-        infografico:{titulo:'Algoritmos no Nosso Dia a Dia',
+        infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
         tituloSimplificado:'Algoritmos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -452,7 +452,7 @@ let livro_cw2 ={
         id:'CW2AULA05CODE',
         /** padroesCurriculares: 
         titulo:'Lição 05. Robótica.',**/
-        infografico:{titulo:'Robótica com o Robô Esfera',
+        infografico:{titulo:'Lição 05. Robótica com o Robô Esfera',
         tituloSimplificado:'Robô Esfera',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -588,7 +588,7 @@ let livro_cw2 ={
         id:'CW2AULA06CODE',
         /** padroesCurriculares: 
         titulo:'Lição 06. Projeto Taxibot.',**/
-        infografico:{titulo:'Taxibot: Taxiamento Robotizado',
+        infografico:{titulo:'Lição 06. Taxibot: Taxiamento Robotizado',
         tituloSimplificado:'Taxibot',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -717,7 +717,7 @@ let livro_cw2 ={
         id:'CW2AULA08CODE',
         /** padroesCurriculares: 
         titulo:'Lição 08. Laços.',**/
-        infografico:{titulo:'Laço em Algoritmos',
+        infografico:{titulo:'Lição 08. Laço em Algoritmos',
         tituloSimplificado:'Laço',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -826,7 +826,7 @@ let livro_cw2 ={
         id:'CW2AULA09CODE',
         /** padroesCurriculares: 
         titulo:'Lição 09. Expressões Condicionais.',**/
-        infografico:{titulo:'Expressão Condicional: Se, Senão, Se senão',
+        infografico:{titulo:'Lição 09. Expressão Condicional: Se, Senão, Se senão',
         tituloSimplificado:'Expressão Condicional',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -932,14 +932,131 @@ let livro_cw2 ={
          ]}},
 
 
-      licao10:{},
-
+        licao10:{
+        id:'CSXAULA10CODE',
+        /** padroesCurriculares: 
+       titulo:'Lição 10. Formas Geométricas com Robôs.',**/
+        infografico:{titulo:'Lição 10. Guia Pratico: Usando Transferidor com Robôs',
+        tituloSimplificado:'Transferidor com Robôs',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+       urlPodcast:'', **/
+        cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'Medir ângulos é importante para programar e controlar robôs... e pode ser muito divertido! Por isso, você vai aprender a usar um transferidor e diferenciar entre giro absoluto e relativo.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:2,
+          predecessor:1,
+          texto:'Este é o <b>transferidor</b>, instrumento usado para medir <b>ângulos</b>.</p>Os números ao redor da borda dizem quantos <b>graus</b> tem cada ângulo.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:3,
+          predecessor:2,
+          texto:'Um <b>giro absoluto</b> é quando um objeto, como seu robô, vira a partir de sua posição inicial.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:4,
+          predecessor:3,
+          texto:'Um <b>giro relativo</b> é o ângulo de giro do objeto com relação à sua última posição.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:5,
+          predecessor:4,
+          texto:'Siga os passos a seguir para usar um transferidor para te ajudar a apontar o sentido de um robô:</p>a) Coloque o robô sobre o  centro do transferidor.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:6,
+          predecessor:5,
+          texto:'b) Gire o robô, alinhando seu sentido inicial com o ângulo zero.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:7,
+          predecessor:6,
+          texto:'c) Para fazer seu robô girar, use o comando  "Vire" indicando o número de graus desejado.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:8,
+          predecessor:7,
+          texto:'d) Para medir o próximo ângulo relativo, gire o transferidor de modo que o 0º esteja no sentido do próximo movimento.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:9,
+          predecessor:8,
+          texto:'Agora é sua vez!</p>Com o uso do transferidor, seus programas funcionarão melhor e mais rapidamente.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+        ]}},
 
       licao11:{
         id:'CW2AULA11CODE',
         /** padroesCurriculares: 
         titulo:'Lição 11. Projeto Biga-Robô.',**/
-        infografico:{titulo:'O Cavalo e a Roda',
+        infografico:{titulo:'Lição 11. O Cavalo e a Roda',
         tituloSimplificado:'O Cavalo e a Roda',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1040,7 +1157,7 @@ let livro_cw2 ={
         id:'CW2AULA13CODE',
         /** padroesCurriculares: 
         titulo:'Lição 13. Eventos.',**/
-        infografico:{titulo:'Eventos',
+        infografico:{titulo:'Lição 13. Eventos',
         tituloSimplificado:'Eventos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1174,7 +1291,7 @@ let livro_cw2 ={
         d:'CSXAULA14CODE',
         /** padroesCurriculares: 
         titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade.',**/
-        infografico:{titulo:'Materiais Condutores e Não Condutores de Eletricidade',
+        infografico:{titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade',
         tituloSimplificado:'Materiais Condutores de Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1289,7 +1406,7 @@ let livro_cw2 ={
         id:'CW2AULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Geração e Distribuição de Energia.',**/
-        infografico:{titulo:'Geração e Distribuição de Energia',
+        infografico:{titulo:'Lição 15. Geração e Distribuição de Energia',
         tituloSimplificado:'Geração de Energia',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1387,7 +1504,7 @@ let livro_cw2 ={
         id:'CW2AULA16CODE',
         /** padroesCurriculares: 
         titulo:'Lição 16. Sensores e os Órgãos do Sentido.',**/
-        infografico:{titulo:'Sensores e os Sentidos Humanos',
+        infografico:{titulo:'Lição 16. Sensores e os Sentidos Humanos',
         tituloSimplificado:'Sensores',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1521,7 +1638,7 @@ let livro_cw2 ={
         id:'CW2AULA17CODE',
         /** padroesCurriculares: 
         titulo:'Lição 17. Projeto Carro Robotizados.',**/
-        infografico:{titulo:'O Carro: Passado e Futuro',
+        infografico:{titulo:'Lição 17. O Carro: Passado e Futuro',
         tituloSimplificado:'O Carro',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1609,7 +1726,7 @@ let livro_cw2 ={
         id:'CW2AULA19CODE',
         /** padroesCurriculares: 
         titulo:'Lição 19. Programação em Par e Depuração.',**/
-        infografico:{titulo:'Programação em Par e Depuração',
+        infografico:{titulo:'Lição 19. Programação em Par e Depuração',
         tituloSimplificado:'Depuração',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1726,7 +1843,149 @@ let livro_cw2 ={
          ]}},
 
 
-      licao20:{},
+         licao20:{
+          id:'CSXAULA20CODE',
+          /** padroesCurriculares: 
+          titulo:'Lição 20. Navegação e Comunicação Segura',**/ //TODO Verificar com Alvim a adequação desse infográfico à lição
+          infografico:{titulo:'Lição 20. Busca e Privacidade',
+          tituloSimplificado:'Busca e Privacidade',
+          estiloPadrao:'basicoPaisagem',
+          /** urlVideo:'',
+          urlPodcast:'', **/
+          cenas:[
+            {ordem:1,
+            predecessor:0,
+            texto:'Hoje vamos aprender a <b>navegar</b>, ou seja, <b>usar</b> a internet com segurança!',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:2,
+            predecessor:1,
+            texto:'Pensem na <b>internet</b> como uma biblioteca gigante cheia de informações sobre tudo que vocês podem imaginar.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:3,
+            predecessor:2,
+            texto:'Quando queremos explorar essa biblioteca, usamos algo chamado <b>navegador</b>, que é como um guia que nos ajuda a achar o que precisamos nessa imensa biblioteca online.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:4,
+            predecessor:3,
+            texto:'Com o navegador, podemos procurar por qualquer coisa digitando em <b>sites de busca</b>.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:5,
+            predecessor:4,
+            texto:'Mas, temos que tomar cuidado com os <b>dados pessoais</b> que informamos na internet...',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:6,
+            predecessor:5,
+            texto:'<b>Dados pessoais</b> revelam coisas sobre nós, como onde moramos ou o que gostamos de fazer. E isso pode ser usado por pessoas com más intenções para nos enganar... o que, infelizmente, é muito comum.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:7,
+            predecessor:6,
+            texto:'Por isso, é muito importante não digitar esses dados na internet, quando os sites pedem, sem ter alguém orientando.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:8,
+            predecessor:7,
+            texto:'Também é bom evitar sites que parecem estranhos ou que oferecem coisas que são boas demais para ser verdade. Eles podem tentar fazer vocês baixarem programas ruins que estragam o computador e pegam suas informações.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:9,
+            predecessor:8,
+            texto:'Se algo parecer suspeito, falem com um adulto de confiança.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+            {ordem:10,
+            predecessor:9,
+            texto:'Com esses cuidados, podemos usar a internet de forma segura e divertida.',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+  
+            {ordem:11,
+            predecessor:10,
+            texto:'Prontos para começar a explorar a internet com segurança?',
+            urlAudioTexto:'',
+            textoSimplificado:'',
+            textoImpresso:1,
+            imagemImpresso:1,
+            urlImagem:'',
+            promptImagem:'', 
+            imagemFonte:'',
+            textoDescritivoImagem:'',},
+    
+          ]}},
 
 
       licao21:{},	
@@ -1740,7 +1999,7 @@ let livro_cw2 ={
         id:'CW2AULA22CODE',
         /** padroesCurriculares: 
         titulo:'Lição 22. Os Primórdios da Animação.',**/
-        infografico:{titulo:'Animações do Analógico ao Digital',
+        infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
         tituloSimplificado:'Animações',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1894,7 +2153,7 @@ let livro_cw2 ={
         id:'CW2AULA26CODE',
         /** padroesCurriculares: 
         titulo:'Lição 26. Introdução ao Laboratório de Histórias.',**/
-        infografico:{titulo:'Introdução ao Story Lab',
+        infografico:{titulo:'Lição 26. Introdução ao Story Lab',
         tituloSimplificado:'O Story Lab',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2059,10 +2318,10 @@ let livro_cw2 ={
          ]}},
 
       licao27:{
-        id:'CW2AULA26CODE',
+        id:'CW2AULA27CODE',
         /** padroesCurriculares: 
         titulo:'Lição 27. Projeto Missão Criativa - Minha Primeira Animação Digital',**/
-        infografico:{titulo:'Missão Criativa: História em Quadrinho Animada',
+        infografico:{titulo:'Lição 27. Missão Criativa: História em Quadrinho Animada',
         tituloSimplificado:'Missão Criativa',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',

@@ -46,14 +46,12 @@ let livro_cw1 ={
   
 /* conteudo */
   unidade1:{
+    titulo:'ALGORITMOS E ROBÔS',
+    descricao:'NESTA UNIDADE, VOCÊ SERÁ APRESENTADO AO CONCEITO DE ALGORITMOS E VAI CONHECER O PRIMEIRO ROBÔ QUE VOCÊ VAI PROGRAMAR.',
 	  licao1:{id:'CW1AULA01CODE',
-		/** padroesCurriculares: 
-		titulo:'Lição 01. Algoritmos.',**/
-		infografico:{titulo:'DESVENDANDO O MUNDO DOS ALGORITMOS',
+		infografico:{titulo:'LIÇÃO 01. DESVENDANDO O MUNDO DOS ALGORITMOS',
 		tituloSimplificado:'ALGORITMOS',
 		estiloPadrao:'basicoPaisagem',
-		/** urlVideo:'',
-		urlPodcast:'', **/
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
@@ -278,13 +276,9 @@ let livro_cw1 ={
 			]}},
     
     licao2:{id:'CW1AULA02CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 02. O Computador.',**/
-    infografico:{titulo:'DESCOBRINDO O COMPUTADOR',
+    infografico:{titulo:'LIÇÃO 02. DESCOBRINDO O COMPUTADOR',
     tituloSimplificado:'COMPUTADOR',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
@@ -498,13 +492,9 @@ let livro_cw1 ={
     licao3:{},
       
     licao4:{id:'CW1AULA04CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 04. Robôs.',**/
-    infografico:{titulo:'VAMOS APRENDER SOBRE ROBÔS',
+    infografico:{titulo:'LIÇÃO 04. VAMOS APRENDER SOBRE ROBÔS',
     tituloSimplificado:'ROBÔS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
         {ordem:1,
         predecessor:0,
@@ -630,7 +620,7 @@ let livro_cw1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i3-robos/img10.jpg',
         textoImpresso:1,
-        textoImpressoRecriado:'ROBÔS TÊM UM COMPUTADOR COMO CÉREBRO.',
+        textoImpressoRecriado:'ROBÔS POSSUEM UM COMPUTADOR COMO CÉREBRO.',
         promptImagem:'robô engraçado 3d pensando',
         imagemImpresso:1,
         imagemFonte:'ideogram',
@@ -705,13 +695,9 @@ let livro_cw1 ={
       licao5:{},
     
       licao6:{id:'CW1AULA06CODE',
-      /** padroesCurriculares: 
-      titulo:'Lição 06. Letrópolis.',**/
-      infografico:{titulo:'A CIDADE DAS VOGAIS: UMA AVENTURA EM LETRÓPOLIS',
+      infografico:{titulo:'LIÇÃO 06. A CIDADE DAS VOGAIS: UMA AVENTURA EM LETRÓPOLIS',
       tituloSimplificado:'LETRÓPOLIS',
       estiloPadrao:'basicoPaisagem',
-      /** urlVideo:'',
-      urlPodcast:'', **/
         cenas:[				
         {ordem:1,
         predecessor:0,
@@ -836,15 +822,12 @@ let livro_cw1 ={
   },
 
   unidade2:{
-	
+    titulo:'LAÇOS E EVENTOS',
+    descricao:'NESTA UNIDADE, VOCÊ APRENDERÁ A USAR OS LAÇOS PARA REPETIR COMANDOS E VERÁ COMO OS EVENTOS ATUAM NA PROGRAMAÇÃO.',
     licao8:{id:'CW1AULA08CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 08. Eletricidade e Circuitos em Papel.',**/
-    infografico:{titulo:'CIRCUITOS EM PAPEL: UMA JORNADA ELETRIZANTE',
+    infografico:{titulo:'LIÇÃO 08. CIRCUITOS EM PAPEL: UMA JORNADA ELETRIZANTE',
     tituloSimplificado:'CIRCUITOS EM PAPEL',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[
       {ordem:1,
       predecessor:0,
@@ -1082,13 +1065,9 @@ let livro_cw1 ={
       ]}},
 	 
     licao9:{id:'CW1AULA09CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 09. Laços.',**/
-    infografico:{titulo:'VAMOS REPETIR! APRENDENDO SOBRE LAÇOS',
+    infografico:{titulo:'LIÇÃO 09. VAMOS REPETIR! APRENDENDO SOBRE LAÇOS',
     tituloSimplificado:'LAÇOS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1097,7 +1076,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img1.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'OS LAÇOS SERVEM PARA PESSOAS OU COMPUTADORES FAZEREMAS MESMAS COISAS MUITAS VEZES.',
+      textoImpressoRecriado:'OS LAÇOS SERVEM PARA DIZER, A PESSOAS OU COMPUTADORES, QUE REPITAM ALGO VÁRIAS VEZES.',
       promptImagem:'criança pulando corda, desenho animado, cinematic',
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1173,17 +1152,13 @@ let livro_cw1 ={
     licao10:{},
 
     licao11:{id:'CW1AULA11CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 11. Eventos.',**/
-    infografico:{titulo:'DESCOBRINDO OS EVENTOS NA PROGRAMAÇÃO',
+    infografico:{titulo:'LIÇÃO 11. DESCOBRINDO OS EVENTOS NA PROGRAMAÇÃO',
     tituloSimplificado:'EVENTOS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'UM EVENTO É ALGO QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
+      texto:'UM EVENTO É ALGO IMPORTANTE QUE ACONTECE EM UM DETERMINADO MOMENTO E LUGAR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img1.webp',
@@ -1305,7 +1280,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img9.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'EVENTOS FAZEM O COMPUTADOR REAGIR.',
+      textoImpressoRecriado:'EVENTOS FAZEM OS PROGRAMAS DE COMPUTADOR REAGIREM.',
       promptImagem:'arte digital de uma criança jogando videogame',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1318,7 +1293,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img11.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO NO JOGO, FAZENDO O PERSONAGEM PULAR.',
+      textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO PROGRAMA DO JOGO, QUE FAZ O PERSONAGEM PULAR.',
       promptImagem:'arte digital de um computador desktop com código flutuando',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1341,13 +1316,9 @@ let livro_cw1 ={
     licao12:{},
 	  
     licao13:{id:'CW1AULA13CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 13. Numerópolis.',**/
-    infografico:{titulo:'BEM VINDOS A NUMERÓPOLIS!',
+    infografico:{titulo:'LIÇÃO 13. BEM VINDOS A NUMERÓPOLIS!',
     tituloSimplificado:'NUMERÓPOLIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1416,7 +1387,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ONDE SERÁ QUE JÁ VIMOS ESSE PROBLEMA ANTES?',
+      texto:'JÁ VIMOS ESSE PROBLEMA ANTES, NÃO É?',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1447,7 +1418,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i8-numeropolis/img9.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'AGORA QUE VOCÊ JÁ SABE COMO PROGRAMAR, VAI SER MOLEZA AJUDAR NOSSOS AMIGOS, NÃO É? ',
+      textoImpressoRecriado:'AGORA QUE VOCÊ JÁ SABE COMO PROGRAMAR, VAI SER MOLEZA AJUDAR NOSSOS AMIGOS. ',
       promptImagem:'Robô engraçado 3D acenando com a mão',
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1458,14 +1429,12 @@ let livro_cw1 ={
   },
    
   unidade3:{
+    titulo:'CONDICIONAIS E DEPURAÇÃO',
+    descricao:'NESTA UNIDADE, VOCÊ APRENDERÁ A USAR CONDICIONAIS E SE TORNARÁ UM VERDADEIRO DETETIVE, PARA ENCONTRAR BUGS NOS PROGRAMAS.',
     licao15:{id:'CW1AULA15CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 17. Condicionais.',**/
-    infografico:{titulo:'EXPLORANDO CAMINHOS COM AS CONDICIONAIS',
+    infografico:{titulo:'LIÇÃO 15. EXPLORANDO CAMINHOS COM AS CONDICIONAIS',
     tituloSimplificado:'CONDICIONAIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1578,7 +1547,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img9.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'NO JOGO, SE O PERSONAGEM CHEGAR NA PAREDE, VOCÊ FAZ ELE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO.',
+      textoImpressoRecriado:'EM UM JOGO, SE O PERSONAGEM CHEGAR NA PAREDE, O PROGRAMA FAZ ELE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO.',
       promptImagem:'pintura de um jovem tocando uma parede com a mão',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1614,13 +1583,9 @@ let livro_cw1 ={
     licao16:{},
 
     licao17:{id:'CW1AULA17CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 17. Depuração E Qualidade',**/
-    infografico:{titulo:'DETETIVES: APRENDENDO SOBRE DEPURAÇÃO',
+    infografico:{titulo:'LIÇÃO 17. DETETIVES: APRENDENDO SOBRE DEPURAÇÃO',
     tituloSimplificado:'DEPURAÇÃO',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1797,13 +1762,9 @@ let livro_cw1 ={
     licao19:{},
 
     licao20:{id:'CW1AULA20CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 20. Jogos Robóticos de Inverno.',**/
-    infografico:{titulo:'OS JOGOS ROBÓTICOS DE INVERNO',
+    infografico:{titulo:'LIÇÃO 20. OS JOGOS ROBÓTICOS DE INVERNO',
     tituloSimplificado:'JOGOS DE INVERNO',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[
       {ordem:1,
       predecessor:0,
@@ -1941,15 +1902,12 @@ let livro_cw1 ={
   },
   
   unidade4:{
-	  
+	  titulo:'SENHAS E SEGURANÇA',
+    descricao:'NESTA UNIDADE, VOCÊ APRENDERÁ UM POUCO SOBRE O USO DAS SENHAS PARA MANTER TUDO SEGURO NO SEU COMPUTADOR.',
     licao22:{id:'CW1AULA22CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 16. Senhas e Segurança',**/
-    infografico:{titulo:'UMA JORNADA SOBRE SENHAS E SEGURANÇA',
+    infografico:{titulo:'LIÇÃO 22. UMA JORNADA SOBRE SENHAS E SEGURANÇA',
     tituloSimplificado:'SENHAS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -2018,7 +1976,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ENTÃO, SÓ A GENTE, QUE TEM A CHAVE, CONSEGUE ABRIR A CAIXA QUE GUARDA NOSSAS COISAS.',
+      texto:'ASSIM, SÓ NÓS CONSEGUIMOS ABRIR A CAIXA QUE GUARDA NOSSAS COISAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img10.webp',
@@ -2165,13 +2123,9 @@ let livro_cw1 ={
     licao24:{},
    
     licao25:{id:'CW1AULA25CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 25. Numerópolis VS. Letrópolis.',**/
-    infografico:{titulo:'A GRANDE DISPUTA: NUMERÓPOLIS VS. LETRÓPOLIS',
+    infografico:{titulo:'LIÇÃO 25. A GRANDE DISPUTA: NUMERÓPOLIS VS. LETRÓPOLIS',
     tituloSimplificado:'NUMERÓPOLIS VS. LETRÓPOLIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[
       {ordem:1,
       predecessor:0,
@@ -2320,13 +2274,9 @@ let livro_cw1 ={
     licao26:{},
 
     licao27:{id:'CW1AULA27CODE',
-    /** padroesCurriculares: 
-    titulo:'Lição 27. Binarópolis.',**/
-    infografico:{titulo:'A CIDADE DOS 1s e 0s: CONHECENDO BINARÓPOLIS',
+    infografico:{titulo:'LIÇÃO 27. A CIDADE DOS 1s e 0s: CONHECENDO BINARÓPOLIS',
     tituloSimplificado:'BINARÓPOLIS',
     estiloPadrao:'basicoPaisagem',
-    /** urlVideo:'',
-    urlPodcast:'', **/
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -2395,19 +2345,6 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i14-binaropolis/img6.jpg',
-      textoImpresso:1,
-      textoImpressoRecriado:'COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
-      promptImagem:'uma rua colorida, futurista e muito limpa',
-      imagemImpresso:1,
-      imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
-
-      {ordem:7,
-      predecessor:6,
       texto:'OS COMPUTADORES USAM O “SISTEMA BINÁRIO” PARA REPRESENTAR DE TUDO: LETRAS, NÚMEROS, IMAGENS, SONS... ENTÃO DEVE TER UM JEITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2419,8 +2356,8 @@ let livro_cw1 ={
       imagemFonte:'',
       textoDescritivoImagem:'',},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:7,
+      predecessor:6,
       texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2432,6 +2369,19 @@ let livro_cw1 ={
       imagemFonte:'ideogram',
       textoDescritivoImagem:'',},
 
+      {ordem:8,
+      predecessor:7,
+      texto:'MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i14-binaropolis/img6.jpg',
+      textoImpresso:1,
+      textoImpressoRecriado:'MAS COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
+      promptImagem:'uma rua colorida, futurista e muito limpa',
+      imagemImpresso:1,
+      imagemFonte:'leonardo',
+      textoDescritivoImagem:'',},      
+      
       {ordem:9,
       predecessor:8,
       texto:'E SÃO DESLIGADOS PARA REPRESENTAR O “ZERO”, QUE DESENHAMOS COMO UMA CAIXINHA PRETA.',
@@ -2465,7 +2415,7 @@ let livro_cw1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i14-binaropolis/img11.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'AGORA VOCÊ CONHECE O SISTEMA BINÁRIO E VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
+      textoImpressoRecriado:'AGORA QUE VOCÊ CONHECE O SISTEMA BINÁRIO, VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',

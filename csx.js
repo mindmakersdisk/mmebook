@@ -10,7 +10,7 @@ let livro_csx ={
   versao:'0.1.00',
   nomeFantasia: 'Expresso',
   resumo:'Módulo expresso para implantação direta nos anos finais do Ensino Fundamental (F2), trazendo um resumo dos fundamentos ministrados nos módulos CS3, CS4 e CS5. É pré-requisito para o prosseguimento dos alunos no módulo CS6. Pode ser implantado do 5o ao 8o ano.',
-  nomeTecnico:'',
+  nomeTecnico:'CSX',
   isbn:'',
   autores:[],
   editor:'',
@@ -58,7 +58,7 @@ let livro_csx ={
 		  id:'CSXAULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Dispositivos Computacionais.',**/
-		  infografico:{titulo:'Computador e Dispositivos Computacionais',
+		  infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
 		  tituloSimplificado:'O Computador',
 		  estiloPadrao:'basicoPaisagem',
 			/** urlVideo:'',
@@ -66,7 +66,7 @@ let livro_csx ={
 			cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
+        texto:'Neste curso, descobriremos como é divertido programar computadores e montar circuitos elétricos, dando nossos primeiros passos na Ciência da Computação.',
         urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
         textoSimplificado:'Primeiros passos',
         textoImpresso:1,
@@ -241,7 +241,7 @@ let livro_csx ={
         textoImpresso:1,
         imagemImpresso:1,
         textoImpressoRecriado:'Mas então, o que é realmente um computador? Um computador é uma máquina eletrônica que pode ser programada para nos divertir com jogos, nos ajudar a criar vídeos, fotos, músicas, livros e até mesmo controlar carros, robôs ou cidades. E o mais incrivel é que vamos aprender como isso é possível, neste curso!',
-        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img16%2C.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img16.webp',
         promptImagem:'Digital art of a joyful black girl sitting at her computer, a broad smile on her face as she is programming. Bright, colorful lines of code are displayed on the screen, reflecting in her wide, enthusiastic eyes. The scene exudes positivity, creativity, and the powerful potential of coding', 
         imagemFonte:'dall-e 3',
         textoDescritivoImagem:'Laptop com uma mão em segundo plano, dando a entender que a pessoa está programando', },
@@ -251,7 +251,7 @@ let livro_csx ={
       id:'CSXAULA02CODE',
       /** padroesCurriculares: 
       titulo:'Lição 02. Algoritmo, Identificação de Padrão e Sequência.',**/
-      infografico:{titulo:'Algoritmos no Dia a Dia',
+      infografico:{titulo:'Lição 02. Algoritmos no Dia a Dia',
       tituloSimplificado:'Algoritmos',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -283,7 +283,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Por exemplo, algumas pessoas criam algoritmos com imagens. Dizemos que as imagens são a linguagem do algoritmo.',
+        texto:'Por exemplo, algumas pessoas criam algoritmos com imagens. Neste caso, dizemos que as imagens são a linguagem do algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com imagens',
         textoImpresso:1,
@@ -295,7 +295,7 @@ let livro_csx ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Outras usam diagramas com formas geométricas com conexões e textos explicativos.',
+        texto:'Outras usam diagramas como linguagem algorítmica, compostos por figuras geométricas, textos e conexões...',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos com Diagramas',
         textoImpresso:1,
@@ -359,7 +359,7 @@ let livro_csx ={
       id:'CSXAULA03CODE',
       /** padroesCurriculares: 
       titulo:'Lição 03. Laços.',**/
-      infografico:{titulo:'Laço em Algoritmos',
+      infografico:{titulo:'Lição 03. Laço em Algoritmos',
       tituloSimplificado:'Laço',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -379,7 +379,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Os laços são comandos que nos permitem instruir o computador a executar um comando várias vezes, sem precisar repeti-los no algoritmo.',
+        texto:'Os laços são comandos que nos permitem instruir o computador a executar um comando ou grupo de comandos várias vezes, sem precisar repeti-los no algoritmo.',
         urlAudioTexto:'',
         textoSimplificado:'Laço',
         textoImpresso:1,
@@ -391,7 +391,7 @@ let livro_csx ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Os laços são poderosos porque evitam a repetição de comandos. Com um pequeno algoritmo ou programa, fazemos coisas impressionantes.',
+        texto:'Os laços são poderosos porque reduzem o número de comandos e o tamanho dos algoritmos e programas. Fazemos mais, com menor esforço.',
         urlAudioTexto:'',
         textoSimplificado:'Laços são poderosos',
         textoImpresso:1,
@@ -484,7 +484,7 @@ let livro_csx ={
 		  id:'CSXAULA04CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 04. Circuito Elétrico.',**/
-		  infografico:{titulo:'O Circuito Elétrico',
+		  infografico:{titulo:'Lição 04. O Circuito Elétrico',
 			tituloSimplificado:'Circuito',
 			estiloPadrao:'basicoPaisagem',
 			cenas:[				
@@ -674,7 +674,7 @@ let livro_csx ={
       id:'CSXAULA05CODE',
       /** padroesCurriculares: 
       titulo:'Lição 05. Robótica.',**/
-      infografico:{titulo:'Robôs',
+      infografico:{titulo:'Lição 05. Robôs',
       tituloSimplificado:'Robôs',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -694,7 +694,7 @@ let livro_csx ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Vamos começar entendendo a origem dos robôs: os <b>autômatos</b>. Inventados há alguns séculos atrás, os autômatos são bonecos com mecanismos que produzem movimentos parecidos com os nossos e até parecem agir por vontade própria. Mas para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco... ainda assim, os autômatos são considerados um tipo primitivo de robô.',
+        texto:'Vamos começar entendendo a origem dos robôs: os <b>autômatos</b>. Inventados a alguns séculos atrás, os autômatos são bonecos com mecanismos que produzem movimentos parecidos com os nossos e até parecem agir por vontade própria. Mas para alterar o movimento de um autômato, o seu inventor precisa reconstruir grande parte do boneco... ainda assim, os autômatos são considerados um tipo primitivo de robô.',
         urlAudioTexto:'',
         textoSimplificado:'Autômatos',
         textoImpresso:1,
@@ -754,7 +754,7 @@ let livro_csx ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Gostou? Para controlarmos nosso primeiro robô, o primeiro passo é aprender sua linguagem de programação, ou seja, os comandos de programação que controlam seus movimentos.',
+        texto:'Gostou? Para controlar um robô, o primeiro passo é aprender sua linguagem de programação, ou seja, os comandos de programação que controlam seus movimentos.',
         urlAudioTexto:'',
         textoSimplificado:'Controlar robô',
         textoImpresso:1,
@@ -784,7 +784,7 @@ let livro_csx ={
 		  id:'CSXAULA06CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 06. Expressões Condicionais.',**/
-		  infografico:{titulo:'Expressão Condicional',
+		  infografico:{titulo:'Lição 06. Expressão Condicional',
 			tituloSimplificado:'Condicional',
 			estiloPadrao:'basicoPaisagem',
 			/** urlVideo:'',
@@ -792,7 +792,7 @@ let livro_csx ={
 			cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Já percebeu quantas decisões nós tomamos em um dia comum de nossas vidas? Uso a camiseta branca ou preta? Estudo antes ou depois de ver o filme? Vou jogar vôlei ou futebol hoje? Acabamos decidindo com base em certas condições, que podemos também expressar em algoritmos. Por exemplo: <p><code><b>se</b> estiver chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são as condicionantes.',
+        texto:'Já percebeu quantas decisões nós tomamos em um dia comum de nossas vidas? Uso a camiseta branca ou preta? Estudo antes ou depois de ver o filme? Vou jogar vôlei ou futebol hoje? Acabamos decidindo com base em certas condições, que podemos também expressar em algoritmos. Por exemplo: <p><code><b>se</b> estiver chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>Note que as expressões <b>Se</b>, <b>Então</b> e <b>Senão</b> são as condicionais.',
         urlAudioTexto:'',
         textoSimplificado:'Expressões Condicionais',
         textoImpresso:1,
@@ -869,7 +869,7 @@ let livro_csx ={
       id:'CSXAULA07CODE',
       /** padroesCurriculares: 
       titulo:'Lição 07. Expressões Lógicas.',**/
-      infografico:{titulo:'Expressão Lógica',
+      infografico:{titulo:'Lição 07. Expressão Lógica',
       tituloSimplificado:'Lógica',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -968,12 +968,12 @@ let livro_csx ={
     titulo:'Programação Orientada a Eventos',
 	  descricao:`Nesta unidade, aprenderemos programação orientada a eventos, compreendendo o conceito de eventos no mundo físico e sua importância no mundo digital, no ciclo de vida dos programas. 
 	  
-	  Avançaremos para a linguagem de programação Scratch, conhecendo seu ambiente de programação altamente flexível, interativo e orientado a eventos. O Scratch nos permite criar e programar nossas próprias histórias, jogos e animações. Por fim, para conseguirmos produzir nossos próprios personagens e elementos com autonomia, conheceremos a história das animações e algumas técnicas básicas para captura e edição de imagens.`,
+	  Avançaremos para a linguagem de programação Scratch, conhecendo seu ambiente de programação altamente flexível, interativo e orientado a eventos. O Scratch nos permite criar e programar nossas próprias histórias, jogos e animações. Por fim, para conseguirmos produzir personagens e elementos com autonomia, conheceremos a história das animações e algumas técnicas básicas para captura e edição de imagens.`,
     licao8:{
       id:'CSXAULA08CODE',
       /** padroesCurriculares: 
       titulo:'Lição 08. Eventos.',**/
-      infografico:{titulo:'Eventos',
+      infografico:{titulo:'Lição 08. Eventos',
       tituloSimplificado:'Evento',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -981,7 +981,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Você sabe o que é um evento? Damos esse nome a acontecimentos inesperados, que ocorrem eventualmente. Um evento não é algo que acontece repetidamente todos os dias em um horário determinado, por exemplo.',
+        texto:'Em nosso dia a dia, damos o nome de evento a acontecimentos externos importantes, recorrentes ou inesperados.',
         urlAudioTexto:'',
         textoSimplificado:'Eventos',
         textoImpresso:1,
@@ -1041,7 +1041,7 @@ let livro_csx ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Os dispositivos móveis também contam com sensores capazes de gerar eventos independentes do usuário, mas que podem ser aproveitados por programadores experientes. Por exemplo, ao detectar a temperatura elevada de um aparelho, um programa pode enviar um alerta para que o usuário tome medidas para resfriá-lo.',
+        texto:'Os dispositivos móveis também contam com sensores capazes de gerar eventos independentes do usuário, mas que podem ser aproveitados por programadores experientes. Por exemplo, ao detectar a temperatura elevada de um aparelho, um programa pode enviar um alerta para o usuário.',
         urlAudioTexto:'',
         textoSimplificado:'Sensores',
         textoImpresso:1,
@@ -1056,7 +1056,7 @@ let livro_csx ={
       id:'CSXAULA09CODE',
       /** padroesCurriculares: 
       titulo:'Lição 09. IA - Sensores e os Órgãos do Sentido.',**/
-      infografico:{titulo:'Sensores e os Sentidos Humanos',
+      infografico:{titulo:'Lição 09. Sensores e os Sentidos Humanos',
       tituloSimplificado:'Sensores',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1186,13 +1186,152 @@ let livro_csx ={
         textoDescritivoImagem:'Imagem com diversos tipos de sensonres eletrônicos.', },
       ]}},
 
-    licao10:{},
+    licao10:{
+      id:'CSXAULA10CODE',
+      /** padroesCurriculares: 
+      titulo:'Lição 10. Sensores e Eventos.',**/
+      infografico:{titulo:'Lição 10. Explorando Sensores e Eventos em Computação',
+      tituloSimplificado:'Sensores e Eventos',
+      estiloPadrao:'basicoPaisagem',
+      /** urlVideo:'',
+      urlPodcast:'', **/
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'Dispositivos computacionais tais como robôs, celulares ou tablets, podem ser programados para responder a variados estímulos do ambiente, quando são equipados com sensores.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_1.webp',
+        promptImagem:'Uma imagem em alta qualidade, em 3R render, com um robô aspirador à esquerda, um smartphone no centro e um tablet à direita, cada com suas devidas dimensões, proporcionas com as dimensões reais dos dispositivos, em um fundo branco', 
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+        
+        {ordem:2,
+        predecessor:1,
+        texto:`Diferentes sensores "percebem" diferentes estímulos do mundo ao redor. Essas percepções são convertidas em sinais eletrônicos, chamados de "eventos", que são enviados para os programas que rodam nesses dispositivos.`,
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_2.webp',
+        promptImagem:'Imagem em 3D render, como foco em um sensor termostato instalado dentro de um forno industrial e foco no cabo energizado que está enviando o sinal do termostato para um computador industrial, que percebe a mudança de temperatura e envia um sinal de retorno para o sistema de controle do forno, para aumentar a temperatura do forno',
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+
+        {ordem:3,
+        predecessor:2,
+        texto:'Quando um sensor detecta alguma mudança no ambiente, ele dispara esses eventos com algum valor, que os programas então usam para reagir a situações específicas.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_3.webp',
+        promptImagem:'Imagem em 3D que representa um sensor detectando mudanças ambientais e acionando eventos, os quais programas de computador utilizam para reagir a situações específicas. Exiba o sensor de forma proeminente com elementos visuais indicando o fluxo de dados para um computador. Utilize um fundo branco e limpo para realçar o tema tecnológico.', 
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+        
+        {ordem:4,
+        predecessor:3,
+        texto:'Por exemplo, um <b>sensor de luz</b> em um celular percebe a luminosidade do ambiente, converte para um valor numérico e envia este valor para um programa que, ao julgar que está muito escuro, ajusta automaticamente o brilho da tela.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_4.webp',
+        promptImagem:'Imagem em renderização 3D que representa um sensor de luz em um smartphone detectando a luz ambiente e ajustando o brilho da tela de acordo. Exiba o smartphone de forma proeminente com uma representação visual do fluxo de dados do sensor para a tela, em um fundo branco e limpo.', 
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+
+        {ordem:5,
+        predecessor:4,
+        texto:'Da mesma forma, robôs educacionais equipados com <b>sensores segue-linha</b> detectam a presença de linhas escuras no chão. Quando detectam o fim da linha, o programa então identifica uma curva e reage ajustando o curso do robô.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_5.jpg',
+        promptImagem:'Crie uma imagem renderizada 3D altamente realista de um robô de um robô educacional que se move sobre duas rodas dianteiras e possui dois sensores segue-linha em sua fronteira. Certifique-se de que o robô tenha um design robusto. Detalhe cada componente do robô com precisão, incluindo sensores, LEDs, casing transparente de placa revestindo seu circuito impresso, e estrutura metálica. Garanta que a iluminação da cena destaque as características do robô e que o robô esteja em um sobre um piso de tom de chumbo. Faça com que um o robô esteja se movendo sobre um chão branco, seguindo um trajeto traçado em preto no chão com o auxílio de seus sensores segue-linha.', 
+        imagemFonte:'leonardo',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+        
+        {ordem:6,
+        predecessor:5,
+        texto:'Os <b>sensores de ultrassom</b> são comuns em robôs que operam em ambientes com muitos obstáculos. Eles detectam um objeto próximo e disparam um evento com sua distância até o objeto, e um programa pode então evitar colisões, fazendo o robô parar ou desviar.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_6.jpg',
+        promptImagem:'Crie uma imagem renderizada 3D altamente realista de um robô de um robô educacional que se move sobre duas rodas traseiras e possui dois sensores de ultrassom em sua fronteira. Certifique-se de que o robô tenha um design robusto. Detalhe cada componente do robô com precisão, incluindo sensores, LEDs, casing transparente de placa revestindo seu circuito impresso, e estrutura metálica. Garanta que a iluminação da cena destaque as características do robô e que o robô esteja em um sobre um piso de tom de chumbo. Faça com que um o robô esteja se movendo sobre um chão branco, e enfoque os dois sensores de ultrassom em sua dianteira.',
+        imagemFonte:'leonardo',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+
+        {ordem:7,
+        predecessor:6,
+        texto:'Em celulares ou tablets, as telas possuem um <b>sensor de toque</b> que identifica onde e como ela foi tocada. Um evento é então disparado com estes valores, que permite ao programa corrente reagir, seja abrindo um aplicativo, seja movendo peças em um jogo.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_7.webp',
+        promptImagem:'Imagem em uma renderização 3D ultrarrealista de uma mulher em pé enquanto usa um smartphone, com foco em sua mão deslizando pela tela para desbloquear o dispositivo.  Garanta que representações gráficas na tela seja detalhadamente vívidas e que a imagem seja exibida contra um fundo branco limpo, enfatizando o processo de desbloqueio da tela.',
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+        
+        {ordem:8,
+        predecessor:7,
+        texto:'Eventos também podem ser disparados por <b>temporalidade</b>, por exemplo, sendo disparado todo dia às 8h da manhã. Um programa pode então reagir a isso, iniciando um sistema de irrigação automática.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_8.webp',
+        promptImagem:'', 
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+
+        {ordem:9,
+        predecessor:8,
+        texto:'Por todos esses exemplos, já deu para perceber como a chamada <b>"programação por eventos"</b> é especialmente importante em robótica e nos dispositivos interativos.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_9.webp',
+        promptImagem:'Crie uma renderização 3D que representa uma cena com uma variedade de dispositivos utilizando diferentes sensores, como um robô com sensor de seguimento de linha, um smartphone com sensor de toque e um dispositivo com sensor de luz. Cada dispositivo deve ser mostrado interagindo com seu ambiente de maneiras que destacam a importância da programação orientada a eventos em robótica e dispositivos interativos.',
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+
+        {ordem:10,
+        predecessor:9,
+        texto:'Aprender essa técnica é essencial para cientistas da computação e para entendermos as tecnologias do mundo moderno!',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'Crie uma renderização 3D que ilustra uma cena enfatizando a importância de aprender programação orientada a eventos. A imagem deve mostrar um grupo diversificado de cientistas da computação reunidos ao redor de um grande display digital, interagindo com representações visuais dos conceitos de programação orientada a eventos. Esta cena deve destacar o quão crucial essa técnica de programação é para entender a tecnologia moderna.',
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/ExpSensEvent/img_10.webp',
+        imagemFonte:'dall-e 3',
+        imagemArremate:1,
+        textoDescritivoImagem:'', },
+  ]}},
 
     licao11:{
 		  id:'CSXAULA11CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 11. A Linguagem de Programação Scratch.',**/
-		  infografico:{titulo:'A Linguagem de Programação Scratch',
+		  infografico:{titulo:'Lição 11. A Linguagem de Programação Scratch',
       tituloSimplificado:'Scratch',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1288,7 +1427,7 @@ let livro_csx ={
       id:'CSXAULA12CODE',
       /** padroesCurriculares: 
       titulo:'Lição 12. Videogame.',**/
-      infografico:{titulo:'Criando Videogames',
+      infografico:{titulo:'Lição 12. Criando Videogames',
       tituloSimplificado:'Videogames',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1396,7 +1535,7 @@ let livro_csx ={
       id:'CSXAULA13CODE',
       /** padroesCurriculares: 
       titulo:'Lição 13. Animações Analógicas e Digitais.',**/
-      infografico:{titulo:'Animações do Analógico ao Digital',
+      infografico:{titulo:'Lição 13. Animações do Analógico ao Digital',
       tituloSimplificado:'Animação',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1404,7 +1543,7 @@ let livro_csx ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'Nossas primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à Pré-história, época em que nós, humanos, vivíamos em cavernas.',
+        texto:'Nossas primeiras tentativas de criar uma ilusão de movimento a partir de desenhos remontam à pré-história, época em que nós, humanos, vivíamos em cavernas.',
         urlAudioTexto:'',
         textoSimplificado:'Primórdios das Animações',
         textoImpresso:1,
@@ -1554,7 +1693,7 @@ let livro_csx ={
       id:'CSXAULA14CODE',
       /** padroesCurriculares: 
       titulo:'Lição 14. Linguagens Midiáticas e Tecnologias Digitais',**/
-      infografico:{titulo:'Editando Imagens Digitais',
+      infografico:{titulo:'Lição 14. Editando Imagens Digitais',
       tituloSimplificado:'Imagens Digitais',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -1672,13 +1811,126 @@ let livro_csx ={
       
       Mergulhando mais a fundo nos dados digitais, vamos aprender sobre sistema binário: o código interno dos computadores. Ele nos explica como os computadores conseguem armazenar e processar textos, números, sons, imagens e vídeos em formato digital, utilizando apenas os dígitos 0 (zero) e 1 (um).`,
       
-      licao15:{},
+      licao15:{
+        id:'CSXAULA15CODE',
+        /** padroesCurriculares: 
+        titulo:'Lição 15. Robótica com Delocamento Relativo.',**/
+        infografico:{titulo:'Lição 15. TODO Robótica com Delocamento Relativo',
+        tituloSimplificado:'Deslocamento Relativo',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+        urlPodcast:'', **/
+        cenas:[				
+          {ordem:1,
+          predecessor:0,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+          
+          {ordem:2,
+          predecessor:1,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+  
+          {ordem:3,
+          predecessor:2,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+          
+          {ordem:4,
+          predecessor:3,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+  
+          {ordem:5,
+          predecessor:4,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+          
+          {ordem:6,
+          predecessor:5,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+  
+          {ordem:7,
+          predecessor:6,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+          
+          {ordem:8,
+          predecessor:7,
+          texto:'',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          imagemArremate:1,
+          textoDescritivoImagem:'', },
+        ]}},
   
       licao16:{
         id:'CSXAULA16CODE',
         /** padroesCurriculares: TESTE
         titulo:'Lição 16. Circuitos Figital com Portas Lógicas.',**/
-        infografico:{titulo:'Portas Lógicas',
+        infografico:{titulo:'Lição 16. Portas Lógicas',
         tituloSimplificado:'Portas Lógicas',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -1704,7 +1956,7 @@ let livro_csx ={
           textoSimplificado:'Condicionais e expressões lógicas.',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i16%20-%20Portas%20L%C3%B3gicas/slide%202.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/PortLog/img2.png',
           promptImagem:'Imagem de pessoa usando guarda chuva.',
           imagemFonte:'autoral',
           textoDescritivoImagem:'Imagem de ambiente externo, em um dia chuvoso, destacando uma pessoa que está utilizando um guarda-chuva.', },
@@ -1815,7 +2067,7 @@ let livro_csx ={
           id:'CSXAULA17CODE',
           /** padroesCurriculares: 
           titulo:'Lição 17. Dados.',**/
-          infografico:{titulo:'Dados e Informação',
+          infografico:{titulo:'Lição 17. Dados e Informação',
           tituloSimplificado:'Dados',
           estiloPadrao:'basicoPaisagem',
           /** urlVideo:'',
@@ -1980,7 +2232,7 @@ let livro_csx ={
           id:'CSXAULA18CODE',
           /** padroesCurriculares: 
           titulo:'Lição 18. Matrizes e Registros.',**/
-          infografico:{titulo:'Matrizes e Registros',
+          infografico:{titulo:'Lição 18. Matrizes e Registros',
           tituloSimplificado:'Registros',
           estiloPadrao:'basicoPaisagem',
           /** urlVideo:'',
@@ -2046,7 +2298,7 @@ let livro_csx ={
             imagemFonte:'autoral',
             textoDescritivoImagem:'TODO.', },
     
-            {ordem:6,
+            /*{ordem:6,
             predecessor:5,
             texto:'Mas suponha que, em nosso calendário, desejamos armazenar não apenas um texto por dia, mas também informações sobre o clima, compromissos e aniversários. Para isso servem os registros.',
             urlAudioTexto:'',
@@ -2056,10 +2308,10 @@ let livro_csx ={
             urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/MatrReg/img6.jpeg',
             promptImagem:'Imagem de uma calendário mensal, poluido, em que cada dia contém dados diversos além do seu número e dia da semana, como temperatura, agenda do usuário, data de aniversário de conhecidos.', 
             imagemFonte:'ideogram',
-            textoDescritivoImagem:'TODO.', },
+            textoDescritivoImagem:'TODO.', },*/
   
-            {ordem:7,
-            predecessor:6,
+            {ordem:6,
+            predecessor:5,
             texto:'Combinando listas e matrizes, temos a capacidade de criar sistemas de informação robustos.',
             urlAudioTexto:'',
             textoSimplificado:'TODO',
@@ -2070,8 +2322,8 @@ let livro_csx ={
             imagemFonte:'ideogram',
             textoDescritivoImagem:'TODO.', },
     
-            {ordem:8,
-            predecessor:7,
+            {ordem:7,
+            predecessor:6,
             texto:'Preparado para esse grande passo? Com listas e matrizes você estará pronto para explorar <b>o petróleo do século XXI</b>!',
             urlAudioTexto:'',
             textoSimplificado:'TODO',
@@ -2088,7 +2340,7 @@ let livro_csx ={
         id:'CSXAULA19CODE',
         /** padroesCurriculares: 
         titulo:'Lição 19. Sistema Binário - Letras',**/
-        infografico:{titulo:'Sistema Binário - Letras',
+        infografico:{titulo:'Lição 19. Sistema Binário - Letras',
         tituloSimplificado:'Sistema Binário',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2173,7 +2425,7 @@ let livro_csx ={
         id:'CSXAULA20CODE',
         /** padroesCurriculares: 
         titulo:'Lição 20. Sistema Binário - Números',**/
-        infografico:{titulo:'Sistema Binário - Números',
+        infografico:{titulo:'Lição 20. Sistema Binário - Números',
         tituloSimplificado:'Números Binários',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2210,7 +2462,7 @@ let livro_csx ={
           textoSimplificado:'tabela de valores posicionais',
           textoImpresso:1,
           imagemImpresso:1,
-          textoImpressoRecriado:'Vamos desvendar agora como os computadores representam números. Nós, seres humanos, preferimos o sistema decimal, que conta com dez símbolos, do zero ao nove. No sistema decimal, cada posição à esquerda de um dígito tem um valor dez vezes maior que a posição imediatamente à sua direita.',
+          textoImpressoRecriado:'Vamos agora entender como eles usam o sistema binário para armazenar e processar números: Usamos o sistema decimal para processar números em nosso cotidiano. Esse sistema, como o nome sugere, utiliza dez dígitos (de 0 a 9) e, com base neles, define um sistema capaz de representar qualquer valor numérico. Por exemplo: define que cada posição à esquerda de um dígito vale dez vezes mais que a posição à sua direita.',
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/SistBinNum/img_3.png',
           promptImagem:'Draw a blackboard with a place value chart. The chart should show the conversion of units to tens and tens to hundreds.',  //'Quadro negro com escrita de quadro de valor posicional, mostrando tabela para converter unidades em dezenas e dezenas em centenas',
           imagemFonte:'stablecog',
@@ -2301,7 +2553,7 @@ let livro_csx ={
         id:'CSXAULA21CODE',
         /** padroesCurriculares: 
         titulo:'Lição 21. Mídias Digitais - Compactação de Arquivos',**/
-        infografico:{titulo:'Compressão de Arquivos Digitais',
+        infografico:{titulo:'Lição 21. Compressão de Arquivos Digitais',
         tituloSimplificado:'Compressão de Arquivos',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -2443,7 +2695,7 @@ licao22:{
 id:'CSXAULA22CODE',
 /** padroesCurriculares: 
 titulo:'Lição 22. Ética digital',**/
-infografico:{titulo:'Ética Digital',
+infografico:{titulo:'Lição 22. Ética Digital',
 tituloSimplificado:'Ética Digital',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -2545,7 +2797,7 @@ licao23:{
 id:'CSXAULA23CODE',
 /** padroesCurriculares: 
 titulo:'Lição 23. Pegada Digital',**/
-infografico:{titulo:'Rastro Digital',
+infografico:{titulo:'Lição 23. Rastro Digital',
 tituloSimplificado:'Rastro Digital',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -2628,7 +2880,7 @@ cenas:[
   textoSimplificado:'Candidato reprovado em entrevista de emprego',
   textoImpresso:1,
   imagemImpresso:1,
-  textoImpressoRecriado:'Com o tempo, nossas pegadas digitais acumuladas podem acabar usadas por algoritmos maliciosos, ou que formam uma imagem equivocada de quem somos. O problema ocorre quando alguma empresa utiliza essa falsa imagem e toma decisões importantes que nos afetam, com base nela. À vezes os culpados somos nós mesmos: um vídeo que parecia apenas engraçado de compartilhar há muitos anos atrás, pode hoje ser inapropriado e nos impedir de conseguir uma vaga em escola ou um emprego.',
+  textoImpressoRecriado:'Com o tempo, nossas pegadas digitais acumuladas podem acabar usadas por algoritmos maliciosos, ou que formam uma imagem equivocada de quem somos. O problema ocorre quando alguma empresa utiliza essa falsa imagem e toma decisões importantes que nos afetam, com base nela. E ás vezes os culpados somos nós mesmos: um vídeo que parecia apenas engraçado de compartilhar há muitos anos atrás, pode hoje ser inapropriado e nos impedir de conseguir uma vaga em escola ou um emprego.',
   urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/RastDig/img7.jpg',
   promptImagem:'Create a 2D illustration with a 3D perspective, using shades of blue and purple, targeting an audience aged 12 to 14. The image should depict a recruiter sitting in a chair, facing a computer. The recruiter is reviewing the content of a video posted on a social media platform by one of the job applicants. In the recruiters right hand, they hold the candidates resume, which has been stamped in red with the word "rejected".', //'Ilustração em 3D de um recrutador, assentado em uma cadeira, de frente para um computador, verificando um vídeo postado em uma rede social pelo candidato a uma vaga de emprego. O candidato está localizado à frente do computador, mais ao fundo da imagem, e veste uma roupa social. Na mão direita, o recrutador segura o currículo do candidato, que possui um grande carimbo vermelho com a palavra "reprovado".', 
   imagemFonte:'dall-e 3',
@@ -2678,7 +2930,7 @@ licao24:{
 id:'CSXAULA24CODE',
 /** padroesCurriculares: 
 titulo:'Lição 24. Pixel e Cores.',**/
-infografico:{titulo:'Pixel e Cores',
+infografico:{titulo:'Lição 24. Pixel e Cores',
 ituloSimplificado:'Pixel',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -2787,7 +3039,7 @@ licao25:{
 id:'CSXAULA25CODE',
 /** padroesCurriculares: 
 titulo:'Lição 25. Introdução ao Laboratório de Histórias',**/
-infografico:{titulo:'Introdução ao Story Lab',
+infografico:{titulo:'Lição 25. Introdução ao Story Lab',
 tituloSimplificado:'Story Lab',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -2801,7 +3053,7 @@ cenas:[
   textoImpresso:1,
   imagemImpresso:1,
   urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img1.webp',
-  promptImagem:'image of a little boy reading a book and being swept away into the magical world of reading', 
+  promptImagem:'image of a teenage boy reading a book and being swept away into the magical world of reading', 
   imagemFonte:'dall-e 3', 
   textoDescritivoImagem:'TODO.', },
 
@@ -2813,7 +3065,7 @@ cenas:[
   textoImpresso:1,
   imagemImpresso:1,
   urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/IntStoLab/img2.webp',
-  promptImagem:'tropical vector illustration of a cute adventure of a trastronaut, compositions inspired by space, dark and moody landscapes, rounded space landscapes, 3d render', 
+  promptImagem:'tropical vector illustration of a cute adventure of an astronaut, compositions inspired by space, dark and moody landscapes, rounded space landscapes, 3d render', 
   imagemFonte:'dall-e 3',
   textoDescritivoImagem:'TODO.', },
 
@@ -3038,7 +3290,7 @@ licao26:{
 id:'CSXAULA26CODE',
 /** padroesCurriculares: 
 titulo:'Lição 26. IA - Conversação Computacional',**/
-infografico:{titulo:'Conversação Computacional',
+infografico:{titulo:'Lição 26. Conversação Computacional',
 tituloSimplificado:'Conversação Computacional',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -3186,7 +3438,7 @@ licao27:{
 id:'CSXAULA27CODE',
 /** padroesCurriculares: 
 titulo:'Lição 27. IA - Simuladores de Eventos do Dia a Dia',**/
-infografico:{titulo:'Eventos do Dia a Dia',
+infografico:{titulo:'Lição 27. Eventos do Dia a Dia',
 tituloSimplificado:'Eventos Cotidianos',
 estiloPadrao:'basicoPaisagem',
 /** urlVideo:'',
@@ -3206,7 +3458,7 @@ cenas:[
 
   {ordem:2,
   predecessor:1,
-  texto:'Por exemplo, o nascer do sol ou um horário definido no despertador iniciam sua rotina diária de acordar, tomar banho, tomar café...',
+  texto:'Por exemplo, o nascer do sol ou um horário definido no despertador iniciam nossa rotina diária de acordar, tomar banho, café...',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
@@ -3228,7 +3480,7 @@ cenas:[
 
   {ordem:4,
   predecessor:3,
-  texto:'Por isso, devido à sua importância, simular esses eventos naturais no mundo computacional é muito útil!',
+  texto:'Por isso, devido à sua importância, simular esses eventos naturais no mundo computacional é muito útil.',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
@@ -3240,7 +3492,7 @@ cenas:[
 
   {ordem:5,
   predecessor:4,
-  texto:'No mundo dos jogos e animações, podemos programar personagens para reagir a mudanças simuladas das estações ou do clima; ou para executarem uma determinada rotina, todos os domingos. Esse mesmo tipo de simulação também poderia ser usada para testar se um novo sistema de irrigação reage corretamente à mudança de clima, antes de ser instalado.',
+  texto:'No mundo dos jogos e animações, podemos programar personagens para reagir a mudanças simuladas das estações ou do clima; ou para executarem uma determinada rotina, todos os domingos. Esse mesmo tipo de simulação também pode ser usada para testar se um novo sistema de irrigação reage corretamente à mudança de clima, antes de ser instalado.',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,
@@ -3347,7 +3599,7 @@ cenas:[
 
   {ordem:14,
   predecessor:13,
-  texto:'Agora é sua vez de criar animações sazonais que reagem a eventos naturais!',
+  texto:'Agora é sua vez de criar animações que reagem a eventos naturais!',
   urlAudioTexto:'',
   textoSimplificado:'TODO',
   textoImpresso:1,

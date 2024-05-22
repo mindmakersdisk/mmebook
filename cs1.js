@@ -40,7 +40,7 @@ let livro_cs1 ={
   
   visaogeral:{
 	  infografico:{
-		  titulo:'Resumo do Módulo CS1',
+		  titulo:'',//'Resumo do Módulo CS1',
 		  /* idem licoes */}},
   
 /* conteudo */
@@ -670,7 +670,7 @@ let livro_cs1 ={
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Robos/img10.jpeg',
         textoImpresso:1,
-        textoImpressoRecriado:'ROBÔS TÊM UM CÉREBRO DE MÁQUINA.',
+        textoImpressoRecriado:'ROBÔS POSSUEM UM COMPUTADOR COMO CÉREBRO.',
         promptImagem:'robô engraçado 3d pensando', /*opc*/
         imagemImpresso:1,
         imagemFonte:'ideogram',
@@ -846,7 +846,7 @@ let livro_cs1 ={
   
   unidade2:{
 	  titulo:'LAÇOS, EVENTOS E CONDICIONAIS',
-	  descricao:'NESTA UNIDADE, VAMOS APRENDER SOBRE LAÇOS, EVENTOS E CONDICIONAIS, COMANDOS QUE TORNAM OS PROGRAMAS MUITO MAIS PODEROSOS.',
+	  descricao:'NESTA UNIDADE, VAMOS APRENDER SOBRE LAÇOS, EVENTOS E CONDICIONAIS, COMANDOS QUE TORNAM OS ALGORITMOS MUITO MAIS PODEROSOS.',
 	  licao8:{/** padroesCurriculares: 
     titulo:'Lição 08. Laços.',**/
     infografico:{titulo:'LAÇOS',
@@ -862,7 +862,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img1.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'OS LAÇOS SERVEM PARA PESSOAS OU COMPUTADORES FAZEREM AS MESMAS COISAS MUITAS VEZES.',
+      textoImpressoRecriado:'OS LAÇOS SERVEM PARA DIZER, A PESSOAS OU COMPUTADORES, QUE REPITAM ALGO VÁRIAS VEZES.',
       promptImagem:'criança pulando corda, desenho animado', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1298,7 +1298,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img2.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'UM EVENTO É ALGO QUE ACONTECE EM ALGUM MOMENTO.',
+      textoImpressoRecriado:'UM EVENTO É ALGO IMPORTANTE QUE ACONTECE EM ALGUM MOMENTO.',
       promptImagem:'Crie uma imagem, no estilo de história em quadrinhos, de um despertador tocando. Está na mesa de cabeceira, ao lado de um calendário', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1415,7 +1415,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img12.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'EVENTOS FAZEM O COMPUTADOR REAGIR.',
+      textoImpressoRecriado:'EVENTOS FAZEM OS PROGRAMAS DE COMPUTADOR REAGIREM.',
       promptImagem:'criar uma imagem, estilo história em quadrinhos, de uma tela de computador mostrando um jogo, com o personagem do jogo "reagindo" a um evento programado',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1428,7 +1428,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Eventos/img13.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO NO JOGO, FAZENDO O PERSONAGEM PULAR.',
+      textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO PROGRAMA DO JOGO, QUE FAZ O PERSONAGEM PULAR.',
       promptImagem:'um computador desktop com código flutuando, quadrinhos',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1453,7 +1453,7 @@ let livro_cs1 ={
    
   unidade3:{
 	  titulo:'CONDICIONAIS E SEGURANÇA',
-	  descricao:'NESTA UNIDADE, VAMOS APRENDER MAIS SOBRE ESTRUTURAS DE CONDIÇÃO E TAMBÉM SOBRE SEGURANÇA NO MUNDO DOS COMPUTADORES.',
+	  descricao:'NESTA UNIDADE, VAMOS APRENDER MAIS SOBRE CONDICIONAIS EM ALGORITMOS E SOBRE SEGURANÇA NO USO DOS COMPUTADORES.',
 	    
     licao15:{},
    
@@ -1532,7 +1532,7 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ENTÃO, SÓ A GENTE, QUE TEM A CHAVE, CONSEGUE ABRIR A CAIXA QUE GUARDA NOSSAS COISAS.',
+      texto:'ASSIM, SÓ NÓS CONSEGUIMOS ABRIR A CAIXA QUE GUARDA NOSSAS COISAS',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Senhas_seg/img6new.webp',
@@ -1781,7 +1781,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img9.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'COMPUTADORES SEGUEM INSTRUÇÕES COM CONDIÇÕES QUE PROGRAMAMOS NELES.',
+      textoImpressoRecriado:'COMPUTADORES SEGUEM INSTRUÇÕES CONFORME CONDIÇÕES QUE PROGRAMAMOS.',
       promptImagem:'crie uma image, em estilo pintura a óleo de uma tela de computador mostrando dois caminhos', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -1794,7 +1794,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Condicionais/img11.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'NO JOGO, SE O PERSONAGEM CHEGAR NA PAREDE, VOCÊ FAZ ELE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO.',
+      textoImpressoRecriado:'EM UM JOGO, SE O PERSONAGEM CHEGAR NA PAREDE, O PROGRAMA FAZ ELE MUDAR DE DIREÇÃO E CONTINUAR SE MOVENDO.',
       promptImagem:'pintura de um jovem tocando uma parede com a mão', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -2004,7 +2004,7 @@ let livro_cs1 ={
    
   unidade4:{
 	  titulo:'ALGORITMOS E SISTEMA BINÁRIO',
-	  descricao:'NESTA ÚLTIMA UNIDADE, VAMOS DESCOBRIR UM GRANDE SEGREDO DOS COMPUTADORES: O SISTEMA BINÁRIO. O SISTEMA BINÁRIO É USADO PELOS COMPUTADORES PARA GUARDAR E EXIBIR LETRAS, NÚMEROS, IMAGENS, SONS E ATÉ VÍDEOS.',
+	  descricao:'NESTA ÚLTIMA UNIDADE, VAMOS DESCOBRIR UM GRANDE SEGREDO DOS COMPUTADORES: O SISTEMA BINÁRIO. ELE É USADO POR TODOS OS COMPUTADORES PARA GUARDAR E EXIBIR LETRAS, NÚMEROS, IMAGENS, SONS E ATÉ VÍDEOS.',
 	    
     licao22:{},
    
@@ -2077,7 +2077,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Transito_rob/img6.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA OS ROBÔS ATRAVESSAREM ROBÓPOLIS, RESPEITANDO OS SINAIS DE TRÂNSITO.',
+      textoImpressoRecriado:'ALÉM DE ENSINAR O QUE CADA COR SIGNIFICA, VOCÊ DEVE CRIAR PROGRAMAS PARA ENSINAR OS ROBÔS A ATRAVESSAREM ROBÓPOLIS, RESPEITANDO OS SINAIS DE TRÂNSITO.',
       promptImagem:'dois robôs engraçados dirigindo carros em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -2176,19 +2176,6 @@ let livro_cs1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img6.jpeg',
-      textoImpresso:1,
-      textoImpressoRecriado:'COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
-      promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
-      imagemImpresso:1,
-      imagemFonte:'ideogram',
-      textoDescritivoImagem:'', /*opc*/},
-
-      {ordem:7,
-      predecessor:6,
       texto:'BOM, OS COMPUTADORES USAM O <b>SISTEMA BINÁRIO</b> PARA REPRESENTAR DE TUDO: LETRAS, NÚMEROS, IMAGENS, SONS... ENTÃO DEVE TER UM JEITO.',
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -2200,19 +2187,32 @@ let livro_cs1 ={
       imagemFonte:'trocar',
       textoDescritivoImagem:'', /*opc*/},
 
-      {ordem:8,
-      predecessor:7,
+      {ordem:7,
+      predecessor:6,
       texto:'LÁ NO PROCESSADOR, O CÉREBRO DO COMPUTADOR, MINÚSCULOS COMPONENTES ELÉTRICOS SÃO LIGADOS PARA REPRESENTAR O “UM”, QUE DESENHAMOS COMO UMA CAIXINHA BRANCA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img8.webp',
       textoImpresso:1,
-      textoImpressoRecriado:'NO SISTEMA BINÁRIO, O UM É REPRESENTADO POR UMA CAIXINHA BRANCA, QUE QUER DIZER: LIGADO.',
+      textoImpressoRecriado:'NO SISTEMA BINÁRIO, O UM PODE SER REPRESENTADO POR UMA CAIXINHA BRANCA, QUE QUER DIZER: LIGADO.',
       promptImagem:'um processador de computador com um cubo branco flutuando acima dele em um fundo colorido e futurista', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
       textoDescritivoImagem:'', /*opc*/},
 
+      {ordem:8,
+      predecessor:7,
+      texto:'MAS SE BINARÓPOLIS TEM CINCO RUAS... COMO VAMOS CONSEGUIR DAR NOMES DIFERENTES PARA CADA RUA?',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img6.jpeg',
+      textoImpresso:1,
+      textoImpressoRecriado:'MAS COMO VAMOS CONSEGUIR NOMEAR CINCO RUAS COM DOIS SÍMBOLOS?',
+      promptImagem:'uma rua colorida, futurista e muito limpa', /*opc*/
+      imagemImpresso:1,
+      imagemFonte:'ideogram',
+      textoDescritivoImagem:'', /*opc*/},
+      
       {ordem:9,
       predecessor:8,
       texto:'E SÃO DESLIGADOS PARA REPRESENTAR O “ZERO”, QUE DESENHAMOS COMO UMA CAIXINHA PRETA.',
@@ -2220,7 +2220,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img9.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'E O ZERO É REPRESENTADO POR UMA CAIXINHA PRETA, QUE QUER DIZER: DESLIGADO.',
+      textoImpressoRecriado:'E O ZERO POR UMA CAIXINHA PRETA, QUE QUER DIZER: DESLIGADO.',
       promptImagem:'um processador de computador com um cubo preto flutuando acima dele em um fundo colorido e futurista', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
@@ -2246,7 +2246,7 @@ let livro_cs1 ={
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img11.jpg',
       textoImpresso:1,
-      textoImpressoRecriado:'AGORA VOCÊ CONHECE O SISTEMA BINÁRIO E VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
+      textoImpressoRecriado:'AGORA QUE VOCÊ CONHECE O SISTEMA BINÁRIO, VAI CONSEGUIR NUMERAR AS RUAS DE BINARÓPOLIS.',
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista', /*opc*/
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
