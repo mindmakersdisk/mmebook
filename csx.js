@@ -2623,7 +2623,7 @@ cenas:[
 
   {ordem:7,
   predecessor:6,
-  texto:'O problema ocorre quando alguma empresa utiliza essa falsa imagem e toma decisões importantes que nos afetam, com base nela. À vezes os culpados somos nós mesmos: um vídeo que parecia apenas engraçado de compartilhar há muitos anos atrás, pode hoje ser inapropriado e nos impedir de conseguir uma vaga em escola ou um emprego.',
+  texto:'O problema ocorre quando alguma empresa utiliza essa falsa imagem e toma decisões importantes que nos afetam, com base nela. Às vezes os culpados somos nós mesmos: um vídeo que parecia apenas engraçado de compartilhar há muitos anos atrás, pode hoje ser inapropriado e nos impedir de conseguir uma vaga em escola ou um emprego.',
   urlAudioTexto:'',
   textoSimplificado:'Candidato reprovado em entrevista de emprego',
   textoImpresso:1,
@@ -2723,7 +2723,7 @@ cenas:[
 
   {ordem:4,
   predecessor:3,
-  texto:'Além dos pixels, para manipular imagens e gráficos digitais, é também essencial entender as cores. James Clerk Maxwell, precursor da fotografia colorida, viveu no século XIX, antes mesmo da invenção da televisão e do cinema.',
+  texto:'Além dos pixels, para manipular imagens e gráficos digitais, é importante entender as cores. Vejamos um pouco de sua história: James Clerk Maxwell, precursor da fotografia colorida, viveu no século XIX, antes mesmo da invenção da televisão e do cinema.',
   urlAudioTexto:'',
   textoSimplificado:'Cores',
   textoImpresso:1,
@@ -2735,7 +2735,7 @@ cenas:[
 
   {ordem:5,
   predecessor:4,
-  texto:'Maxwell descobriu que é possível criar todas as cores que nossos olhos distinguem através da mistura, em  diferentes quantidades, das três cores primárias: azul, verde e vermelho. Para tintas, ele percebeu que as cores primárias são outras - no lugar do verde, utilizamos o amarelo.',
+  texto:'Maxwell descobriu que é possível criar todas as cores que nossos olhos distinguem através da mistura, em  diferentes quantidades, das três cores primárias: azul, verde e vermelho. <p>Para tintas, ele percebeu que as cores primárias são outras - no lugar do verde, utilizamos o amarelo.',
   urlAudioTexto:'',	
   textoSimplificado:'Cores Primárias',
   textoImpresso:1,
