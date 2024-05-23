@@ -45,7 +45,7 @@ let livro_cs3 ={
 	  titulo:'',
 	  descricao:'',
 	  licao1:{
-		  id:'CSXAULA01CODE',
+		  id:'CS3AULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Eletricidade e Circuitos em Papel',**/
       infografico:{titulo:'Lição 01. Explorando a Eletricidade e Seus Segredos',
@@ -205,7 +205,7 @@ let livro_cs3 ={
     licao2:{},
 
     licao3:{
-      id:'CSXAULA03CODE',
+      id:'CS3AULA03CODE',
       /** padroesCurriculares: 
        titulo:'Lição 03. Dispositivos Computacionais.',**/
        infografico:{titulo:'Lição 03. Computador e Dispositivos Computacionais',
@@ -337,7 +337,7 @@ let livro_cs3 ={
         ]}},
 
     licao4:{
-      id:'CSXAULA04CODE',
+      id:'CS3AULA04CODE',
       /** padroesCurriculares: 
       titulo:'Lição 04. Algoritmo++',**/
 		  infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
@@ -445,7 +445,7 @@ let livro_cs3 ={
       ]}},
 
     licao5:{
-      id:'CSXAULA05CODE',
+      id:'CS3AULA05CODE',
       /** padroesCurriculares: 
       titulo:'Lição 05. Robótica.',**/
       infografico:{titulo:'Lição 05. Robótica com Robôs de Duas Rodas',
@@ -578,7 +578,125 @@ let livro_cs3 ={
 
       ]}},
 
-    licao6:{},
+    licao6:{
+      id:'CW2AULA06CODE',
+      /** padroesCurriculares: 
+      titulo:'Lição 06. Projeto Taxibot.',**/
+      infografico:{titulo:'Lição 06. Exposição de Contexto Taxibot: Taxiamento Robotizado',
+      tituloSimplificado:'Taxibot',
+      estiloPadrao:'basicoPaisagem',
+      /** urlVideo:'',
+      urlPodcast:'', **/
+      cenas:[
+        {ordem:1,
+        predecessor:0,
+        texto:'Vocês sabiam que os aviões são o meio de transporte mais rápido e seguro do mundo?',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:2,
+        predecessor:1,
+        texto:'Eles foram inventados por um brasileiro chamado Santos Dumont.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:3,
+        predecessor:2,
+        texto:'Com suas grandes asas e turbinas poderosas, os aviões são feitos para voar, não para andar.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:4,
+        predecessor:3,
+        texto:'Damos o nome de <b>taxiamento</b> ao movimento que aviões fazem no chão, indo dos portões onde os passageiros embarcam até a pista do aeroporto, e vice-versa.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:5,
+        predecessor:4,
+        texto:'Mas usar turbinas para taxiamento gasta muito combustível e faz muito barulho.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:6,
+        predecessor:5,
+        texto:'Será que existe uma maneira melhor de mover os aviões no solo? Para resolver isso, foi desenvolvido o Taxibot!',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:7,
+        predecessor:6,
+        texto:'O Taxibot é um veículo <b>semirobotizado</b>, ou seja, é controlado por humanos, mas capaz de realizar muitas tarefas de forma automática.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:8,
+        predecessor:7,
+        texto:'Com mais segurança, menos combustível e menos barulho, o Taxibot leva os aviões entre portões e pistas sem ligar as turbinas.',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+        {ordem:9,
+        predecessor:8,
+        texto:'Mas sempre podemos melhorar! Que tal criar um taxibot totalmente robotizado que funcione só com programação?',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        textoImpresso:1,
+        imagemImpresso:1,
+        urlImagem:'',
+        promptImagem:'', 
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+      
+      ]}},
 
     licao7:{},
 
@@ -588,7 +706,7 @@ let livro_cs3 ={
     titulo:'',
     descricao:'',
     licao8:{
-      id:'CSXAULA08CODE',
+      id:'CS3AULA08CODE',
       /** padroesCurriculares: 
      titulo:'Lição 08. Laços++.',**/
      infografico:{titulo:'Lição 08. Laço++',
@@ -697,10 +815,10 @@ let livro_cs3 ={
       ]}},
 
     licao9:{
-      id:'CSXAULA09CODE',
+      id:'CS3AULA09CODE',
       /** padroesCurriculares: 
      titulo:'Lição 09. Formas Geométricas com Robôs.',**/
-      infografico:{titulo:'Lição 09. Guia Pratico: Usando Transferidor com Robôs',
+      infografico:{titulo:'Lição 09. Guia Prático: Usando Transferidor com Robôs',
       tituloSimplificado:'Transferidor com Robôs',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -841,7 +959,7 @@ let livro_cs3 ={
       ]}},
 
     licao10:{
-      id:'CSXAULA10CODE',
+      id:'CS3AULA10CODE',
       /** padroesCurriculares: 
       titulo:'Lição 10. Expressão Condicional++',**/
 		  infografico:{titulo:'Lição 10. Expressão Condicional++',
@@ -950,7 +1068,7 @@ let livro_cs3 ={
          ]}},
 
     licao11:{
-      id:'CSXAULA11CODE',
+      id:'CS3AULA11CODE',
       /** padroesCurriculares: 
       titulo:'Lição 11. Laços Avançados',**/
 		  infografico:{titulo:'Lição 11. Laços Avançados',
@@ -1093,12 +1211,107 @@ let livro_cs3 ={
 
       ]}},
 
-    licao12:{},
+      licao12:{
+        id:'CS3AULA12CODE',
+        /** padroesCurriculares: 
+        titulo:'Lição 12. Projeto Biga-Robô.',**/
+        infografico:{titulo:'Lição 12. Exposição de Contexto O Cavalo e a Roda',
+        tituloSimplificado:'O Cavalo e a Roda',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+        urlPodcast:'', **/
+        cenas:[
+
+          {ordem:1,
+          predecessor:0,
+          texto:'Por volta de 3500 a.C., na Ásia Central, os seres humanos começaram a domar cavalos selvagens.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:2,
+          predecessor:1,
+          texto:'Antigos inventores perceberam que poderiam utilizar a força dos cavalos para diferentes finalidades.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:3,
+          predecessor:2,
+          texto:'Cavalos passaram a ser usados na agricultura para ajudar no preparo da terra, puxando ferramentas chamadas arados, e fazendo moinhos girarem para auxiliar nas tarefas diárias.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Os cavalos também passaram a ser usados em veículos como carroças ou carruagens para levar objetos ou pessoas de um lugar para outro.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Alguns veículos como a biga romana eram utilizados em corridas emocionantes, que atraíam um grande público.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:6,
+          predecessor:5,
+          texto:'Hoje em dia, não precisamos mais de cavalos para puxar carruagens... afinal, podemos usar robôs!',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:7,
+          predecessor:6,
+          texto:'Que tal criar uma biga-robô? Soltem sua imaginação!',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+        
+         ]}},
 
     licao13:{},
 
     licao14:{
-      id:'CSXAULA14CODE',
+      id:'CS3AULA14CODE',
       /** padroesCurriculares: 
      titulo:'Lição 14. Programação em Par e Depuração.',**/
      infografico:{titulo:'Lição 14. Programação em Par e Depuração',
@@ -1224,7 +1437,7 @@ let livro_cs3 ={
       titulo:'',
       descricao:'',
       licao15:{
-        id:'CSXAULA15CODE',
+        id:'CS3AULA15CODE',
         /** padroesCurriculares: 
         titulo:'Lição 15. Eventos++.',**/
         infografico:{titulo:'Lição 15. Eventos++',
@@ -1357,7 +1570,7 @@ let livro_cs3 ={
          ]}},
   
       licao16:{
-        id:'CSXAULA16CODE',
+        id:'CS3AULA16CODE',
         /** padroesCurriculares: 
         titulo:'Lição 16. Dados e Decomposição',**/
         infografico:{titulo:'Lição 16. Dados e Decomposição',
@@ -1525,7 +1738,7 @@ let livro_cs3 ={
         ]}},
 
       licao17:{
-        id:'CSXAULA17CODE',
+        id:'CS3AULA17CODE',
         /** padroesCurriculares: 
         titulo:'Lição 17. Expressão Lógica',**/
         infografico:{titulo:'Lição 17. Expressão Lógica',
@@ -1620,14 +1833,132 @@ let livro_cs3 ={
         
         ]}},			
   
-      licao18:{},
+      licao18:{
+        id:'CS3AULA18CODE',
+        /** padroesCurriculares: 
+        titulo:'Lição 18. Projeto Condicionais no Trânsito.',**/
+        infografico:{titulo:'Lição 18. Exposição de Contexto Condicionais no Trânsito',
+        tituloSimplificado:'Condicionais no Trânsito',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+        urlPodcast:'', **/
+        cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'No trânsito, os motoristas tomam muitas decisões, como parar, seguir em frente, virar à esquerda ou à direita. Essas escolhas são importantes para manter a ordem e a segurança nas ruas.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:2,
+          predecessor:1,
+          texto:'As placas de trânsito estabelecem regras por meio de condições, ajudando a organizar as vias e indicando quando motoristas ou pedestres devem parar, seguir ou virar.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:3,
+          predecessor:2,
+          texto:'Por exemplo, quando um motorista vê a placa "Pare", ele entende que deve seguir a seguinte expressão condicional:<p><code><b>se</b> ver a placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pise no freio para parar o veículo<br/></code>',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:4,
+          predecessor:3,
+          texto:'Os sinais de um semáforo também são exemplos claros do uso de condições no trânsito. Por exemplo:<p><code><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/></code>',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Hoje, vamos usar robôs para entender como essas regras funcionam na prática. Vamos programá-los para se mover pela cidade, sempre seguindo as placas de trânsito.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:6,
+          predecessor:5,
+          texto:'Usaremos condições para decidir o que o robô deve fazer. Por exemplo, programaremos o robô para:<p><code><b>se</b> estiver em frente à placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pare<br/></code>',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:7,
+          predecessor:6,
+          texto:'Nosso robô deve obedecer as regras de sinais simples para se mover corretamente pelas ruas de um tapete de robótica que representa uma cidade.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:8,
+          predecessor:7,
+          texto:'Ele deve seguir as placas "pare", "siga em frente", "vire à esquerda", "vire à direita", "proibido virar à direita" e "proibido virar à esquerda".',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:9,
+          predecessor:8,
+          texto:'Lembrem-se de usar condicionais para programar o robô com segurança. Divirtam-se programando seus robôs para seguir as regras do trânsito!',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+        
+          ]}},
 
       licao19:{},
 
       licao20:{},
 
       licao21:{
-        id:'CSXAULA21CODE',
+        id:'CS3AULA21CODE',
         /** padroesCurriculares: 
         titulo:'Lição 21. Busca e Privacidade',**/
         infografico:{titulo:'Lição 21. Busca e Privacidade',
@@ -1776,7 +2107,7 @@ let livro_cs3 ={
       titulo:'',
       descricao:'',
       licao22:{
-        id:'CSXAULA22CODE',
+        id:'CS3AULA22CODE',
         /** padroesCurriculares: 
         titulo:'Lição 22. Os Primórdios da Animação.',**/
         infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
@@ -1924,7 +2255,7 @@ let livro_cs3 ={
       licao24:{},
 
       licao25:{
-        id:'CSXAULA25CODE',
+        id:'CS3AULA25CODE',
         /** padroesCurriculares: 
         titulo:'Lição 25. Animações Computadorizadas.',**/
         infografico:{titulo:'Lição 25. Histórias: Dos Mitos às Animações Digitais', //A Evolução das Narrativas: Dos Mitos Antigos às Animações Digitais
@@ -2079,7 +2410,7 @@ let livro_cs3 ={
         ]}},
 
       licao26:{
-        id:'CSXAULA26CODE',
+        id:'CS3AULA26CODE',
         /** padroesCurriculares: 
         titulo:'Lição 26. Introdução ao Laboratório de Histórias.',**/
         infografico:{titulo:'Lição 26. Introdução ao Story Lab',
@@ -2246,7 +2577,77 @@ let livro_cs3 ={
         
          ]}},
 
-        licao27:{},
+        licao27:{
+        id:'CS3AULA27CODE',
+        /** padroesCurriculares: 
+        titulo:'Lição 27. Projeto História em Quadrinho Animada',**/
+        infografico:{titulo:'Lição 27. Exposição de Contexto: História em Quadrinho Animada',
+        tituloSimplificado:'História em Quadrinho Animada',
+        estiloPadrao:'basicoPaisagem',
+        /** urlVideo:'',
+        urlPodcast:'', **/
+        cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'Neste projeto, vamos imaginar uma história muito divertida, concebendo seus personagens, diálogos, cenários, e tudo mais',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:2,
+          predecessor:1,
+          texto:'E usar programação para a animar a história de modo criativo.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:3,
+          predecessor:2,
+          texto:'Mas antes de sair programando, devemos sempre planejar nossas histórias. Para isso, utilizem o Caderno de Criações.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+  
+          {ordem:4,
+          predecessor:3,
+          texto:'Ah, e vale lembrar que os projetos são autorais. Ou seja, vocês são os autores!',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:5,
+          predecessor:4,
+          texto:'Tentem dar um toque pessoal às suas histórias. Vamos lá?',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+        ]}},
   
       },
 
