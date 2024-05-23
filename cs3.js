@@ -1836,16 +1836,16 @@ let livro_cs3 ={
       licao18:{
         id:'CS3AULA18CODE',
         /** padroesCurriculares: 
-        titulo:'Lição 18. Projeto Projeto Condicionais no Trânsito.',**/
-        infografico:{titulo:'Lição 18. Exposição de Contexto O Carro: Passado e Futuro', // TODO reformular infográfico
-        tituloSimplificado:'O Carro',
+        titulo:'Lição 18. Projeto Condicionais no Trânsito.',**/
+        infografico:{titulo:'Lição 18. Exposição de Contexto Condicionais no Trânsito',
+        tituloSimplificado:'Condicionais no Trânsito',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
         urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Em 1876, Karl Benz inventou o primeiro automóvel, dando às pessoas a possibilidade de viajar sem depender de um cavalo.',
+          texto:'No trânsito, os motoristas tomam muitas decisões, como parar, seguir em frente, virar à esquerda ou à direita. Essas escolhas são importantes para manter a ordem e a segurança nas ruas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1857,7 +1857,7 @@ let livro_cs3 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'No início, existiam pouco carros, pois eram muito caros. Com o tempo, os carros ficaram mais baratos e em maior número, mas isso também aumentou a poluição do ar.',
+          texto:'As placas de trânsito estabelecem regras por meio de condições, ajudando a organizar as vias e indicando quando motoristas ou pedestres devem parar, seguir ou virar.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1869,7 +1869,7 @@ let livro_cs3 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Nas últimos anos, os fabricantes de carros os tornaram cada vez mais seguros, velozes, econômicos e menos poluentes.',
+          texto:'Por exemplo, quando um motorista vê a placa "Pare", ele entende que deve seguir a seguinte expressão condicional:<p><code><b>se</b> ver a placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pise no freio para parar o veículo<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1881,7 +1881,7 @@ let livro_cs3 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Já existem nos dias de hoje carros que "dirigem sozinhos" com o uso de câmeras e sensores.',
+          texto:'Os sinais de um semáforo também são exemplos claros do uso de condições no trânsito. Por exemplo:<p><code><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1893,7 +1893,7 @@ let livro_cs3 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Esses chamados <b>carros autônomos</b> podem levar os passageiros para onde desejam, de um modo seguro e sem a necessidade de um motorista.',
+          texto:'Hoje, vamos usar robôs para entender como essas regras funcionam na prática. Vamos programá-los para se mover pela cidade, sempre seguindo as placas de trânsito.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1905,7 +1905,43 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Eles ainda são caros, mas, como aprendemos com a história, os carros autônomos devem ficar mais e mais baratos e presentes no nosso dia a dia.',
+          texto:'Usaremos condições para decidir o que o robô deve fazer. Por exemplo, programaremos o robô para:<p><code><b>se</b> estiver em frente à placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pare<br/></code>',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:7,
+          predecessor:6,
+          texto:'Nosso robô deve obedecer as regras de sinais simples para se mover corretamente pelas ruas de um tapete de robótica que representa uma cidade.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:8,
+          predecessor:7,
+          texto:'Ele deve seguir as placas "pare", "siga em frente", "vire à esquerda", "vire à direita", "proibido virar à direita" e "proibido virar à esquerda".',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:9,
+          predecessor:8,
+          texto:'Lembrem-se de usar condicionais para programar o robô com segurança. Divirtam-se programando seus robôs para seguir as regras do trânsito!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
