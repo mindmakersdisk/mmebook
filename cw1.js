@@ -1400,12 +1400,12 @@ let livro_cw1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'QUE TAL AJUDAR A PINTAR OS NÚMEROS NAS RUAS DA CIDADE E ACABAR COM A CONFUSÃO QUE ESTÁ POR LÁ?',
+      texto:'PODEMOS AJUDAR, PROGRAMANDO ROBÔS PARA PINTAR UM NÚMERO DIFERENTE, EM CADA RUA.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i8-numeropolis/img8.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'QUE TAL AJUDAR OS ROBÔS DE NUMERÓPOLIS, PROGRAMANDO A PINTURA DOS NÚMEROS NAS RUAS?',
+      textoImpressoRecriado:'PODEMOS AJUDAR, PROGRAMANDO ROBÔS PARA PINTAR UM NÚMERO DIFERENTE, EM CADA RUA.',
       promptImagem:'personagem infantil com um computador de mesa, programando',
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1413,12 +1413,12 @@ let livro_cw1 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'VAMOS AJUDAR OS ROBÔS DE NUMERÓPOLIS? MÃOS À OBRA!',
+      texto:'DANDO NÚMEROS ÀS RUAS, VAMOS ACABAR COM A CONFUSÃO EM NUMERÓPOLIS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i8-numeropolis/img9.jpeg',
       textoImpresso:1,
-      textoImpressoRecriado:'AGORA QUE VOCÊ JÁ SABE COMO PROGRAMAR, VAI SER MOLEZA AJUDAR NOSSOS AMIGOS. ',
+      textoImpressoRecriado:'DANDO NÚMEROS ÀS RUAS, VAMOS ACABAR COM A CONFUSÃO EM NUMERÓPOLIS!',
       promptImagem:'Robô engraçado 3D acenando com a mão',
       imagemImpresso:1,
       imagemFonte:'ideogram',
@@ -1464,7 +1464,7 @@ let livro_cw1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'MAS A SUA MÃE DISSE QUE VOCÊ SÓ PODE VER O FILME E COMER PIPOCA SE O DEVER DE CASA ESTIVER PRONTO.',
+      texto:'MAS A SUA MÃE DIZ QUE VOCÊ SÓ PODE VER O FILME E COMER PIPOCA SE O DEVER DE CASA ESTIVER PRONTO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img3.webp',
@@ -1477,7 +1477,7 @@ let livro_cw1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'ENTÃO A <b>CONDICIONAL</b> SERIA: <code><b>SE</b> VOCÊ FEZ O DEVER DE CASA <br/>&nbsp;&nbsp;<b>ENTÃO</b> VOCÊ PODE VER O FILME E COMER PIPOCA</code>',
+      texto:'ELA ESTABELECEU UMA <b>CONDICIONAL</b>: <code><b>SE</b> VOCÊ FEZ O DEVER DE CASA <br/>&nbsp;&nbsp;<b>ENTÃO</b> VOCÊ PODE VER O FILME E COMER PIPOCA</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img5.jpeg',
@@ -1503,7 +1503,7 @@ let livro_cw1 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'ELAS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER AS CONSEQUÊNCIAS DE NOSSAS AÇÕES.',
+      texto:'AS CONDICIONAIS NOS AJUDAM A TOMAR DECISÕES E A ENTENDER AS CONSEQUÊNCIAS DE NOSSAS AÇÕES.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1602,7 +1602,7 @@ let livro_cw1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'UM <b>BUG</b>, DO INGLÊS <b>BICHO</b>, É UM PROBLEMA QUE ACONTECE.',
+      texto:'UM <b>BUG</b>, DO INGLÊS <b>BICHO</b>, É UM APELIDO PARA PROBLEMAS QUE ACONTECEM EM PROGRAMAS DE COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img2.jpeg',
@@ -1667,7 +1667,7 @@ let livro_cw1 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'A <b>DEPURAÇÃO</b> NOS AJUDA A SOLUCIONAR PROBLEMAS E ENCONTRAR SOLUÇÕES. É UM PROCESSO DE INVESTIGAÇÃO PARA DESCOBRIR O QUE ESTÁ ERRADO E CORRIGIR O PROBLEMA.',
+      texto:'A <b>DEPURAÇÃO</b> , OU DEBUG EM INGLÊS, É QUANDO PROCURAMOS OS ERROS, OU BUGS, EM PROGRAMAS. QUANDO INVESTIGAMOS ALGO, PROCURANDO POR ERROS, PODEMOS DIZER QUE FAZEMOS UMA <b>DEPURAÇÃO</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img7.webp',
@@ -1693,7 +1693,7 @@ let livro_cw1 ={
 
       {ordem:9,
       predecessor:8,
-      texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, ÀS VEZES SURGEM ERROS OU <b>BUGS</b>. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
+      texto:'QUANDO OS PROGRAMADORES ESCREVEM CÓDIGOS PARA CRIAR JOGOS OU APLICATIVOS, SURGEM ERROS OU <b>BUGS</b>. É COMO UM QUEBRA-CABEÇA QUE PRECISA SER RESOLVIDO!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img9.jpeg',
