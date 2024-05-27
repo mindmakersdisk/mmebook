@@ -1845,7 +1845,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'No trânsito, os motoristas tomam muitas decisões, como parar, seguir em frente, virar à esquerda ou à direita. Essas escolhas são importantes para manter a ordem e a segurança nas ruas.',
+          texto:'Enquanto dirigem, motoristas precisam tomar muitas decisões como a hora de parar, seguir em frente, virar à esquerda ou à direita...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1857,7 +1857,7 @@ let livro_cs3 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'As placas de trânsito estabelecem regras por meio de condições, ajudando a organizar as vias e indicando quando motoristas ou pedestres devem parar, seguir ou virar.',
+          texto:'As placas de trânsito estabelecem condicionais que todos os motoristas, e também pedestres, devem seguir, de modo a evitar acidentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1869,7 +1869,7 @@ let livro_cs3 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Por exemplo, quando um motorista vê a placa "Pare", ele entende que deve seguir a seguinte expressão condicional:<p><code><b>se</b> ver a placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pise no freio para parar o veículo<br/></code>',
+          texto:'Por exemplo, se um motorista vê a placa "Pare", ele pisa no freio para parar o veículo. Em programação, essa expressão condicional seria:<p><code><b>se</b> ver a placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pare o veículo<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1881,7 +1881,7 @@ let livro_cs3 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Os sinais de um semáforo também são exemplos claros do uso de condições no trânsito. Por exemplo:<p><code><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/></code>',
+          texto:'Os semáforos também são exemplos de sinalização que estabelece condicionais no trânsito. Por exemplo:<p><code><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1893,7 +1893,7 @@ let livro_cs3 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Hoje, vamos usar robôs para entender como essas regras funcionam na prática. Vamos programá-los para se mover pela cidade, sempre seguindo as placas de trânsito.',
+          texto:'Nesta lição, vamos usar robôs para simular e entender como as regras de trânsito funcionam. Para isso, vamos programar robôs para percorrer a cidade obedecendo as placas de trânsito.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1905,7 +1905,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Usaremos condições para decidir o que o robô deve fazer. Por exemplo, programaremos o robô para:<p><code><b>se</b> estiver em frente à placa "pare" <br/>&nbsp;&nbsp;&nbsp;então pare<br/></code>',
+          texto:'Por exemplo, programando algo como:<p><code><b>se</b> a placa "pare" estiver à frente<br/>&nbsp;&nbsp;&nbsp;então pare<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1917,7 +1917,7 @@ let livro_cs3 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Nosso robô deve obedecer as regras de sinais simples para se mover corretamente pelas ruas de um tapete de robótica que representa uma cidade.',
+          texto:'O robô deve saber obedecer às placas "pare", "siga em frente", "vire à esquerda", "vire à direita", "proibido virar à direita" e "proibido virar à esquerda".',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1929,19 +1929,7 @@ let livro_cs3 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Ele deve seguir as placas "pare", "siga em frente", "vire à esquerda", "vire à direita", "proibido virar à direita" e "proibido virar à esquerda".',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-
-          {ordem:9,
-          predecessor:8,
-          texto:'Lembrem-se de usar condicionais para programar o robô com segurança. Divirtam-se programando seus robôs para seguir as regras do trânsito!',
+          texto:'E muita atenção! Você não quer que seu robô sofra um acidente, não é mesmo?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1951,7 +1939,7 @@ let livro_cs3 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
         
-          ]}},
+        ]}},
 
       licao19:{},
 
