@@ -468,7 +468,7 @@ let livro_cs3 ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Nós já vimos robôs em filmes e jogos... Eles podem ter pernas, rodas ou parecer com humanos. Mas vocês sabem como eles surgiram?',
+        texto:'Nós já vimos robôs em filmes e jogos... Eles podem ter pernas, rodas ou parecer com humanos. Mas você sabe como eles surgiram?',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
