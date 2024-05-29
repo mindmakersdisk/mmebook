@@ -1420,7 +1420,7 @@ let livro_cw2 ={
         
           {ordem:3,
           predecessor:2,
-          texto:'Vamos entender como tudo isso funciona, utilizando o exemplo das <b>usinas hidrelétricas</b>. As usinas hidrelétricas conseguem transformar a força natural das quedas d'água em eletricidade, atuando como a <b>fonte de energia</b>, nas grandes redes elétricas.',
+          texto:'Vamos entender como tudo isso funciona, utilizando o exemplo das <b>usinas hidrelétricas</b>. As usinas hidrelétricas conseguem transformar a força natural das quedas de água em eletricidade, atuando como a <b>fonte de energia</b>, nas grandes redes elétricas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
