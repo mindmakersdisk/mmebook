@@ -42,8 +42,8 @@ let livro_cs3 ={
   
    /* conteudo */
   unidade1:{
-	  titulo:'',
-	  descricao:'',
+	  titulo:'Fundamentos em Programação',
+	  descricao:'Nesta unidade, apresentaremos o computador, os dispositivos eletrônicos e os robôs, introduzindo os conceitos básicos de programação.<br/>Em seguida, exploraremos o pensamento computacional, utilizando algoritmos para resolver desafios lógicos.',
 	  licao1:{
 		  id:'CS3AULA01CODE',
 		  /** padroesCurriculares: 
@@ -691,8 +691,8 @@ let livro_cs3 ={
         textoSimplificado:'',
         textoImpresso:1,
         imagemImpresso:1,
-        urlImagem:'',
-        promptImagem:'', 
+        urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/TaxiBot/img_9.jpg',
+        imagemFonte:'google imagens',
         imagemFonte:'',
         textoDescritivoImagem:'',},
       
@@ -703,8 +703,8 @@ let livro_cs3 ={
   },
 
   unidade2:{
-    titulo:'',
-    descricao:'',
+    titulo:'Laços Avançados e Depuração',
+    descricao:'Nesta unidade, aprofundaremos nossos conhecimentos sobre laços aninhados e expressões condicionais, e aprenderemos sobre laços avançados, praticando com os comandos "repita enquanto" e "repita até".<br/>Em seguida, exploraremos a importância da programação em par e seus benefícios na localização e correção de erros em programas.',
     licao8:{
       id:'CS3AULA08CODE',
       /** padroesCurriculares: 
@@ -1434,8 +1434,8 @@ let livro_cs3 ={
 
 
     unidade3:{
-      titulo:'',
-      descricao:'',
+      titulo:'Elementos de Programação, Dados e Navegação Segura',
+      descricao:'Nesta unidade, aprofundaremos nossos conhecimentos sobre eventos em computação e exploraremos o fascinante mundo digital, compreendendo o que são dados digitais.<br/>Em seguida, aprenderemos sobre expressões lógicas e discutiremos a importância de adotar cuidados ao fazer buscas na internet. Abordaremos medidas de segurança para preservar nossa privacidade online, evitando o compartilhamento de informações pessoais em redes públicas.',
       licao15:{
         id:'CS3AULA15CODE',
         /** padroesCurriculares: 
@@ -1530,7 +1530,7 @@ let livro_cs3 ={
           imagemFonte:'dall-e 3',
           textoDescritivoImagem:'',},
 
-          {ordem:8,
+          /*{ordem:8,
           predecessor:7,
           texto:'Quando apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
           urlAudioTexto:'',
@@ -1540,10 +1540,10 @@ let livro_cs3 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/EventosMM/img_8.webp',
           promptImagem:'Ilustração em estilo aquarela, mostrando uma pessoa interagindo com diferentes dispositivos de entrada: teclado, mouse e joystick, disparando eventos de usuário aos quais os programas reagem. A imagem utiliza tons de verde, violeta e vermelho, mantendo uma configuração realista e sem textos.', 
           imagemFonte:'dall-e 3',
-          textoDescritivoImagem:'',},
+          textoDescritivoImagem:'',},*/
 
-          {ordem:9,
-          predecessor:8,
+          {ordem:8,
+          predecessor:7,
           texto:'Além de eventos de usuário, existem também <b>eventos internos</b> nos próprios computadores, celulares e tablets.',
           urlAudioTexto:'',
           textoSimplificado:'',
@@ -1554,8 +1554,8 @@ let livro_cs3 ={
           imagemFonte:'dall-e 3',
           textoDescritivoImagem:'',},
 
-          {ordem:10,
-          predecessor:9,
+          {ordem:9,
+          predecessor:8,
           texto:'Por exemplo, se um desses dispositivos ficar muito quente, ele pode disparar um evento para que um programa o desligue.',
           urlAudioTexto:'',
           textoSimplificado:'',
@@ -1963,7 +1963,7 @@ let livro_cs3 ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_1.webp',
-          promptImagem:'', 
+          promptImagem:'Ilustração em estilo de riscas de giz, em tons de roxo, rosa e amarelo, representando o uso seguro da internet.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
   
@@ -1975,8 +1975,7 @@ let livro_cs3 ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_2.webp',
-          promptImagem:'', 
-          imagemFonte:'',
+          promptImagem:'Ilustração em estilo de riscas de giz, em tons de roxo, rosa e amarelo, representando a internet como uma biblioteca gigante cheia de informações. ', 
           textoDescritivoImagem:'',},
   
           {ordem:3,
@@ -1987,6 +1986,7 @@ let livro_cs3 ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_3.webp',
+          imagemFonte:'Ilustração em estilo de riscas de giz, em tons de roxo, rosa e amarelo, representando o conceito de usar um navegador para explorar a internet como uma biblioteca gigante.',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -2011,7 +2011,7 @@ let livro_cs3 ={
           textoImpresso:1,
           imagemImpresso:1,
           urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_5.webp',
-          promptImagem:'', 
+          promptImagem:'Ilustração em estilo de riscas de giz, representando adolescentes cuidando dos dados pessoais na internet.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
   
@@ -2022,7 +2022,7 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_6.webp',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -2034,8 +2034,8 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_7.webp',
+          promptImagem:'Ilustração representando uma adolescente recebendo orientação de um adulto enquanto usa o computador.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
   
@@ -2046,7 +2046,7 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_8.webp',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -2058,7 +2058,7 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_9.webp',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -2070,8 +2070,8 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_10.webp',
+          promptImagem:'Ilustração representando adolescentes usando a internet de forma segura e divertida, com os devidos cuidados quanto aos dados pessoais.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
@@ -2082,8 +2082,8 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_11.webp',
+          promptImagem:'Ilustração em estilo de riscas de giz, mostrando dois adolescentes felizes e seguros usando a internet.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
   
@@ -2092,8 +2092,8 @@ let livro_cs3 ={
       },
 
     unidade4:{
-      titulo:'',
-      descricao:'',
+      titulo:'Animação e Computação Criativa',
+      descricao:'Nesta unidade, seremos introduzidos ao universo da animação, explorando desde os primórdios das animações manuais até o desenvolvimento das animações digitais.<br/>Aprenderemos a programar animações digitais autorais, utilizando um laboratório para criar histórias e soltar a criatividade, aplicando os fundamentos de programação aprendidos neste módulo.',
       licao22:{
         id:'CS3AULA22CODE',
         /** padroesCurriculares: 
@@ -2582,9 +2582,9 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/HistQuadAnim/img_1.jpg',
+          promptImagem:'print', 
+          imagemFonte:'mm Code',
           textoDescritivoImagem:'',},
 
           {ordem:2,
@@ -2594,9 +2594,9 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/HistQuadAnim/img_2.png',
+          promptImagem:'print', 
+          imagemFonte:'Story Lab',
           textoDescritivoImagem:'',},
 
           {ordem:3,
@@ -2606,9 +2606,9 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/HistQuadAnim/img_3.webp',
+          promptImagem:'Ilustrar uma figura em estilo de cartoon, feita para um público alvo na faixa de 16 anos, que represente a frase abaixo pertencente a um infográfico sobre História em Quadrinho Animada. Como sugestão, imaginei dois alunos, um menino loiro e uma menina negra, assentados a mesa, enquanto um deles escreve um texto em um caderno. Os dois estão animados com o texto que estão escrevendo., anime', 
+          imagemFonte:'ideogram',
           textoDescritivoImagem:'',},
   
           {ordem:4,
@@ -2618,9 +2618,9 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/HistQuadAnim/img_4.webp',
+          promptImagem:'Um desenho animado colorido e vibrante de quatro alunos, um garoto loiro, uma garota negra, uma garota ruiva e uma menino japonês, assentando ao redor de um único computador, enquanto um deles esta programando uma historia animada computacionalmente., anime', 
+          imagemFonte:'ideogram',
           textoDescritivoImagem:'',},
 
           {ordem:5,
@@ -2630,9 +2630,9 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'',
-          promptImagem:'', 
-          imagemFonte:'',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/HistQuadAnim/img_5.webp',
+          promptImagem:`A vibrant and colorful animated scene featuring four diverse students: a blond boy, a black girl, a redheaded girl, and a Japanese child. They are seated around a single computer, busily collaborating to create a captivating animated story. The computer screen displays a dynamic blend of characters, landscapes, and special effects. The room has a warm and energetic atmosphere, with the students' creativity radiating from the screen., anime`, 
+          imagemFonte:'ideogram',
           textoDescritivoImagem:'',},
 
         ]}},
