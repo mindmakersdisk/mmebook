@@ -323,7 +323,7 @@ let livro_cs3 ={
 
          {ordem:10,
          predecessor:9,
-         texto:'Neste curso, vamos aprender a programar animações digitais, videogames e robôs, além de variados inventos criativos para nos ajudar com desafios da vida moderna. Bem-vindo ao <b>mundo computacional</b>!',
+         texto:'Neste curso, vamos aprender a programar animações digitais, videogames e robôs, além de variados inventos criativos para nos ajudar com desafios da vida moderna. Bem-vindo à <b>ciência da computação</b>!',
          urlAudioTexto:'',
          textoSimplificado:'',
          textoImpresso:1,
@@ -562,7 +562,7 @@ let livro_cs3 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Podemos programar os robôs de duas rodas para se mover em diferentes velocidades e direções, mudar de cor, e muito mais... Bem-vindo ao mundo dos robôs!',
+        texto:'Podemos programar o robô de duas rodas para se mover em diferentes velocidades e direções, desviar de obstáculos e muito mais... Bem-vindo ao mundo dos robôs!',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -712,7 +712,7 @@ let livro_cs3 ={
      cenas:[
        {ordem:1,
        predecessor:0,
-      texto:'Nesta lição, vamos aprender a programar usando um comando poderoso dos algoritmos: o <b>laço</b> ou <b>loop</b>, em inglês.',
+      texto:'Nesta lição, vamos aprender a programar usando um poderoso comando dos algoritmos: o <b>laço</b> ou <b>loop</b>, em inglês.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1266,7 +1266,7 @@ let livro_cs3 ={
      cenas:[
        {ordem:1,
        predecessor:0,
-       texto:'<b>Programação em par</b> é quando duas pessoas trabalham juntas para escrever um programa de computador.',
+       texto:'A <b>programação em par</b> acontece quando duas pessoas trabalham juntas em um único computador, para escrever um programa.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1278,7 +1278,7 @@ let livro_cs3 ={
       
        {ordem:2,
        predecessor:1,
-       texto:'Muitas vezes, podemos resolver problemas difíceis mais facilmente quando trabalhamos em dupla.',
+       texto:'Essa técnica é adotada porque já se sabe que certos problemas são melhor resolvidos por duplas.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1290,7 +1290,7 @@ let livro_cs3 ={
          
        {ordem:3,
        predecessor:2,
-       texto:'Quando duas pessoas programam em par, enquanto uma cria o programa a outra procura por erros.',
+       texto:'Na programação em par, enquanto uma pessoa cria o programa, a outra procura por erros...',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1302,7 +1302,7 @@ let livro_cs3 ={
 
        {ordem:4,
        predecessor:3,
-       texto:'Comparado a um jogo, é semelhante a quando um amigo opera o joystick e o outro observa e avisa sobre a aproximação de inimigos.',
+       texto:'Comparada a um jogo, é semelhante a quando um jogador opera o joystick, enquanto seu parceiro observa e avisa sobre a aproximação de inimigos.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1314,7 +1314,7 @@ let livro_cs3 ={
        
        {ordem:5,
        predecessor:4,
-       texto:'Na programação em par, esses dois papéis possuem nomes. O <b>piloto</b> é quem opera e o <b>copiloto</b> é quem observa e procura pelos erros.',
+       texto:'Na programação em par, esses dois papéis possuem nomes. O <b>piloto</b> é quem opera e o <b>navegador</b> é quem observa e procura pelos erros.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1350,19 +1350,7 @@ let livro_cs3 ={
        
        {ordem:8,
        predecessor:7,
-       texto:'Siga essa dica importante: o piloto e o copiloto devem revezar suas funções para não ficarem cansados. Dessa forma, sua dupla fará programas de alta qualidade, com menos bugs.',
-       urlAudioTexto:'',
-       textoSimplificado:'',
-       textoImpresso:1,
-       imagemImpresso:1,
-       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/ProgParDep/img_8.webp',
-       promptImagem:'Ilustração em estilo de pintura a óleo, mostrando uma cena realista de programação em par. A programadora piloto é uma mulher negra com cabelo estilo black power, e a programadora copiloto é uma mulher ruiva com sardas. A cena apresenta as duas trabalhando juntas em uma mesa em um ambiente de escritório moderno. A programadora negra está digitando no teclado, enquanto a programadora ruiva observa a tela e fornece orientação. O ambiente inclui elementos típicos de um escritório, como estantes de livros, materiais de escritório e uma janela com luz natural, criando uma atmosfera acolhedora e produtiva.', 
-       imagemFonte:'',
-       textoDescritivoImagem:'',},
-         
-       {ordem:9,
-       predecessor:8,
-       texto:'Então, lembrem-se: trabalhem em par para fazer bem feito, sempre revezando entre os papéis de piloto e copiloto.',
+       texto:'Para criar bons programas, com poucos bugs, siga essa dica de ouro: programe em par! E sempre reveze com o colega, entre os papéis de piloto e navegador. Deste modo, ninguém fica muito cansado e desatento.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1392,7 +1380,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Como já aprendemos, um <b>evento</b> é um acontecimento ou ação que acontece ao nosso redor e nos afeta,  provocando uma reação de nossa parte em resposta... como uma "festa surpresa".',
+          texto:'Um <b>evento</b> é um acontecimento ou ação que acontece ao nosso redor e nos afeta,  provocando uma reação de nossa parte em resposta... como uma "festa surpresa".',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1900,7 +1888,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Hoje vamos aprender a <b>navegar</b>, ou seja, <b>usar</b> a internet com segurança!',
+          texto:'Hoje vamos falar sobre a <b>internet</b>, essa importante rede mundial que conecta pessoas e facilita nosso aprendizado.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1912,8 +1900,7 @@ let livro_cs3 ={
   
           {ordem:2,
           predecessor:1,
-          texto:'Pensem na <b>internet</b> como uma biblioteca gigante cheia de informações sobre tudo que vocês podem imaginar.',
-          urlAudioTexto:'',
+          texto:'Podemos pensar na <b>internet</b> como uma grande biblioteca, com informações sobre tudo que podemos imaginar.',          urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
@@ -1923,7 +1910,7 @@ let livro_cs3 ={
   
           {ordem:3,
           predecessor:2,
-          texto:'Quando queremos explorar essa biblioteca, usamos algo chamado <b>navegador</b>, que é como um guia que nos ajuda a achar o que precisamos nessa imensa biblioteca online.',
+          texto:'Quando queremos explorar a internet, usamos um programa chamado <b>navegador</b>, ou "browser" em inglês. Ele nos ajuda a acessar sites, redes sociais e buscadores, trazendo tudo o que precisamos para <b>navegar</b>, como costumamos dizer, nesta imensa biblioteca.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1948,7 +1935,7 @@ let livro_cs3 ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Mas, temos que tomar cuidado com os <b>dados pessoais</b> que informamos na internet...',
+          texto:'Mas, assim como quando caminhamos na rua, navegar pelas páginas da internet também traz seus riscos. Não devemos, por exemplo, revelar nossos <b>dados pessoais</b> para qualquer site ou pessoa online, que nos solicite...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1960,7 +1947,7 @@ let livro_cs3 ={
   
           {ordem:6,
           predecessor:5,
-          texto:'<b>Dados pessoais</b> revelam coisas sobre nós, como onde moramos ou o que gostamos de fazer. E isso pode ser usado por pessoas com más intenções para nos enganar... o que, infelizmente, é muito comum.',
+          texto:'<b>Dados pessoais</b> revelam coisas importantes sobre nós, como "onde moramos" ou "o que gostamos de fazer". E essas informações podem ser usadas por pessoas com más intenções para nos enganar ou enganar nossa família ou amigos... isso, infelizmente, é muito comum!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1972,7 +1959,7 @@ let livro_cs3 ={
   
           {ordem:7,
           predecessor:6,
-          texto:'Por isso, é muito importante não digitar esses dados na internet, quando os sites pedem, sem ter alguém orientando.',
+          texto:'Por isso, não devemos informar nossos dados pessoais na internet para qualquer site que solicite, sem ter alguém orientando.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1984,7 +1971,7 @@ let livro_cs3 ={
   
           {ordem:8,
           predecessor:7,
-          texto:'Também é bom evitar sites que parecem estranhos ou que oferecem coisas que são boas demais para ser verdade. Eles podem tentar fazer vocês baixarem programas ruins que estragam o computador e pegam suas informações.',
+          texto:'Devemos também evitar sites estranhos, desconhecidos ou que oferecem coisas boas demais para ser verdade. Eles tentam nos fazer baixar e instalar programas ruins, que podem roubar nossos dados e causar danos ao computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1996,8 +1983,7 @@ let livro_cs3 ={
   
           {ordem:9,
           predecessor:8,
-          texto:'Se algo parecer suspeito, falem com um adulto de confiança.',
-          urlAudioTexto:'',
+          texto:'Se algo parecer suspeito enquanto navega pela internet, fale sempre com algum adulto de confiança!',          urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
@@ -2008,7 +1994,7 @@ let livro_cs3 ={
   
           {ordem:10,
           predecessor:9,
-          texto:'Com esses cuidados, podemos usar a internet de forma segura e divertida.',
+          texto:'Mas, navegando com segurança, podemos tirar todo proveito dessa incrível ferramenta de comunicação, educação e entretenimento da vida moderna.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2017,19 +2003,7 @@ let livro_cs3 ={
           promptImagem:'Ilustração representando adolescentes usando a internet de forma segura e divertida, com os devidos cuidados quanto aos dados pessoais.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
-
-          {ordem:11,
-          predecessor:10,
-          texto:'Prontos para começar a explorar a internet com segurança?',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/BuscEPriv/img_11.webp',
-          promptImagem:'Ilustração em estilo de riscas de giz, mostrando dois adolescentes felizes e seguros usando a internet.', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-  
+ 
         ]}},
 
       },
@@ -2061,7 +2035,7 @@ let livro_cs3 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Esses homens pré-históricos desenhavam animais com patas duplicadas. Quando alguém passava uma tocha sobre esse desenho na parede da caverna, as patas parecima se movimentar.',
+          texto:'Esses homens pré-históricos desenhavam animais com patas duplicadas. Quando alguém passava uma tocha sobre um desenho desse tipo, feito na parede da caverna, as patas pareciam se movimentar.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2073,7 +2047,7 @@ let livro_cs3 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'No tempo dos faraós, no Egito, as pessoas desenhavam figuras em sequência com poses muito próximas umas das outras, dando a ideia de movimento.',
+          texto:'No tempo dos faraós, no Egito, as pessoas desenhavam figuras em sequência, com poses muito próximas umas das outras, sugerindo a ideia de movimento.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2085,7 +2059,7 @@ let livro_cs3 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'A mais de 5.000 anos atrás, alguém fez pinturas em um vaso, que, quando girado, produzia uma <b>animação</b>: um alce parecia pular e alcançar folhas de árvore.',
+          texto:'Há mais de 5.000 anos, alguém fez pinturas em um vaso que, quando girado, produzia uma <b>animação</b>: um alce parecia pular e alcançar folhas de uma árvore.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2097,7 +2071,7 @@ let livro_cs3 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Há aproximadamente 150 anos, surgiram brinquedos de animação em papel, como o <b>folioscópio</b>. Ele é um bloco de papel com desenhos em sequência, que, quando foleado rapidamente, produz uma animação.',
+          texto:'Em meados do século 19, surgiram brinquedos de animação em papel como o <b>folioscópio</b>. Ele é um bloco de papel com desenhos em sequência. Quando foleado rapidamente, produz uma ilusão de movimentos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2109,7 +2083,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Já o <b>taumatrópio</b> traz dois desenhos, em sua frente e verso. Quando girado rapidamente, permite ver os dois ao mesmo tempo como se fosse uma única imagem.',
+          texto:'Já o <b>taumatrópio</b> é um disco que traz dois desenhos, um na frente e outro no verso. Quando girado rapidamente com um cordão, dá a ilusão de que ambos estão juntos, em uma única imagem.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2121,7 +2095,7 @@ let livro_cs3 ={
           
           {ordem:7,
           predecessor:6,
-          texto:'Um brinquedo um pouco mais sofisticado é o <b>zootrópio</b>, que alguém pode ser girar para criar uma animação com maior duração porque usa mais desenhos.',
+          texto:'Outro brinquedo da época, um pouco mais sofisticado, é o <b>zootrópio</b>. Ele usa uma tira com desenhos, colocada dentro de um recipiente circular. Quando o recipiente é girado, ele cria uma animação contínua e de maior duração.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2145,7 +2119,7 @@ let livro_cs3 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Todas essas invenções primitivas nos revelam o segredo da animação: o movimento que percebemos é apenas uma ilusão, criada a partir da troca rápida entre imagens paradas.',
+          texto:'Todas essas invenções primitivas nos revelam <b>o segredo da animação</b>: o movimento que percebemos nada mais é do que uma ilusão de ótica, criada a partir da troca rápida entre imagens paradas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2169,7 +2143,7 @@ let livro_cs3 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Para vocês entenderem bem, vamos recriar a história da animação, produzindo inventos de todas as gerações até a animação digital!',
+          texto:'Vamos entender melhor, na prática, recriando os primeiros inventos da animação e evoluindo para as animações digitais de nosso tempo!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2352,7 +2326,7 @@ let livro_cs3 ={
           cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Desde muito tempo atrás, as pessoas contam histórias para se conectar umas com as outras, expressando seus sonhos, medos e desejos.',
+          texto:'Desde muito tempo, as pessoas contam histórias para se conectar umas com as outras, expressando seus sonhos, medos e desejos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2412,7 +2386,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Podemos aplicar <b>cores</b> diversas ao cenário. Elas não são apenas decorativas, como veremos a seguir.', 
+          texto:'Podemos aplicar <b>cores</b> diversas ao cenário... e elas não são apenas decorativas, como veremos mais à frente.', 
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2424,7 +2398,7 @@ let livro_cs3 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'O próximo passo é escolher os <b>atores</b>, as personagens de nossa história. São eles que nós programamos... Após arrastar o ator para o palco, é possível mudar seu nome, tamanho e outras características.',
+          texto:'O próximo passo é escolher os <b>atores</b>, as personagens de nossa história. São eles que nós programamos. Após arrastar o ator para o palco é possível mudar seu nome, tamanho e outras características.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2436,7 +2410,7 @@ let livro_cs3 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Podemos programar os movimentos das ators. Eles podem andar, pular, cair... inclusive falar, pensar e gritar, tudo o que você imaginar. ',
+          texto:'Podemos programar os movimentos das atores fazendo-os andar, pular, cair... e inclusive falar, pensar e gritar, entre outros. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2448,7 +2422,7 @@ let livro_cs3 ={
           
           {ordem:9,
           predecessor:8,
-          texto:'Por fim, podemos acrescentar variados <b>elementos</b> ao cenário, arrastando das seções Utilitários, Cidade e Campo. E configurar estes elementos clicando sobre eles.',
+          texto:'Por fim, podemos acrescentar variados <b>elementos</b> ao cenário. Após arrastar os elementos desejados das seções "Utilitários", "Cidade" ou "Campo", podemos configurar cada elemento, clicando sobre eles.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2460,7 +2434,7 @@ let livro_cs3 ={
           
           {ordem:10,
           predecessor:9,
-          texto:'Quando um ator se encontra com um elemento podemos definir o que acontece. O ator cai? O elemento muda de cor ou faz alguma animação?',
+          texto:'Quando um ator se encontra com um elemento podemos definir o que acontece. <i>O ator cai</i>? <i>O elemento muda de cor ou faz alguma animação</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2472,8 +2446,7 @@ let livro_cs3 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Do mesmo modo, podemos definir o que acontece quando o ator se encontra com uma casa com um certa cor.',
-          urlAudioTexto:'',
+          texto:'Do mesmo modo, podemos definir o que acontece quando o ator chega em uma casa do palco que tem uma certa cor...',          urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
@@ -2484,8 +2457,7 @@ let livro_cs3 ={
         
           {ordem:12,
           predecessor:11,
-          texto:'Na seção "aparência" temos blocos que nos permitem narrar a história ou programar o diálogo entre os atores.',
-          urlAudioTexto:'',
+          texto:'Na seção "aparência", temos blocos que nos permitem narrar a história ou programar o diálogo entre os atores.',          urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
@@ -2496,7 +2468,7 @@ let livro_cs3 ={
 
           {ordem:13,
           predecessor:12,
-          texto:'Legal, não? Com todas essas ferramentas, sua criatividade é o limite. Com o Story Lab, vocês podem criar cenas divertidas e surpreendentes.',
+          texto:'Legal, não? Com todas essas ferramentas, sua criatividade é o limite. Com o Story Lab, podemos criar cenas de históricas divertidas e surpreendentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2520,7 +2492,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Neste projeto, vamos imaginar uma história muito divertida, concebendo seus personagens, diálogos, cenários, e tudo mais',
+          texto:'Neste projeto, vamos imaginar uma história muito divertida, concebendo o cenário, seus elementos, personagens e diálogos...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2544,7 +2516,7 @@ let livro_cs3 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Mas antes de sair programando, devemos sempre planejar nossas histórias. Para isso, utilizem o Caderno de Criações.',
+          texto:'Antes de sairmos programando, é importante pensar e planejar a história que pretendemos contar, usando o Caderno de Criações.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2556,7 +2528,7 @@ let livro_cs3 ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Ah, e vale lembrar que os projetos são autorais. Ou seja, vocês são os autores!',
+          texto:'Ah! E vale lembrar que os projetos são "autorais", ou seja, vocês são os autores! Procurem sempre dar um toque pessoal às suas histórias! <i>Vamos lá</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2566,17 +2538,6 @@ let livro_cs3 ={
           imagemFonte:'ideogram',
           textoDescritivoImagem:'',},
 
-          {ordem:5,
-          predecessor:4,
-          texto:'Tentem dar um toque pessoal às suas histórias. Vamos lá?',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/HistQuadAnim/img_5.webp',
-          promptImagem:`A vibrant and colorful animated scene featuring four diverse students: a blond boy, a black girl, a redheaded girl, and a Japanese child. They are seated around a single computer, busily collaborating to create a captivating animated story. The computer screen displays a dynamic blend of characters, landscapes, and special effects. The room has a warm and energetic atmosphere, with the students' creativity radiating from the screen., anime`, 
-          imagemFonte:'ideogram',
-          textoDescritivoImagem:'',},
 
         ]}},
   
