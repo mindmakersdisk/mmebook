@@ -45,7 +45,7 @@ let livro_cw2 ={
     /* conteudo */
     unidade1:{
       titulo:'Fundamentos de Programação',
-      descricao:'Nesta unidade, você será apresentado ao computador, aos dispositivos eletrônicos e aos robôs, além de dar os primeiros passos em programação.<br/>Você começará a utilizar o pensamento computacional na resolução de desafios lógicos por meio de algoritmos.',
+      descricao:'Nesta unidade, após sermos apresentados ao computador e dispositivos computacionais como os robôs, daremos nossos primeiros passos em programação.<p>Aprenderemos o que são os algoritmos e, através de desafios práticos e divertidos, vamos desenvolver habilidades do pensamento computacional, muito importantes para nos ajudar a resolver problemas do mundo moderno.',
       licao1:{
         id:'CW2AULA01CODE',
         /** padroesCurriculares: 
@@ -712,7 +712,7 @@ let livro_cw2 ={
 
     unidade2:{
       titulo:'Condicionais, Robótica e Eventos Computacionais',
-      descricao:'Nesta unidade, você aprenderá os conceitos de laços e expressões condicionais, utilizando-os para resolver desafios lógicos de programação e programar robôs.<br/>Você também aprenderá o conceito de programação orientada a eventos e usará um dispositivo eletrônico para criar seu próprio controle criativo de videogame, utilizando materiais diversos, como massinha ou lápis!',
+      descricao:'Nesta unidade, aprenderemos mais sobre algoritmos, entendendo o que são laços e expressões condicionais, utilizando esses conceitos para resolver desafios lógicos de programação e robótica.<p>Aprenderemos também o conceito de programação dirigida por eventos, explorando o uso da eletricidade para programar inventos criativos, que usam materiais condutores conectados ao computador.',
       licao8:{
         id:'CW2AULA08CODE',
         /** padroesCurriculares: 
@@ -1382,7 +1382,7 @@ let livro_cw2 ={
 
     unidade3:{
       titulo:'Inventos Robotizados e Computação Segura',
-      descricao:'Nesta unidade, você aprenderá sobre sensores, compreendendo suas correspondências com os órgãos do sentido humano e programando inventos eletrônicos que utilizam sensores e outros dispositivos eletrônicos.<br/>Você também compreenderá o conceito de informação, aprendendo sobre a importância de adotar cuidados para navegar na internet com segurança e escolher senhas seguras para suas contas digitais.',
+      descricao:'Nesta unidade, aprenderemos sobre sensores, fazendo comparação com os órgãos do sentido humano e programando inventos eletrônicos que usam sensores reais para captar sinais do ambiente.<p>Vamos aprender a programar em par, a fazer depuração para descobrir e resolver "bugs" e, finalmente, sobre os cuidados que devemos ter ao navegar na internet, para podermos nos divertir, comunicar e informar com segurança.',
       
       licao15:{
         id:'CW2AULA15CODE',
@@ -1408,7 +1408,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Com o tempo, a humanidade descobriu meios de gerar energia para alimentar dispositivos elétricos.',
+          texto:'No final do século 19, a humanidade descobriu meios de transformar essa energia natural em eletricidade, para alimentar aparelhos elétricos, como lâmpadas e motores.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1420,7 +1420,7 @@ let livro_cw2 ={
         
           {ordem:3,
           predecessor:2,
-          texto:'Mas já pensaram em como a energia elétrica chega às nossas casas? A água gira turbinas em usinas hidrelétricas, que transformam esse movimento em eletricidade.',
+          texto:'Vamos entender como tudo isso funciona, utilizando o exemplo das <b>usinas hidrelétricas</b>. As usinas hidrelétricas conseguem transformar a força natural das quedas d'água em eletricidade, atuando como a <b>fonte de energia</b>, nas grandes redes elétricas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1432,7 +1432,7 @@ let livro_cw2 ={
           
           {ordem:4,
           predecessor:3,
-          texto:'A eletricidade, por sua vez, é transmitida por cabos da rede elétrica, que levam a energia até nossas casas, fazendas e fábricas.',
+          texto:'A eletricidade gerada na usina é transmitida por grandes cabos, os <b>condutores</b> da rede elétrica, até as casas, fazendas e fábricas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1456,7 +1456,7 @@ let livro_cw2 ={
           
           {ordem:6,
           predecessor:5,
-          texto:'Além das hidrelétricas, também conseguimos produzir energia com a luz do sol, com a força dos ventos e das marés, com combustíveis como a gasolina e o carvão, entre outros.',
+          texto:'Além das hidrelétricas, existem outros tipos de usina capazes de produzir energia elétrica a partir da luz do sol, da força dos ventos, da queima de gasolina e carvão, entre outras.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1468,7 +1468,7 @@ let livro_cw2 ={
           
           {ordem:7,
           predecessor:6,
-          texto:'Agora vamos aprender mais sobre as várias fontes de energia, conectando nossas próprias redes no computador. Preparados?',
+          texto:'Nesta lição, vamos aprender mais sobre as redes de distribuição de energia, montando nossas próprias redes simuladas no computador. <i>Preparado</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1477,7 +1477,6 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
-              
         
          ]}},
       
@@ -1494,7 +1493,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Usamos nossos olhos, ouvidos, boca, nariz e pele para perceber o mundo ao nosso redor. Esses órgãos do corpo que nos ajudam a sentir e descobrir coisas! ',
+          texto:'Usamos nossos olhos, ouvidos, boca, nariz e pele para perceber o mundo ao nosso redor. Esses são os chamados <b>órgãos do sentido</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1506,7 +1505,7 @@ let livro_cw2 ={
         
           {ordem:2,
           predecessor:1,
-          texto:'Nossos cérebro recebe as informações desses órgãos, nos permitindo entender o que acontece à nossa volta.',
+          texto:'Mas é em nosso cérebro que o principal acontece: ele recebe os sinais de todos esses órgãos e, com a inteligência humana, consegue compreender o mundo externo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1518,7 +1517,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Assim como nós, os robôs e aparelhos eletrônicos também podem ter "ouvidos" e olhos", por meio de <b>sensores</b>. Os sensores captam dados do ambiente e os enviam para um computador central, que funciona como o "cérebro" do robô ou aparelho.',
+          texto:'Os robôs e computadores podem perceber o mundo ao redor, desde que equipados com <b>sensores</b> que simulem órgãos humanos. Esses sensores captam dados do ambiente como sons e luzes, e os enviam para o processador central do robô ou computador atuar como faz o cérebro humano.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1554,7 +1553,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Já as telas e botões funcionam como nosso "tato". Quando alguém os toca, o computador reage, interpretando esse toque.',
+          texto:'As telas e botões funcionam como nosso "tato". Quando alguém os toca, o computador reage, interpretando esse toque.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1590,7 +1589,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Mas os robôs e eletrônicos podem ir além das capacidades humanas. Por exemplo, vendo luzes e ouvindo sons que nós não somos capazes de ver ou ouvir.',
+          texto:'Mas os robôs e eletrônicos podem ir além... Por exemplo, vendo luzes e ouvindo sons que nós, humanos, não somos capazes de ver e ouvir.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1602,7 +1601,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Existem variados tipos de sensores, para as mais diversas finalidades. Vamos conhecer alguns nesta aula!',
+          texto:'Existem variados tipos de sensores, para as mais diversas finalidades. Vamos conhecer alguns ao longo de nosso curso, começando deste já!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1640,7 +1639,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'No início, existiam pouco carros, pois eram muito caros. Com o tempo, os carros ficaram mais baratos e em maior número, mas isso também aumentou a poluição do ar.',
+          texto:'No início, havia poucos carros porque eram muito caros. Com o tempo, os carros ficaram mais baratos e mais numerosos, o que também aumentou a poluição do ar.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1652,7 +1651,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Nas últimos anos, os fabricantes de carros os tornaram cada vez mais seguros, velozes, econômicos e menos poluentes.',
+          texto:'Nos últimos anos, os fabricantes vem criando carros mais seguros, velozes e econômicos, e menos poluentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1664,7 +1663,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Já existem nos dias de hoje carros que "dirigem sozinhos" com o uso de câmeras e sensores.',
+          texto:'E já existem, nos dias de hoje, carros que "dirigem sozinhos" com o auxílio de câmeras e outros sensores...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1676,7 +1675,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Esses chamados <b>carros autônomos</b> podem levar os passageiros para onde desejam, de um modo seguro e sem a necessidade de um motorista.',
+          texto:'São os chamados <b>carros autônomos</b>. Eles podem levar os passageiros para onde desejam, de um modo seguro e sem a necessidade de um motorista.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1688,7 +1687,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Eles ainda são caros, mas, como aprendemos com a história, os carros autônomos devem ficar mais e mais baratos e presentes no nosso dia a dia.',
+          texto:'Eles ainda são caros mas, como aprendemos com a história, devem ficar cada vez mais e mais baratos... e presentes em nosso dia a dia.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1716,7 +1715,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'<b>Programação em par</b> é quando duas pessoas trabalham juntas para escrever um programa de computador.',
+          texto:'A <b>programação em par</b> acontece quando duas pessoas trabalham juntas em um único computador, para escrever um programa.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1728,7 +1727,7 @@ let livro_cw2 ={
          
           {ordem:2,
           predecessor:1,
-          texto:'Muitas vezes, podemos resolver problemas difíceis mais facilmente quando trabalhamos em dupla.',
+          texto:'Essa técnica é adotada porque já se sabe que certos problemas são melhor resolvidos por duplas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1740,7 +1739,7 @@ let livro_cw2 ={
             
           {ordem:3,
           predecessor:2,
-          texto:'Quando duas pessoas programam em par, enquanto uma cria o programa a outra procura por erros. ',
+          texto:'Na programação em par, enquanto uma pessoa cria o programa, a outra procura por erros...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1752,7 +1751,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Comparado a um jogo, é semelhante a quando um amigo opera o joystick e o outro observa e avisa sobre a aproximação de inimigos.',
+          texto:'Comparada a um jogo, é semelhante a quando um jogador opera o joystick, enquanto seu parceiro observa e avisa sobre a aproximação de inimigos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1764,7 +1763,7 @@ let livro_cw2 ={
           
           {ordem:5,
           predecessor:4,
-          texto:'Na programação em par, esses dois papéis possuem nomes. O <b>piloto</b> é quem opera e o <b>copiloto</b> é quem observa e procura pelos erros.',
+          texto:'Na programação em par, esses dois papéis possuem nomes. O <b>piloto</b> é quem opera e o <b>navegador</b> é quem observa e procura pelos erros.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1800,11 +1799,11 @@ let livro_cw2 ={
           
           {ordem:8,
           predecessor:7,
-          texto:'Siga essa dica importante: o piloto e o copiloto devem revezar suas funções para não ficarem cansados. Dessa forma, sua dupla fará programas de alta qualidade, com menos bugs.',
+          texto:' TIRAR ESSE. Para criar bons programas, com poucos bugs, siga essa dica de ouro: programe em par! E sempre reveze com o colega, entre os papéis de piloto e navegador. Deste modo, ninguém fica muito cansado e desatento.',
           urlAudioTexto:'',
           textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
+          textoImpresso:0,
+          imagemImpresso:0,
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i19%20-%20Programa%C3%A7%C3%A3o%20em%20Par%20e%20Depura%C3%A7%C3%A3o/slide%208.webp',
           promptImagem:'', 
           imagemFonte:'',
@@ -1812,7 +1811,7 @@ let livro_cw2 ={
             
           {ordem:9,
           predecessor:8,
-          texto:'Então, lembrem-se: trabalhem em par para fazer bem feito, sempre revezando entre os papéis de piloto e copiloto.',
+          texto:'Para criar bons programas, com poucos bugs, siga essa dica de ouro: programe em par! E sempre reveze com o colega, entre os papéis de piloto e navegador. Deste modo, ninguém fica muito cansado e desatento.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1837,7 +1836,7 @@ let livro_cw2 ={
           cenas:[
             {ordem:1,
             predecessor:0,
-            texto:'Hoje vamos aprender a <b>navegar</b>, ou seja, <b>usar</b> a internet com segurança!',
+            texto:'Hoje vamos falar sobre a <b>internet</b>, essa importante rede mundial que conecta pessoas e facilita nosso aprendizado.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1849,7 +1848,7 @@ let livro_cw2 ={
     
             {ordem:2,
             predecessor:1,
-            texto:'Pensem na <b>internet</b> como uma biblioteca gigante cheia de informações sobre tudo que vocês podem imaginar.',
+            texto:'Podemos pensar na <b>internet</b> como uma grande biblioteca, com informações sobre tudo que podemos imaginar.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1861,7 +1860,7 @@ let livro_cw2 ={
     
             {ordem:3,
             predecessor:2,
-            texto:'Quando queremos explorar essa biblioteca, usamos algo chamado <b>navegador</b>, que é como um guia que nos ajuda a achar o que precisamos nessa imensa biblioteca online.',
+            texto:'Quando queremos explorar a internet, usamos um programa chamado <b>navegador</b>, ou "browser" em inglês. Ele nos ajuda a acessar sites, redes sociais e buscadores, trazendo tudo o que precisamos para <b>navegar</b>, como costumamos dizer, nesta imensa biblioteca.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1885,7 +1884,7 @@ let livro_cw2 ={
     
             {ordem:5,
             predecessor:4,
-            texto:'Mas, temos que tomar cuidado com os <b>dados pessoais</b> que informamos na internet...',
+            texto:'Mas, assim como quando caminhamos na rua, navegar pelas páginas da internet também traz seus riscos. Não devemos, por exemplo, revelar nossos <b>dados pessoais</b> para qualquer site ou pessoa online, que nos solicite...',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1897,7 +1896,7 @@ let livro_cw2 ={
     
             {ordem:6,
             predecessor:5,
-            texto:'<b>Dados pessoais</b> revelam coisas sobre nós, como onde moramos ou o que gostamos de fazer. E isso pode ser usado por pessoas com más intenções para nos enganar... o que, infelizmente, é muito comum.',
+            texto:'<b>Dados pessoais</b> revelam coisas importantes sobre nós, como "onde moramos" ou "o que gostamos de fazer". E essas informações podem ser usadas por pessoas com más intenções para nos enganar ou enganar nossa família ou amigos... isso, infelizmente, é muito comum!',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1909,7 +1908,7 @@ let livro_cw2 ={
     
             {ordem:7,
             predecessor:6,
-            texto:'Por isso, é muito importante não digitar esses dados na internet, quando os sites pedem, sem ter alguém orientando.',
+            texto:'Por isso, não devemos informar nossos dados pessoais na internet para qualquer site que solicite, sem ter alguém orientando.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1921,7 +1920,7 @@ let livro_cw2 ={
     
             {ordem:8,
             predecessor:7,
-            texto:'Também é bom evitar sites que parecem estranhos ou que oferecem coisas que são boas demais para ser verdade. Eles podem tentar fazer vocês baixarem programas ruins que estragam o computador e pegam suas informações.',
+            texto:'Devemos também evitar sites estranhos, desconhecidos ou que oferecem coisas boas demais para ser verdade. Eles tentam nos fazer baixar e instalar programas ruins, que podem roubar nossos dados e causar danos ao computador.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1933,7 +1932,7 @@ let livro_cw2 ={
     
             {ordem:9,
             predecessor:8,
-            texto:'Se algo parecer suspeito, falem com um adulto de confiança.',
+            texto:'Se algo parecer suspeito enquanto navega pela internet, fale sempre com algum adulto de confiança!',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1945,7 +1944,7 @@ let livro_cw2 ={
     
             {ordem:10,
             predecessor:9,
-            texto:'Com esses cuidados, podemos usar a internet de forma segura e divertida.<p>Prontos para começar a explorar a internet com segurança?</p>',
+            texto:'Mas, navegando com segurança, podemos tirar todo proveito dessa incrível ferramenta de comunicação, educação e entretenimento da vida moderna.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
@@ -1966,7 +1965,7 @@ let livro_cw2 ={
 
     unidade4:{
       titulo:'Animação e Computação Criativa',
-      descricao:'Nesta unidade, você será introduzido ao universo da animação, explorando desde os primórdios das animações manuais até o desenvolvimento das animações digitais.<br/>Você aprenderá a programar suas próprias animações digitais, utilizando um laboratório para criar histórias e soltar sua criatividade, aplicando os fundamentos de programação aprendidos neste módulo.',
+      descricao:'Nesta unidade, vamos nos aventurar pelo mundo da animação, conhecendo e reproduzindo os primeiros inventos de animação da história, e evoluindo nosso entendimento até as animações digitais dos dias de hoje.<p>E, finalmente, vamos aprender a programar nossas próprias animações digitais utilizando o "Laboratório de Histórias", soltando a criatividade e usando todos os fundamentos de programação aprendidos.',
       licao22:{
         id:'CW2AULA22CODE',
         /** padroesCurriculares: 
@@ -1991,7 +1990,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Esses homens pré-históricos desenhavam animais com patas duplicadas. Quando alguém passava uma tocha sobre esse desenho na parede da caverna, as patas parecima se movimentar.',
+          texto:'Esses homens pré-históricos desenhavam animais com patas duplicadas. Quando alguém passava uma tocha sobre um desenho desse tipo, feito na parede da caverna, as patas pareciam se movimentar.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2003,7 +2002,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'No tempo dos faraós, no Egito, as pessoas desenhavam figuras em sequência com poses muito próximas umas das outras, dando a ideia de movimento.',
+          texto:'No tempo dos faraós, no Egito, as pessoas desenhavam figuras em sequência, com poses muito próximas umas das outras, sugerindo a ideia de movimento.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2015,7 +2014,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'A mais de 5.000 anos atrás, alguém fez pinturas em um vaso, que, quando girado, produzia uma <b>animação</b>: um alce parecia pular e alcançar folhas de árvore.',
+          texto:'Há mais de 5.000 anos, alguém fez pinturas em um vaso que, quando girado, produzia uma <b>animação</b>: um alce parecia pular e alcançar folhas de uma árvore.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2027,7 +2026,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Há aproximadamente 150 anos, surgiram brinquedos de animação em papel, como o <b>folioscópio</b>. Ele é um bloco de papel com desenhos em sequência, que, quando foleado rapidamente, produz uma animação.',
+          texto:'Em meados do século 19, surgiram brinquedos de animação em papel como o <b>folioscópio</b>. Ele é um bloco de papel com desenhos em sequência. Quando foleado rapidamente, produz uma ilusão de movimentos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2039,7 +2038,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Já o <b>taumatrópio</b> traz dois desenhos, em sua frente e verso. Quando girado rapidamente, permite ver os dois ao mesmo tempo como se fosse uma única imagem.',
+          texto:'Já o <b>taumatrópio</b> é um disco que traz dois desenhos, um na frente e outro no verso. Quando girado rapidamente com um cordão, dá a ilusão de que ambos estão juntos, em uma única imagem.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2051,7 +2050,7 @@ let livro_cw2 ={
           
           {ordem:7,
           predecessor:6,
-          texto:'Um brinquedo um pouco mais sofisticado é o <b>zootrópio</b>, que alguém pode ser girar para criar uma animação com maior duração porque usa mais desenhos.',
+          texto:'Outro brinquedo da época, um pouco mais sofisticado, é o <b>zootrópio</b>. Ele usa uma tira com desenhos, colocada dentro de um recipiente circular. Quando o recipiente é girado, ele cria uma animação contínua e de maior duração.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2075,7 +2074,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Todas essas invenções primitivas nos revelam o segredo da animação: o movimento que percebemos é apenas uma ilusão, criada a partir da troca rápida entre imagens paradas.',
+          texto:'Todas essas invenções primitivas nos revelam <b>o segredo da animação</b>: o movimento que percebemos nada mais é do que uma ilusão de ótica, criada a partir da troca rápida entre imagens paradas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2099,7 +2098,7 @@ let livro_cw2 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Para vocês entenderem bem, vamos recriar a história da animação, produzindo inventos de todas as gerações até a animação digital!',
+          texto:'Vamos entender melhor, na prática, recriando os primeiros inventos da animação e evoluindo para as animações digitais de nosso tempo!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2133,7 +2132,7 @@ let livro_cw2 ={
           cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Desde muito tempo atrás, as pessoas contam histórias para se conectar umas com as outras, expressando seus sonhos, medos e desejos.',
+          texto:'Desde muito tempo, as pessoas contam histórias para se conectar umas com as outras, expressando seus sonhos, medos e desejos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2193,7 +2192,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Podemos aplicar <b>cores</b> diversas ao cenário. Elas não são apenas decorativas, como veremos a seguir.', 
+          texto:'Podemos aplicar <b>cores</b> diversas ao cenário... e elas não são apenas decorativas, como veremos mais à frente.', 
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2205,7 +2204,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'O próximo passo é escolher os <b>atores</b>, as personagens de nossa história. São eles que nós programamos... Após arrastar o ator para o palco, é possível mudar seu nome, tamanho e outras características.',
+          texto:'O próximo passo é escolher os <b>atores</b>, as personagens de nossa história. São eles que nós programamos. Após arrastar o ator para o palco é possível mudar seu nome, tamanho e outras características.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2217,7 +2216,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Podemos programar os movimentos das atores. Eles podem andar, pular, cair... inclusive falar, pensar e gritar, tudo o que você imaginar. ',
+          texto:'Podemos programar os movimentos das atores fazendo-os andar, pular, cair... e inclusive falar, pensar e gritar, entre outros. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2229,7 +2228,7 @@ let livro_cw2 ={
           
           {ordem:9,
           predecessor:8,
-          texto:'Por fim, podemos acrescentar variados <b>elementos</b> ao cenário, arrastando das seções Utilitários, Cidade e Campo. E configurar estes elementos clicando sobre eles.',
+          texto:'Por fim, podemos acrescentar variados <b>elementos</b> ao cenário. Após arrastar os elementos desejados das seções "Utilitários", "Cidade" ou "Campo", podemos configurar cada elemento, clicando sobre eles.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2241,7 +2240,7 @@ let livro_cw2 ={
           
           {ordem:10,
           predecessor:9,
-          texto:'Quando um ator se encontra com um elemento podemos definir o que acontece. O ator cai? O elemento muda de cor ou faz alguma animação?',
+          texto:'Quando um ator se encontra com um elemento podemos definir o que acontece. <i>O ator cai</i>? <i>O elemento muda de cor ou faz alguma animação</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2253,7 +2252,7 @@ let livro_cw2 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Do mesmo modo, podemos definir o que acontece quando o ator se encontra com uma casa com um certa cor.',
+          texto:'Do mesmo modo, podemos definir o que acontece quando o ator chega em uma casa do palco que tem uma certa cor...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2265,7 +2264,7 @@ let livro_cw2 ={
         
           {ordem:12,
           predecessor:11,
-          texto:'Na seção "aparência" temos blocos que nos permitem narrar a história ou programar o diálogo entre os atores.',
+          texto:'Na seção "aparência", temos blocos que nos permitem narrar a história ou programar o diálogo entre os atores.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2277,7 +2276,7 @@ let livro_cw2 ={
 
           {ordem:13,
           predecessor:12,
-          texto:'Legal, não? Com todas essas ferramentas, sua criatividade é o limite. Com o Story Lab, vocês podem criar cenas divertidas e surpreendentes.',
+          texto:'Legal, não? Com todas essas ferramentas, sua criatividade é o limite. Com o Story Lab, podemos criar cenas de históricas divertidas e surpreendentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2301,7 +2300,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Neste projeto, vamos imaginar uma história muito divertida, concebendo seus personagens, diálogos, cenários, e tudo mais',
+          texto:'Neste projeto, vamos imaginar uma história muito divertida, concebendo o cenário, seus elementos, personagens e diálogos...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2325,7 +2324,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Mas antes de sair programando, devemos sempre planejar nossas histórias. Para isso, utilizem o Caderno de Criações.',
+          texto:'Antes de sairmos programando, é importante pensar e planejar a história que pretendemos contar, usando o Caderno de Criações.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2337,7 +2336,7 @@ let livro_cw2 ={
  
           {ordem:4,
           predecessor:3,
-          texto:'Ah, e vale lembrar que os projetos são autorais. Ou seja, vocês são os autores! <p>Tentem dar um toque pessoal às suas histórias. Vamos lá?</p>',
+          texto:'Ah! E vale lembrar que os projetos são "autorais", ou seja, vocês são os autores! Procurem sempre dar um toque pessoal às suas histórias! <i>Vamos lá</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
