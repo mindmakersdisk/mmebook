@@ -70,7 +70,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Você já brincou com um computador ou celular? Eles são aparelhos eletrônicos e possuem diversas partes.',
+          texto:'Você já brincou com um computador, tablet ou celular? Todos eles são aparelhos eletrônicos muito úteis e poderosos...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -82,7 +82,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'O computador de mesa, por exemplo, tem quatro partes: a torre, o teclado, o monitor e o mouse.',
+          texto:'O computador de mesa é composto por quatro partes: a torre, o teclado, o monitor e o mouse.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -94,7 +94,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:`Na <b>torre</b> existem componentes como as memórias, onde o computador armazena dados. E o processor, que funciona como o "cérebro do computador".`,
+          texto:`Dentro da <b>torre</b> ficam os componentes principais do computador, como a memória e o processador - que funciona como o "cérebro do computador".`,
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -106,7 +106,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Com o <b>teclado</b> e o <b>mouse</b>, nós conseguimos digitar, mover e clicar em objetos exibidos na tela, chamada de <b>monitor</b>.',
+          texto:'Com o <b>teclado</b> nós conseguimos digitar letras, números e símbolos exibidos na tela, chamada de <b>monitor</b>. E com o <b>mouse</b> conseguimos clicar e mover objetos exibidos no monitor.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -118,7 +118,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Podemos também conectar outros dispositivos ao computador, como caixas de som ou impressoras.',
+          texto:'Os computadores também podem ser ligados a diversos outros dispositivos tais como impressoras, câmeras e caixas de som mais poderosas, celulares e tablets.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -130,7 +130,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Celulares e tablets também são computadores, embora pequenos, para caberem na palma das nossas mãos.',
+          texto:'Os <b>celulares</b>, chamados <b>smartphones</b> em inglês, e os <b>tablets</b>, também são computadores. Eles são menores, para podermos carregar conosco, por isso são conhecidos como <b>computadores móveis</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -142,7 +142,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Mas existem computadores ainda menores, embutidos dentro de carros, TVs e até mesmo brinquedos. Eles tornam estes aparelhos mais inteligentes e capazes de nos ajudar no dia a dia.',
+          texto:'Mas existem computadores ainda menores, embutidos dentro de carros, TVs e até mesmo brinquedos... Eles tornam estes aparelhos mais inteligentes, capazes de nos ajudar ainda mais no dia a dia.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -154,7 +154,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Mas, afinal, o que é um computador? É uma máquina que pode ser programada para nos ajudar nas mais variadas tarefas, seja no trabalho, na escola ou em momentos de lazer.',
+          texto:'Mas, afinal, <i>o que é um computador</i>? O computador é um aparelho eletrônico versátil, que existe em várias formas e pode ser programado para nos ajudar em inúmeras atividades escolares, de trabalho ou diversão.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -166,7 +166,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Neste curso, vamos aprender a criar jogos, inventos eletrônicos, a programar robôs e montar inventos. Tudo isso é <b>ciência da computação</b>!',
+          texto:'Neste curso, vamos aprender a programar animações digitais, videogames e robôs, além de variados inventos criativos para nos ajudar com desafios da vida moderna. Bem-vindo ao <b>mundo computacional</b>!',
           urlAudioTexto:'https://storage.googleapis.com/mindmakers/cpsciaudioinf/csx_i1_1.mp3',
           textoSimplificado:'Primeiros passos',
           textoImpresso:1,
@@ -194,7 +194,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'A <b>eletricidade</b> é um tipo de energia que chega em nossas casas por meio das chamadas <b>redes elétricas</b>, como podemos observar pelos grandes cabos e postes que vemos nas ruas.',
+          texto:'A <b>eletricidade</b> é um tipo de energia que chega em nossas casas por meio da chamada <b>rede elétrica</b>, formada pelos grandes cabos sobre postes que vemos nas ruas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -206,7 +206,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Em casa, usamos eletricidade para esquentar água, esfriar alimentos na geladeira e ligar aparelhos como lâmpadas, TVs e, é claro, os computadores e até robôs.',
+          texto:'Em casa, usamos a eletricidade para esquentar água, esfriar alimentos na geladeira, ligar aparelhos como lâmpadas, TVs, computadores... e até robôs, mesmo que sejam de brinquedo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -218,7 +218,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Computadores portáteis, robôs e outros aparelhos chamados <b>eletrônicos</b> podem funcionar sem estarem conectados à tomada, desde que possuam pilhas ou baterias.',
+          texto:'Alguns aparelhos como computadores portáteis e robôs podem funcionar sem estarem conectados à tomada, desde que usem <b>pilhas</b> ou <b>baterias</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -230,7 +230,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Já as <b>baterias</b> são componentes que armazenam energia por um tempo. Quando a energia acaba, recarregamos as baterias nas tomadas que trazem energia da rede elétrica.',
+          texto:'A energia das <b>baterias</b> dura apenas por um certo tempo. Quando ela acaba, temos que recarregar a bateria, ligando o aparelho nas tomadas de parede, que trazem energia da rede elétrica.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -242,7 +242,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Existem muitos tipos de aparelhos eletrônicos, para diferentes finalidades. Neste curso, mais do que usar, vamos criar dispositivos eletrônicos variados.',
+          texto:'Já existem muitos tipos de aparelhos eletrônicos, mas muito ainda precisa ser inventado. Neste curso, vamos montar e programar inventos eletrônicos para resolver problemas, sempre de um modo criativo e divertido!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -254,7 +254,7 @@ let livro_cw2 ={
                          
           {ordem:6,
           predecessor:5,
-          texto:'Para isso, como todo aparelho eletrônico é formado por componentes, vamos aprender sobre cada um deles separadamente.',
+          texto:'Para começar, precisamos conhecer os quatro principais <b>componentes</b> dos aparelhos eletrônicos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -266,7 +266,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Um primeiro tipo de componente é chamado de <b>gerador</b>. Ele fornece energia para os demais componentes.',
+          texto:'O primeiro componente é o <b>gerador</b>. Ele fornece energia para os demais componentes eletrônicos do aparelho.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -278,7 +278,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Há também os <b>controladores</b>, componentes que as pessoas usam para controlar os aparelhos.',
+          texto:'O segundo componente são os <b>controladores</b>. Como o nome indica, são os botões e pinos que deslizamos, por exemplo, para controlar o funcionamento dos aparelhos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -290,7 +290,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Já os componentes <b>condutores</b> servem para transportar a energia elétrica entre os componentes.',
+          texto:'O terceiro componente são os <b>condutores</b>. São os fios ou conectores sem fio que transportam a energia elétrica do gerador para os demais componentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -302,7 +302,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Por fim, os componentes <b>atuadores</b> são aqueles que executam a ação principal do aparelho, seja acender uma luz, fazer algum movimento ou outra qualquer.',
+          texto:'Por fim, temos os <b>atuadores</b>, a razão de ser dos aparelhos. Eles executando a ação final, como acender uma luz, fazer um movimento ou emitir um som.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -314,7 +314,7 @@ let livro_cw2 ={
 
           {ordem:11,
           predecessor:10,
-          texto:'Juntando esses quatro tipos de componentes, podemos criar diferentes inventos para explorar os mistérios da eletricidade.',
+          texto:'Juntando esses quatro componentes, podemos criar diferentes inventos modernos, e entender como funcionam os aparelhos que usamos no dia a dia.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpressoRecriado:'Juntando esses quatro tipos de componentes, podemos criar diferentes inventos para explorar os mistérios da eletricidade. A diversão e o aprendizado estão prestes a começar!',
@@ -327,7 +327,7 @@ let livro_cw2 ={
 
           {ordem:12,
           predecessor:11,
-          texto:'A diversão e o aprendizado estão prestes a começar! Prontos para desvendar os segredos da eletricidade?',
+          texto:'A diversão e o aprendizado estão prestes a começar! <i>Prontos para desvendar os segredos da eletricidade</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:0,
@@ -364,7 +364,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Algumas vezes, os algoritmos são representados por figuras ou símbolos.',
+          texto:'Algoritmos podem ser representados por imagens, como nas instruções para montagem de aviões de papel ou origamis...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -376,7 +376,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Outras vezes, podemos chamá-los de <b>diagramas</b>, que são desenhos com formas ligadas por linhas, onde cada forma representa um passo.',
+          texto:'Algoritmos também podem ser criados como <b>diagramas</b>, usando símbolos e formas visuais como retângulos, quadrados e triângulos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -388,7 +388,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Algoritmos podem ser escritos como uma lista numerada de passos para realizar uma tarefa simples.',
+          texto:'Uma das formas mais comuns de algoritmo são as <b>listas numeradas</b>: um texto contendo todos os passos, ou tarefas, na ordem exata que devem ser feitos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -412,7 +412,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'No mundo computacional, os chamados <b>programas de computador</b> também são algoritmos, escritos em uma linguagem que o computador entende.',
+          texto:'Os <b>programas de computador</b> são também algoritmos, escritos em uma linguagem que o computador entende... como os blocos de programação que usaremos neste curso.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -424,7 +424,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Um bom algoritmo é importante para que uma tarefa seja realizada de modo perfeito, seja por uma pessoa ou máquina.',
+          texto:'Criar bons algoritmos é essencial para garantir que uma tarefa seja realizada de modo perfeito, seja por uma pessoa ou máquina.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -436,7 +436,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Por isso, neste curso, vamos aprender algoritmos na prática, colocando a "mão na massa"!',
+          texto:'Por isso, neste curso, vamos aprender a criar algoritmos na prática, colocando a "mão na massa"!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -485,7 +485,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Os robôs têm origens nos autômatos, antigos bonecos que se moviam sozinhos, realizando movimentos simples.',
+          texto:'Os robôs têm origens nos <b>autômatos</b>, antigos bonecos que se moviam sozinhos, realizando movimentos simples.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -509,7 +509,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Já os robôs modernos possuem um computador como "cérebro". Por isso, basta alterar programas para modificar seus movimentos.',
+          texto:'Já os robôs modernos possuem um "computador como cérebro", bastando alterar programas para modificar seus movimentos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -521,7 +521,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Existem muitos tipos de robôs, utilizados para várias finalidades. Por exemplo, robôs industriais fazem tarefas como montar carros ou empacotar produtos.',
+          texto:'O mundo atual já está repleto de robôs reais, utilizados nas mais diversas finalidades. Por exemplo, os <b>braços robóticos industriais</b> são muito usados para montar carros e empacotar produtos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -533,7 +533,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'E robôs cirúrgicos auxiliam os médicos a operar pacientes.',
+          texto:'<b>Robôs cirurgiões</b> auxiliam médicos a operar pacientes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -546,7 +546,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Já os robôs exploradores são capazes de se mover em locais perigosos e até em outros planetas.',
+          texto:'E <b>robôs exploradores</b> realizam atividades em locais perigosos para nós, humanos, inclusive em outros planetas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -558,7 +558,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'No nosso curso, vamos programar diferentes robôs, começando com um robô esfera, que se move como o BB-8 de Star Wars.',
+          texto:'Neste curso, vamos programar diferentes robôs, começando com um robô esfera que se move como o BB-8 de Star Wars.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -570,7 +570,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Podemos programar o robô esfera para se mover em diferentes velocidades e direções, mudar de cor, e muito mais.<p>Bem-vindo ao mundo dos robôs!',
+          texto:'Podemos programar o robô esfera para se mover em diferentes velocidades e direções, mudar de cor e muito mais... Bem-vindo ao mundo dos robôs!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -656,7 +656,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Será que existe uma maneira melhor de mover os aviões no solo? Para resolver isso, foi desenvolvido o Taxibot!',
+          texto:'Pensando em uma maneira melhor de movimentar os aviões no solo, inventores criativos desenvolveram o <b>Taxibot</b>!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -668,7 +668,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'O Taxibot é um veículo <b>semirobotizado</b>, ou seja, é controlado por humanos, mas capaz de realizar muitas tarefas de forma automática.',
+          texto:'O Taxibot é um veículo <b>semirobotizado</b>, ou seja: é controlado por humanos, mas realiza muitas tarefas de forma automática.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -680,7 +680,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Com mais segurança, menos combustível e menos barulho, o Taxibot leva os aviões entre portões e pistas sem ligar as turbinas.',
+          texto:'Com o Taxibot, os aviões não precisam ligar as turbinas para o taxiamento, gastando menos combustível e fazendo menos barulho!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -692,7 +692,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Mas sempre podemos melhorar! Que tal criar um taxibot totalmente robotizado que funcione só com programação?',
+          texto:'Mas todo invento, por melhor que seja, pode sempre ser melhorado! <i>Que tal criar um taxibot totalmente robotizado, que funcione só com programação</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -725,7 +725,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Hoje, vamos aprender sobre um comando poderoso dos algoritmos: os <b>laços</b>, também conhecidos como <b>loops</b>, em inglês.',
+          texto:'Nesta lição, vamos aprender sobre um poderoso comando dos algoritmos: o <b>laço</b> ou <b>loop</b>, em inglês.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -737,7 +737,20 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Os laços permitem que o computador repita comandos várias vezes sem que tenhamos que escrevê-los de novo e de novo no algoritmo.',
+          texto:'Usando laços, fazemos o computador executar um ou mais comandos várias vezes, sem precisar repeti-los no programa...',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i8%20-%20La%C3%A7o%20em%20Algoritmos/slide%203.jpg',
+
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+
+          {ordem:3,
+          predecessor:2,
+          texto:'Usando laços, conseguimos fazer o computador desenhar coisas impressionantes, com poucos comandos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -747,21 +760,9 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
-          {ordem:3,
-          predecessor:2,
-          texto:'Usando laços, podemos fazer coisas impressionantes com poucos comandos.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i8%20-%20La%C3%A7o%20em%20Algoritmos/slide%203.jpg',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
-
           {ordem:4,
           predecessor:3,
-          texto:'Por exemplo, ao criar um algoritmo para um robô industrial, podemos usar laços para instruir a repetição de ações como cortar, separar e parafusar peças.',
+          texto:'Laços são também muito usados, mesmo em algoritmos para orientar pessoas. Professores de educação física, por exemplo, costumam dizer: "repita por 3 vezes, cada exercício acima.".',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -773,7 +774,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Um algoritmo para um jogo de corrida pode usar um laço para fazer um carro dar 76 voltas na pista.',
+          texto:'O programa de um videogame de corrida usa laço para fazer o carro dar, por exemplo, 76 voltas na pista.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -785,7 +786,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Já imaginou criar um programa para um jogo onde uma personagem caminha enquanto dá várias piruetas? Com os laços, isso fica fácil!',
+          texto:'Em videogames, enquanto você controla o personagem principal, os demais se movimentam o tempo todo repetindo piruetas, andando ou dançando... com os laços, isso fica fácil!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -797,7 +798,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Os laços podem ser utilizados dentro de outros laços. A isso chamamos de <b>laços aninhados</b>.',
+          texto:'E os laços podem ser utilizados dentro de outros laços! São os chamamos <b>laços aninhados</b>, que tornam os programas ainda mais poderosos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -809,7 +810,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Usando laços, nossos programas ficam mais poderosos e podemos criar coisas divertidas com menos esforço! Prontos para começar?',
+          texto:'Usando laços, conseguimos criar programas mais legais, movimentados e divertidos, com muito menos esforço! <i>Prontos para os desafios com laços</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -846,7 +847,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;então leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
+          texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;<b>então</b> leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -895,7 +896,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em algoritmos, utilizamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+          texto:'Em algoritmos, utilizamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/><b>senão</b> <br/>&nbsp;&nbsp;&nbsp;pare</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -907,7 +908,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Note que, para escrever essas condições, usamos sinais matemáticos, como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
+          texto:'Para escrever as condições usamos sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -919,7 +920,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'E então? Estão prontos para praticar programação com condicionais?',
+          texto:'Se você usar condicionais, seus programas vão longe! <i>Pronto para os desafios com condicionais</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -944,7 +945,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Medir ângulos é importante para programar e controlar robôs... e pode ser muito divertido! Por isso, você vai aprender a usar um transferidor e diferenciar entre giro absoluto e relativo.',
+          texto:'Para programar movimentos de robôs, precisamos aprender a medir <b>ângulos</b>... e isso pode ser muito divertido! Por isso, nesta lição você vai aprender a usar um transferidor, e a diferenciar entre um giro absoluto e relativo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -956,7 +957,7 @@ let livro_cw2 ={
   
           {ordem:2,
           predecessor:1,
-          texto:'Este é o <b>transferidor</b>, instrumento usado para medir <b>ângulos</b>.</p>Os números ao redor da borda dizem quantos <b>graus</b> tem cada ângulo.',
+          texto:'Este é o <b>transferidor</b>, instrumento usado para medir <b>ângulos</b>.</p>Os números ao redor da borda dizem quantos <b>graus</b> tem cada ângulo. Quanto maior o número do grau, maior vai ser o giro do robô.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -968,7 +969,7 @@ let livro_cw2 ={
   
           {ordem:3,
           predecessor:2,
-          texto:'Um <b>giro absoluto</b> é quando um objeto, como seu robô, vira a partir de sua posição inicial.',
+          texto:'Um <b>giro absoluto</b> é quando você programa o robô para virar, medindo o ângulo a partir de sua posição inicial.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -980,7 +981,7 @@ let livro_cw2 ={
   
           {ordem:4,
           predecessor:3,
-          texto:'Um <b>giro relativo</b> é o ângulo de giro do objeto com relação à sua última posição.',
+          texto:'Já um <b>giro relativo</b> é quando você programa o robô para virar, medindo o ângulo a partir da sua última posição.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -992,7 +993,7 @@ let livro_cw2 ={
   
           {ordem:5,
           predecessor:4,
-          texto:'Siga os passos a seguir para usar um transferidor para te ajudar a apontar o sentido de um robô:</p>a) Coloque o robô sobre o  centro do transferidor.',
+          texto:'Para usar o transferidor e controlar precisamente os giros do robô, siga esses passos:<p>a) Coloque o robô sobre o  centro do transferidor.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1016,7 +1017,7 @@ let livro_cw2 ={
   
           {ordem:7,
           predecessor:6,
-          texto:'c) Para fazer seu robô girar, use o comando  "Vire" indicando o número de graus desejado.',
+          texto:'c) Programe o comando  "Vire", usando o número de graus do transferidor, para onde você quer que o robô "aponte". Este será o novo <b>sentido</b> para o qual o robô vai se movimentar, no próximo comando de movimento.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1028,7 +1029,7 @@ let livro_cw2 ={
   
           {ordem:8,
           predecessor:7,
-          texto:'d) Para medir o próximo ângulo relativo, gire o transferidor de modo que o 0º esteja no sentido do próximo movimento. <p>Agora é sua vez!</p>Com o uso do transferidor, seus programas funcionarão melhor e mais rapidamente.',
+          texto:'d) Se desejar medir o próximo ângulo <b>relativo</b>, antes de medir novamente, gire o transferidor de modo que o 0º esteja no sentido atual do movimento... <p>Agora é sua vez!</p>Com o uso do transferidor, seus programas funcionarão melhor e mais rapidamente.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1066,7 +1067,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Antigos inventores perceberam que poderiam utilizar a força dos cavalos para diferentes finalidades.',
+          texto:'Antigos inventores conseguiram adaptar veículos com rodas para utilizar a força dos cavalos...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1078,7 +1079,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Cavalos passaram a ser usados na agricultura para ajudar no preparo da terra, puxando ferramentas chamadas arados, e fazendo moinhos girarem para auxiliar nas tarefas diárias.',
+          texto:'Com isso, os cavalos passaram a ser usados para impulsionar a agricultura, por exemplo, ajudando no preparo da terra com arados.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1090,7 +1091,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Os cavalos também passaram a ser usados em veículos como carroças ou carruagens para levar objetos ou pessoas de um lugar para outro.',
+          texto:'Veículos movidos a cavalos, como carroças ou carruagens, também foram fundamentais para levar objetos e  pessoas, com mais conforto e segurança, a longas distâncias.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1102,7 +1103,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Alguns veículos como a biga romana eram utilizados em corridas emocionantes, que atraíam um grande público.',
+          texto:'Alguns outros veículos, como a biga romana, eram utilizados em guerras e corridas emocionantes, que atraíam um grande público.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1114,7 +1115,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Hoje em dia, não precisamos mais de cavalos para puxar carruagens... afinal, podemos usar robôs! <p>Que tal criar uma biga-robô? Soltem sua imaginação!</p>',
+          texto:'Mas, hoje em dia, temos outras alternativas para as corridas de biga. <p>Solte sua imaginação para montar, decorar e programar uma biga futurista, a <b>biga-robô</b>!</p>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1144,7 +1145,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você sabe o que é um evento? Um <b>evento</b> é um acontecimento ou ação que pode disparar uma rotina, provocando reações em resposta.',
+          texto:'Um <b>evento</b> é um acontecimento ou ação que acontece ao nosso redor e nos afeta,  provocando uma reação de nossa parte em resposta... como uma "festa surpresa".',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1156,7 +1157,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Por exemplo, imagine que você está brincando e, de repente, um gato pula na sua frente. Qual seria sua reação a esse evento?',
+          texto:'Imagine que você está estudando e, de repente, um gato pula na sua frente. Qual seria sua reação?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1168,7 +1169,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Na computação, muitos eventos são provocados pelos usuários, como chamamos as pessoas que usam o computador.',
+          texto:'Em computação, damos o nome de <b>evento</b> à ações do <b>usuário</b>, feitas pela pessoa que está usando o programa de computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1180,7 +1181,7 @@ let livro_cw2 ={
 
           {ordem:4,
           predecessor:3,
-          texto:'Um <b>evento de usuário</b>, em um sistema computacional, é disparado quando o usuário clica com o mouse ou aperta uma tecla do teclado, por exemplo.',
+          texto:'Por exemplo, quando o usuário clica com o mouse ou aperta uma tecla do teclado, dizemos que um <b>evento de usuário</b> foi disparado.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1192,7 +1193,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Os programas de computador são escritos para responder a esses eventos. Por exemplo, abrindo janelas ou movendo personagens em jogos quando ocorre um evento de usuário.',
+          texto:'A maioria dos programas de computador são escritos para responder a esses eventos. Por exemplo, programas podem abrir certas janelas ou mover personagens em jogos, com base em eventos do mouse ou joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1204,7 +1205,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Celulares, tablets e relógios inteligentes são computadores móveis que permitem outros tipos de eventos do usuário. Por exemplo, um toque na tela ou um simples movimento do dispositivo.',
+          texto:'Em celulares, tablets e relógios inteligentes, outros exemplos eventos do usuário são o toque na tela ou o simples giro do dispositivo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1216,7 +1217,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Alguns programas podem funcionar sem interagir com os usuários. Mas a maioria dos programas que usamos, comos jogos ou aplicativos de redes sociais, estão sempre reagindo aos nossos eventos...',
+          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1231,8 +1232,8 @@ let livro_cw2 ={
           texto:'Quando apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
+          textoImpresso:0,
+          imagemImpresso:0,
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i13%20-%20Eventos/slide%208.webp',
           promptImagem:'', 
           imagemFonte:'',
@@ -1240,7 +1241,7 @@ let livro_cw2 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Além de eventos de usuário, existem também <b>eventos internos</b> nos próprios computadores, celulares e tablets.',
+          texto:'Mas esses programas também reagem a <b>eventos internos</b>, disparados pelos próprios computadores, celulares e tablets.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1252,7 +1253,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Por exemplo, se um desses dispositivos ficar muito quente, ele pode disparar um evento para que um programa o desligue.',
+          texto:'Por exemplo, se um desses dispositivos fica muito quente, ele dispara um evento de alerta... que pode inclusive fazer um programa reagir desligando o computador, como protenção.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1278,7 +1279,7 @@ let livro_cw2 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'As <b>redes elétricas</b> possuem cabos que levam a eletricidade das <b>fontes de energia</b> até nossas casas. ',
+          texto:'As <b>redes elétricas</b> obtém sua energia de <b>fontes de energia naturais</b> tais como a força das águas, dos ventos ou do sol... e as transporta até nossas casas por meio de grandes cabos. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1290,7 +1291,7 @@ let livro_cw2 ={
         
           {ordem:2,
           predecessor:1,
-          texto:'Os <b>cabos elétricos</b> são formados por <b>fios</b> que, por sua vez, são feitos de materiais como cobre e alumínio, que são bons condutores de eletricidade.',
+          texto:'Os <b>cabos elétricos</b> são formados por <b>fios</b> feitos de materiais como cobre e alumínio, que são bons <b>condutores de eletricidade</b>.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1302,7 +1303,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Os cabos e fios geralmente são cobertos por um material chamado <b>isolante</b>, como plástico ou borracha, para evitar acidentes. Afinal, eles não conduzem eletricidade.',
+          texto:'Os cabos e fios são geralmente cobertos por um material chamado <b>isolante</b>, como plástico ou borracha, para evitar acidentes...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1312,9 +1313,22 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
+
           {ordem:4,
           predecessor:3,
-          texto:'Além dos metais, outros materiais também podem conduzir eletricidade, por exemplo, a água e alimentos tais como as frutas.',
+          texto:'Afinal, encostar diretamente em um grande cabo transportando muita energia elétrica pode levar até à morte. Jamais toque em tomadas elétricas ou fios elétricos, sem o acompanhamento de um adulto.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i14%20-%20Materiais%20Condutores%20e%20N%C3%A3o%20Condutores%20de%20Eletricidade/slide%205.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
+		  
+          {ordem:5,
+          predecessor:4,
+          texto:'Mas, além dos metais, outros materiais também podem conduzir eletricidade. Por exemplo, mesmo a água e alimentos tais como as frutas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1324,21 +1338,10 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
-          {ordem:5,
-          predecessor:4,
-          texto:'Os seres humanos também podem conduzir eletricidade e sentir choques elétricos, que são muito perigosos! Jamais toquem as tomadas elétricas.',
-          urlAudioTexto:'',
-          textoSimplificado:'',
-          textoImpresso:1,
-          imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i14%20-%20Materiais%20Condutores%20e%20N%C3%A3o%20Condutores%20de%20Eletricidade/slide%205.webp',
-          promptImagem:'', 
-          imagemFonte:'',
-          textoDescritivoImagem:'',},
 
           {ordem:6,
           predecessor:5,
-          texto:'Não se preocupe. Em nosso curso, usamos dispositivos elétricos com carga baixa, que não são perigosos. Por isso, podemos utilizá-los com segurança.',
+          texto:'E não se preocupe: em nosso curso, usamos somente dispositivos educacionais que usam pequenas cargas de eletricidade, permitindo que você os utilize com total segurança...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1350,7 +1353,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Conheça o Makey Makey, um dispositivo eletrônico que nos permite usar materiais condutores para disparar eventos no computador.',
+          texto:'Como o Makey Makey, um dispositivo eletrônico muito criativo, que nos permite utilizar diversos materiais condutores para disparar eventos para nossos programas de computador.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1362,7 +1365,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Com o Makey Makey, um cacho de banana ou uma gelatina podem se tornar um teclado ou um mouse. Vamos testar?',
+          texto:'Com o Makey Makey, um cacho de banana ou uma gelatina podem se tornar um teclado ou um mouse. <i>Vamos testar</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
