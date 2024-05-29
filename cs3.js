@@ -926,7 +926,7 @@ let livro_cs3 ={
          cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar antes de brincar, escolher entre vôlei ou futebol... Tudo isso depende de diferentes condições.',
+          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar ou brincar, escolher entre vôlei ou futebol... tudo isso depende de diferentes condições.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
