@@ -42,8 +42,8 @@ let livro_cs3 ={
   
    /* conteudo */
   unidade1:{
-	  titulo:'',
-	  descricao:'',
+	  titulo:'Fundamentos em Programação',
+	  descricao:'Nesta unidade, apresentaremos o computador, os dispositivos eletrônicos e os robôs, introduzindo os conceitos básicos de programação.<br/>Em seguida, exploraremos o pensamento computacional, utilizando algoritmos para resolver desafios lógicos.',
 	  licao1:{
 		  id:'CS3AULA01CODE',
 		  /** padroesCurriculares: 
@@ -703,8 +703,8 @@ let livro_cs3 ={
   },
 
   unidade2:{
-    titulo:'',
-    descricao:'',
+    titulo:'Laços Avançados e Depuração',
+    descricao:'Nesta unidade, aprofundaremos nossos conhecimentos sobre laços aninhados e expressões condicionais, e aprenderemos sobre laços avançados, praticando com os comandos "repita enquanto" e "repita até".<br/>Em seguida, exploraremos a importância da programação em par e seus benefícios na localização e correção de erros em programas.',
     licao8:{
       id:'CS3AULA08CODE',
       /** padroesCurriculares: 
@@ -1434,8 +1434,8 @@ let livro_cs3 ={
 
 
     unidade3:{
-      titulo:'',
-      descricao:'',
+      titulo:'Elementos de Programação, Dados e Navegação Segura',
+      descricao:'Nesta unidade, aprofundaremos nossos conhecimentos sobre eventos em computação e exploraremos o fascinante mundo digital, compreendendo o que são dados digitais.<br/>Em seguida, aprenderemos sobre expressões lógicas e discutiremos a importância de adotar cuidados ao fazer buscas na internet. Abordaremos medidas de segurança para preservar nossa privacidade online, evitando o compartilhamento de informações pessoais em redes públicas.',
       licao15:{
         id:'CS3AULA15CODE',
         /** padroesCurriculares: 
@@ -2092,8 +2092,8 @@ let livro_cs3 ={
       },
 
     unidade4:{
-      titulo:'',
-      descricao:'',
+      titulo:'Animação e Computação Criativa',
+      descricao:'Nesta unidade, seremos introduzidos ao universo da animação, explorando desde os primórdios das animações manuais até o desenvolvimento das animações digitais.<br/>Aprenderemos a programar animações digitais autorais, utilizando um laboratório para criar histórias e soltar a criatividade, aplicando os fundamentos de programação aprendidos neste módulo.',
       licao22:{
         id:'CS3AULA22CODE',
         /** padroesCurriculares: 
