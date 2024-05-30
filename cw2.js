@@ -473,7 +473,7 @@ let livro_cw2 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Nós já vimos robôs em filmes e jogos... Eles podem ter pernas, rodas ou parecer com humanos. Mas vocês sabem como eles surgiram?',
+          texto:'Nós já vimos robôs em filmes e jogos... Eles podem ter pernas, rodas ou parecer com humanos. Mas você sabe como eles surgiram?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -835,7 +835,7 @@ let livro_cw2 ={
          cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar antes de brincar, escolher entre vôlei ou futebol... Tudo isso depende de diferentes condições.',
+          texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar ou brincar, escolher entre vôlei ou futebol... tudo isso depende de diferentes condições.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1205,7 +1205,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em celulares, tablets e relógios inteligentes, outros exemplos eventos do usuário são o toque na tela ou o simples giro do dispositivo.',
+          texto:'Em celulares, tablets e relógios inteligentes, outros exemplos de eventos do usuário são o toque na tela ou o simples giro do dispositivo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1229,7 +1229,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Quando apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
+          texto:'... sempre que apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:0,
@@ -1253,7 +1253,7 @@ let livro_cw2 ={
 
           {ordem:10,
           predecessor:9,
-          texto:'Por exemplo, se um desses dispositivos fica muito quente, ele dispara um evento de alerta... que pode inclusive fazer um programa reagir desligando o computador, como protenção.',
+          texto:'Por exemplo, se um desses dispositivos fica muito quente, ele dispara um evento de alerta... que pode inclusive fazer um programa reagir desligando o computador, como proteção.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2026,7 +2026,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'Em meados do século 19, surgiram brinquedos de animação em papel como o <b>folioscópio</b>. Ele é um bloco de papel com desenhos em sequência. Quando foleado rapidamente, produz uma ilusão de movimentos.',
+          texto:'Em meados do século 19, surgiram brinquedos de animação em papel como o <b>folioscópio</b>. Ele é um bloco de papel com desenhos em sequência. Quando folheado rapidamente, produz uma ilusão de movimentos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
