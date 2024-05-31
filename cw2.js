@@ -1216,7 +1216,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos...<p>... sempre que apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
+          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos sempre que apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
