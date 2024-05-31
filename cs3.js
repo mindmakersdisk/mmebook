@@ -735,7 +735,7 @@ let livro_cs3 ={
 
        {ordem:3,
        predecessor:2,
-       texto:'Usando laços, conseguimos fazer o computador desenhar coisas impressionantes, com poucos comandos.',
+       texto:'Usando laços, conseguimos fazer o computador executar coisas impressionantes, com poucos comandos.',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -760,7 +760,8 @@ let livro_cs3 ={
 
        {ordem:5,
        predecessor:4,
-       texto:'O programa de um videogame de corrida usa laço para fazer o carro dar, por exemplo, 76 voltas na pista.',       urlAudioTexto:'',
+       texto:'O programador de um videogame de corrida pode usar laço para fazer o carro dar 76 voltas na pista.',
+       urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
        imagemImpresso:1,
@@ -938,7 +939,7 @@ let livro_cs3 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;<b>então</b> leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
+          texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;<b>então</b> leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão não</b> leve guarda-chuva</code> <br/><br/>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1380,7 +1381,7 @@ let livro_cs3 ={
 
           {ordem:2,
           predecessor:1,
-          texto:'Imagine que você está estudando e, de repente, um gato pula na sua frente. Qual seria sua reação?',          urlAudioTexto:'',
+          texto:'Imagine que você está amarrando os cadarços, quando, de repente, um gato pula na sua frente. Qual seria sua reação?',urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
@@ -1427,7 +1428,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em celulares, tablets e relógios inteligentes, outros exemplos de eventos do usuário são o toque na tela ou o simples giro do dispositivo.',
+          texto:'Em celulares, tablets e relógios inteligentes, outros exemplos de eventos do usuário são o <b>toque na tela</b> ou o simples <b>giro</b> do dispositivo.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1439,7 +1440,7 @@ let livro_cs3 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos...',
+          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1451,7 +1452,7 @@ let livro_cs3 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'... sempre que apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
+          texto:'... elas estão sempre reagindo aos nossos eventos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:0,
@@ -1529,7 +1530,7 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/DadDecomp/img_3.webp',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/DadDecomp/img_3v2.webp',
           promptImagem:'Uma ilustração em arte linear, realista, em preto e branco, representando um único dado sem contexto. A cena mostra uma folha de papel com um número escrito, colocada sobre uma mesa. Ao lado, uma criança está olhando para o número com uma expressão de confusão, enquanto outras crianças ao fundo estão engajadas em atividades em grupo, destacando a falta de utilidade do dado isolado.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -1541,7 +1542,7 @@ let livro_cs3 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/DadDecomp/img_4.webp',
+          urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS3/DadDecomp/img_4v2.webp',
           promptImagem:'Uma ilustração em arte linear, realista, em preto e branco, representando a importância de dados combinados. A cena mostra uma criança olhando para um quadro branco com várias informações organizadas: um nome, altura, endereço, time preferido e uma foto. Outras crianças estão ao redor, discutindo e apontando para as informações no quadro, mostrando como os dados combinados fornecem um contexto mais rico e significativo.', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -1560,7 +1561,7 @@ let livro_cs3 ={
   
           {ordem:6,
           predecessor:5,
-          texto:'Até aqui, você vem resolvendo problemas no computador criando programas, que não lidam com muitos dados.',
+          texto:'Até este ponto do curso, você vem criando programas que não usam muitos dados.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1572,7 +1573,7 @@ let livro_cs3 ={
   
           {ordem:7,
           predecessor:6,
-          texto:'Mas a maioria dos programas de computador precisa lidar com muitos dados...',
+          texto:'Mas a maioria dos programas de computador precisa manipular uma grande quantidade de dados...',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1584,7 +1585,7 @@ let livro_cs3 ={
   
           {ordem:8,
           predecessor:7,
-          texto:'Por exemplo, para programar um aplicativo para cuidar de animais de estimação, precisamos armazenar dados para saber se cada animal é um gato ou cachorro, seu tamanho, raça e idade.',
+          texto:'Por exemplo, ao programar um aplicativo para cuidar de animais de estimação, precisamos armazenar dados para saber se cada animal é um gato ou cachorro, seu tamanho, raça e idade.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1656,7 +1657,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Usamos <b>expressões condicionais</b> como <b>Se</b> e <b>Então</b> são usadas para orientar a tomada de decisões. Por exemplo, no trânsito:<p><code><b>se</b> o sinal estiver vermelho <b>então</b> pare<br/><b>se</b> o sinal estiver verde <b>então</b> prossiga<br/></code>',
+          texto:'Usamos <b>expressões condicionais</b> como <b>se</b> e <b>então</b> são usadas para orientar a tomada de decisões. Por exemplo, no trânsito:<p><code><b>se</b> o sinal estiver vermelho <b>então</b> pare<br/><b>se</b> o sinal estiver verde <b>então</b> prossiga<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1668,7 +1669,7 @@ let livro_cs3 ={
     
           {ordem:2,
           predecessor:1,
-          texto:'Em programação, as expressões condicionais usam "se", "então", "senão" e sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/><b>senão</b> <br/>&nbsp;&nbsp;&nbsp;pare</code>',
+          texto:'Em programação, as expressões condicionais usam "se", "então", "senão" e sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>. Veja o algoritmo a seguir: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;<b>então</b> prossiga<br/><b>senão</b> <br/>&nbsp;&nbsp;&nbsp;pare</code>',
           urlAudioTexto:'',	
           textoSimplificado:'',
           textoImpresso:1,
@@ -1692,7 +1693,7 @@ let livro_cs3 ={
     
           {ordem:4,
           predecessor:3,
-          texto:'Para juntar diferentes condições, usamos os termos <b>E/OU</b>, chamados de <b>Operadores Lógicos</b>. Compare o exemplo abaixo com o anterior:<p><code><b>se</b> sinal = vermelho <b>então</b> pare<br/><b>senão se</b> sinal = verde <b>então</b> prossiga<br/><b>senão se</b></b> sinal = amarelo <b>e</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;<b>então</b> prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
+          texto:'Para juntar diferentes condições, usamos os termos <b>e/ou</b>, chamados de <b>operadores lógicos</b>. Compare o exemplo abaixo com o anterior:<p><code><b>se</b> sinal = vermelho <b>então</b> pare<br/><b>senão se</b> sinal = verde <b>então</b> prossiga<br/><b>senão se</b></b> sinal = amarelo <b>e</b> já estiver passando sob o sinal<br/>&nbsp;&nbsp;&nbsp;<b>então</b> prossiga <br/>&nbsp;&nbsp;&nbsp;<b>senão</b> pare<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1716,7 +1717,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Além de <b>E/OU</b>, também temos o <b>NÃO</b>, que inverte uma decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede <b>então</b><br/>&nbsp;&nbsp; <b>se não</b>  estiver de jejum <b>então</b> beba água<br/></code>',
+          texto:'Além de <b>E/OU</b>, também temos o <b>não</b>, que inverte uma decisão. Veja o exemplo:<p><code><b>se</b> estiver com sede <b>então</b><br/>&nbsp;&nbsp; <b>se não</b>  estiver de jejum <b>então</b> beba água<br/></code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -2436,7 +2437,7 @@ let livro_cs3 ={
         id:'CS3AULA27CODE',
         /** padroesCurriculares: 
         titulo:'Lição 27. Projeto História em Quadrinho Animada',**/
-        infografico:{titulo:'Lição 27. Exposição de Contexto: História em Quadrinho Animada',
+        infografico:{titulo:'Lição 27. História em Quadrinho Animada',
         tituloSimplificado:'História em Quadrinho Animada',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
