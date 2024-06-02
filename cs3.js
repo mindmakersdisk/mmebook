@@ -2363,7 +2363,7 @@ let livro_cs3 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Podemos programar os movimentos das atores fazendo-os andar, pular, cair... e inclusive falar, pensar e gritar, entre outros. ',
+          texto:'Podemos programar os movimentos dos atores fazendo-os andar, pular, cair... e inclusive falar, pensar e gritar, entre outros. ',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
