@@ -2096,7 +2096,7 @@ let livro_cs3 ={
 
           {ordem:9,
           predecessor:8,
-          texto:'Todas essas invenções primitivas nos revelam <b>o segredo da animação</b>: o movimento que percebemos nada mais é do que uma ilusão de ótica, criada a partir da troca rápida entre imagens paradas.',
+          texto:'Todas essas invenções primitivas nos revelam o <b>segredo da animação</b>: o movimento que percebemos nada mais é do que uma ilusão de ótica, criada a partir da troca rápida entre imagens paradas.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
