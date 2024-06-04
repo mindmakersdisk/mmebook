@@ -311,7 +311,7 @@ let livro_cs3 ={
 
          {ordem:9,
          predecessor:8,
-         texto:'Mas, afinal, <i>o que é um computador</i>? O computador é um aparelho eletrônico versátil, que existe em várias formas e pode ser programado para nos ajudar em inúmeras atividades escolares, de trabalho ou diversão.',
+         texto:'Mas, afinal, <i>o que é um computador</i>? O <b>computador</b> é um aparelho eletrônico versátil, que existe em várias formas e pode ser programado para nos ajudar em inúmeras atividades escolares, de trabalho ou diversão.',
          urlAudioTexto:'',
          textoSimplificado:'',
          textoImpresso:1,
@@ -772,7 +772,7 @@ let livro_cs3 ={
 
        {ordem:6,
        predecessor:5,
-       texto:'Em videogames, enquanto você controla o personagem principal, os demais se movimentam o tempo todo repetindo piruetas, andando ou dançando... com os laços, isso fica fácil!',
+       texto:'Em <b>videogames</b>, enquanto você controla o personagem principal, os demais se movimentam o tempo todo repetindo piruetas, andando ou dançando... com os laços, isso fica fácil!',
        urlAudioTexto:'',
        textoSimplificado:'',
        textoImpresso:1,
@@ -1502,7 +1502,7 @@ let livro_cs3 ={
         cenas:[
           {ordem:1,
           predecessor:0,
-          texto:'Você sabe o que são <b>dados</b> digitais?',
+          texto:'Você sabe o que são <b>dados digitais</b>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1730,7 +1730,7 @@ let livro_cs3 ={
             
           {ordem:7,
           predecessor:6,
-          texto:'Muita coisa nova, não é? Mas não se preocupe, a melhor forma de aprender expressões lógicas e condicionais é praticando! Estão prontos para mais desafios?!',
+          texto:'Muita coisa nova, não é? Mas não se preocupe, a melhor forma de aprender <b>expressões lógicas</b> e condicionais é praticando! Estão prontos para mais desafios?!',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
