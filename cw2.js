@@ -179,14 +179,11 @@ let livro_cw2 ={
          ]}},
 
 
-      licao2:{},
-
-
-      licao3:{
-        id:'CW2AULA03CODE',
+      licao2:{
+        id:'CW2AULA02CODE',
         /** padroesCurriculares: 
-        titulo:'Lição 03. Eletricidade e Dispositivos Eletrônicos.',**/
-        infografico:{titulo:'Lição 03. Explorando a Eletricidade e Seus Segredos',
+        titulo:'Lição 02. Eletricidade',**/
+        infografico:{titulo:'Lição 02. Explorando a Eletricidade e Seus Segredos',
         tituloSimplificado:'Eletricidade',
         estiloPadrao:'basicoPaisagem',
         /** urlVideo:'',
@@ -338,6 +335,8 @@ let livro_cw2 ={
           textoDescritivoImagem:'',},
         
          ]}},
+
+      licao3:{},
 
 
       licao4:{
