@@ -51,7 +51,7 @@ let livro_cs1 ={
 		  id:'CS1AULA01CODE',
 		  /** padroesCurriculares: 
 		  titulo:'Lição 01. Sequências.',**/
-		  infografico:{titulo:'SEQUÊNCIAS',
+		  infografico:{titulo:'LIÇÃO 01. SEQUÊNCIAS',
 			tituloSimplificado:'SEQUÊNCIAS',
 			estiloPadrao:'basicoPaisagem',
 			/** urlVideo:'',
@@ -179,7 +179,7 @@ let livro_cs1 ={
 	  licao2:{id:'CS1AULA02CODE',
     /** padroesCurriculares: 
     titulo:'Lição 02. Identificação de Padrões.',**/
-    infografico:{titulo:'IDENTIFICAÇÃO DE PADRÕES',
+    infografico:{titulo:'LIÇÃO 02. IDENTIFICAÇÃO DE PADRÕES',
     tituloSimplificado:'PADRÕES',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -308,7 +308,7 @@ let livro_cs1 ={
     licao4:{id:'CS1AULA04CODE',
 		/** padroesCurriculares: 
 		titulo:'Lição 04. Algoritmos.',**/
-		infografico:{titulo:'ALGORITMOS',
+		infografico:{titulo:'LIÇÃO 04. ALGORITMOS',
 		tituloSimplificado:'OS ALGORITMOS',
 		estiloPadrao:'basicoPaisagem',
 		/** urlVideo:'',
@@ -540,7 +540,7 @@ let livro_cs1 ={
     
     licao6:{/** padroesCurriculares: 
     titulo:'Lição 06. Robôs.',**/
-    infografico:{titulo:'ROBÔS',
+    infografico:{titulo:'LIÇÃO 06. ROBÔS',
     tituloSimplificado:'ROBÔS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -744,7 +744,7 @@ let livro_cs1 ={
     
       licao7:{/** padroesCurriculares: 
       titulo:'Lição 07. Robópolis.',**/
-      infografico:{titulo:'ROBÓPOLIS',
+      infografico:{titulo:'LIÇÃO 07. ROBÓPOLIS',
       tituloSimplificado:'ROBÓPOLIS',
       estiloPadrao:'basicoPaisagem',
       /** urlVideo:'',
@@ -849,7 +849,7 @@ let livro_cs1 ={
 	  descricao:'NESTA UNIDADE, VAMOS APRENDER SOBRE LAÇOS, EVENTOS E CONDICIONAIS, COMANDOS QUE TORNAM OS ALGORITMOS MUITO MAIS PODEROSOS.',
 	  licao8:{/** padroesCurriculares: 
     titulo:'Lição 08. Laços.',**/
-    infografico:{titulo:'LAÇOS',
+    infografico:{titulo:'LIÇÃO 08. LAÇOS',
     tituloSimplificado:'LAÇOS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -936,7 +936,7 @@ let livro_cs1 ={
 	  
     licao9:{/** padroesCurriculares: 
     titulo:'Lição 09. Numerópolis.',**/
-    infografico:{titulo:'NUMERÓPOLIS',
+    infografico:{titulo:'LIÇÃO 09. NUMERÓPOLIS',
     tituloSimplificado:'NUMERÓPOLIS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -1114,7 +1114,7 @@ let livro_cs1 ={
     
     licao10:{/** padroesCurriculares: 
     titulo:'Lição 10. Robociclagem.',**/
-    infografico:{titulo:'ROBOCICLAGEM',
+    infografico:{titulo:'LIÇÃO 10. ROBOCICLAGEM',
     tituloSimplificado:'ROBOCICLAGEM',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -1285,7 +1285,7 @@ let livro_cs1 ={
    
     licao14:{/** padroesCurriculares: 
     titulo:'Lição 14. Eventos.',**/
-    infografico:{titulo:'EVENTOS',
+    infografico:{titulo:'LIÇÃO 14. EVENTOS',
     tituloSimplificado:'EVENTOS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -1459,7 +1459,7 @@ let livro_cs1 ={
    
     licao16:{/** padroesCurriculares: 
     titulo:'Lição 16. Senhas e Segurança',**/
-    infografico:{titulo:'SENHAS E SEGURANÇA',
+    infografico:{titulo:'LIÇÃO 16. SENHAS E SEGURANÇA',
     tituloSimplificado:'SENHAS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -1663,7 +1663,7 @@ let livro_cs1 ={
    
     licao17:{/** padroesCurriculares: 
     titulo:'Lição 17. Condicionais.',**/
-    infografico:{titulo:'CONDICIONAIS',
+    infografico:{titulo:'LIÇÃO 17. CONDICIONAIS',
     tituloSimplificado:'CONDICIONAIS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -1819,7 +1819,7 @@ let livro_cs1 ={
   
     licao19:{/** padroesCurriculares: 
     titulo:'Lição 19. Depuração.',**/
-    infografico:{titulo:'DEPURAÇÃO',
+    infografico:{titulo:'LIÇÃO 19. DEPURAÇÃO',
     tituloSimplificado:'DEPURAÇÃO',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -2012,7 +2012,7 @@ let livro_cs1 ={
    
     licao24:{/** padroesCurriculares: 
     titulo:'Lição 24. O Trânsito em Robópolis.',**/
-    infografico:{titulo:'O TRÂNSITO EM ROBÓPOLIS',
+    infografico:{titulo:'LIÇÃO 24. O TRÂNSITO EM ROBÓPOLIS',
     tituloSimplificado:'TRÂNSITO',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
@@ -2103,7 +2103,7 @@ let livro_cs1 ={
    
     licao27:{/** padroesCurriculares: 
     titulo:'Lição 27. Binarópolis.',**/
-    infografico:{titulo:'BINARÓPOLIS',
+    infografico:{titulo:'LIÇÃO 27. BINARÓPOLIS',
     tituloSimplificado:'BINARÓPOLIS',
     estiloPadrao:'basicoPaisagem',
     /** urlVideo:'',
