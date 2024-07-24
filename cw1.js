@@ -11,6 +11,11 @@ let livro_cw1 ={
   nomeTecnico:'CW1 - Fundamentos em Ciência da Computação',
   resumo:'Módulo adequado à implantação no início do Ensino Fundamental, para alunos em alfabetização. Aborda fundamentos em letramento e pensamento computacional, introduzindo conceitos como sequencia, algoritmo, laço, evento, padrão e outros, de modo lúdico e prático.',
   resumoCapa:'A computação tornou a aviação mais segura e eficiente. Graças a sistemas computadorizados, aviões são mais precisos em voar e pousar. A simulação de voo treina pilotos em ambientes seguros, e o gerenciamento de tráfego aéreo automatizado mantém os céus organizados.',
+   nomeFantasiaEn: "Introduction - Literacy Students",
+  nomeTecnicoEn: "CW1e - Fundamentals of Computer Science",
+  resumoEn: "Module suitable for implementation at the beginning of Elementary School, for literacy students. It covers fundamentals of literacy and computational thinking, introducing concepts such as sequence, algorithm, loop, event, pattern, and others, in a playful and practical way.",
+  resumoCapaEn: "Computing has made aviation safer and more efficient. Thanks to computerized systems, airplanes are more precise in flying and landing. Flight simulation trains pilots in safe environments, and automated air traffic management keeps the skies organized.",
+
   isbn:'',
   autores:[],
   editor:'',
