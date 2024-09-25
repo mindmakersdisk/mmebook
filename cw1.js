@@ -60,20 +60,20 @@ let livro_cw1 ={
 			cenas:[				
 				{ordem:1,
 				predecessor:0,
-        texto:'OS <b>ALGORITMOS</b> ESTÃO NO MUNDO QUE NOS RODEIA E SÃO USADOS EM TODA A TECNOLOGIA CONHECIDA HOJE.',
+        texto:'OS ALGORITMOS ESTÃO AO NOSSO REDOR, CONTROLANDO MÁQUINAS MODERNAS QUE USAMOS NO DIA A DIA.',
 				urlAudioTexto:'',
 				textoSimplificado:'Algoritmos em todos os lugares',
-				urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img1.webp',
+				urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/image1.png',
 				textoImpresso:1,
 				textoImpressoRecriado:'OS ALGORITMOS ESTÃO EM TODO LUGAR!',
-				promptImagem:'crie uma imagem de um garotinho seguindo as instruções de uma receita culinária',
+				promptImagem:'gere uma iamgem bem colorida, para alunos de 6 anos de idade, que mostr várias máquinas e equipamentos que pode ser controlados por programas de computador',
 				imagemImpresso:1,
-        imagemFonte:'dall-e 3',
+        imagemFonte:'cogna IA',
         textoDescritivoImagem:'', /*opc*/},
 
         {ordem:2,
         predecessor:1,
-        texto:'UM <b>ALGORITMO</b> É UMA INSTRUÇÃO DETALHADA, COM DIFERENTES PASSOS, OU A UMA FÓRMULA DE RESOLVER UM PROBLEMA OU COMPLETAR UMA TAREFA.',
+        texto:'UM ALGORITMO É UMA INSTRUÇÃO DETALHADA, COM DIFERENTES PASSOS, QUE EXPLICAM COMO RESOLVER UM PROBLEMA OU COMPLETAR UMA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'O que é um algoritmo?',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img3.jpg',
@@ -86,7 +86,7 @@ let livro_cw1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM <b>ALGORITMOS</b> QUE DÃO ORDENS AO COMPUTADOR PARA QUE ELE REALIZE UMA DETERMINADA TAREFA.',
+        texto:'NA PROGRAMAÇÃO, OS PROGRAMADORES ESCREVEM ALGORITMOS QUE DÃO ORDENS AO COMPUTADOR PARA QUE ELE REALIZE UMA DETERMINADA TAREFA.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e os computadores',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img4.jpg',
@@ -99,7 +99,7 @@ let livro_cw1 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'MAS OS <b>ALGORITMOS</b> NÃO SERVEM SOMENTE PARA OS PROGRAMADORES E COMPUTADORES.',
+        texto:'MAS OS ALGORITMOS NÃO SERVEM SOMENTE PARA OS PROGRAMADORES E COMPUTADORES.',
         urlAudioTexto:'',
         textoSimplificado:'Os algoritmos e as pessoas',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img_5.jpg',
@@ -112,7 +112,7 @@ let livro_cw1 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'UMA RECEITA DE CULINÁRIA É UM <b>ALGORITMO</b>, O PROCESSO DE DOBRAR UMA CAMISA OU UM PAR DE CALÇAS TAMBÉM É UM <b>ALGORITMO</b>.',
+        texto:'UMA RECEITA DE CULINÁRIA É UM ALGORITMO, ASSIM COMO INSTRUÇÕES DE COMO DOBRAR ROUPAS.',
         urlAudioTexto:'',
         textoSimplificado:'Uma receita é um algoritmo',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img6.jpg',
@@ -125,7 +125,7 @@ let livro_cw1 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'ATÉ MESMO A ROTINA MATINAL PODE SER CONSIDERADA UM <b>ALGORITMO</b>!',
+        texto:'OU MESMO A ROTINA MATINAL, QUE TAMBÉM PODE SER DESCRITA EM UM ALGORITMO!',
         urlAudioTexto:'',
         textoSimplificado:'Rotina matinal também é um algoritmo',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img5.webp',
@@ -138,7 +138,7 @@ let livro_cw1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'E PODEMOS CRIAR <b>ALGORITMOS</b> PARA AS MAIS DIVERSAS TAREFAS DO DIA. SEJA PARA NÓS MESMOS OU OUTRAS PESSOAS EXECUTAREM.',
+        texto:'E PODEMOS CRIAR ALGORITMOS PARA AS MAIS DIVERSAS TAREFAS.',
         urlAudioTexto:'',
         textoSimplificado:'Diferentes tarefas podem ser algoritmos',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img6.webp',
@@ -151,7 +151,7 @@ let livro_cw1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'QUANDO ESTAMOS CRIANDO UM <b>ALGORITMO</b> PARA QUE OUTRA PESSOA EXECUTE, PRECISAMOS DEIXAR AS INSTRUÇÕES MUITO CLARAS E OBJETIVAS.',
+        texto:'MAS DEVEMOS FICAR ATENTOS: SE ESTAMOS CRIANDO UM ALGORITMO PARA QUE OUTRA PESSOA EXECUTE, CADA INSTRUÇÃO PRECISA ESTAR MUITO CLARA.',
         urlAudioTexto:'',
         textoSimplificado:'Especificar as instruções',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img9.jpg',
@@ -164,7 +164,7 @@ let livro_cw1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'VEJAMOS O EXEMPLO DO <b>ALGORITMO</b> PARA BEBER UM COPO DE LEITE:',
+        texto:'VEJAMOS O EXEMPLO DO ALGORITMO PARA BEBER UM COPO DE LEITE:',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmo para beber leite',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img10.jpg',
@@ -242,7 +242,7 @@ let livro_cw1 ={
   
         {ordem:15,
         predecessor:14,
-        texto:'SE NÃO ESTIVESSE CLARO QUE O LEITE PRECISA IR DENTRO DO COPO, CERTAMENTE ELE IRIA PARAR NO CHÃO!',
+        texto:'POR EXEMPLO: SE O ALGORITMO NÃO DEIXAR CLARO QUE O LEITE VAI "DENTRO" DO COPO, O RESULTADO VAI SER UMA BAGUNÇA!',
         urlAudioTexto:'',
         textoSimplificado:'Instruções não especificadas geram erros',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img_16.jpg',
@@ -255,7 +255,7 @@ let livro_cw1 ={
   
         {ordem:16,
         predecessor:15,
-        texto:'OS <b>ALGORITMOS</b> NOS AJUDAM A PARTIR PROBLEMAS GRANDES E COMPLEXOS EM PROBLEMAS MENORES E MAIS FÁCEIS DE RESOLVER.',
+        texto:'OS ALGORITMOS NOS AJUDAM A RESOLVER PROBLEMAS GRANDES, PENSANDO EM UMA PARTE DE CADA VEZ.',
         urlAudioTexto:'',
         textoSimplificado:'Algoritmos e resolução de problemas',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/img16.webp',
@@ -268,7 +268,7 @@ let livro_cw1 ={
   
         {ordem:17,
         predecessor:16,
-        texto:'COM OS <b>ALGORITMOS</b>, PODEMOS TRANFORMAR SOLUÇÕES DE PROBLEMAS EM PASSOS CLAROS E BEM DEFINIDOS, QUE PODEM SER SEGUIDOS POR QUALQUER MÁQUINA OU PESSOA.',
+        texto:'COM OS ALGORITMOS, VAMOS DEFINIR TAREFAS QUE PESSOAS, COMPUTADORES OU ROBÔS VÃO EXECUTAR, EXATAMENTE COMO DESEJARMOS!',
         urlAudioTexto:'',
         textoSimplificado:'Instruções claras',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i1-algoritmos/imag17.webp',
@@ -287,7 +287,7 @@ let livro_cw1 ={
       cenas:[				
         {ordem:1,
         predecessor:0,
-        texto:'HOJE VAMOS DESCOBRIR COMO FUNCIONAM OS <b>COMPUTADORES</b> E COMO PODE SER DIVERTIDO PROGRAMÁ-LOS.',
+        texto:'HOJE VAMOS DESCOBRIR COMO FUNCIONAM OS COMPUTADORES E COMO PODE SER DIVERTIDO PROGRAMÁ-LOS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img1.jpg',
@@ -300,7 +300,7 @@ let livro_cw1 ={
         
         {ordem:2,
         predecessor:1,
-        texto:'COM OS <b>COMPUTADORES</b>, PODEMOS CRIAR VIDEOGAMES, PROGRAMAR ROBÔS E MUITAS OUTRAS COISAS, SEJA PARA DIVERSÃO COM OS AMIGOS OU MESMO PARA RESOLVER PROBLEMAS REAIS E TORNAR O MUNDO UM LUGAR MELHOR PARA TODOS.',
+        texto:'COM OS COMPUTADORES, PODEMOS CRIAR VIDEOGAMES, PROGRAMAR ROBÔS E MUITAS OUTRAS COISAS, SEJA PARA DIVERSÃO COM OS AMIGOS OU MESMO PARA RESOLVER PROBLEMAS REAIS E TORNAR O MUNDO UM LUGAR MELHOR PARA TODOS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img2.jpg',
@@ -313,7 +313,7 @@ let livro_cw1 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'PARA COMEÇAR: O QUE É MESMO UM <b>COMPUTADOR</b>?',
+        texto:'PARA COMEÇAR: O QUE É MESMO UM COMPUTADOR?',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img3.jpg',
@@ -352,7 +352,7 @@ let livro_cw1 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'SE VOCÊS PRESTARMOS ATENÇÃO EM UM <b>COMPUTADOR</b> DESSES QUE FICAM EM CASA, SOBRE A MESA, PODEMOS PERCEBER QUE ELE TEM 4 PARTES:',
+        texto:'SE PRESTARMOS ATENÇÃO EM UM COMPUTADOR DESSES QUE FICAM EM CASA, SOBRE A MESA, PODEMOS PERCEBER QUE ELE TEM 4 PARTES:',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_6.png',
@@ -365,7 +365,7 @@ let livro_cw1 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'A <b>TORRE</b>, OU <b>CPU</b>, ONDE ESTÁ O PROCESSADOR, QUE É COMO SE FOSSE O CÉREBRO DO <b>COMPUTADOR</b>. ELE FAZ CÁLCULOS MUITO RAPIDAMENTE.',
+        texto:'A TORRE, OU CPU, ONDE ESTÁ O PROCESSADOR, É COMO SE FOSSE O CÉREBRO DO COMPUTADOR. ELE FAZ CÁLCULOS MUITO RAPIDAMENTE.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_7.png',
@@ -378,7 +378,7 @@ let livro_cw1 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'O <b>MONITOR</b> É A TELA ONDE PODEMOS VER TODAS AS COISAS QUE O <b>COMPUTADOR</b> MOSTRA PARA NÓS. PODEMOS VER DESENHOS, ASSISTIR A VÍDEOS E JOGAR JOGOS DIVERTIDOS!',
+        texto:'O MONITOR É A TELA ONDE PODEMOS VER TODAS AS COISAS QUE O COMPUTADOR MOSTRA PARA NÓS. PODEMOS VER DESENHOS, ASSISTIR A VÍDEOS E JOGAR JOGOS DIVERTIDOS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_9.png',
@@ -391,7 +391,7 @@ let livro_cw1 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'O <b>TECLADO</b> É ONDE DIGITAMOS LETRAS, NÚMEROS, SÍMBOLOS E ATÉ MENSAGENS PARA NOSSOS AMIGOS.',
+        texto:'O TECLADO É ONDE DIGITAMOS LETRAS, NÚMEROS, SÍMBOLOS E ATÉ MENSAGENS PARA NOSSOS AMIGOS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_8.png',
@@ -404,7 +404,7 @@ let livro_cw1 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'E O <b>MOUSE</b>, QUE USAMOS PARA APONTAR E CLICAR NAS COISAS QUE QUEREMOS NO <b>COMPUTADOR</b>. COM ELE, PODEMOS DESENHAR, SELECIONAR COISAS E ATÉ BRINCAR EM JOGOS!',
+        texto:'E POR FIM USAMOS O MOUSE, PARA APONTAR E CLICAR NAS COISAS QUE QUEREMOS NO COMPUTADOR. COM ELE, PODEMOS DESENHAR, SELECIONAR COISAS E ATÉ BRINCAR EM JOGOS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CSX/DispComp/img_10.png',
@@ -417,7 +417,7 @@ let livro_cw1 ={
  
         {ordem:11,
         predecessor:10,
-        texto:'EXISTEM DIFERENTES TIPOS DE <b>COMPUTADORES</b> QUE NOS AJUDAM DE FORMAS DIFERENTES.',
+        texto:'EXISTEM DIFERENTES TIPOS DE COMPUTADORES QUE NOS AJUDAM DE FORMAS DIFERENTES.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img13.jpg',
@@ -430,7 +430,7 @@ let livro_cw1 ={
 
         {ordem:12,
         predecessor:11,
-        texto:'OS <b>COMPUTADORES</b> DE MESA SÃO OS QUE PODEMOS TER EM CASA. ELES NOS AJUDAM A FAZER LIÇÃO DE CASA, JOGAR JOGOS E ASSISTIR A FILMES!',
+        texto:'OS COMPUTADORES DE MESA SÃO USADOS EM ESCOLAS, LOCAIS DE TRABALHO OU EM CASA. ELES NOS AJUDAM A FAZER LIÇÃO DE CASA, JOGAR JOGOS E ASSISTIR A FILMES!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img14.jpg',
@@ -443,7 +443,7 @@ let livro_cw1 ={
 
         {ordem:13,
         predecessor:12,
-        texto:'OS <b>LAPTOPS</b> SÃO OS <b>COMPUTADORES</b> DE MESA, MAS SÃO PORTÁTEIS, OU SEJA, PODEMOS LEVÁ-LOS PARA ONDE QUISERMOS. PODEMOS USÁ-LOS PARA FAZER TRABALHOS NA ESCOLA, ASSISTIR A VÍDEOS OU ATÉ MESMO JOGAR JOGUINHOS QUANDO ESTAMOS VIAJANDO!',
+        texto:'OS LAPTOPS SÃO OS COMPUTADORES DE MESA, MAS SÃO PORTÁTEIS, OU SEJA, PODEMOS LEVÁ-LOS PARA ONDE QUISERMOS. PODEMOS USÁ-LOS PARA FAZER TRABALHOS NA ESCOLA, ASSISTIR A VÍDEOS OU ATÉ MESMO JOGAR JOGUINHOS QUANDO ESTAMOS VIAJANDO!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img15.jpg',
@@ -456,7 +456,7 @@ let livro_cw1 ={
 
         {ordem:14,
         predecessor:13,
-        texto:'OS <b>TABLETS</b> SÃO COMO OS LAPTOPS, MAS AINDA MAIS LEVES E FÁCEIS DE CARREGAR. PODEMOS USÁ-LOS PARA LER LIVROS, DESENHAR OU ATÉ MESMO APRENDER COISAS NOVAS EM APLICATIVOS DIVERTIDOS!',
+        texto:'OS TABLETS SÃO COMO OS LAPTOPS, MAS AINDA MAIS LEVES E FÁCEIS DE CARREGAR. PODEMOS USÁ-LOS PARA LER LIVROS, DESENHAR OU ATÉ MESMO APRENDER COISAS NOVAS EM APLICATIVOS DIVERTIDOS!',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img16.jpg',
@@ -469,7 +469,7 @@ let livro_cw1 ={
 
         {ordem:15,
         predecessor:14,
-        texto:'OS <b>CELULARES</b> SÃO COMO PEQUENOS <b>COMPUTADORES</b> QUE CABEM NO BOLSO! PODEMOS USÁ-LOS PARA LIGAR PARA NOSSOS AMIGOS, TIRAR FOTOS E MUITO MAIS.',
+        texto:'OS CELULARES SÃO COMO PEQUENOS COMPUTADORES QUE CABEM NO BOLSO! PODEMOS USÁ-LOS PARA LIGAR PARA NOSSOS AMIGOS, TIRAR FOTOS E MUITO MAIS.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img17.jpg',
@@ -482,7 +482,7 @@ let livro_cw1 ={
 
         {ordem:16,
         predecessor:15,
-        texto:'TODOS ESSES TIPOS DE <b>COMPUTADORES</b> NOS AJUDAM A TORNAR NOSSA VIDA MAIS FÁCIL E DIVERTIDA! ELES NOS PERMITEM APRENDER COISAS NOVAS, NOS COMUNICAR COM NOSSOS AMIGOS E NOS DIVERTIR MUITO.',
+        texto:'TODOS ESSES TIPOS DE COMPUTADORES NOS AJUDAM A TORNAR NOSSA VIDA MAIS FÁCIL E DIVERTIDA! ELES NOS AJUDAM A APRENDER COISAS NOVAS, A NOS COMUNICAR COM AMIGOS E NOS DIVERTEM COM JOGOS E ANIMAÇÕES.',
         urlAudioTexto:'',
         textoSimplificado:'',
         urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i2-computador/img18.jpg',
