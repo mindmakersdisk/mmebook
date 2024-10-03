@@ -10,17 +10,18 @@ let livro_cw1 ={
   nomeFantasia: 'Introdução - Alunos em Alfabetização',
   nomeTecnico:'CW1 - Fundamentos em Ciência da Computação',
   resumo:'Módulo adequado à implantação no início do Ensino Fundamental, para alunos em alfabetização. Aborda fundamentos em letramento e pensamento computacional, introduzindo conceitos como sequencia, algoritmo, laço, evento, padrão e outros, de modo lúdico e prático.',
-  resumoCapa:'A computação tornou a aviação mais segura e eficiente. Graças a sistemas computadorizados, aviões são mais precisos em voar e pousar. A simulação de voo treina pilotos em ambientes seguros, e o gerenciamento de tráfego aéreo automatizado mantém os céus organizados.',
+  resumoCapa:'A COMPUTAÇÃO TORNOU A AVIAÇÃO MAIS SEGURA E EFICIENTE. GRAÇAS A SISTEMAS COMPUTADORIZADOS, AVIÕES SÃO MAIS PRECISOS EM VOAR E POUSAR. A SIMULAÇÃO DE VOO TREINA PILOTOS EM AMBIENTES SEGUROS, E O GERENCIAMENTO DE TRÁFEGO AÉREO AUTOMATIZADO MANTÉM OS CÉUS ORGANIZADOS.',
   nomeFantasiaEn: "Introduction - Literacy Students",
   nomeTecnicoEn: "CW1e - Fundamentals of Computer Science",
   resumoEn: "Module suitable for implementation at the beginning of Elementary School, for literacy students. It covers fundamentals of literacy and computational thinking, introducing concepts such as sequence, algorithm, loop, event, pattern, and others, in a playful and practical way.",
-  resumoCapaEn: "Computing has made aviation safer and more efficient. Thanks to computerized systems, airplanes are more precise in flying and landing. Flight simulation trains pilots in safe environments, and automated air traffic management keeps the skies organized.",
+  resumoCapaEn: "COMPUTING HAS MADE AVIATION SAFER AND MORE EFFICIENT. THANKS TO COMPUTERIZED SYSTEMS, AIRPLANES ARE MORE PRECISE IN FLYING AND LANDING. FLIGHT SIMULATION TRAINS PILOTS IN SAFE ENVIRONMENTS, AND AUTOMATED AIR TRAFFIC MANAGEMENT KEEPS THE SKIES ORGANIZED.",
 
-  isbn:'',
-  autores:[],
-  editor:'',
+  isbn:'978-65-5106-084-7',
+  isbnEn: '978-65-5106-082-3',
+  autores:['Paulo Alvim, Fernanda Oliveira'],
+  editor:'Anderson Borges Gonçalves, Miguel Mendonça de Goffredo',
   local:'',
-  ano:'',
+  ano:'2024',
   url:'pc_cw1_0_1',
 
   versaoAdaptacao:'',
@@ -36,7 +37,9 @@ let livro_cw1 ={
   
   capa:{
 		urlImagemCapa:'',
-		urlImagemSegundaCapa: '',},
+		urlImagemSegundaCapa: '',
+    urlImagemCapaEn:'',
+		urlImagemSegundaCapaEn: '',},
   
   formularioRegistro:{
 	  titulo:'',
@@ -169,10 +172,8 @@ let livro_cw1 ={
         imagemFonte:'MM',
         textoDescritivoImagem:'',},
       ]}},
-
     },
   
-/* conteudo */
   unidade1:{
     titulo:'ALGORITMOS E ROBÔS',
     descricao:'NESTA UNIDADE, VOCÊ SERÁ APRESENTADO AO CONCEITO DE ALGORITMOS E VAI CONHECER O PRIMEIRO ROBÔ QUE VOCÊ VAI PROGRAMAR.',
@@ -1987,14 +1988,11 @@ let livro_cw1 ={
   */
 
   capaVerso:{
-	urlImagemTerceiraCapa:'',
+	  urlImagemTerceiraCapa:'',
 		textoTerceiraCapa:`OS AVIÕES AGORA SÃO MAIS SEGUROS E CONFORTÁVEIS PARA OS PASSAGEIROS GRAÇAS À TECNOLOGIA, QUE AJUDOU A MELHORAR VÁRIAS COISAS, NÃO SÓ NOS AVIÕES DE PASSAGEIROS, MAS NOS AVIÕES DE ENTREGAS TAMBÉM.
-
     ATUALMENTE, SERVIÇOS DE ENTREGAS PODEM SER FEITOS POR DRONES E OS PILOTOS DE AVIÕES DE PASASGEIROS USAM TABLETS NO LUGAR DE GUIAS ELETRÔNICOS, O QUE FAZ COM QUE O AVIÃO SEJA MAIS LEVE E ECONOMIZE COMBUSTÍVEL.
-    
     EXISTEM, INCLUSIVE, EMPRESAS TRABALHANDO EM UMA FORMA DE RASTREAR OS AVIÕES EM TEMPO REAL USANDO REDES WI-FI. ISSO PODE SIGNIFICAR QUE EM BREVE TEREMOS APLICATIVOS NOS NOSSOS CELULARES QUE VÃO NOS MOSTRAR ONDE OS AVIÕES ESTÃO VOANDO.`,
 
 		textoUltimaCapa: `O MUNDO COMPUTACIONAL NA AVIAÇÃO
-    
-    A computação tornou a aviação mais segura e eficiente. Graças a sistemas computadorizados, aviões são mais precisos em voar e pousar. A simulação de voo treina pilotos em ambientes seguros, e o gerenciamento de tráfego aéreo automatizado mantém os céus organizados.`
+    A COMPUTAÇÃO TORNOU A AVIAÇÃO MAIS SEGURA E EFICIENTE. GRAÇAS A SISTEMAS COMPUTADORIZADOS, AVIÕES SÃO MAIS PRECISOS EM VOAR E POUSAR. A SIMULAÇÃO DE VOO TREINA PILOTOS EM AMBIENTES SEGUROS, E O GERENCIAMENTO DE TRÁFEGO AÉREO AUTOMATIZADO MANTÉM OS CÉUS ORGANIZADOS.`
 		},}

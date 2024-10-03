@@ -9,11 +9,13 @@ let livro_cw2 ={
   nomeTecnicoEn: "CW2e - Fundamentals of Computer Science 2",
   resumoEn: "Module suitable for Elementary School - Early Years, which can be implemented directly or as a sequence to the CW1 module. It covers fundamentals of literacy and computational thinking, practicing concepts such as algorithms, loops, events, pattern recognition, abstraction, and others, in a playful and practical way, through the use of computing devices.",
   resumoCapaEn: "In motorsport, computing improves vehicle safety and performance. Onboard electronics and telemetry analyze real-time data, while computerized simulations assist in car design.",
-  isbn:'',
-  autores:[],
-  editor:'',
+  
+  isbn:'978-65-5106-081-6',
+  isbnEn: '978-65-8858-996-0',
+  autores:['Paulo Alvim, Anderson Borges Gonçalves'],
+  editor:'Miguel Mendonça de Goffredo, Fernanda Oliveira',
   local:'',
-  ano:'',
+  ano:'2024',
   url:'compsci_cw2_0_1',
 
   versaoAdaptacao:'',
@@ -30,7 +32,8 @@ let livro_cw2 ={
   capa:{
 		urlImagemCapa:'',
 		urlImagemSegundaCapa: '',
-  },
+    urlImagemCapaEn:'',
+		urlImagemSegundaCapaEn: '',},
   
    formularioRegistro:{
 	  titulo:'',
@@ -41,23 +44,38 @@ let livro_cw2 ={
   
   visaogeral:{
 	  infografico:{
-		  titulo:'Resumo do Módulo CW2',
-		  /* idem licoes */
+		  /*titulo:'Resumo do módulo CW2',
+      descricao:'',
+	    licao1:{id:'CW2AULA00RESUMO',
+		  infografico:{titulo:'',
+		  tituloSimplificado:'',
+      estiloPadrao:'basicoPaisagem',
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        urlImagem:'',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'',
+        imagemImpresso:0,
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+
+      ]}},
+		  */
 	  }},
 
-    /* conteudo */
     unidade1:{
       titulo:'Fundamentos de Programação',
       descricao:'Nesta unidade, após sermos apresentados ao computador e dispositivos computacionais como os robôs, daremos nossos primeiros passos em programação.<p>Aprenderemos o que são os algoritmos e, através de desafios práticos e divertidos, vamos desenvolver habilidades do pensamento computacional, muito importantes para nos ajudar a resolver problemas do mundo moderno.',
       licao1:{
         id:'CW2AULA01CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 01. Dispositivos Computacionais.',**/
         infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
         tituloSimplificado:'O Computador',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -177,20 +195,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i1%20-%20Fundamentos%20de%20Programa%C3%A7%C3%A3o/slide%2010.webp',
           promptImagem:'', 
           imagemFonte:'bing',
-          textoDescritivoImagem:'Programador em frente ao computador',},
-        
+          textoDescritivoImagem:'Programador em frente ao computador',},  
          ]}},
-
 
       licao2:{
         id:'CW2AULA02CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 02. Eletricidade',**/
         infografico:{titulo:'Lição 02. Explorando a Eletricidade e Seus Segredos',
         tituloSimplificado:'Eletricidade',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -335,22 +347,16 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i3%20-%20Explorando%20a%20Eletricidade%20e%20Seus%20Segredos/slide%2012.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},       
          ]}},
 
       licao3:{},
 
-
       licao4:{
         id:'CW2AULA04CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 04. Algoritmo, Identificação de Padrão e Sequência.',**/
         infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
         tituloSimplificado:'Algoritmos',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -447,20 +453,14 @@ let livro_cw2 ={
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
-
           ]}},
 
       licao5:{
         id:'CW2AULA05CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 05. Robótica.',**/
         infografico:{titulo:'Lição 05. Robótica com o Robô Esfera',
         tituloSimplificado:'Robô Esfera',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
-
           {ordem:1,
           predecessor:0,
           texto:'Um <b>robô</b> é uma máquina programável que executa tarefas automaticamente.', 
@@ -545,7 +545,6 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
-
           {ordem:8,
           predecessor:7,
           texto:'E <b>robôs exploradores</b> realizam atividades em locais perigosos para nós, humanos, inclusive em outros planetas.',
@@ -580,21 +579,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i5%20-%20Rob%C3%B3tica%20com%20o%20Rob%C3%B4%20Esfera/slide%2011.jpg',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-         
-        
+          textoDescritivoImagem:'',},                
          ]}},
-
 
         licao6:{
         id:'CW2AULA06CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 06. Projeto Taxibot.',**/
         infografico:{titulo:'Lição 06. Taxibot: Taxiamento Robotizado',
         tituloSimplificado:'Taxibot',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -702,28 +694,20 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i6%20-%20Taxibot-%20Taxiamento%20Robotizado/slide%209.JPG',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},       
           ]}},
 
-
       licao7:{},	
-
     },
-
 
     unidade2:{
       titulo:'Condicionais, Robótica e Eventos Computacionais',
       descricao:'Nesta unidade, aprenderemos mais sobre algoritmos, entendendo o que são laços e expressões condicionais, utilizando esses conceitos para resolver desafios lógicos de programação e robótica.<p>Aprenderemos também o conceito de programação dirigida por eventos, explorando o uso da eletricidade para programar inventos criativos, que usam materiais condutores conectados ao computador.',
       licao8:{
         id:'CW2AULA08CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 08. Laços.',**/
         infografico:{titulo:'Lição 08. Laço em Algoritmos',
         tituloSimplificado:'Laço',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -819,20 +803,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i8%20-%20La%C3%A7o%20em%20Algoritmos/slide%208.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},        
          ]}},
-
 
       licao9:{
         id:'CW2AULA09CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 09. Expressões Condicionais.',**/
         infografico:{titulo:'Lição 09. Expressão Condicional: Se, Senão, Se senão',
         tituloSimplificado:'Expressão Condicional',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
          cenas:[
           {ordem:1,
           predecessor:0,
@@ -929,20 +907,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i9%20-%20Express%C3%A3o%20Condicional%20-%20Se%2C%20Sen%C3%A3o%2C%20Se%20sen%C3%A3o/slide%208.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},        
          ]}},
-
 
         licao10:{
         id:'CW2AULA10CODE',
-        /** padroesCurriculares: 
-       titulo:'Lição 10. Formas Geométricas com Robôs.',**/
         infografico:{titulo:'Lição 10. Guia Pratico: Usando Transferidor com Robôs',
         tituloSimplificado:'Transferidor com Robôs',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-       urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1038,22 +1010,15 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i10%20-%20Guia%20pratico%20-%20Usando%20Transferidor%20com%20Rob%C3%B4s/slide%208.png',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-  
-        
+          textoDescritivoImagem:'',},        
         ]}},
 
       licao11:{
         id:'CW2AULA11CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 11. Projeto Biga-Robô.',**/
         infografico:{titulo:'Lição 11. O Cavalo e a Roda',
         tituloSimplificado:'O Cavalo e a Roda',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
-
           {ordem:1,
           predecessor:0,
           texto:'Por volta de 3500 a.C., na Ásia Central, os seres humanos começaram a domar cavalos selvagens.',
@@ -1124,25 +1089,16 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i11%20-%20O%20Cavalo%20e%20a%20Roda/slide%206.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-
-          
-        
+          textoDescritivoImagem:'',},       
          ]}},
-
 
       licao12:{},
 
-
       licao13:{
         id:'CW2AULA13CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 13. Eventos.',**/
         infografico:{titulo:'Lição 13. Eventos',
         tituloSimplificado:'Eventos',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1262,21 +1218,15 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i13%20-%20Eventos/slide%209.webp',
           promptImagem:'',
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-          
-        
+          textoDescritivoImagem:'',},       
          ]}},
 
 
       licao14:{
-        d:'CW2AULA14CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade.',**/
+        id:'CW2AULA14CODE',
         infografico:{titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade',
         tituloSimplificado:'Materiais Condutores de Eletricidade',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1339,7 +1289,6 @@ let livro_cw2 ={
           imagemFonte:'',
           textoDescritivoImagem:'',},
 
-
           {ordem:6,
           predecessor:5,
           texto:'E não se preocupe: em nosso curso, usamos somente dispositivos educacionais que usam pequenas cargas de eletricidade, permitindo que você os utilize com total segurança...',
@@ -1374,11 +1323,8 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i14%20-%20Materiais%20Condutores%20e%20N%C3%A3o%20Condutores%20de%20Eletricidade/slide%208.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-
-         
+          textoDescritivoImagem:'',},         
          ]}},
-
     },
 
     unidade3:{
@@ -1387,13 +1333,9 @@ let livro_cw2 ={
       
       licao15:{
         id:'CW2AULA15CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 15. Geração e Distribuição de Energia.',**/
         infografico:{titulo:'Lição 15. Geração e Distribuição de Energia',
         tituloSimplificado:'Geração de Energia',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1477,20 +1419,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i15%20-%20Gera%C3%A7%C3%A3o%20e%20Distribui%C3%A7%C3%A3o%20de%20Energia/slide%207.png',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
-         ]}},
-      
+          textoDescritivoImagem:'',},       
+         ]}},     
       
       licao16:{
         id:'CW2AULA16CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 16. Sensores e os Órgãos do Sentido.',**/
         infografico:{titulo:'Lição 16. Sensores e os Sentidos Humanos',
         tituloSimplificado:'Sensores',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1610,21 +1546,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i16%20-%20Sensores%20e%20os%20Sentidos%20Humanos/slide%2010.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-              
-          ]}},
-           
-
+          textoDescritivoImagem:'',},              
+          ]}},           
 
       licao17:{
         id:'CW2AULA17CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 17. Projeto Carro Robotizados.',**/
         infografico:{titulo:'Lição 17. O Carro: Passado e Futuro',
         tituloSimplificado:'O Carro',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1696,23 +1625,16 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i17%20-%20O%20Carro%20-%20Passado%20e%20Futuro/slide%206.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},       
          ]}},
-
 
       licao18:{},
 
-
       licao19:{
         id:'CW2AULA19CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 19. Programação em Par e Depuração.',**/
         infografico:{titulo:'Lição 19. Programação em Par e Depuração',
         tituloSimplificado:'Depuração',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -1799,13 +1721,13 @@ let livro_cw2 ={
           textoDescritivoImagem:'',},
           
           //{ordem:8,
-      //  predecessor:7,
-        // texto:' TIRAR ESSE. Para criar bons programas, com poucos bugs, siga essa dica de ouro: programe em par! E sempre reveze com o colega, entre os papéis de piloto e navegador. Deste modo, ninguém fica muito cansado e desatento.',
+          //  predecessor:7,
+          // texto:' TIRAR ESSE. Para criar bons programas, com poucos bugs, siga essa dica de ouro: programe em par! E sempre reveze com o colega, entre os papéis de piloto e navegador. Deste modo, ninguém fica muito cansado e desatento.',
           //urlAudioTexto:'',
           //textoSimplificado:'',
           //textoImpresso:0,
           //imagemImpresso:0,
-         // urlImagem:'',
+          // urlImagem:'',
           //promptImagem:'', 
           //imagemFonte:'',
           //textoDescritivoImagem:'',},
@@ -1820,148 +1742,138 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i19%20-%20Programa%C3%A7%C3%A3o%20em%20Par%20e%20Depura%C3%A7%C3%A3o/slide%209.webp',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},        
-        
+          textoDescritivoImagem:'',},               
          ]}},
 
-
-         licao20:{
-          id:'CW2AULA20CODE',
-          /** padroesCurriculares: 
-          titulo:'Lição 20. Navegação e Comunicação Segura',**/ //TODO Verificar com Alvim a adequação desse infográfico à lição
-          infografico:{titulo:'Lição 20. Busca e Privacidade',
-          tituloSimplificado:'Busca e Privacidade',
-          estiloPadrao:'basicoPaisagem',
-          /** urlVideo:'',
-          urlPodcast:'', **/
-          cenas:[
-            {ordem:1,
-            predecessor:0,
-            texto:'Hoje vamos falar sobre a <b>internet</b>, essa importante rede mundial que conecta pessoas e facilita nosso aprendizado.',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%201.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+        licao20:{
+        id:'CW2AULA20CODE',
+        //TODO Verificar com Alvim a adequação desse infográfico à lição
+        infografico:{titulo:'Lição 20. Busca e Privacidade',
+        tituloSimplificado:'Busca e Privacidade',
+        estiloPadrao:'basicoPaisagem',
+        cenas:[
+          {ordem:1,
+          predecessor:0,
+          texto:'Hoje vamos falar sobre a <b>internet</b>, essa importante rede mundial que conecta pessoas e facilita nosso aprendizado.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%201.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:2,
-            predecessor:1,
-            texto:'Podemos pensar na <b>internet</b> como uma grande biblioteca, com informações sobre tudo que podemos imaginar.',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%202.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:2,
+          predecessor:1,
+          texto:'Podemos pensar na <b>internet</b> como uma grande biblioteca, com informações sobre tudo que podemos imaginar.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%202.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:3,
-            predecessor:2,
-            texto:'Quando queremos explorar a internet, usamos um programa chamado <b>navegador</b>, ou "browser" em inglês. Ele nos ajuda a acessar sites, redes sociais e buscadores, trazendo tudo o que precisamos para <b>navegar</b>, como costumamos dizer, nesta imensa biblioteca.',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%203.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:3,
+          predecessor:2,
+          texto:'Quando queremos explorar a internet, usamos um programa chamado <b>navegador</b>, ou "browser" em inglês. Ele nos ajuda a acessar sites, redes sociais e buscadores, trazendo tudo o que precisamos para <b>navegar</b>, como costumamos dizer, nesta imensa biblioteca.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%203.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:4,
-            predecessor:3,
-            texto:'Com o navegador, podemos procurar por qualquer coisa digitando em <b>sites de busca</b>.',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%204.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:4,
+          predecessor:3,
+          texto:'Com o navegador, podemos procurar por qualquer coisa digitando em <b>sites de busca</b>.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%204.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:5,
-            predecessor:4,
-            texto:'Mas, assim como quando caminhamos na rua, navegar pelas páginas da internet também traz seus riscos. Não devemos, por exemplo, revelar nossos <b>dados pessoais</b> para qualquer site ou pessoa online, que nos solicite...',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%205.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:5,
+          predecessor:4,
+          texto:'Mas, assim como quando caminhamos na rua, navegar pelas páginas da internet também traz seus riscos. Não devemos, por exemplo, revelar nossos <b>dados pessoais</b> para qualquer site ou pessoa online, que nos solicite...',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%205.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:6,
-            predecessor:5,
-            texto:'<b>Dados pessoais</b> revelam coisas importantes sobre nós, como "onde moramos" ou "o que gostamos de fazer". E essas informações podem ser usadas por pessoas com más intenções para nos enganar ou enganar nossa família ou amigos... isso, infelizmente, é muito comum!',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%206.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:6,
+          predecessor:5,
+          texto:'<b>Dados pessoais</b> revelam coisas importantes sobre nós, como "onde moramos" ou "o que gostamos de fazer". E essas informações podem ser usadas por pessoas com más intenções para nos enganar ou enganar nossa família ou amigos... isso, infelizmente, é muito comum!',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%206.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:7,
-            predecessor:6,
-            texto:'Por isso, não devemos informar nossos dados pessoais na internet para qualquer site que solicite, sem ter alguém orientando.',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%207.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:7,
+          predecessor:6,
+          texto:'Por isso, não devemos informar nossos dados pessoais na internet para qualquer site que solicite, sem ter alguém orientando.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%207.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            {ordem:8,
-            predecessor:7,
-            texto:'Devemos também evitar sites estranhos, desconhecidos ou que oferecem coisas boas demais para ser verdade. Eles tentam nos fazer baixar e instalar programas ruins, que podem roubar nossos dados e causar danos ao computador.<p>Se algo parecer suspeito enquanto navega pela internet, fale sempre com algum adulto de confiança!</p>',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%208.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
+          {ordem:8,
+          predecessor:7,
+          texto:'Devemos também evitar sites estranhos, desconhecidos ou que oferecem coisas boas demais para ser verdade. Eles tentam nos fazer baixar e instalar programas ruins, que podem roubar nossos dados e causar danos ao computador.<p>Se algo parecer suspeito enquanto navega pela internet, fale sempre com algum adulto de confiança!</p>',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%208.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},
     
-            //{ordem:9,
-            //predecessor:8,
-            //texto:'',
-            //urlAudioTexto:'',
-            //textoSimplificado:'',
-            //textoImpresso:1,
-           // imagemImpresso:1,
-            //urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%208.webp',
-            //promptImagem:'', 
-            //imagemFonte:'',
-            //textoDescritivoImagem:'',},
+          //{ordem:9,
+          //predecessor:8,
+          //texto:'',
+          //urlAudioTexto:'',
+          //textoSimplificado:'',
+          //textoImpresso:1,
+          // imagemImpresso:1,
+          //urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%208.webp',
+          //promptImagem:'', 
+          //imagemFonte:'',
+          //textoDescritivoImagem:'',},
     
-            {ordem:9,
-            predecessor:8,
-            texto:'Mas, navegando com segurança, podemos tirar todo proveito dessa incrível ferramenta de comunicação, educação e entretenimento da vida moderna.',
-            urlAudioTexto:'',
-            textoSimplificado:'',
-            textoImpresso:1,
-            imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%2010.webp',
-            promptImagem:'', 
-            imagemFonte:'',
-            textoDescritivoImagem:'',},
-  
-            
-    
+          {ordem:9,
+          predecessor:8,
+          texto:'Mas, navegando com segurança, podemos tirar todo proveito dessa incrível ferramenta de comunicação, educação e entretenimento da vida moderna.',
+          urlAudioTexto:'',
+          textoSimplificado:'',
+          textoImpresso:1,
+          imagemImpresso:1,
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%2010.webp',
+          promptImagem:'', 
+          imagemFonte:'',
+          textoDescritivoImagem:'',},   
           ]}},
 
-
       licao21:{},	
-
     },
 
     unidade4:{
@@ -1969,13 +1881,9 @@ let livro_cw2 ={
       descricao:'Nesta unidade, vamos nos aventurar pelo mundo da animação, conhecendo e reproduzindo os primeiros inventos de animação da história, e evoluindo nosso entendimento até as animações digitais dos dias de hoje.<p>E, finalmente, vamos aprender a programar nossas próprias animações digitais utilizando o "Laboratório de Histórias", soltando a criatividade e usando todos os fundamentos de programação aprendidos.',
       licao22:{
         id:'CW2AULA22CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 22. Os Primórdios da Animação.',**/
         infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
         tituloSimplificado:'Animações',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -2107,29 +2015,20 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i22%20-%20Anima%C3%A7%C3%B5es%20do%20Anal%C3%B3gico%20ao%20Digital/slide%2011.jpg',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},    
          ]}},
-
 
       licao23:{},
 
-
       licao24:{},
-
 
       licao25:{},
 
-
       licao26:{
         id:'CW2AULA26CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 26. Introdução ao Laboratório de Histórias.',**/
         infografico:{titulo:'Lição 26. Introdução ao Story Lab',
         tituloSimplificado:'O Story Lab',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
           cenas:[
           {ordem:1,
           predecessor:0,
@@ -2285,19 +2184,14 @@ let livro_cw2 ={
           urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i26%20-%20Introdu%C3%A7%C3%A3o%20ao%20Story%20Lab/slide%2013.jpg',
           promptImagem:'', 
           imagemFonte:'',
-          textoDescritivoImagem:'',},
-        
+          textoDescritivoImagem:'',},       
          ]}},
 
       licao27:{
         id:'CW2AULA27CODE',
-        /** padroesCurriculares: 
-        titulo:'Lição 27. Projeto Missão Criativa - Minha Primeira Animação Digital',**/
         infografico:{titulo:'Lição 27. Missão Criativa: História em Quadrinho Animada',
         tituloSimplificado:'Missão Criativa',
         estiloPadrao:'basicoPaisagem',
-        /** urlVideo:'',
-        urlPodcast:'', **/
         cenas:[
           {ordem:1,
           predecessor:0,
@@ -2358,18 +2252,24 @@ let livro_cw2 ={
          //* promptImagem:'', 
           //*imagemFonte:'',
           //*textoDescritivoImagem:'',},
-
         ]}},
 
-
       licao28:{},	
-
     },
 
     capaVerso:{
       urlImagemTerceiraCapa:'',
-      textoTerceiraCapa: '',
-      textoUltimaCapa: 'Charles Babbage foi um cientista, matemático, filósofo, engenheiro mecânico e inventor inglês que é mais conhecido como o inventor que projetou o primeiro computador de uso geral, utilizando apenas partes mecânicas, a máquina analítica.'
+      textoTerceiraCapa: `A computação e a tecnologia permitem que os engenheiros projetem e otimizem veículos para maximizar o desempenho aerodinâmico, eficiência de combustível e segurança. 
+      Isso resulta em carros mais rápidos, seguros e eficientes.
+      Em carros de corrida, a computação permite que engenheiros monitorem e analisem dados em tempo real, com o carro em movimento. 
+      Com isso, eles recebem informações sobre o desempenho do motor, temperatura dos pneus, pressão do combustível e muito mais. 
+      Esses dados são usados para ajustar as estratégias de corrida e otimizar o desempenho do veículo.
+      Além disso, simulações de corrida em videogames e realidade virtual oferecem uma experiência imersiva aos fãs do automobilismo.
+      A computação desempenha um papel fundamental na melhoria da segurança no automobilismo.
+      Sistemas avançados de controle de estabilidade, freios antibloqueio (ABS), airbags e estruturas de carroceria projetadas por computador ajudam a proteger os motoristas em caso de acidentes.
+      A computação e a tecnologia transformaram o automobilismo, impulsionando a inovação, o desempenho e a segurança dos veículos de corrida e de rua.`,
+      textoUltimaCapa: `O Mundo Computacional no Automobilismo
+      No automobilismo, a computação melhora a segurança e o desempenho dos veículos. Eletrônicos de bordo e telemetria analisam dados em tempo real, enquanto simulações computadorizadas auxiliam no design dos carros.`,
     },
 
 }
