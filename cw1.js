@@ -45,8 +45,10 @@ let livro_cw1 ={
 	    {rotulo:'Login Somos:',formato:'usuarioAcessivel'},{rotulo:'Senha:',formato:'senhaAcessivel'}]},
   
   visaogeral:{
-	  infografico:{
 		  titulo:'RESUMO DO MÓDULO CW1',
+      descricao:'CONHEÇA UM POUCO DO QUE VOCÊ VAI VER NESTE MÓDULO.',
+	    licao1:{id:'CW1AULA00RESUMO',
+		  infografico:{titulo:'BEM VINDOS AO MÓDULO CW1',
 		  tituloSimplificado:'RESUMO',
       estiloPadrao:'basicoPaisagem',
       cenas:[				
@@ -68,7 +70,7 @@ let livro_cw1 ={
         texto:'VOCÊS ESTÃO PRESTES A EMBARCAR EM UMA JORNADA EMOCIONANTE, ONDE VAMOS DESCOBRIR JUNTOS COMO FUNCIONAM AS TECNOLOGIAS DIGITAIS QUE USAMOS TODOS OS DIAS!',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/resumocw1/res5.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/resumocw1/res2.png',
         textoImpresso:1,
         textoImpressoRecriado:'',
         promptImagem:'',
@@ -81,7 +83,7 @@ let livro_cw1 ={
         texto:'VOCÊS VÃO APRENDER NA PRÁTICA COMO OS COMPUTADORES E ROBÔS FUNCIONAM.',
         urlAudioTexto:'',
         textoSimplificado:'',
-        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/resumocw1/res2.jpg',
+        urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/resumocw1/res5.jpg',
         textoImpresso:0,
         textoImpressoRecriado:'',
         promptImagem:'',
@@ -167,6 +169,8 @@ let livro_cw1 ={
         imagemFonte:'MM',
         textoDescritivoImagem:'',},
       ]}},
+
+    },
   
 /* conteudo */
   unidade1:{
