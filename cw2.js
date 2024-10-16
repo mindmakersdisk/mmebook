@@ -30,10 +30,10 @@ let livro_cw2 ={
   resumoAdaptacao:'',
 
   capa:{
-	  urlImagemCapa:'',
-		urlImagemSegundaCapa: '',
-    urlImagemCapaEn:'',
-		urlImagemSegundaCapaEn: '',},
+	  urlImagemCapa:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/cw2_frente.png',
+		urlImagemSegundaCapa:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/cw2_verso.png',
+    urlImagemCapaEn:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/cw2e%20-%20frente.png',
+		urlImagemSegundaCapaEn:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/cw2e%20-%20verso.png',},
   
   formularioRegistro:{
 	  titulo:'',
@@ -49,6 +49,7 @@ let livro_cw2 ={
 		  infografico:{titulo:'',
 		  tituloSimplificado:'',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2intro',
       cenas:[				
         {ordem:1,
         predecessor:0,
@@ -74,6 +75,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
       tituloSimplificado:'O Computador',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U1L1',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -203,6 +205,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 02. Explorando a Eletricidade e Seus Segredos',
       tituloSimplificado:'Eletricidade',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U1L2',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -362,6 +365,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
       tituloSimplificado:'Algoritmos',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U1L4',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -468,6 +472,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 05. Robótica com o Robô Esfera',
       tituloSimplificado:'Robô Esfera',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U1L5',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -596,6 +601,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 06. Taxibot: Taxiamento Robotizado',
       tituloSimplificado:'Taxibot',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U1L6',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -717,6 +723,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 08. Laço em Algoritmos',
       tituloSimplificado:'Laço',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U2L8',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -822,6 +829,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 09. Expressão Condicional: Se, Senão, Se senão',
       tituloSimplificado:'Expressão Condicional',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U2L9',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -927,6 +935,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 10. Formas Geométricas com Robôs',
       tituloSimplificado:'Transferidor com Robôs',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U2L10',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1031,6 +1040,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 11. O Cavalo e a Roda',
       tituloSimplificado:'O Cavalo e a Roda',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U2L11',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1112,6 +1122,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 13. Eventos',
       tituloSimplificado:'Eventos',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U2L13',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1240,6 +1251,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 14. Materiais Condutores e Não Condutores de Eletricidade',
       tituloSimplificado:'Materiais Condutores de Eletricidade',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U2L14',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1349,6 +1361,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 15. Geração e Distribuição de Energia',
       tituloSimplificado:'Geração de Energia',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U3L15',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1441,6 +1454,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 16. Sensores e os Sentidos Humanos',
       tituloSimplificado:'Sensores',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U3L16',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1572,6 +1586,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 17. O Carro: Passado e Futuro',
       tituloSimplificado:'O Carro',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U3L17',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1653,6 +1668,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 19. Programação em Par e Depuração',
       tituloSimplificado:'Depuração',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U3L19',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1770,6 +1786,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 20. Busca e Privacidade',
       tituloSimplificado:'Busca e Privacidade',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U3L20',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -1907,6 +1924,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
       tituloSimplificado:'Animações',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U4L22',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -2054,6 +2072,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 26. Introdução ao Story Lab',
       tituloSimplificado:'O Story Lab',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U4L26',
       cenas:[
         {ordem:1,
         predecessor:0,
@@ -2218,6 +2237,7 @@ let livro_cw2 ={
       infografico:{titulo:'Lição 27. Missão Criativa: História em Quadrinho Animada',
       tituloSimplificado:'Missão Criativa',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw2U4L27',
       cenas:[
         {ordem:1,
         predecessor:0,

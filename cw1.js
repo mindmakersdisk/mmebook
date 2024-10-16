@@ -36,10 +36,10 @@ let livro_cw1 ={
   resumoAdaptacao:'',
   
   capa:{
-		urlImagemCapa:'',
-		urlImagemSegundaCapa: '',
-    urlImagemCapaEn:'',
-		urlImagemSegundaCapaEn: '',},
+		urlImagemCapa:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/cw1_frente.png',
+		urlImagemSegundaCapa:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/cw1_verso.png',
+    urlImagemCapaEn:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/cw1e%20-%20frente.png',
+		urlImagemSegundaCapaEn:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/cw1e%20-%20verso.png',},
   
   formularioRegistro:{
 	  titulo:'',
@@ -54,6 +54,7 @@ let livro_cw1 ={
 		infografico:{titulo:'BEM VINDOS AO MÓDULO CW1',
 		tituloSimplificado:'RESUMO',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1intro',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -66,11 +67,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Avião biplano em pleno voo, em um céu limpo e azul, com algumas nuvens brancas esparsas ao fundo. 
-      O avião tem um design vintage, com predominância das cores azul e vermelho, além de detalhes em amarelo. 
-      No fundo da imagem, há um padrão hexagonal translúcido que cobre parcialmente o céu e as nuvens. 
-      No canto superior direito da imagem, aparece a logo do "Mundo Computacional", composto por um símbolo formado por vários hexágonos pequenos que se unem em um círculo, ao lado das palavras "mundo computacional" escritas em letras minúsculas. 
-      A luz do sol brilha intensamente por trás do logotipo, criando um efeito de flare que ilumina parte da imagem.`,},
+      textoDescritivoImagem:'Avião biplano em pleno voo, em um céu limpo e azul, com algumas nuvens brancas esparsas ao fundo.',},
 
       {ordem:2,
       predecessor:1,
@@ -83,9 +80,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:1,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Uma pessoa jovem de costas, visualizando um monitor de computador. 
-      A pessoa está usando óculos e um fone de ouvido preto. Na tela do monitor, está aberto um ambiente de codificação. 
-      O ambiente no qual a pessoa se encontra tem uma decoração de fundo em tom de madeira clara.`,},
+      textoDescritivoImagem:'Aluno programando.',},
 
       {ordem:3,
       predecessor:2,
@@ -98,9 +93,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Uma sala de aula ou um laboratório de tecnologia, onde crianças estão envolvidas em atividades práticas relacionadas à computação e robótica. 
-      Elas estão sentadas em torno de mesas de madeira clara, manipulando material como massa de modelar colorida e componentes eletrônicos conectados por fios, trabalhando em projetos que combinam programação, eletrônica e criatividade manual. 
-      No fundo, há computadores montados nas paredes, mostrando telas com conteúdos diferentes.`,},
+      textoDescritivoImagem:'Sala de aula MM.',},
 
       {ordem:4,
       predecessor:3,
@@ -113,11 +106,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:1,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Grupo de crianças sentadas no chão, interagindo com pequenos robôs em formato de abelha sobre um tapete quadriculado com cores vibrantes, em tons de verde, laranja e branco. 
-      Os robôs, que têm um design simpático e com cores amarelas e pretas, possuem botões na parte superior para programação simples.
-      O tapete está dividido em quadrados que formam uma grade, utilizada para orientar os robôs em suas movimentações. 
-      Perto dos robôs, há cartões com setas e símbolos que são usados para programar os movimentos dos robôs no chão.
-      As crianças estão concentradas na atividade, aprendendo conceitos básicos de programação e robótica de uma forma prática e divertida.`,},
+      textoDescritivoImagem:'Atividade com bee-bot no tapete xadrez.',},
 
       {ordem:5,
       predecessor:4,
@@ -130,10 +119,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Um tapete de uma cidade ou um ambiente urbano que tem um mapa colorido com várias áreas delineadas, incluindo pistas, espaços verdes e quadras de esporte.
-      No canto inferior esquerdo, há um pequeno robô esférico transparente com componentes eletrônicos visíveis. Esse robô é capaz de se movimentar pelo mapa.
-      No centro da imagem, vemos duas quadras de tênis delineadas em amarelo e azul. Perto dessas quadras, há uma estrutura de um gol de futebol, feita de palitos e fios.
-      Outros elementos do cenário incluem áreas verdes com árvores, pistas de corrida ou ciclovias.`,},
+      textoDescritivoImagem:'Atividade com robô Sphero e tapete pedagógico MM.',},
 
       {ordem:6,
       predecessor:5,
@@ -146,9 +132,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:1,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Duas crianças envolvidas em uma atividade manual, manipulando uma série de fios brancos que estão presos a uma estrutura. 
-      A criança à esquerda está segurando um pequeno dispositivo com fios, de uma atividade educativa de tecnologia, como um tear manual ou algum tipo de dispositivo de tecelagem.
-      Sobre a mesa à direita, há alguns objetos espalhados: um estilete amarelo, um caderno aberto com páginas brancas e artefatos coloridos com texto.`,},
+      textoDescritivoImagem:'Atividade tear MM.',},
 
       {ordem:7,
       predecessor:6,
@@ -161,12 +145,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Ambiente educacional onde um grupo de crianças está envolvido em uma atividade colaborativa de eletrônica e robótica. 
-      Elas estão sentadas em volta de uma mesa de madeira clara, manipulando diversos componentes eletrônicos e circuitos. 
-      Há fios, baterias, pequenos dispositivos e módulos de construção espalhados sobre a mesa.
-      Algumas crianças estão conectando os componentes, enquanto outras estão ajustando ou testando os circuitos montados. 
-      Na mesa, há caixas organizadoras azuis e verdes contendo mais peças e materiais para os projetos. 
-      As crianças estão engajadas e trabalhando de maneira colaborativa em seus projetos.`,},
+      textoDescritivoImagem:'Atividade com littleBits na sala MM.',},
 
       {ordem:8,
       predecessor:7,
@@ -179,12 +158,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Duas crianças interagindo em um ambiente educacional. 
-      Uma das crianças está segurando um livro aberto. 
-      O livro tem várias páginas coloridas com ilustrações e espaços para escrita. 
-      Nas páginas visíveis, há seções delineadas onde as crianças podem escrever ou desenhar respostas. 
-      Algumas seções têm cabeçalhos em caixas coloridas e há ilustrações de personagens em desenho, com um formato de atividade lúdica e educativa. 
-      O foco da imagem está nas mãos das crianças e no livro, destacando a interação entre elas enquanto realizam a atividade proposta pelo material didático.`,},
+      textoDescritivoImagem:'Alunos com uma versão do caderno de criações.',},
 
       {ordem:9,
       predecessor:8,
@@ -197,9 +171,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:`Fundo laranja vibrante com um padrão abstrato de formas geométricas, linhas e ícones relacionados à tecnologia e computação.
-      No centro da imagem, há um logotipo composto por uma série de hexágonos interconectados, formando um design em forma de cubo. 
-      Abaixo do logotipo, estão as palavras "mundo computacional" escritas em letras minúsculas e brancas com uma fonte pixelada.`,},
+      textoDescritivoImagem:'Logo Mundo Computacional.',},
     ]}},
     },
   
@@ -210,7 +182,8 @@ let livro_cw1 ={
 		infografico:{titulo:'LIÇÃO 01. DESVENDANDO OS ALGORITMOS',
 		tituloSimplificado:'ALGORITMOS',
 		estiloPadrao:'basicoPaisagem',
-		cenas:[				
+		video:'https://mindmakers.cc/link?url=cw1U1L1',
+    cenas:[				
 		  {ordem:1,
 		  predecessor:0,
       texto:'UM <b>ALGORITMO</b> É UMA INSTRUÇÃO DETALHADA, COM DIFERENTES PASSOS, QUE EXPLICAM COMO RESOLVER UM PROBLEMA OU COMPLETAR UMA TAREFA.',
@@ -222,7 +195,7 @@ let livro_cw1 ={
       promptImagem:'Imagem vibrante e alegre de uma lista com diferentes itens marcados como feitos.',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Lista, que pode servir para instruir pessoa ou computador.',},
 
       {ordem:2,
       predecessor:1,
@@ -235,7 +208,7 @@ let livro_cw1 ={
       promptImagem:'Imagem vibrante e alegre de um personagem infantil sentada de costas, com um laptop à sua frente, com vários balões de linguagens de programação saindo da tela do computador.', 
 		  imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'Programador em seu computador',},
+      textoDescritivoImagem:'Programador em seu computador.',},
 
       {ordem:3,
       predecessor:2,
@@ -248,7 +221,7 @@ let livro_cw1 ={
       promptImagem:'Imagem vibrante e alegre dos passos para se fazer um coração de origami',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'Computador mostrando um algoritmo e papel também mostrando um algoritmo',},
+      textoDescritivoImagem:'Computador mostrando um algoritmo e papel também mostrando um algoritmo.',},
 
       {ordem:4,
       predecessor:3,
@@ -261,7 +234,7 @@ let livro_cw1 ={
       promptImagem:'Arte digital com seis imagens, uma ao lado da outra, sendo a primeira um prato com 2 fatias de pão. A segunda imagem mostra um pote de maionese ao fundo e uma faca passando maionese em uma fatia de pão. A terceira mostra um pedaço de quijo ao fundo e uma mão colocando uma fatia de queijo no pão que tem maionese. A quarta mostra duas mãos cortando fatias de um tomate. A quinta mostra a fatia de pão em cima do prata, com maionese embaixo, queijo e rodelas de tomate em cima. A última imagem mostra um sanduíche em cima de um prato, feito com pão, maionese, queijo, tomate e outra fatia de pão em cima.', /*opc*/
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Receita de sanduíche, mostrando os diferentes passos.',},
 
       {ordem:5,
       predecessor:4,
@@ -274,7 +247,7 @@ let livro_cw1 ={
       promptImagem:'Imagem vibrante e alegre mostrando uma personagem infantil confusa, com olhos arregalados, com uma folha de papel na mão tentando resolver um problema, sem saber o que fazer e vários pontos de interrogação oando acima de sua cabeça.',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'Pessoa confusa com o algoritmo que está tentando seguir',},
+      textoDescritivoImagem:'Pessoa confusa com o algoritmo que está tentando seguir.',},
 
       {ordem:6,
       predecessor:5,
@@ -287,7 +260,7 @@ let livro_cw1 ={
 		  promptImagem:'Imagem vibrante e alegre mostrando uma bancada em uma cozinha e um copo cheio de leite em cima da bancada.',
 		  imagemImpresso:0,
       imagemFonte:'dall-e 3',		
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Copo de leite em cima de uma bancada.',},
   
       {ordem:7,
       predecessor:6,
@@ -300,7 +273,7 @@ let livro_cw1 ={
       promptImagem:'Imagem vibrante e alegre de uma mão de uma pessoa pegando um copo americano de vidro transparente de um armário.',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Mão pegando um copo vazio de dentro de um armário.',},
   
       {ordem:8,
       predecessor:7,
@@ -313,7 +286,7 @@ let livro_cw1 ={
 		  promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa colocando um copo de vidro americano transparente e vazio em cima de uma bancada em uma cozinha.',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Mão colocando um copo vazio em cima de uma bancada.',},
   
       {ordem:9,
       predecessor:8,
@@ -326,7 +299,7 @@ let livro_cw1 ={
 		  promptImagem:'Imagem vibrante e alegre de uma mão de um personagem do tipo pessoa retirando uma caixa de leite de dentro de um geladeira.',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Mão retirando um garrafão de leite de dentro de uma geladeira.',},
   
       {ordem:10,
       predecessor:9,
@@ -339,7 +312,7 @@ let livro_cw1 ={
 		  promptImagem:'Imagem vibrante e alegre de um copo americano transparente de vidro que está em cima de uma bancada em uma cozinha sendo enchido de leite a partir de uma caixa de leite que uma mão de um personagem do tipo pessoa está segurando.',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Mão enchendo um copo que está em cima da bancada com leite.',},
   
       {ordem:11,
       predecessor:10,
@@ -352,7 +325,7 @@ let livro_cw1 ={
 		  promptImagem:'Imagem vibrante e alegre de um personagem infantil bebendo leite de um copo americano de vidro transparente cheio de leite. O personagem deve estar bebendo o leite do copo. O copo deve estar na boca do personagem',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criança bebendo leite.',},
   
       {ordem:12,
       predecessor:11,
@@ -365,7 +338,7 @@ let livro_cw1 ={
 		  promptImagem:'Uma imagem vibrante e alegre de uma cozinha com uma poça de leite derramado no chão',
       imagemImpresso:0,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Coxinha com uma poça de leite derramado no chão.',},
   
       {ordem:13,
       predecessor:12,
@@ -378,7 +351,7 @@ let livro_cw1 ={
 		  promptImagem:'crie uma imagem colorida de uma menina, em seu quarto, organizando seus brinquedos em diferentes caixas',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menina organizando seus brinquedos em diferentes caixas.',},
   
       {ordem:14,
       predecessor:13,
@@ -391,13 +364,14 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de um garoto negro olhando para seu gráfico de tarefas diárias',
 		  imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menino olhando para um quadro de tarefas.',},
 		]}},
     
     licao2:{id:'CW1AULA02CODE',
     infografico:{titulo:'LIÇÃO 02. DESCOBRINDO O COMPUTADOR',
     tituloSimplificado:'COMPUTADOR',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U1L2',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -410,7 +384,7 @@ let livro_cw1 ={
       promptImagem:'Imagem vibrante e alegre de um personagem infantil programando um computador',
       imagemImpresso:0,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menino programando.',},
 
       {ordem:2,
       predecessor:1,
@@ -423,7 +397,7 @@ let livro_cw1 ={
       promptImagem:'criar a imagem de uma videochamada entre três pessoas, todos os jogadores conversando entre si sobre os jogos, mesmo que estejam em países diferentes',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Teleconferência durante jogo online.',},
 
       {ordem:3,
       predecessor:2,
@@ -436,7 +410,7 @@ let livro_cw1 ={
       promptImagem:'personagem infantil com um computador de mesa, programando.',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menino programando.',},
 
       {ordem:4,
       predecessor:3,
@@ -449,7 +423,7 @@ let livro_cw1 ={
       promptImagem:'computador desktop em uma mesa moderna e iluminada, mostrando uma CPU, um monitor, um teclado e um mouse',
       imagemImpresso:1,
       imagemFonte:'ilustrador',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop.',},
 
       {ordem:5,
       predecessor:4,
@@ -462,7 +436,7 @@ let livro_cw1 ={
       promptImagem:'a CPU de um computador em ciam de uma mesa',
       imagemImpresso:1,
       imagemFonte:'ilustrador',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop com a CPU em evidência.',},
 
       {ordem:6,
       predecessor:5,
@@ -475,7 +449,7 @@ let livro_cw1 ={
       promptImagem:'uma mesa clara, bonita e moderna, mostrando uma tela de computador em cima dela',
       imagemImpresso:1,
       imagemFonte:'ilustrador',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop com o monitor em evidência.',},
 
       {ordem:7,
       predecessor:6,
@@ -488,7 +462,7 @@ let livro_cw1 ={
       promptImagem:'uma mesa clara, bonita e moderna, mostrando um teclado de computador em cima dela',
       imagemImpresso:1,
       imagemFonte:'ilustrador',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop com o teclado em evidência.',},
 
       {ordem:8,
       predecessor:7,
@@ -501,7 +475,7 @@ let livro_cw1 ={
       promptImagem:'uma mesa clara, bonita e moderna, mostrando um mouse de computador em cima dela',
       imagemImpresso:1,
       imagemFonte:'ilustrador',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop com o mouse em evidência.',},
  
       {ordem:9,
       predecessor:8,
@@ -514,7 +488,7 @@ let livro_cw1 ={
       promptImagem:'uma imagem colorida que representa diferentes dispositivos eletrônicos, como smartphones, tablets, computadores',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Dispositivos eletrônicos.',},
 
       {ordem:10,
       predecessor:9,
@@ -527,7 +501,7 @@ let livro_cw1 ={
       promptImagem:'imagem vibrante e alegre de de um computador desktop',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop.',},
 
       {ordem:11,
       predecessor:10,
@@ -540,7 +514,7 @@ let livro_cw1 ={
       promptImagem:'imagem vibrante e alegre que mostre um laptop em cima de uma mesa',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menino usando um laptop.',},
 
       {ordem:12,
       predecessor:11,
@@ -553,7 +527,7 @@ let livro_cw1 ={
       promptImagem:'imagem vibrante e alegre que mostre um tablet em cima de uma mesa',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menina usando um tablet.',},
 
       {ordem:13,
       predecessor:12,
@@ -566,7 +540,7 @@ let livro_cw1 ={
       promptImagem:'imagem vibrante e alegre que mostre um celular',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Moça jovem usando o celular para fazer uma selfie.',},
 
       {ordem:14,
       predecessor:13,
@@ -579,7 +553,7 @@ let livro_cw1 ={
       promptImagem:'imagem vibrante e alegre de diferentes tipos de computadores, tablets, celulares e dispositivos eletrônicos',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Dispositivos eletrônicos.',},
     ]}},
 
     licao3:{},
@@ -588,6 +562,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 04. OS ROBÔS',
     tituloSimplificado:'ROBÔS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U1L4',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -600,7 +575,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem realista de um drone deixando uma encomenda que está dentro de uma caixa de papelão em frente a uma porta',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Drone entregando encomenda.',},
 
       {ordem:2,
       predecessor:1,
@@ -613,7 +588,7 @@ let livro_cw1 ={
       promptImagem:'Robô engraçado 3D explorando outros planetas',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô de companhia.',},
 
       {ordem:3,
       predecessor:2,
@@ -626,7 +601,7 @@ let livro_cw1 ={
       promptImagem:'Robô humanóide 3D engraçado andando na rua',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô humanóide.',},
 
       {ordem:4,
       predecessor:3,
@@ -639,7 +614,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem realista de uma fábrica com a linha de produção completamente robotizada',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Linha de produção robotizada.',},
 
       {ordem:5,
       predecessor:4,
@@ -652,7 +627,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem realista de uma sala de cirurgia, com um médico utilizando um robô como assistente durante um procedimento',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô assistindo em cirurgia médica.',},
 
       {ordem:6,
       predecessor:5,
@@ -665,7 +640,7 @@ let livro_cw1 ={
       promptImagem:'gere uma imagem de um robô com uma bandeja na mão, levando um medicamento para uma pessoa que está deitada no sofá',
       imagemImpresso:1,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô ajudando pessoa doente.',},
 
       {ordem:7,
       predecessor:6,
@@ -678,7 +653,7 @@ let livro_cw1 ={
       promptImagem:'Robô engraçado 3D ao lado de um computador, ouvindo o que o computador tem a dizer',
       imagemImpresso:1,
       imagemFonte:'dall-e',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menino programando em laptop com um robô ao lado.',},
 
       {ordem:8,
       predecessor:7,
@@ -691,7 +666,7 @@ let livro_cw1 ={
       promptImagem:'Robô engraçado 3D olhando para um computador, como se estivesse esperando que ele dissesse algo',
       imagemImpresso:1,
       imagemFonte:'dall-e',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Menina programando robô em forma de cubo.',},
 
       {ordem:9,
       predecessor:8,
@@ -704,7 +679,7 @@ let livro_cw1 ={
       promptImagem:'gere uma imagem de robôs diferentes',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Diferentes tipos de robôs.',},
     ]}},
 
       licao5:{},
@@ -713,6 +688,7 @@ let livro_cw1 ={
       infografico:{titulo:'LIÇÃO 06. LETRÓPOLIS: A CIDADE DAS VOGAIS',
       tituloSimplificado:'LETRÓPOLIS',
       estiloPadrao:'basicoPaisagem',
+      video:'https://mindmakers.cc/link?url=cw1U1L6',
       cenas:[				
       {ordem:1,
       predecessor:0,
@@ -725,7 +701,7 @@ let livro_cw1 ={
       promptImagem:'uma ilha nevada colorida e futurista',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Ilha nevada colorida e futurista.',},
 
       {ordem:2,
       predecessor:1,
@@ -738,7 +714,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de dois robôs engraçados em 3D conversando entre si em uma rua futurista e com neve. ambos têm balões de fala. Na direita você pode ver a letra “E” e na esquerda você pode ver a letra “A”',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs conversando em vogais.',},
 
       {ordem:3,
       predecessor:2,
@@ -751,7 +727,7 @@ let livro_cw1 ={
       promptImagem:'uma rua colorida e futurista em uma ilha nevada',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Rua colorida e futurista em uma ilha nevada.',},
         
       {ordem:4,
       predecessor:3,
@@ -764,7 +740,7 @@ let livro_cw1 ={
       promptImagem:'robôs engraçados andando em uma rua futurística com neve pareciam muito confusos, pois não sabiam como chegar a algum lugar',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs perdidos nas ruas.',},
 
       {ordem:5,
       predecessor:4,
@@ -777,7 +753,7 @@ let livro_cw1 ={
       promptImagem:'uma rua colorida e futurista de uma ilha nevada com robôs passando, como população',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Rua colorida e futurista de uma ilha nevada com robôs passando.',},
 
       {ordem:6,
       predecessor:5,
@@ -790,7 +766,7 @@ let livro_cw1 ={
       promptImagem:'uma rua colorida e futurista de uma ilha nevada com um robô carregando um balde com tinta e um pincel',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Rua colorida e futurista de uma ilha nevada com um robô carregando um balde com tinta e um pincel.',},
 
       {ordem:7,
       predecessor:6,
@@ -800,10 +776,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i4-letropolis/let7.jpg',
       textoImpresso:0,
       textoImpressoRecriado:'',
-      promptImagem:'',
+      promptImagem:'Crie uma imagem representando uma cena de rua nevada futurista ao anoitecer, com arranha-céus elegantes e iluminados por neon e hovercars passando rapidamente ao fundo, lançando um brilho hipnotizante no pavimento congelado. Em primeiro plano, um robô 3D de desenho animado com um corpo metálico arredondado, membros prateados brilhantes e olhos grandes e expressivos está em um ângulo, sua cabeça inclinada para um lado enquanto examina uma placa de rua retrofuturista com uma letra "A" em negrito e cursiva em azul elétrico brilhante. O corpo do robô é adornado com padrões coloridos e giratórios, dando a ele uma aparência divertida e caprichosa. Os flocos de neve caem suavemente ao redor do robô, lançando uma atmosfera serena, enquanto o céu acima é um tom profundo de cobalto, com algumas nuvens tênues iluminadas pela luz ambiente da cidade. A estética geral é uma mistura de elegância futurista e charme nostálgico.',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Rua nevada futurista ao anoitecer, com robô encarando placa onde se lê a letra A.',},
 
       {ordem:8,
       predecessor:7,
@@ -816,7 +792,7 @@ let livro_cw1 ={
       promptImagem:'uma ilha nevada colorida e futurista, vista de longe',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Ilha nevada colorida e futurista.',},
     ]}},
 
     licao7:{},
@@ -830,6 +806,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 08. CIRCUITOS EM PAPEL: UMA JORNADA ELETRIZANTE',
     tituloSimplificado:'CIRCUITOS EM PAPEL',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U1L8',
     cenas:[
       {ordem:1,
       predecessor:0,
@@ -842,7 +819,7 @@ let livro_cw1 ={
       promptImagem:'Uma imagem em close de um relâmpago vibrante formando um arco em um céu escuro',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Relâmpago.',},
 
       {ordem:2,
       predecessor:1,
@@ -855,7 +832,7 @@ let livro_cw1 ={
       promptImagem:'Uma vista aérea de um intenso circuito de corridas de automóveis, com múltiplas curvas e curvas fechadas',
       imagemImpresso:0,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Circuito de corrida de automóveis.',},
 
       {ordem:3,
       predecessor:2,
@@ -868,7 +845,7 @@ let livro_cw1 ={
       promptImagem:'um cabo elétrico visto por dentro, com energia percorrendo-o',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cabo elétrico visto po dentro.',},
 
       {ordem:4,
       predecessor:3,
@@ -881,7 +858,7 @@ let livro_cw1 ={
       promptImagem:'fita elétrica de cobre',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Fita de cobre.',},
 
       {ordem:5,
       predecessor:4,
@@ -894,7 +871,7 @@ let livro_cw1 ={
       promptImagem:'lithium battery',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Bateria de lítio.',},
 
       {ordem:6,
       predecessor:5,
@@ -904,10 +881,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i5-circuitos/img10.jpg',
       textoImpresso:0,
       textoImpressoRecriado:'',
-      promptImagem:'',
+      promptImagem:'lithium battery',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Bateria de lítio.',},
 
       {ordem:7,
       predecessor:6,
@@ -920,7 +897,7 @@ let livro_cw1 ={
       promptImagem:'LED',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'LED.',},
 
       {ordem:8,
       predecessor:7,
@@ -933,7 +910,7 @@ let livro_cw1 ={
       promptImagem:'',
       imagemImpresso:0,
       imagemFonte:'MM',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Circuito em papel.',},
 
       {ordem:9,
       predecessor:8,
@@ -946,7 +923,7 @@ let livro_cw1 ={
       promptImagem:'Uma foto cativante de uma criança curiosa montando diligentemente um circuito elétrico usando fita de cobre e uma variedade de LEDs coloridos. A criança está absorta em seu trabalho, exposto em uma bancada de madeira. No fundo, uma figura adulta, provavelmente um mentor ou pai, observa com um sorriso, pronto para oferecer orientação ou assistência.',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criança criando circuito.',},
 
       {ordem:10,
       predecessor:9,
@@ -959,13 +936,14 @@ let livro_cw1 ={
       promptImagem:'uma criança segurando o fio de um rádio, que está conectado a uma tomada, puxando-o',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criança segurando cabo elétrico.',},
       ]}},
 	 
     licao9:{id:'CW1AULA09CODE',
     infografico:{titulo:'LIÇÃO 09. VAMOS REPETIR! APRENDENDO SOBRE LAÇOS',
     tituloSimplificado:'LAÇOS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U2L9',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -978,7 +956,7 @@ let livro_cw1 ={
       promptImagem:'criança pulando corda, desenho animado, cinematic',
       imagemImpresso:1,
       imagemFonte:'dall-e',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criança pulando corda.',},
 
       {ordem:2,
       predecessor:1,
@@ -991,7 +969,7 @@ let livro_cw1 ={
       promptImagem:'computador desktop com o símbolo do infinito na tela, desenho animado',
       imagemImpresso:1,
       imagemFonte:'autoral',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Comando repita.',},
 
       {ordem:3,
       predecessor:2,
@@ -1004,7 +982,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de uma tela de computador mostrando um rosto sorridente amarelo',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Smiley na tela de um computador.',},
 
       {ordem:4,
       predecessor:3,
@@ -1014,10 +992,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'... BASTA DAR O COMANDO REPITA EM VOLTA DA TAREFA.',
-      promptImagem:'comando repita',
+      promptImagem:'',
       imagemImpresso:1,
       imagemFonte:'autoral',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Comando repita.',},
 
       {ordem:5,
       predecessor:4,
@@ -1027,10 +1005,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img5.jpeg',
       textoImpresso:1,
       textoImpressoRecriado:'O COMPUTADOR VAI REPETIR A TAREFA MUITAS VEZES.',
-      promptImagem:'desenho animado de um computador com um balão de fala vazio em cima',
+      promptImagem:'desenho animado de um computador com cinco carinhas felizes saindo dele',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Tela de computador com cinco carinhas felizes.',},
 
     ]}},
 
@@ -1040,6 +1018,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 11. DESCOBRINDO OS EVENTOS NA PROGRAMAÇÃO',
     tituloSimplificado:'EVENTOS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U2L11',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1052,7 +1031,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida, estilo quadrihos, de um despertador tocando',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Despertador.',},
 
       {ordem:2,
       predecessor:1,
@@ -1065,7 +1044,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida, estilo história em quadrinhos, do sol nascendo pela manhã',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Sol nascendo.',},
 
       {ordem:3,
       predecessor:2,
@@ -1075,10 +1054,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img3.webp',
       textoImpresso:1,
       textoImpressoRecriado:'OU QUANDO MENOS ESPERAMOS: “OLHA, UM ARCO-ÍRIS!”',
-      promptImagem:'arte digital de um arco-iris',
+      promptImagem:'arte digital estilo história em quadrinhos de um arco-iris',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Arco-íris.',},
 
       {ordem:4,
       predecessor:3,
@@ -1088,10 +1067,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img4.webp',
       textoImpresso:1,
       textoImpressoRecriado:'COMPUTADORES TÊM EVENTOS PROGRAMADOS.',
-      promptImagem:'arte digital de um computador',
+      promptImagem:'arte digital estilo história em quadrinhos de uma personagem negra programando um computador',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Moça jovem programando um computador.',},
 
       {ordem:5,
       predecessor:4,
@@ -1101,10 +1080,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img7.webp',
       textoImpresso:1,
       textoImpressoRecriado:'TOCAR NA TELA DO CELULAR OU DO  TABLET É UM EVENTO.',
-      promptImagem:'uma pessoa usando um tablet, arte digital',
+      promptImagem:'uma pessoa usando um tablet, arte digital estilo história em quadrinhos',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'rapaz jovem utilizando um tablet.',},
 
       {ordem:6,
       predecessor:5,
@@ -1114,10 +1093,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img8.webp',
       textoImpresso:1,
       textoImpressoRecriado:'APERTAR UMA TECLA NO TECLADO É UM EVENTO.',
-      promptImagem:'arte digital de um dedo apertando uma tecla em um teclado de computador',
+      promptImagem:'arte digital estilo história em quadrinhos de um dedo apertando uma tecla em um teclado de computador',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Dedo apertando uma tecla de um teclado de computador.',},
 
       {ordem:7,
       predecessor:6,
@@ -1127,10 +1106,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img10.webp',
       textoImpresso:1,
       textoImpressoRecriado:'JOGAR VIDEOGAMES NO JOYSTICK CRIA EVENTOS.',
-      promptImagem:'um computador desktop com código flutuando, arte digital',
+      promptImagem:'arte digital estilo história em quadrinhos e uma personagem feminina jovem jogando videogame em frente a uma tela',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Moça jovem jogando videogame.',},
 
       {ordem:8,
       predecessor:7,
@@ -1140,10 +1119,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img9.webp',
       textoImpresso:1,
       textoImpressoRecriado:'EVENTOS FAZEM OS PROGRAMAS DE COMPUTADOR REAGIREM.',
-      promptImagem:'arte digital de uma criança jogando videogame',
+      promptImagem:'arte digital estilo história em quadrinhos de um computador reagindo a um acontecimento',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador reagindo a eventos.',},
 
       {ordem:9,
       predecessor:8,
@@ -1153,10 +1132,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img11.webp',
       textoImpresso:1,
       textoImpressoRecriado:'NO VIDEOGAME, UM EVENTO DO JOYSTICK CAUSA UMA REAÇÃO PROGRAMA DO JOGO, QUE FAZ O PERSONAGEM PULAR.',
-      promptImagem:'arte digital de um computador desktop com código flutuando',
+      promptImagem:'arte digital estilo história em quadrinhos de um personagem de jogo de videogame pulando para sair de uma explosão',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Personagem de videogame pulando.',},
 
       {ordem:10,
       predecessor:9,
@@ -1169,7 +1148,7 @@ let livro_cw1 ={
       promptImagem:'gere uma imagem, em estilo revista em quadrinhos, colorida, de um computador desktop, um tablet, um celular, um videogame e uma TV',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Dispositivos eletrônicos.',},
     ]}},
 
     licao12:{},
@@ -1178,6 +1157,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 13. BEM VINDOS A NUMERÓPOLIS!',
     tituloSimplificado:'NUMERÓPOLIS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U2L13',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1190,7 +1170,7 @@ let livro_cw1 ={
       promptImagem:'cidade futurista colorida vista de cima',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cidade futurista.',},
 
       {ordem:2,
       predecessor:1,
@@ -1203,7 +1183,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de uma cidade colorida e futurista, vista de cima',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cidade colorida e futurista.',},
 
       {ordem:3,
       predecessor:2,
@@ -1216,7 +1196,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de uma rua futurista onde você pode ver dois robôs 3D engraçados conversando entre si. Ambos têm balões de fala flutuando acima de suas cabeças. No balão de fala direito você pode ver o número "3" e no balão de fala esquerdo você pode ver o número "7"',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs conversando sobre o número 2.',},
 
       {ordem:4,
       predecessor:3,
@@ -1229,7 +1209,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de uma rua colorida e futurista, mostrando um robô engraçado coçando a cabeça',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô confuso.',},
 
       {ordem:5,
       predecessor:4,
@@ -1242,7 +1222,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de uma rua colorida e futurista, mostrando um robô engraçado andando confuso pela rua',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs perdidos na rua.',},
 
       {ordem:6,
       predecessor:5,
@@ -1255,7 +1235,7 @@ let livro_cw1 ={
       promptImagem:'Arte digital de uma rua colorida e futurista com um robô 3D engraçado andando confuso',
       imagemImpresso:0,
       imagemFonte:'dall-e',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô perdido na rua.',},
 
       {ordem:7,
       predecessor:6,
@@ -1268,7 +1248,7 @@ let livro_cw1 ={
       promptImagem:'personagem infantil com um computador de mesa, programando',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criança programando.',},
 
       {ordem:8,
       predecessor:7,
@@ -1281,7 +1261,7 @@ let livro_cw1 ={
       promptImagem:'Robô engraçado 3D acenando com a mão',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô acenando.',},
     ]}},
 
     licao14:{},
@@ -1294,6 +1274,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 15. EXPLORANDO CAMINHOS COM AS CONDICIONAIS',
     tituloSimplificado:'CONDICIONAIS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U3L15',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1306,7 +1287,7 @@ let livro_cw1 ={
       promptImagem:'pintura de uma televisão a cores numa parede e uma mesa de café em frente. em cima da mesa é possível ver um bowl cheio de pipoca',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Televisão e balde de pipoca.',},
 
       {ordem:2,
       predecessor:1,
@@ -1319,7 +1300,7 @@ let livro_cw1 ={
       promptImagem:'pintura de uma mesa cheia de livros abertos, canetas, lápis e cadernos',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Mesa com materiais escolares.',},
 
       {ordem:3,
       predecessor:2,
@@ -1332,7 +1313,7 @@ let livro_cw1 ={
       promptImagem:'pintura de uma personagem infantil sentada em um sofá, embrulhada em um cobertor e segurando um bowl cheio de pipoca',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criança vendo tv e comendo pipoca.',},
 
       {ordem:4,
       predecessor:3,
@@ -1345,7 +1326,7 @@ let livro_cw1 ={
       promptImagem:'pintura de uma pessoa parada em frente a dois caminhos diferentes na floresta',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Pessoa parada em frente a dois caminhos na floresta.',},
 
       {ordem:5,
       predecessor:4,
@@ -1355,10 +1336,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/img8.webp',
       textoImpresso:1,
       textoImpressoRecriado:'COMPUTADORES SEGUEM INSTRUÇÕES COM CONDIÇÕES QUE PROGRAMAMOS.',
-      promptImagem:'pintura de um computador com diferentes símbolos de cheque e proibido flutuando',
+      promptImagem:'pintura de um computador com diferentes setas flutuando',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Tela de computador com duas setas apontando para lados opostos.',},
 
       {ordem:6,
       predecessor:5,
@@ -1371,7 +1352,7 @@ let livro_cw1 ={
       promptImagem:'gere uma imagem em estilo pintura a óleo que mostre um cavaleiro visto de costas, olhando para uma grande parede',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cavaleiro defendendo o castelo.',},
 
       {ordem:7,
       predecessor:6,
@@ -1384,7 +1365,7 @@ let livro_cw1 ={
       promptImagem:'pintura de um jovem tocando uma parede com a mão',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cavaleira tocando uma parede com a mão.',},
 
       {ordem:8,
       predecessor:7,
@@ -1394,10 +1375,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i9-condicionais/cond10.png',
       textoImpresso:0,
       textoImpressoRecriado:'',
-      promptImagem:'pintura de um jovem pensando em um parque',
+      promptImagem:'gere uma imagem em estilo pintura a óleo que mostre um bosque com dois caminhos diferentes a seguir',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Bosque com dois caminhos diferentes',},
     ]}},
 
     licao16:{},
@@ -1406,6 +1387,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 17. DETETIVES: APRENDENDO SOBRE DEPURAÇÃO',
     tituloSimplificado:'DEPURAÇÃO',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U3L17',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1418,7 +1400,7 @@ let livro_cw1 ={
       promptImagem:'lupa de arte digital sobre um laptop',
       imagemImpresso:0,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Lupa sobre um laptop.',},
 
       {ordem:2,
       predecessor:1,
@@ -1431,7 +1413,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de um bug robótico 3D andando sobre um laptop em um fundo futurista e colorido',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Bicho tecnológico sobre um laptop.',},
 
       {ordem:3,
       predecessor:2,
@@ -1441,10 +1423,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i10-depuracao/img7.webp',
       textoImpresso:1,
       textoImpressoRecriado:'DEBUG, OU DEPURAÇÃO, É O TRABALHO DE INVESTIGAÇÃO PARA DESCOBRIR ESSES ERROS.',
-      promptImagem:'arte digital de um investigador robótico procurando bugs na tela de um computador em um fundo colorido',
+      promptImagem:'arte digital de um investigador em tons de roxo',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Investigador encontrando pistas.',},
 
       {ordem:4,
       predecessor:3,
@@ -1457,7 +1439,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de um computador com código flutuando em um fundo colorido',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Computador desktop com código na tela.',},
 
       {ordem:5,
       predecessor:4,
@@ -1470,7 +1452,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de depuração de computador',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Moça jovem sentada à frente d eum computador com códigos na tela.',},
 
       {ordem:6,
       predecessor:5,
@@ -1483,7 +1465,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de programação em pares em um fundo colorido',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Programação em par.',},
 
       {ordem:7,
       predecessor:6,
@@ -1496,7 +1478,7 @@ let livro_cw1 ={
       promptImagem:'arte digital de resolução de problemas em um fundo colorido',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Grupo de pessoas montando um quebra cabeças.',},
     ]}},
 
     licao18:{},
@@ -1507,6 +1489,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 20. OS JOGOS ROBÓTICOS DE INVERNO',
     tituloSimplificado:'JOGOS DE INVERNO',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U3L20',
     cenas:[
       {ordem:1,
       predecessor:0,
@@ -1519,7 +1502,7 @@ let livro_cw1 ={
       promptImagem:'uma ilha nevada colorida e futurista',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Ilha nevada colorida e futurista.',},
 
       {ordem:2,
       predecessor:1,
@@ -1532,7 +1515,7 @@ let livro_cw1 ={
       promptImagem:'robô 3d engraçado esquiando em uma montanha nevada',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô esquiando na neve.',},
 
       {ordem:3,
       predecessor:2,
@@ -1545,7 +1528,7 @@ let livro_cw1 ={
       promptImagem:'uma imagem colorida representando uma pista de gelo futurista com um robô 3D engraçado, colorido e bobo patinando nela',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô patinando no gelo.',},
 
       {ordem:4,
       predecessor:3,
@@ -1558,7 +1541,7 @@ let livro_cw1 ={
       promptImagem:'robô 3d engraçado esquiando em uma montanha nevada',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô esquiando na neve.',},
 
       {ordem:5,
       predecessor:4,
@@ -1571,7 +1554,7 @@ let livro_cw1 ={
       promptImagem:'robô 3d engraçado esquiando em uma montanha nevada, fazendo movimentos de zigue zague',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô esquiando na neve.',},
 
       {ordem:6,
       predecessor:5,
@@ -1584,7 +1567,7 @@ let livro_cw1 ={
       promptImagem:'robô 3d engraçado esquiando em uma montanha nevada, fazendo movimentos de zigue zague',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô esquiando na neve.',},
 
       {ordem:7,
       predecessor:6,
@@ -1597,7 +1580,7 @@ let livro_cw1 ={
       promptImagem:'uma equipe de programadores programando um computador na neve',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Grupo de pessoas programando um computador numa montanha nevada.',},
 
       {ordem:8,
       predecessor:7,
@@ -1610,7 +1593,7 @@ let livro_cw1 ={
       promptImagem:'robô 3d engraçado esquiando em uma montanha nevada, fazendo movimentos de zigue zague',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô esquiando na neve.',},
     ]}},
     
     licao21:{},
@@ -1624,6 +1607,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 22. UMA JORNADA SOBRE SENHAS E SEGURANÇA',
     tituloSimplificado:'SENHAS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U4L22',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1636,7 +1620,7 @@ let livro_cw1 ={
       promptImagem:'uma tela de computador mostrando uma caixa para digitar uma senha',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Monitor com caixinha para digitar a senha.',},
 
       {ordem:2,
       predecessor:1,
@@ -1649,7 +1633,7 @@ let livro_cw1 ={
       promptImagem:'Arte digital colorida de uma chave',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Chave colorida.',},
 
       {ordem:3,
       predecessor:2,
@@ -1662,7 +1646,7 @@ let livro_cw1 ={
       promptImagem:'Arte digital colorida de uma caixa com várias coisas saindo dela',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Baú com diferentes coisas saindo dele.',},
 
       {ordem:4,
       predecessor:3,
@@ -1675,7 +1659,7 @@ let livro_cw1 ={
       promptImagem:'Arte digital colorida de um labirinto',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Labirinto com ponto de interrogação no centro.',},
 
       {ordem:5,
       predecessor:4,
@@ -1685,10 +1669,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i12-senhas/img11.webp',
       textoImpresso:0,
       textoImpressoRecriado:'QUANTO MAIS FORTE A SENHA, MAIS PROTEGIDO VOCÊ ESTÁ.',
-      promptImagem:'Arte digital de personagem hackeando um computador',
+      promptImagem:'Arte digital de um cavaleiro defendendo um castelo em close-up contra diferentes inimigos',
       imagemImpresso:0,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cavaleiro defendendo o castelo.',},
 
       {ordem:6,
       predecessor:5,
@@ -1701,7 +1685,7 @@ let livro_cw1 ={
       promptImagem:'Arte digital de um rosto com um dedo em frente à boca, fazendo sinal de segredoUma pintura digital vibrante do rosto de uma figura misteriosa com um dedo colorido pressionado contra os lábios, significando sigilo. O fundo é um caleidoscópio de cores rodopiantes, criando uma sensação de intriga e admiração.',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Moça jovem fazendo sinal de silêncio ou segredo.',},
 
       {ordem:7,
       predecessor:6,
@@ -1714,7 +1698,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de uma senhora guardiã de chaves, com muitas chaves no cinto e laptops, tablets e celulares bloqueados, flutuando',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Guardiã das chaves.',},
 
       {ordem:8,
       predecessor:7,
@@ -1727,7 +1711,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de um laptop recebendo uma mensagem por um envelope e uma mão tentando recebê-la',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Mão alcançando envelope que está saindo da tela d eum laptop.',},
 
       {ordem:9,
       predecessor:8,
@@ -1740,7 +1724,7 @@ let livro_cw1 ={
       promptImagem:'gere uma imagem colorida de várias crianças dando as mãos, tentando proteger um computador',
       imagemImpresso:0,
       imagemFonte:'Cogna IA',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Roda de crianças de mãos dadas, protegendo o computador.',},
     ]}},
 
     licao23:{},
@@ -1751,6 +1735,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 25. A GRANDE DISPUTA: NUMERÓPOLIS VS. LETRÓPOLIS',
     tituloSimplificado:'NUMERÓPOLIS VS. LETRÓPOLIS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U4L25',
     cenas:[
       {ordem:1,
       predecessor:0,
@@ -1763,7 +1748,7 @@ let livro_cw1 ={
       promptImagem:'cidade futurista colorida vista de cima/uma ilha nevada colorida e futurista',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Cidade futurista colorida.',},
 
       {ordem:2,
       predecessor:1,
@@ -1776,7 +1761,7 @@ let livro_cw1 ={
       promptImagem:'dois robôs engraçados apertando as mãos em uma rua futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs se cumprimentando.',},
 
       {ordem:3,
       predecessor:2,
@@ -1789,7 +1774,7 @@ let livro_cw1 ={
       promptImagem:'uma rua colorida e futurista, com alguns sinais de trânsito vazios',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Rua colorida e futurista.',},
 
       {ordem:4,
       predecessor:3,
@@ -1802,7 +1787,7 @@ let livro_cw1 ={
       promptImagem:'sinais de trânsito em branco em uma rua futurista',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Sinais de trânsito em branco em uma rua futurista.',},
 
       {ordem:5,
       predecessor:4,
@@ -1815,7 +1800,7 @@ let livro_cw1 ={
       promptImagem:'dois robôs engraçados coloridos olhando um para o outro, em um octógono, enquanto eles começarão a luta',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs em ringue de luta.',},
 
       {ordem:6,
       predecessor:5,
@@ -1828,7 +1813,7 @@ let livro_cw1 ={
       promptImagem:'um close em uma placa de trânsito colorida e futurista em branco',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Placa com o número 8.',},
 
       {ordem:7,
       predecessor:6,
@@ -1841,7 +1826,7 @@ let livro_cw1 ={
       promptImagem:'um close em uma placa de trânsito colorida e futurista em branco',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Placa com a vogal E.',},
 
       {ordem:8,
       predecessor:7,
@@ -1854,7 +1839,7 @@ let livro_cw1 ={
       promptImagem:'crie uma imagem colorida de um grupo de programadores defendendo uma cidade com programação',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Grupos de programadores competindo.',},
 
       {ordem:9,
       predecessor:8,
@@ -1867,7 +1852,7 @@ let livro_cw1 ={
       promptImagem:'um grupo de crianças em torno de um computador, programando-o',
       imagemImpresso:0,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Criaças programando.',},
 
       {ordem:10,
       predecessor:9,
@@ -1879,8 +1864,8 @@ let livro_cw1 ={
       textoImpressoRecriado:'QUEM VAI GANHAR?',
       promptImagem:'',
       imagemImpresso:1,
-      imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      imagemFonte:'autoral - modificação da imagem do leonardo',
+      textoDescritivoImagem:'Numerópolis versus Letrópolis',},
     ]}},
 
     licao26:{},
@@ -1889,6 +1874,7 @@ let livro_cw1 ={
     infografico:{titulo:'LIÇÃO 27. A CIDADE DOS 1s e 0s: CONHECENDO BINARÓPOLIS',
     tituloSimplificado:'BINARÓPOLIS',
     estiloPadrao:'basicoPaisagem',
+    video:'https://mindmakers.cc/link?url=cw1U4L27',
     cenas:[				
       {ordem:1,
       predecessor:0,
@@ -1901,7 +1887,7 @@ let livro_cw1 ={
       promptImagem:'um país colorido e futurista, visto de cima, mostrando diferentes cidades',
       imagemImpresso:0,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'País colorido e futurista.',},
 
       {ordem:2,
       predecessor:1,
@@ -1914,7 +1900,7 @@ let livro_cw1 ={
       promptImagem:'dois robôs engraçados conversando entre si com balões de fala em uma rua colorida e futurista',
       imagemImpresso:1,
       imagemFonte:'dall-e 3',      
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robôs conversando sobre 0 e 1.',},
 
       {ordem:3,
       predecessor:2,
@@ -1927,7 +1913,7 @@ let livro_cw1 ={
       promptImagem:'um robô 3D engraçado estudando um livro antigo em um ambiente colorido e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Robô lendo livro antigo.',},
 
       {ordem:4,
       predecessor:3,
@@ -1940,7 +1926,7 @@ let livro_cw1 ={
       promptImagem:'zeros e uns flutuando sobre um balão de fala em um cenário colorido e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Balão com zero e um.',},
 
       {ordem:5,
       predecessor:4,
@@ -1953,7 +1939,7 @@ let livro_cw1 ={
       promptImagem:'um processador de computador com um cubo branco flutuando acima dele em um fundo colorido e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Folha de papel sobre mesa com um quadrado desenhado.',},
 
       {ordem:6,
       predecessor:5,
@@ -1966,7 +1952,7 @@ let livro_cw1 ={
       promptImagem:'um processador de computador com um cubo preto flutuando acima dele em um fundo colorido e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},      
+      textoDescritivoImagem:'Folha de papel sobre mesa com um quadrado preenchido de preto desenhado.',},      
       
       {ordem:7,
       predecessor:6,
@@ -1979,7 +1965,7 @@ let livro_cw1 ={
       promptImagem:'uma rua colorida, futurista e muito limpa',
       imagemImpresso:1,
       imagemFonte:'leonardo',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Rua colorida e futurista.',},
 
       {ordem:8,
       predecessor:7,
@@ -1989,10 +1975,10 @@ let livro_cw1 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/Binaropolis/img10.png',
       textoImpresso:1,
       textoImpressoRecriado:'PARA REPRESENTAR OS OUTROS NÚMEROS, USAMOS UMA SEQUÊNCIA DE CAIXINHAS BRANCAS E PRETAS.',
-      promptImagem:'2 cubos pretos e 2 cubos brancos, formando uma linha de cubos num ambiente colorido e tecnológico',
+      promptImagem:'',
       imagemImpresso:1,
-      imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      imagemFonte:'autoral',
+      textoDescritivoImagem:'Tabela binária.',},
 
       {ordem:9,
       predecessor:8,
@@ -2005,7 +1991,7 @@ let livro_cw1 ={
       promptImagem:'dois robôs engraçados batendo os punhos em uma rua colorida e futurista',
       imagemImpresso:1,
       imagemFonte:'ideogram',
-      textoDescritivoImagem:'',},
+      textoDescritivoImagem:'Dois robôs comemorando.',},
     ]}},
     
     licao28:{},
