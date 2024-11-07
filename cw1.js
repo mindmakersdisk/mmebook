@@ -947,7 +947,7 @@ let livro_cw1 ={
     cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'SABE QUANDO FAZEMOS ALGO VÁRIAS VEZES, COMO PULAR CORDA OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO, E PARA ISSO ELES USAM OS <b>LAÇOS!</b>',
+      texto:'SABE QUANDO FAZEMOS ALGO VÁRIAS VEZES, COMO PULAR CORDA OU BATER PALMAS? OS COMPUTADORES TAMBÉM PODEM FAZER ISSO COM OS <b>LAÇOS!</b>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img1.webp',
@@ -960,7 +960,7 @@ let livro_cw1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'OS COMPUTADORES CONSEGUEM LEMBRAR DE COISAS MUITO BEM. QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS LAÇOS.',
+      texto:'QUANDO QUEREMOS QUE UM COMPUTADOR FAÇA ALGO VÁRIAS VEZES, EM VEZ DE DIZER PARA ELE FAZER A MESMA COISA DE NOVO E DE NOVO, PODEMOS USAR OS LAÇOS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img4.jpg',
@@ -973,7 +973,7 @@ let livro_cw1 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'VAMOS IMAGINAR QUE QUEREMOS DESENHAR MUITAS CARINHAS SORRIDENTES NA TELA DO COMPUTADOR.',
+      texto:'VAMOS IMAGINAR QUE QUEREMOS DESENHAR MUITAS CARINHAS FELIZES NA TELA DO COMPUTADOR.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img4.webp',
@@ -986,7 +986,7 @@ let livro_cw1 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA SORRIDENTE" DE NOVO E DE NOVO, PODEMOS USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA SORRIDENTE 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO.',
+      texto:'EM VEZ DE DIZER "DESENHE UMA CARINHA FELIZ" DE NOVO E DE NOVO, PODEMOS USAR UM LAÇO E DIZER: "DESENHE UMA CARINHA FELIZ 5 VEZES!" O COMPUTADOR VAI FAZER ISSO RAPIDINHO.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/cpsciimageinf/CS1/La%C3%A7os/img5.jpg',
@@ -999,7 +999,7 @@ let livro_cw1 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'OS LAÇOS AJUDAM O COMPUTADOR A SER MAIS RÁPIDO E EFICIENTE. NO FUTURO, QUANDO OS LAÇOS VÃO NOS AJUDAR A FAZER COISAS INCRÍVEIS!',
+      texto:'USANDO LAÇOS, SEUS PROGRAMAS VÃO FICAR MUITO PODEROSOS!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i6-lacos/img5.jpeg',
@@ -1035,7 +1035,7 @@ let livro_cw1 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'O NASCER DO SOL, O ANOITECER E OUTROS EXMPLOS COMO ESSE SÃO EVENTOS QUE OCORREM TODOS OS DIAS EM NOSSAS VIDAS.',
+      texto:'O NASCER DO SOL, O ANOITECER E OUTROS EXEMPLOS COMO ESSE SÃO EVENTOS QUE OCORREM TODOS OS DIAS EM NOSSAS VIDAS.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW1/i7-eventos/img2.webp',
