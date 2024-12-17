@@ -573,7 +573,7 @@ let livro_cw2 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Neste curso, vamos programar diferentes robôs, começando com um robô esfera que se move como o BB-8 de Star Wars.',
+        texto:'Neste curso, vamos programar diferentes robôs, começando com um robô esfera que se move como o BB-8 de <i>Star Wars</i>.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -585,7 +585,7 @@ let livro_cw2 ={
 
         {ordem:10,
         predecessor:9,
-        texto:'Podemos programar o robô esfera para se mover em diferentes velocidades e direções, mudar de cor e muito mais... Bem-vindo ao mundo dos robôs!',
+        texto:'Podemos programar o robô esfera para se mover em diferentes velocidades e direções, mudar de cor e muito mais... <i>Bem-vindo ao mundo dos robôs!</i>',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -641,7 +641,7 @@ let livro_cw2 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Damos o nome de <b>taxiamento</b> ao movimento que aviões fazem no chão, indo dos portões onde os passageiros embarcam até a pista do aeroporto, e vice-versa.',
+        texto:'Damos o nome de <b>taxiamento</b> ao movimento dos aviões no solo, do portão onde os passageiros embarcam até a pista do aeroporto e vice-versa.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -701,7 +701,7 @@ let livro_cw2 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Mas todo invento, por melhor que seja, pode sempre ser melhorado! <i>Que tal criar um taxibot totalmente robotizado, que funcione só com programação</i>?',
+        texto:'Mas todo invento, por melhor que seja, pode sempre ser melhorado! <i>Que tal criar um taxibot totalmente robotizado?',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -727,7 +727,7 @@ let livro_cw2 ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Nesta lição, vamos aprender sobre um poderoso comando dos algoritmos: o <b>laço</b> ou <b>loop</b>, em inglês.',
+        texto:'Nesta aula, vamos aprender sobre um poderoso comando dos algoritmos: o <b>laço</b> ou <b>loop</b>, em inglês.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -763,7 +763,7 @@ let livro_cw2 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Laços são também muito usados, mesmo em algoritmos para orientar pessoas. Professores de educação física, por exemplo, costumam dizer: "repita por 3 vezes, cada exercício acima.".',
+        texto:'Laços são também muito usados, mesmo em algoritmos para orientar pessoas. Professores de educação física, por exemplo, costumam dizer: "repita por 3 vezes, cada exercício acima".',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -775,7 +775,7 @@ let livro_cw2 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'O programa de um videogame de corrida usa laço para fazer o carro dar, por exemplo, 76 voltas na pista.',
+        texto:'O programador de um videogame de corrida pode usar laços para fazer o carro dar muitas voltas na pista.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -787,7 +787,7 @@ let livro_cw2 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Em videogames, enquanto você controla o personagem principal, os demais se movimentam o tempo todo repetindo piruetas, andando ou dançando... com os laços, isso fica fácil!',
+        texto:'Em videogames, enquanto você controla o personagem principal, os demais se movimentam o tempo todo, repetindo piruetas, andando ou dançando... com os laços, isso fica fácil!',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -813,7 +813,7 @@ let livro_cw2 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Usando laços, conseguimos criar programas mais legais, movimentados e divertidos, com muito menos esforço! <i>Prontos para os desafios com laços</i>?',
+        texto:'Usando laços, conseguimos criar programas mais legais, movimentados e divertidos, com muito menos esforço! <i>Pronto para os desafios com laços</i>?',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -833,7 +833,7 @@ let livro_cw2 ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar ou brincar, escolher entre vôlei ou futebol... tudo isso depende de diferentes condições.',
+        texto:'Já percebeu quantas decisões tomamos todos os dias? Decidir qual cor de camisa vestir, estudar ou brincar, escolher entre vôlei ou futebol... tudo isso depende de diferentes <b>condições</b>.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -845,7 +845,7 @@ let livro_cw2 ={
 
         {ordem:2,
         predecessor:1,
-        texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> está chovendo <br/>&nbsp;&nbsp;&nbsp;<b>então</b> leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
+        texto:'Muitas vezes as pessoas nos dão instruções usando condições. Por exemplo: <p><code><b>se</b> estiver chovendo <br/>&nbsp;&nbsp;&nbsp;<b>então</b> leve guarda-chuva<br/>&nbsp;&nbsp;&nbsp;<b>senão</b> não leve guarda-chuva</code> <br/><br/>',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -857,7 +857,7 @@ let livro_cw2 ={
 
         {ordem:3,
         predecessor:2,
-        texto:'Essas condições nos ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;então pare<br/><br/><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;então prossiga</code>',
+        texto:'Essas condições nos ajudam a decidir o que fazer em diferentes situações. Por exemplo, no trânsito: <p><code><b>se</b> o sinal estiver vermelho <br/>&nbsp;&nbsp;&nbsp;<b>então</b> pare<br/><br/><b>se</b> o sinal estiver verde <br/>&nbsp;&nbsp;&nbsp;<b>então</b> prossiga</code>',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -895,7 +895,7 @@ let livro_cw2 ={
 
         {ordem:5,
         predecessor:4,
-        texto:'Em algoritmos, utilizamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/><b>senão</b> <br/>&nbsp;&nbsp;&nbsp;pare</code>',
+        texto:'Em algoritmos, utilizamos os termos <b>se</b>, <b>então</b> e <b>senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;<b>então</b> prossiga<br/><b>se</b> sinal = vermelho <br/>&nbsp;&nbsp;&nbsp;<b>então</b> pare<br/></code>',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -907,7 +907,7 @@ let livro_cw2 ={
 
         {ordem:6,
         predecessor:5,
-        texto:'Para escrever as condições usamos sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
+        texto:'Para escrever as condições usamos sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;<b>então</b> pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;<b>então</b> diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;<b>então</b> coloque combustível</code>',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -939,7 +939,7 @@ let livro_cw2 ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'Para programar movimentos de robôs, precisamos aprender a medir <b>ângulos</b>... e isso pode ser muito divertido! Por isso, nesta lição você vai aprender a usar um transferidor, e a diferenciar entre um giro absoluto e relativo.',
+        texto:'Para programar movimentos de robôs, precisamos aprender a medir <b>ângulos</b>... e isso pode ser muito divertido! Por isso, nesta aula você vai aprender a usar um transferidor, e a diferenciar entre um giro absoluto e relativo.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -975,7 +975,7 @@ let livro_cw2 ={
   
         {ordem:4,
         predecessor:3,
-        texto:'Já um <b>giro relativo</b> é quando você programa o robô para virar, medindo o ângulo a partir da sua última posição.',
+        texto:'Um <b>giro relativo</b> é quando você programa o robô para virar, medindo o ângulo a partir da sua última posição.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1023,7 +1023,7 @@ let livro_cw2 ={
   
         {ordem:8,
         predecessor:7,
-        texto:'d) Se desejar medir o próximo ângulo <b>relativo</b>, antes de medir novamente, gire o transferidor de modo que o 0º esteja no sentido atual do movimento... <p>Agora é sua vez!</p>Com o uso do transferidor, seus programas funcionarão melhor e mais rapidamente.',
+        texto:'d) Se desejar medir o próximo ângulo relativo, antes de medir novamente, gire o transferidor de modo que o 0º esteja no sentido atual do movimento... <p><i>Agora é sua vez! Com o uso do transferidor, seus programas funcionarão melhor e mais rapidamente</i>.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1198,7 +1198,7 @@ let livro_cw2 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'As aplicações digitais que usamos são normalmente orientadas por eventos, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos.',
+        texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -1234,7 +1234,7 @@ let livro_cw2 ={
 
         {ordem:9,
         predecessor:8,
-        texto:'Por exemplo, se um desses dispositivos fica muito quente, ele dispara um evento de alerta... que pode inclusive fazer um programa reagir desligando o computador, como proteção.',
+        texto:'Por exemplo, se um desses dispositivos fica muito quente, ele dispara um evento de alerta, que pode inclusive fazer um programa reagir desligando o computador, como proteção.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1255,7 +1255,7 @@ let livro_cw2 ={
       cenas:[
         {ordem:1,
         predecessor:0,
-        texto:'As <b>redes elétricas</b> obtém sua energia de <b>fontes de energia naturais</b> tais como a força das águas, dos ventos ou do sol... e as transporta até nossas casas por meio de grandes cabos.',
+        texto:'As <b>redes elétricas</b> obtém sua energia de <b>fontes de energia naturais</b> tais como a força das águas, dos ventos ou do sol... e as transporta até nossas casas por meio de grandes <b>cabos</b>.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1292,7 +1292,7 @@ let livro_cw2 ={
 
         {ordem:4,
         predecessor:3,
-        texto:'Afinal, encostar diretamente em um grande cabo transportando muita energia elétrica pode levar até à morte. Jamais toque em tomadas elétricas ou fios elétricos, sem o acompanhamento de um adulto.',
+        texto:'Afinal, encostar diretamente em um grande cabo transportando muita energia elétrica pode levar até à morte. <b>Jamais toque em tomadas elétricas ou fios elétricos sem o acompanhamento de um adulto.</b>',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
@@ -1328,7 +1328,7 @@ let livro_cw2 ={
 
         {ordem:7,
         predecessor:6,
-        texto:'Como o Makey Makey, um dispositivo eletrônico muito criativo, que nos permite utilizar diversos materiais condutores para disparar eventos para nossos programas de computador.',
+        texto:'Como o <b>Makey Makey</b>, um dispositivo eletrônico muito criativo, que nos permite utilizar diversos materiais condutores para disparar eventos para nossos programas de computador.',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:1,
@@ -1340,7 +1340,7 @@ let livro_cw2 ={
 
         {ordem:8,
         predecessor:7,
-        texto:'Com o Makey Makey, um cacho de banana ou uma gelatina podem se tornar um teclado ou um mouse. <i>Vamos testar</i>?',
+        texto:'Com o Makey Makey, um cacho de banana ou uma massinha podem se tornar um teclado ou um mouse. <i>Vamos testar</i>?',
         urlAudioTexto:'',
         textoSimplificado:'',
         textoImpresso:0,
