@@ -72,7 +72,7 @@ let livro_cw2 ={
     descricao:'Nesta unidade, após sermos apresentados ao computador e dispositivos computacionais como os robôs, daremos nossos primeiros passos em programação.<p>Aprenderemos o que são os algoritmos e, através de desafios práticos e divertidos, vamos desenvolver habilidades do pensamento computacional, muito importantes para nos ajudar a resolver problemas do mundo moderno.',
     licao1:{
       id:'CW2AULA01CODE',
-      infografico:{titulo:'Lição 01. Computador e Dispositivos Computacionais',
+      infografico:{titulo:'Lição 01. Dispositivos Computacionais',
       tituloSimplificado:'O Computador',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U1L1',
@@ -202,7 +202,7 @@ let livro_cw2 ={
 
     licao2:{
       id:'CW2AULA02CODE',
-      infografico:{titulo:'Lição 02. Explorando a Eletricidade e Seus Segredos',
+      infografico:{titulo:'Lição 02. A Eletricidade e Seus Segredos',
       tituloSimplificado:'Eletricidade',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U1L2',
@@ -362,8 +362,8 @@ let livro_cw2 ={
 
     licao4:{
       id:'CW2AULA04CODE',
-      infografico:{titulo:'Lição 04. Algoritmos no Nosso Dia a Dia',
-      tituloSimplificado:'Algoritmos',
+      infografico:{titulo:'Lição 04. Algoritmo, Identificação de Padrões e Sequência',
+      tituloSimplificado:'Algoritmo',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U1L4',
       cenas:[
@@ -469,8 +469,8 @@ let livro_cw2 ={
 
     licao5:{
       id:'CW2AULA05CODE',
-      infografico:{titulo:'Lição 05. Robótica com o Robô Esfera',
-      tituloSimplificado:'Robô Esfera',
+      infografico:{titulo:'Lição 05. Robótica',
+      tituloSimplificado:'Robôs',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U1L5',
       cenas:[
@@ -720,8 +720,8 @@ let livro_cw2 ={
     descricao:'Nesta unidade, aprenderemos mais sobre algoritmos, entendendo o que são laços e expressões condicionais, utilizando esses conceitos para resolver desafios lógicos de programação e robótica.<p>Aprenderemos também o conceito de programação dirigida por eventos, explorando o uso da eletricidade para programar inventos criativos, que usam materiais condutores conectados ao computador.',
     licao8:{
       id:'CW2AULA08CODE',
-      infografico:{titulo:'Lição 08. Laço em Algoritmos',
-      tituloSimplificado:'Laço',
+      infografico:{titulo:'Lição 08. Laços',
+      tituloSimplificado:'Laços',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U2L8',
       cenas:[
@@ -826,7 +826,7 @@ let livro_cw2 ={
 
     licao9:{
       id:'CW2AULA09CODE',
-      infografico:{titulo:'Lição 09. Expressão Condicional: Se, Senão, Se senão',
+      infografico:{titulo:'Lição 09. Expressões Condicionais',
       tituloSimplificado:'Expressão Condicional',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U2L9',
@@ -933,7 +933,7 @@ let livro_cw2 ={
     licao10:{
       id:'CW2AULA10CODE',
       infografico:{titulo:'Lição 10. Formas Geométricas com Robôs',
-      tituloSimplificado:'Transferidor com Robôs',
+      tituloSimplificado:'Uso do Transferidor com Robôs',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U2L10',
       cenas:[
@@ -1451,7 +1451,7 @@ let livro_cw2 ={
       
     licao16:{
       id:'CW2AULA16CODE',
-      infografico:{titulo:'Lição 16. Sensores e os Sentidos Humanos',
+      infografico:{titulo:'Lição 16. Sensores e Órgãos do Sentido',
       tituloSimplificado:'Sensores',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U3L16',
@@ -1583,7 +1583,7 @@ let livro_cw2 ={
 
     licao17:{
       id:'CW2AULA17CODE',
-      infografico:{titulo:'Lição 17. O Carro: Passado e Futuro',
+      infografico:{titulo:'Lição 17. Carro: Passado e Futuro',
       tituloSimplificado:'O Carro',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U3L17',
@@ -1783,8 +1783,8 @@ let livro_cw2 ={
     licao20:{
       id:'CW2AULA20CODE',
       //TODO Verificar com Alvim a adequação desse infográfico à lição
-      infografico:{titulo:'Lição 20. Busca e Privacidade',
-      tituloSimplificado:'Busca e Privacidade',
+      infografico:{titulo:'Lição 20. Navegação e Comunicação Segura',
+      tituloSimplificado:'Navegação Segura',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U3L20',
       cenas:[
@@ -1921,7 +1921,7 @@ let livro_cw2 ={
     descricao:'Nesta unidade, vamos nos aventurar pelo mundo da animação, conhecendo e reproduzindo os primeiros inventos de animação da história, e evoluindo nosso entendimento até as animações digitais dos dias de hoje.<p>E, finalmente, vamos aprender a programar nossas próprias animações digitais utilizando o "Laboratório de Histórias", soltando a criatividade e usando todos os fundamentos de programação aprendidos.',
     licao22:{
       id:'CW2AULA22CODE',
-      infografico:{titulo:'Lição 22. Animações do Analógico ao Digital',
+      infografico:{titulo:'Lição 22. Os Primórdios da Animação',
       tituloSimplificado:'Animações',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U4L22',
@@ -2234,7 +2234,7 @@ let livro_cw2 ={
 
     licao27:{
       id:'CW2AULA27CODE',
-      infografico:{titulo:'Lição 27. Missão Criativa: História em Quadrinho Animada',
+      infografico:{titulo:'Lição 27. Missão Criativa: História em Quadrinhos Animada',
       tituloSimplificado:'Missão Criativa',
       estiloPadrao:'basicoPaisagem',
       video:'https://mindmakers.cc/link?url=cw2U4L27',
