@@ -9,26 +9,204 @@ let livro_cw6 ={
    nomeTecnicoEn: "CW6e",
   resumoEn: "Module suitable for Elementary School - Upper Grades, as a continuation of the CW5 or CWX module. It covers new programming resources as well as computer networks and the functioning of the internet through fun practices of simulating the 'delivery of digital messages.' This module also continues to address new computer science concepts related to computer programming, electronics, the Internet of Things, and digital creativity, developing Computational Thinking techniques and skills for problem-solving, such as decomposition, pattern recognition, abstraction, algorithms, and data analysis.",
   resumoCapaEn: "Music has been transformed by computing. Editing software and digital synthesizers facilitate music creation, and streaming platforms provide access to vast music libraries.", 
+  
   isbn:'',
-  autores:[],
-  editor:'',
+  autores:['Paulo Alvim, Miguel Mendonça de Goffredo'],
+  editor:'Anderson Borges, Fernanda Oliveira',
   local:'',
-  ano:'',
-
-  versaoAdaptacao:'',
-  nomeAdaptacaoo: '',
-  autoresAdaptacao:[],
-  local:'',
-  escola:'',
-  ano:'',
+  ano:'2025',
   url:'',
-  codigoCid11:'', /* opc */
-  descritivoPerfilAluno:'',
-  resumoAdaptacao:'',
+  capa:{
+		urlImagemCapa:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/cw6_frente.png',
+		urlImagemSegundaCapa:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/cw6_verso.png',
+    urlImagemCapaEn:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/cw6e%20-%20frente.png',
+		urlImagemSegundaCapaEn:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/cw6e%20-%20verso.png',},
 
-  capaVerso:{
-		urlImagemTerceiraCapa:'',
-    textoTerceiraCapa: '',
-    textoUltimaCapa: 'Marilyn Wescoff foi uma das seis programadoras originais do ENIAC, o primeiro computador eletrônico digital de propósito geral.'
-  },
+  formularioRegistro:{
+    titulo:'',
+    urlImagem:'',
+    campos:[{rotulo:'Login Somos:',formato:'usuarioAcessivel'},{rotulo:'Senha:',formato:'senhaAcessivel'}]},
+
+  /*visaogeral:{
+    titulo:'',
+    descricao:'',
+    licao1:{id:'',
+    infografico:{titulo:'',
+    tituloSimplificado:'',
+    estiloPadrao:'basicoPaisagem',
+    video:'',
+      cenas:[				
+        {ordem:1,
+        predecessor:0,
+        texto:'',
+        urlAudioTexto:'',
+        textoSimplificado:'',
+        urlImagem:'',
+        textoImpresso:0,
+        textoImpressoRecriado:'',
+        promptImagem:'',
+        imagemImpresso:0,
+        imagemFonte:'',
+        textoDescritivoImagem:'',},
+        ]}},
+        },*/
+      
+  unidade1:{
+    titulo:'',
+    descricao:'',
+    licao1:{id:'',
+    infografico:{titulo:'',
+    tituloSimplificado:'',
+    estiloPadrao:'basicoPaisagem',
+    video:'',
+    cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'',
+      imagemImpresso:1,
+      imagemFonte:'',
+      textoDescritivoImagem:'',},
+      ]}},
+        
+    licao2:{},
+    
+    licao3:{},
+
+    licao4:{},
+
+    licao5:{},
+
+    licao6:{},
+
+    licao7:{},          
+    
+    },
+
+  unidade2:{
+    titulo:'',
+    descricao:'',
+    licao8:{id:'',
+    infografico:{titulo:'',
+    tituloSimplificado:'',
+    estiloPadrao:'basicoPaisagem',
+    video:'',
+    cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'',
+      imagemImpresso:1,
+      imagemFonte:'',
+      textoDescritivoImagem:'',},
+      ]}},
+          
+    licao9:{},
+    
+    licao10:{},
+  
+    licao11:{},
+  
+    licao12:{},
+  
+    licao13:{},
+  
+    licao14:{},          
+      
+    },
+
+  unidade3:{
+    titulo:'',
+    descricao:'',
+    licao15:{id:'',
+    infografico:{titulo:'',
+    tituloSimplificado:'',
+    estiloPadrao:'basicoPaisagem',
+    video:'',
+    cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'',
+      imagemImpresso:1,
+      imagemFonte:'',
+      textoDescritivoImagem:'',},
+      ]}},
+          
+    licao16:{},
+      
+    licao17:{},
+  
+    licao18:{},
+  
+    licao19:{},
+  
+    licao20:{},
+  
+    licao21:{},          
+      
+    },
+    
+  unidade4:{
+    titulo:'',
+    descricao:'',
+    licao22:{id:'',
+    infografico:{titulo:'',
+    tituloSimplificado:'',
+    estiloPadrao:'basicoPaisagem',
+    video:'',
+    cenas:[				
+      {ordem:1,
+      predecessor:0,
+      texto:'',
+      urlAudioTexto:'',
+      textoSimplificado:'',
+      urlImagem:'',
+      textoImpresso:1,
+      textoImpressoRecriado:'',
+      promptImagem:'',
+      imagemImpresso:1,
+      imagemFonte:'',
+      textoDescritivoImagem:'',},
+      ]}},
+          
+    licao23:{},
+      
+    licao24:{},
+  
+    licao25:{},
+  
+    licao26:{},
+  
+    licao27:{},
+  
+    licao28:{},          
+      
+    },
+      
+      /*
+      glossarioBilingue:{  }
+      */
+    
+      capaVerso:{
+        urlImagemTerceiraCapa:'',
+        textoTerceiraCapa:``,
+    
+        textoUltimaCapa: ``
+        },
 }
