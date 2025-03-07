@@ -113,7 +113,7 @@ let livro_cw3 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Usamos o <b>maior que (>)</b> para comparar se um número é maior que outro. Por exemplo: <code><b>se</b> 130 > 120 <br/>&nbsp;&nbsp;<b>então</b> mova</code> Como 130 é maior que 120, o comando "mova" é executado.',
+      texto:'Usamos o <b>maior que (>)</b> para comparar se um número é maior que outro. Por exemplo: <code><b>se</b> 130 > 120 <br/>&nbsp;&nbsp;<b>então</b> mova</code> Como 130 é maior que 120, o comando <b>mova</b> é executado.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/L1_4.png',
@@ -199,7 +199,7 @@ let livro_cw3 ={
     cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Hoje vamos aprender um novo tipo de laço muito importante na programação: o laço "repita enquanto". Esse comando é usado quando não sabemos, com antecedência, quantas vezes o laço precisa ser repetido.',
+      texto:'Hoje vamos aprender um novo tipo de laço muito importante na programação: o laço <b>repita enquanto</b>. Esse comando é usado quando não sabemos, com antecedência, quantas vezes o laço precisa ser repetido.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_1.png',
@@ -277,7 +277,7 @@ let livro_cw3 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'Agora é a sua vez! Use o "repita enquanto" para resolver desafios que não podem ser resolvidos com o laço "repita N vezes".',
+      texto:'Agora é a sua vez! Use o <b>repita enquanto</b> para resolver desafios que não podem ser resolvidos com o laço <b>repita N vezes</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_8.png',
@@ -297,7 +297,7 @@ let livro_cw3 ={
     cenas:[				
       {ordem:1,
       predecessor:0,
-      texto:'Hoje vamos conhecer outro tipo de laço muito útil na programação: o laço "repita até". Assim como o laço “repita enquanto”, o laço “repita até” também é usado quando não sabemos, com antecedência, quantas vezes o laço será repetido.',
+      texto:'Hoje vamos conhecer outro tipo de laço muito útil na programação: o laço <b>repita até</b>. Assim como o laço <b>repita enquanto</b>, o laço <b>repita até</b> também é usado quando não sabemos, com antecedência, quantas vezes o laço será repetido.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_1.png',
@@ -362,7 +362,7 @@ let livro_cw3 ={
         
       {ordem:6,
       predecessor:5,
-      texto:'Agora, vamos comparar com o exemplo do barco enchendo de água. Usando o laço "repita enquanto": <code><b>repita enquanto</b> houver água no barco <br/>&nbsp;&nbspretire um balde de água</code>',
+      texto:'Agora, vamos comparar com o exemplo do barco enchendo de água. Usando o laço <b>repita enquanto</b>: <code><b>repita enquanto</b> houver água no barco <br/>&nbsp;&nbspretire um balde de água</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_4.png',
@@ -388,7 +388,7 @@ let livro_cw3 ={
         
       {ordem:8,
       predecessor:7,
-      texto:'Usando o laço "repita até", poderíamos reescrevê-lo assim: <code><b>repita até</b> o barco estar seco <br/>&nbsp;&nbspretire um balde de água</code>',
+      texto:'Usando o laço <b>repita até</b>, poderíamos reescrevê-lo assim: <code><b>repita até</b> o barco estar seco <br/>&nbsp;&nbspretire um balde de água</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_9.png',
@@ -447,7 +447,7 @@ let livro_cw3 ={
         
       {ordem:3,
       predecessor:2,
-      texto:'Quando muitas pessoas saem de um lugar e vão para outro, chamamos isso de Êxodo, que significa "saída" ou "mudança de lugar".',
+      texto:'Quando muitas pessoas saem de um lugar e vão para outro, chamamos isso de Êxodo, que significa <b>saída</b> ou <b>mudança de lugar</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L4/L4_3.png',
@@ -919,7 +919,7 @@ let livro_cw3 ={
        
       {ordem:8,
       predecessor:7,
-      texto:'Agora, vamos ver como uma palavra inteira é transformada em código binário! A palavra "casa" vira: <code>01100011 01100001 01110011 01100001</code>',
+      texto:'Agora, vamos ver como uma palavra inteira é transformada em código binário! A palavra <b>casa</b> vira: <code>01100011 01100001 01110011 01100001</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i19%20-%20Sistema%20Bin%C3%A1rio%20-%20Letras/slide%205.png',
@@ -978,7 +978,7 @@ let livro_cw3 ={
         
       {ordem:2,
       predecessor:1,
-      texto:'Um <b>navegador</b> (ou "browser") é um programa que usamos para acessar a internet. Com ele, podemos visitar sites, assistir vídeos, ler notícias e muitas outras coisas.',
+      texto:'Um <b>navegador</b> (ou browser) é um programa que usamos para acessar a internet. Com ele, podemos visitar sites, assistir vídeos, ler notícias e muitas outras coisas.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
@@ -1004,7 +1004,7 @@ let livro_cw3 ={
         
       {ordem:4,
       predecessor:3,
-      texto:'Para fazer uma busca, basta digitar o que você quer saber e clicar em "buscar". Em poucos segundos, aparecem vários sites relacionados ao tema.',
+      texto:'Para fazer uma busca, basta digitar o que você quer saber e clicar em <b>buscar</b>. Em poucos segundos, aparecem vários sites relacionados ao tema.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'',
