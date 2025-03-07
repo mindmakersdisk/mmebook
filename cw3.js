@@ -257,7 +257,7 @@ let livro_cw3 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_5.png',
       textoImpresso:1,
       textoImpressoRecriado:'',
-      promptImagem:'gere uma imagem realista d euma tela de computador. Na tela, aparece um cenário de videogame, com um personagem que precisa coletar moedas, que estão espalhadas pelo mapa',
+      promptImagem:'gere uma imagem realista de uma tela de computador. Na tela, aparece um cenário de videogame, com um personagem que precisa coletar moedas, que estão espalhadas pelo mapa',
       imagemImpresso:1,
       imagemFonte:'cogna ia',
       textoDescritivoImagem:'',},
@@ -285,7 +285,7 @@ let livro_cw3 ={
       textoImpressoRecriado:'',
       promptImagem:'',
       imagemImpresso:1,
-      imagemFonte:'print',
+      imagemFonte:'produção interna',
       textoDescritivoImagem:'',},
       ]}},
     
