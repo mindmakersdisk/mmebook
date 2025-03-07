@@ -67,8 +67,8 @@ let livro_cw3 ={
     titulo:'',
     descricao:'',
     licao1:{id:'CW3AULA01',
-    infografico:{titulo:'Lição 01. Comparando Valores com Operadores Relacionais',
-    tituloSimplificado:'Operadores Relacionais',
+    infografico:{titulo:'Lição 01. Expressões Relacionais',
+    tituloSimplificado:'Expressões Relacionais',
     estiloPadrao:'basicoPaisagem',
     video:'',
     cenas:[				
@@ -87,7 +87,7 @@ let livro_cw3 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Após o “se”, podemos comparar valores com operadores relacionais, usando sinais matemáticos como: <b>Igual (=)</b> → Verifica se dois valores são iguais. <br/><b>Menor que (<)</b> → Verifica se um valor é menor que o outro. <br/><b>Maior que (>)</b> → Verifica se um valor é maior que o outro. <br/><b>Menor ou igual a (<=)</b> → Verifica se um valor é menor ou igual ao outro. <br/><b>Maior ou igual a (>=)</b> → Verifica se um valor é maior ou igual ao outro. <br/><b>Diferente de (≠)</b> → Verifica se dois valores são diferentes.',
+      texto:'Após o “se”, podemos comparar valores com operadores relacionais, usando sinais matemáticos como: <br><b>Igual (=)</b> → Verifica se dois valores são iguais. <br/><b>Menor que (<)</b> → Verifica se um valor é menor que o outro. <br/><b>Maior que (>)</b> → Verifica se um valor é maior que o outro. <br/><b>Menor ou igual a (<=)</b> → Verifica se um valor é menor ou igual ao outro. <br/><b>Maior ou igual a (>=)</b> → Verifica se um valor é maior ou igual ao outro. <br/><b>Diferente de (≠)</b> → Verifica se dois valores são diferentes.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/L1_2.png',
@@ -113,7 +113,7 @@ let livro_cw3 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Usamos o “maior que” (>) para comparar se um número é maior que outro. Por exemplo: <code><b>se</b> 130 > 120 <br/>&nbsp;&nbsp;<b>então</b> mova</code> Como 130 é maior que 120, o comando "mova" é executado.',
+      texto:'Usamos o <b>maior que (>)</b> para comparar se um número é maior que outro. Por exemplo: <code><b>se</b> 130 > 120 <br/>&nbsp;&nbsp;<b>então</b> mova</code> Como 130 é maior que 120, o comando "mova" é executado.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/L1_4.png',
@@ -126,7 +126,7 @@ let livro_cw3 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Esse teste condicional pode ser usado para ver se uma criança pode entrar na roda gigante: <code><b>se</b> altura > 120 cm <br/>&nbsp;&nbsp;<b>então</b> suba na roda gigante <br/>&nbsp;&nbsp;<b>senão</b> não suba na roda gigante</code> Se a altura for 110 cm, o programa diz que não pode subir, porque 110 não é maior que 120.',
+      texto:'Esse teste condicional pode ser usado para ver se uma criança pode entrar na roda gigante: <code><b>se</b> altura > 120 cm <br/>&nbsp;&nbsp;<b>então</b> suba na roda gigante <br/>&nbsp;&nbsp;</code> Se a altura for 110 cm, por exemplo, a criança não poderá subir.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/img5.png',
@@ -139,7 +139,7 @@ let livro_cw3 ={
 
       {ordem:6,
       predecessor:5,
-      texto:'Usamos o “menor que” (<) para comparar se um número é menor que outro. Por exemplo: <code><b>se</b> nota < 60 <br/>&nbsp;&nbsp;<b>então</b> reprovar aluno na matéria <br/>&nbsp;&nbsp;<b>senão</b> aprovar aluno na matéria</code>',
+      texto:'Usamos o <b>menor que (<)</b> para comparar se um número é menor que outro. Por exemplo: <code><b>se</b> nota < 60 <br/>&nbsp;&nbsp;<b>então</b> reprovar aluno na matéria <br/>&nbsp;&nbsp;<b>senão</b> aprovar aluno na matéria</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/L1_6.png',
@@ -152,7 +152,7 @@ let livro_cw3 ={
 
       {ordem:7,
       predecessor:6,
-      texto:'Além dos sinais "=", ">" e "<", também podemos usar os operadores "maior ou igual a" (>=) e "menor ou igual a" (<=). <code><b>se</b> velocidade <= 80 km/h <br/>&nbsp;&nbsp;<b>então</b> não multar motorista <br/>&nbsp;&nbsp;<b>senão</b> multar motorista</code>Nesse caso, se a velocidade for maior que 80 (por exemplo, 81), então o motorista é multado.',
+      texto:'Além dos sinais <b>=</b>, <b>></b> e <b><</b>, também podemos usar os operadores <b>maior ou igual a (>=)</b> e <b>menor ou igual a (<=)</b>. <code><b>se</b> velocidade <= 80 km/h <br/>&nbsp;&nbsp;<b>então</b> não multar motorista <br/>&nbsp;&nbsp;<b>senão</b> multar motorista</code>Nesse caso, se a velocidade for maior que 80 km/h (por exemplo, 81 km/h), então o motorista é multado.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/img7.png',
@@ -165,7 +165,7 @@ let livro_cw3 ={
 
       {ordem:8,
       predecessor:7,
-      texto:'Também podemos usar o operador “diferente de” (≠) para comparar valores. Veja o exemplo: <code><b>se</b> senha digitada ≠ senha correta <br/>&nbsp;&nbsp<b>então</b> exiba "Senha incorreta! Tente novamente."',
+      texto:'Também podemos usar o operador <b>diferente de (≠)</b> para comparar valores. Veja o exemplo: <code><b>se</b> senha digitada ≠ senha correta <br/>&nbsp;&nbsp<b>então</b> exiba "Senha incorreta! Tente novamente."',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/L1_8.png',
@@ -212,7 +212,7 @@ let livro_cw3 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Imaginem um barco que está afundando porque tem um furo no casco e está enchendo de água. O comandante precisa instruir seu ajudante a tirar a água com um balde para evitar que o barco afunde.',
+      texto:'Imaginem uma canoa que está afundando porque tem um furo no casco e está enchendo de água. O canoeiro precisa instruir seu ajudante a tirar a água com um balde para evitar que a canoa afunde.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_32.png',
@@ -225,7 +225,7 @@ let livro_cw3 ={
 
       {ordem:3,
       predecessor:2,
-      texto:'Mas ele não sabe quantos baldes de água serão necessários para esvaziar o barco. Então, ele daria uma instrução como: "Enquanto houver água no barco, retire a água com este balde."',
+      texto:'Mas ele não sabe quantos baldes de água serão necessários. Então, ele daria uma instrução como: "Enquanto houver água na canoa, retire a água com este balde."',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_3.png',
