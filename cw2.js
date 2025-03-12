@@ -393,7 +393,7 @@ let livro_cw2 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i4%20-%20Algoritmos%20do%20Nosso%20Dia%20a%20dia/slide%204.png',
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i4%20-%20Algoritmos%20do%20Nosso%20Dia%20a%20dia/i4-slide%204.png',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -575,7 +575,7 @@ let livro_cw2 ={
           textoSimplificado:'',
           textoImpresso:1,
           imagemImpresso:1,
-          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i5%20-%20Rob%C3%B3tica%20com%20o%20Rob%C3%B4%20Esfera/slide%2011.jpg',
+          urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i5%20-%20Rob%C3%B3tica%20com%20o%20Rob%C3%B4%20Esfera/i5-slide%2011.jpg',
           promptImagem:'', 
           imagemFonte:'',
           textoDescritivoImagem:'',},
@@ -773,7 +773,7 @@ let livro_cw2 ={
 
           {ordem:5,
           predecessor:4,
-          texto:'O programa de um videogame de corrida usa laço para fazer o carro dar, por exemplo, 76 voltas na pista.',
+          texto:'O programador de um videogame de corrida pode usar laço para fazer o carro dar muitas voltas na pista.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -895,7 +895,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Em algoritmos, utilizamos os termos <b>Se</b>, <b>Então</b> e <b>Senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;então prossiga<br/><b>senão</b> <br/>&nbsp;&nbsp;&nbsp;pare</code>',
+          texto:'Em algoritmos, utilizamos os termos <b>se</b>, <b>então</b> e <b>senão</b> para expressar condicionais que uma pessoa ou uma máquina deverão obedecer. A isso chamamos <b>expressão condicional</b>. Veja um exemplo: <p><code><b>se</b> sinal = verde <br/>&nbsp;&nbsp;&nbsp;<b>então</b> prossiga<br/><b>senão</b> <br/>&nbsp;&nbsp;&nbsp;pare</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -907,7 +907,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'Para escrever as condições usamos sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;então pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;então diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;então coloque combustível</code>',
+          texto:'Para escrever as condições usamos sinais matemáticos como <b>igual (=)</b>, <b>maior que (>)</b> e <b>menor que (<)</b>: <p><code><b>se</b> local atual = centro <br/>&nbsp;&nbsp;&nbsp;<b>então</b> pare <br/><b>se</b> velocidade do carro > 80 km <br/>&nbsp;&nbsp;&nbsp;<b>então</b> diminua a velocidade <br/><b>se</b> combustível do carro < 2 litros <br/>&nbsp;&nbsp;&nbsp;<b>então</b> coloque combustível</code>',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1216,7 +1216,7 @@ let livro_cw2 ={
 
           {ordem:7,
           predecessor:6,
-          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos sempre que apertamos uma tecla, clicamos no mouse ou mexemos com um joystick.',
+          texto:'As aplicações digitais que usamos são normalmente <b>orientadas por eventos</b>, como os sites, jogos e apps de redes sociais, porque estão sempre reagindo aos nossos eventos.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1364,7 +1364,7 @@ let livro_cw2 ={
 
           {ordem:8,
           predecessor:7,
-          texto:'Com o Makey Makey, um cacho de banana ou uma gelatina podem se tornar um teclado ou um mouse. <i>Vamos testar</i>?',
+          texto:'Com o Makey Makey, um cacho de banana ou uma massinha podem se tornar um teclado ou um mouse. <i>Vamos testar</i>?',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1650,7 +1650,7 @@ let livro_cw2 ={
 
           {ordem:3,
           predecessor:2,
-          texto:'Nos últimos anos, os fabricantes vem criando carros mais seguros, velozes e econômicos, e menos poluentes.',
+          texto:'Nos últimos anos, os fabricantes vem criando carros mais seguros, velozes e econômicos... e menos poluentes.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1686,7 +1686,7 @@ let livro_cw2 ={
 
           {ordem:6,
           predecessor:5,
-          texto:'Eles ainda são caros mas, como aprendemos com a história, devem ficar cada vez mais e mais baratos... e presentes em nosso dia a dia.',
+          texto:'Eles ainda são caros mas, como aprendemos com a história, devem ficar cada vez mais baratos e presentes em nosso dia a dia.',
           urlAudioTexto:'',
           textoSimplificado:'',
           textoImpresso:1,
@@ -1864,7 +1864,7 @@ let livro_cw2 ={
             textoSimplificado:'',
             textoImpresso:1,
             imagemImpresso:1,
-            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/slide%203.webp',
+            urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW2/i20%20-%20Busca%20e%20Privacidade/i20-slide%203.webp',
             promptImagem:'', 
             imagemFonte:'',
             textoDescritivoImagem:'',},
@@ -1919,7 +1919,7 @@ let livro_cw2 ={
     
             {ordem:8,
             predecessor:7,
-            texto:'Devemos também evitar sites estranhos, desconhecidos ou que oferecem coisas boas demais para ser verdade. Eles tentam nos fazer baixar e instalar programas ruins, que podem roubar nossos dados e causar danos ao computador.<p>Se algo parecer suspeito enquanto navega pela internet, fale sempre com algum adulto de confiança!</p>',
+            texto:'Devemos também evitar sites estranhos, desconhecidos ou que oferecem coisas boas demais para ser verdade. Eles tentam nos fazer baixar e instalar programas ruins, que podem roubar nossos dados e causar danos ao computador.',
             urlAudioTexto:'',
             textoSimplificado:'',
             textoImpresso:1,
