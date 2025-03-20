@@ -841,7 +841,7 @@ let livro_cw3 ={
         
       {ordem:2,
       predecessor:1,
-      texto:'Mas você sabia que, para entender tudo isso, eles usam apenas dois dígitos? Os computadores funcionam com o formato digital, que usa apenas os dígitos 0 e 1.',
+      texto:'Mas você sabia que, para entender tudo isso, eles usam apenas dois dígitos? Os computadores funcionam com o formato digital, que usa apenas os dígitos 0 e 1, e cada um desses dígitos é chamado de <b>bit</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L9/L9_3.png',
@@ -854,7 +854,7 @@ let livro_cw3 ={
         
       {ordem:3,
       predecessor:2,
-      texto:'Isso acontece porque os computadores trabalham com eletricidade, e esses dois dígitos representam sinais elétricos: <br/>&nbsp;&nbsp1 – Ligado <br/>&nbsp;&nbsp0 – Desligado',
+      texto:'Isso acontece porque os computadores trabalham com eletricidade, e esses dois dígitos, ou bits, representam sinais elétricos: <br><br/>&nbsp;&nbsp1 – Ligado <br/>&nbsp;&nbsp0 – Desligado',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L9/L9_4.png',
@@ -880,7 +880,7 @@ let livro_cw3 ={
         
       {ordem:5,
       predecessor:4,
-      texto:'Para transformar letras em 0s e 1s, os computadores usam uma tabela chamada ASCII.',
+      texto:'Para transformar letras em zeros e uns, os computadores usam uma tabela chamada ASCII.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i19%20-%20Sistema%20Bin%C3%A1rio%20-%20Letras/slide%203.jpg',
@@ -893,7 +893,7 @@ let livro_cw3 ={
         
       {ordem:6,
       predecessor:5,
-      texto:'Cada letra tem um código especial na tabela ASCII. Esse código é formado por oito dígitos binários (bits), sempre usando apenas 0s e 1s.',
+      texto:'Cada letra tem um código especial na tabela ASCII. Esse código é formado por oito bits.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L9/L9_6.png',
@@ -906,7 +906,7 @@ let livro_cw3 ={
         
       {ordem:7,
       predecessor:6,
-      texto:'Por exemplo, veja como o computador armazena algumas letras: <br/>&nbsp;&nbspA → 01000001 <br/>&nbsp;&nbspC → 01000011 <br/>&nbsp;&nbspS → 01010011 ',
+      texto:'Por exemplo, veja como o computador armazena algumas letras: <br><br/>&nbsp;&nbspA → 01000001 <br/>&nbsp;&nbspC → 01000011 <br/>&nbsp;&nbspS → 01010011 ',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i19%20-%20Sistema%20Bin%C3%A1rio%20-%20Letras/slide%204.png',
@@ -932,7 +932,7 @@ let livro_cw3 ={
         
       {ordem:9,
       predecessor:8,
-      texto:'Cada conjunto de oito dígitos binários representa uma letra.',
+      texto:'Cada conjunto de oito bits representa uma letra e é chamado de <b>byte</b>. Um byte, portanto, é formado por oito bits.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L9/L9_9.png',
@@ -945,7 +945,7 @@ let livro_cw3 ={
         
       {ordem:10,
       predecessor:9,
-      texto:'Agora é sua vez de escrever nomes em binário para desvendar esse código misterioso por trás dos computadores!',
+      texto:'Agora é sua vez! <i>Vamos escrever palavras como os computadores, em código binário?</i>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CWX/i19%20-%20Sistema%20Bin%C3%A1rio%20-%20Letras/slide%202.webp',
@@ -1219,7 +1219,7 @@ let livro_cw3 ={
       ]}},
   
     licao12:{id:'CW3AULA12',
-    infografico:{titulo:'Lição 12. A Revolução da Internet das Coisas',
+    infografico:{titulo:'Lição 12. A Internet das Coisas',
     tituloSimplificado:'',
     estiloPadrao:'basicoPaisagem',
     video:'',
@@ -1265,7 +1265,7 @@ let livro_cw3 ={
         
       {ordem:4,
       predecessor:3,
-      texto:'Essa é a ideia da Internet das Coisas, abreviada como IdC ou IoT (do inglês, Internet of Things). Como a Internet das Coisas funciona?',
+      texto:'Essa é a ideia da Internet das Coisas, abreviada como IdC ou IoT (do inglês, <i>Internet of Things</i>).',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L12/L12_4.png',
@@ -1278,7 +1278,7 @@ let livro_cw3 ={
         
       {ordem:5,
       predecessor:4,
-      texto:'Vocês já viram luzes que acendem sozinhas quando alguém passa? Isso acontece porque elas têm sensores próximos, conectados a elas.',
+      texto:' Como a Internet das Coisas funciona?<br><br> Vocês já viram luzes que acendem sozinhas quando alguém passa? Isso acontece porque elas têm sensores próximos, conectados a elas.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L12/L12_5.png',
@@ -1304,7 +1304,7 @@ let livro_cw3 ={
         
       {ordem:7,
       predecessor:6,
-      texto:'Se tudo estivesse conectado, os aparelhos da casa inteira poderiam saber quando uma pessoa chega e se preparar para recebê-la! 1. O sensor de presença detecta e avisa os aparelhos que alguém chegou. ',
+      texto:'Se tudo estivesse conectado, os aparelhos da casa inteira poderiam saber quando uma pessoa chega e se preparar para recebê-la!<br><br>1. O sensor de presença detecta e avisa os aparelhos que alguém chegou. ',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L12/L12_7.png',
@@ -1343,7 +1343,7 @@ let livro_cw3 ={
       
       {ordem:10,
       predecessor:9,
-      texto:'4. E um robô pode abrir a porta e até trazer seu lanche!',
+      texto:'4. E, em um futuro breve, um robô pode abrir a porta e até trazer seu lanche!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L12/L12_10.png',
