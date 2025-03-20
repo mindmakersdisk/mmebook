@@ -2041,7 +2041,7 @@ let livro_cw3 ={
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L18/L18_7.png',
       textoImpresso:1,
       textoImpressoRecriado:'',
-      promptImagem:'gere uma imagem realista de uma desenhista jovem, criando na tela do computador um cenário em 3D',
+      promptImagem:'gere uma imagem realista de uma jovem, programando um computador em liguagem de blocos. Ao lado d aprogramação, pode-se ver um cubo 3D sendo formado por meio da programação',
       imagemImpresso:1,
       imagemFonte:'cogna ia',
       textoDescritivoImagem:'',},
