@@ -87,7 +87,7 @@ let livro_cw3 ={
 
       {ordem:2,
       predecessor:1,
-      texto:'Após o “se”, podemos comparar valores com operadores relacionais, usando sinais matemáticos como: <br><b>Igual (=)</b> → Verifica se dois valores são iguais. <br/><b>Menor que (<)</b> → Verifica se um valor é menor que o outro. <br/><b>Maior que (>)</b> → Verifica se um valor é maior que o outro. <br/><b>Menor ou igual a (<=)</b> → Verifica se um valor é menor ou igual ao outro. <br/><b>Maior ou igual a (>=)</b> → Verifica se um valor é maior ou igual ao outro. <br/><b>Diferente de (≠)</b> → Verifica se dois valores são diferentes.',
+      texto:'Após o <b>se</b>, podemos comparar valores com <b>operadores relacionais</b>, usando sinais matemáticos como: <br><br><b>Igual (=)</b> → Verifica se dois valores são iguais. <br/><b>Menor que (<)</b> → Verifica se um valor é menor que o outro. <br/><b>Maior que (>)</b> → Verifica se um valor é maior que o outro. <br/><b>Menor ou igual a (<=)</b> → Verifica se um valor é menor ou igual ao outro. <br/><b>Maior ou igual a (>=)</b> → Verifica se um valor é maior ou igual ao outro. <br/><b>Diferente de (≠)</b> → Verifica se dois valores são diferentes.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L1/L1_2.png',
@@ -238,7 +238,7 @@ let livro_cw3 ={
 
       {ordem:4,
       predecessor:3,
-      texto:'Em um programa de computador, esse comando poderia ser escrito assim: <code><b>repita enquanto</b> houver água no barco <br/>&nbsp;&nbspretire um balde de água</code>',
+      texto:'Em um programa de computador, esse comando poderia ser escrito assim: <code><b>repita enquanto</b> houver água na canoa <br/>&nbsp;&nbspretire um balde de água</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_4.png',
@@ -336,7 +336,7 @@ let livro_cw3 ={
         
       {ordem:4,
       predecessor:3,
-      texto:'Imagine que um aventureiro está explorando uma caverna escura e precisa encontrar a saída. Ele continua andando no escuro até encontrar a porta de saída. Se formos pensar nesse problema como um algoritmo, podemos escrever: <code><b>repita até</b> encontrar a saída <br/>&nbsp;&nbspcontinue andando</code>',
+      texto:'Imagine que uma aventureira está explorando uma caverna escura e precisa encontrar a saída. Ela continua andando no escuro até encontrar a porta de saída. Se formos pensar nesse problema como um algoritmo, podemos escrever: <code><b>repita até</b> encontrar a saída <br/>&nbsp;&nbspcontinue andando</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_5.png',
@@ -349,7 +349,7 @@ let livro_cw3 ={
         
       {ordem:5,
       predecessor:4,
-      texto:'Isso significa que o aventureiro vai continuar andando enquanto a saída ainda não foi encontrada. Assim que ele encontrar a saída, o laço para automaticamente.',
+      texto:'Isso significa que a aventureira vai continuar andando enquanto a saída ainda não foi encontrada. Assim que ela encontrar a saída, o laço para automaticamente.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_6.png',
@@ -362,7 +362,7 @@ let livro_cw3 ={
         
       {ordem:6,
       predecessor:5,
-      texto:'Agora, vamos comparar com o exemplo do barco enchendo de água. Usando o laço <b>repita enquanto</b>: <code><b>repita enquanto</b> houver água no barco <br/>&nbsp;&nbspretire um balde de água</code>',
+      texto:'Agora, vamos comparar com o exemplo da canoa enchendo de água. Usando o laço <b>repita enquanto</b>: <code><b>repita enquanto</b> houver água na canoa <br/>&nbsp;&nbspretire um balde de água</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L2/L2_4.png',
@@ -375,7 +375,7 @@ let livro_cw3 ={
         
       {ordem:7,
       predecessor:6,
-      texto:'Esse laço continua enquanto houver água no barco. Assim que a água acabar, o laço <b>para</b>.',
+      texto:'Esse laço continua enquanto houver água na canoa. Assim que a água acabar, o laço <b>para</b>.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_8.png',
@@ -388,7 +388,7 @@ let livro_cw3 ={
         
       {ordem:8,
       predecessor:7,
-      texto:'Usando o laço <b>repita até</b>, poderíamos reescrevê-lo assim: <code><b>repita até</b> o barco estar seco <br/>&nbsp;&nbspretire um balde de água</code>',
+      texto:'Usando o laço <b>repita até</b>, poderíamos reescrevê-lo assim: <code><b>repita até</b> a canoa estar seca <br/>&nbsp;&nbspretire um balde de água</code>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_9.png',
@@ -401,7 +401,7 @@ let livro_cw3 ={
         
       {ordem:9,
       predecessor:8,
-      texto:'Aqui, o laço funciona da mesma maneira, mas a forma como pensamos é diferente: ele vai parar quando o barco estiver completamente seco. Agora é sua vez!',
+      texto:'Aqui, o laço funciona da mesma maneira, mas a forma como pensamos é diferente: ele vai parar quando a canoa estiver completamente seca. <i>Agora é sua vez!</i>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW3/L3/L3_10.png',
