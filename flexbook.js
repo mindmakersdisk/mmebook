@@ -120,6 +120,9 @@ function renderizaLicao(valor,livro) {
 	headerContainer.style.display = 'none';
 	selectMenuContainer.style.display = 'none';
 
+	if (selectMenuContainer)
+		selectMenuContainer.style.display = 'none';
+
 }
 
 function renderizaLivroCorpo(unidade,licao,modoArg,livro) {
