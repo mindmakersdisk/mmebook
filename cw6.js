@@ -1238,7 +1238,7 @@ let livro_cw6 ={
       texto:'Diferentes tipos de robôs são criados para atender a diferentes finalidades... Vamos explorar as vantagens de um robô-carro!',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L9/L9_12.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L9/L9_12.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'Crie uma imagem em estilo 3D render ultrarrealista, com fundo branco. Mostre um carro robótico educacional, com design moderno, compacto e visual amigável para alunos do ensino fundamental. O robô deve ter sensores visíveis (como sensores de linha ou distância), rodas motorizadas e aparência funcional — como os carros robóticos usados em aulas de robótica escolar. A composição deve ser limpa e focada no robô, sem fundo poluído nem personagens humanos. O estilo deve ser realista, com iluminação suave e renderização de alta qualidade, enfatizando os detalhes técnicos do robô. Ideal para uso em material educativo impresso e digital, voltado a alunos de 12 a 14 anos, para ilustrar o conceito de robôs com finalidades específicas.',
