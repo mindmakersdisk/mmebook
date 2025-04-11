@@ -581,7 +581,7 @@ let livro_cw6 ={
       texto:'A generalização nos permite resolver não somente um problema, mas diversos problemas semelhantes com um só algoritmo. Isso nos permite criar programas de computador mais flexíveis, reutilizáveis e poderosos.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L4/L4_1.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L4/L4_1.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'Crie uma imagem em estilo vetorial realista, educativo, com traços limpos e precisos. Fundo branco. O estilo sugerido é vetorial realista com fundo branco, colorido com tons suaves e formas nítidas, sem exageros caricatos, e com foco educacional. Mostre um(a) jovem estudante observando um código de computador na tela que se ramifica para resolver três problemas semelhantes. Cores suaves e contrastes equilibrados. A composição deve ser clara, com foco no conteúdo, em estilo realista, sem textos, ideal para alunos de 12 a 14 anos, para uso em caderno escolar e e-book.',
