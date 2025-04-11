@@ -104,7 +104,7 @@ let livro_cw6 ={
       texto:'Essas caixas não existem de verdade — elas estão guardadas em um lugar chamado <b>memória</b> do computador. Cada programa guarda ali os dados que precisa lembrar.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L1/L1_4.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L1/l1_4.png',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'',
