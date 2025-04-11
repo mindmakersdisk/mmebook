@@ -1093,7 +1093,7 @@ let livro_cw6 ={
       
       {ordem:4,
       predecessor:3,
-      texto:'Na parte da frente, uma pequena esfera ajuda a manter o equilíbrio e facilita as mudanças de sentido.',
+      texto:'Na parte da frente, um pequeno rolete ajuda a manter o equilíbrio e facilita as mudanças de sentido.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L9/L9_4.png',
@@ -1174,7 +1174,7 @@ let livro_cw6 ={
       texto:'Ao contrário do Sphero, o mBot pode ser expandido com novos sensores e atuadores — já que suas partes são expostas e permitem modificações criativas.',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L9/L9_10.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L9/L9_10.jpg',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'',
