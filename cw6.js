@@ -493,7 +493,7 @@ let livro_cw6 ={
         
       {ordem:8,
       predecessor:7,
-      texto:'Ele poderia: <br/>&nbsp;&nbsp✔️ Avisar seus familiares que você chegou em casa com segurança. <br/>&nbsp;&nbsp✔️ Ligar outras luzes internas automaticamente. <br/>&nbsp;&nbsp✔️ Programar o micro-ondas para esquentar seu lanche antes mesmo de você entrar.',
+      texto:'Ele poderia: <br/>&nbsp;&nbsp✔️ Avisar seus familiares que você chegou em casa com segurança. <br/>&nbsp;&nbsp✔️ Ligar outras luzes internas automaticamente. <br/>&nbsp;&nbsp✔️ E até programar o micro-ondas para esquentar seu lanche antes mesmo de você entrar.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L3/L3_8.png',
