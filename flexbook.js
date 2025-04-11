@@ -118,7 +118,9 @@ function renderizaLicao(valor,livro) {
 	renderizaLivroCorpo(unidade,licao,null,livro);
 	
 	headerContainer.style.display = 'none';
-	selectMenuContainer.style.display = 'none';
+
+	if (selectMenuContainer)
+		selectMenuContainer.style.display = 'none';
 
 }
 
