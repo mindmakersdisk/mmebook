@@ -1787,7 +1787,7 @@ let livro_cw6 ={
       texto:'Compactar arquivos é uma habilidade útil que nos ajuda ser mais eficientes no mundo digital. Vamos compactar? ',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L21/L21_10.png',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'',
