@@ -643,7 +643,7 @@ let livro_cw6 ={
         
       {ordem:6,
       predecessor:5,
-      texto:'E podemos inclusive simplificar ainda mais nossa solução, se identificarmos a correlação entre os ângulos e número de lados. E podemos inclusive simplificar ainda mais nossa solução, se identificarmos a correlação entre os ângulos e número de lados. Note que:<ul><li>se lados = 3, então ângulo = 360° / 3 = 120°</li><li>se lados = 4, então ângulo = 360° / 4 = 90°</li><li>se lados = 5, então ângulo = 360° / 5 = 72°</li><li>etc...</li></ull>',
+      texto:'E podemos inclusive simplificar ainda mais nossa solução, se identificarmos a correlação entre os ângulos e número de lados. Note que:<ul><li>se lados = 3, então ângulo = 360° / 3 = 120°</li><li>se lados = 4, então ângulo = 360° / 4 = 90°</li><li>se lados = 5, então ângulo = 360° / 5 = 72°</li><li>etc...</li></ull>',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L4/L4_6.png',
