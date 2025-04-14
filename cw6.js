@@ -1382,7 +1382,7 @@ let livro_cw6 ={
       
       {ordem:5,
       predecessor:4,
-      texto:'Neste projeto, seu desafio é criar e programar uma Batalha Naval Robotizada, uma versão moderna, "do século 21", que permite que quatro jogadores participem simultaneamente.',
+      texto:'Neste projeto, seu desafio é criar e programar uma Batalha Naval Robotizada, uma versão moderna, "do século 21", que permite que quatro equipes participem simultaneamente.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L12/L12_5.png',
@@ -1395,7 +1395,7 @@ let livro_cw6 ={
       
       {ordem:6,
       predecessor:5,
-      texto:'Cada jogador deverá programar seu robô para bombardear automaticamente a frota do adversário do quadrante ao lado, no sentido horário, enviando apenas as coordenadas desejadas por texto ou voz.',
+      texto:'Cada equipe deve programar seu robô para bombardear automaticamente a frota do adversário do quadrante ao lado, no sentido horário, enviando apenas as coordenadas desejadas por texto ou voz.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L12/L12_6.png',
@@ -1411,12 +1411,12 @@ let livro_cw6 ={
       texto:'Além disso, o placar da batalha precisa ser atualizado automaticamente após cada ataque! Preparados para essa batalha tecnológica?',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L12/L12_7.png',
       textoImpresso:1,
       textoImpressoRecriado:'',
-      promptImagem:'',
+      promptImagem:'gere uma imagem estilo história em quadrinhos de uma tela de computador',
       imagemImpresso:1,
-      imagemFonte:'',
+      imagemFonte:'cogna ia + photoshop',
       textoDescritivoImagem:'',},				
       ]}},
   
