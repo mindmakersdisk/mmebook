@@ -1877,7 +1877,7 @@ let livro_cw6 ={
       texto:'Através dela, computadores dispersos pelo mundo passaram a poder se comunicar, compartilhando dados e aplicações se baseando em um padrão chamado World Wide Web (www).',
       urlAudioTexto:'',
       textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L22/L22_6.png',
+      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L22/L22_6_.png',
       textoImpresso:1,
       textoImpressoRecriado:'',
       promptImagem:'',
