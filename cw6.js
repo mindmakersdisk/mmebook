@@ -1567,7 +1567,7 @@ let livro_cw6 ={
     cenas:[
       {ordem:1,
       predecessor:0,
-      texto:'Imagine que você precisa organizar seu quarto, listando todos os brinquedos, livros e roupas que possui, e anotando detalhes importantes sobre eles. Essa lista organizada e detalhada é chamada de inventário.',
+      texto:'Imagine que você precisa organizar seu quarto, listando todos os jogos, livros e roupas que possui, e anotando detalhes importantes sobre eles. Essa lista organizada e detalhada é chamada de inventário.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L19/L19_1.png',
