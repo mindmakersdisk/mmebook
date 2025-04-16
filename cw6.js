@@ -815,7 +815,7 @@ let livro_cw6 ={
         
       {ordem:3,
       predecessor:2,
-      texto:'Isso significa que podemos saber em qual repetição estamos, modificar o ponto de partida e até alterar o passo da contagem.',
+      texto:'Isso significa que podemos saber em qual repetição estamos e modificar o ponto de partida.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L7/L7_3.png',
