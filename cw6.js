@@ -1178,7 +1178,7 @@ let livro_cw6 ={
     cenas:[
       {ordem:1,
       predecessor:0,
-      texto:'Já aprendemos o uso básico de funções, sem utilizar parâmetros. As funções sem parâmetro executam seus comandos internos exatamente da mesma forma em todas as chamadas. ',
+      texto:'Já aprendemos o uso básico de funções, sem utilizar parâmetros. As funções sem parâmetro executam seus comandos internos exatamente da mesma forma em todas as chamadas.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_1.png',
@@ -1188,10 +1188,10 @@ let livro_cw6 ={
       imagemImpresso:1,
       imagemFonte:'produção interna',
       textoDescritivoImagem:'',},
-        
+              
       {ordem:2,
       predecessor:1,
-      texto:'Mas imagine que temos um programa com repetições de grupos de comandos muito parecidos, mas com pequenas variações em cada caso.',
+      texto:'Mas as funções podem receber um ou mais valores chamados de <b>“parâmetros”</b>. Eles funcionam como variáveis que podem ser usadas pelos blocos da função.<br><br>A função da imagem calcula o perímetro de um polígono regular, a partir do número de lados e do tamanho dos lados.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_2.png',
@@ -1204,7 +1204,7 @@ let livro_cw6 ={
         
       {ordem:3,
       predecessor:2,
-      texto:'As funções com parâmetros permitem criar funções que se adaptam a essas variações. Podemos criar uma função que receba um valor como “parâmetro” e use esse valor para executar seus comandos de forma ligeiramente diferente a cada chamada.',
+      texto:'Deste modo, é possível usar funções com parâmetros para evitar grupos repetidos de comandos em um programa, mesmo que existam pequenas variações entre eles.<br><br>Veja como ficaria um programa que calcula a área para dois polígonos diferentes.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_3.png',
@@ -1214,10 +1214,10 @@ let livro_cw6 ={
       imagemImpresso:1,
       imagemFonte:'',
       textoDescritivoImagem:'',},
-        
+
       {ordem:4,
       predecessor:3,
-      texto:'O programa chama a função passando um valor, que pode ser diferente a cada vez.<br><br>Repare como o uso de funções reduziu o tamannho do programa. Agora imagem quantas comandos seriam economizados se uma função com 10 linhas de comandos fosse utilizada 40 vezes em um programa!</b>',
+      texto:'Sem o uso de funções, o programa ficaria mais extenso e difícil de entender. Veja o exemplo.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_4.png',
@@ -1230,7 +1230,7 @@ let livro_cw6 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Note como uma função com parâmetro se parece com outros comandos que você já utilizou. Na verdade, esses comandos “nativos” são funções já criadas pelos desenvolvedores da linguagem de programação.',
+      texto:'Note como uma função se parece com outros comandos que você já utilizou. No exemplo, foi definida uma função "gire_emitindo_som" no Scratch. Depois de definida, ela pode ser usada como qualquer outro comando.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_5.png',
@@ -1243,7 +1243,7 @@ let livro_cw6 ={
       
       {ordem:6,
       predecessor:5,
-      texto:'Além de receber vários parâmetros, as funções também podem retornar um valor, tornando-se incrivelmente flexíveis e poderosas! ',
+      texto:'Além de receber vários parâmetros, as funções também podem retornar um valor, tornando-se incrivelmente flexíveis e poderosas.<br><br>Veja no exemplo, que a função retorna um número aleatório que define as repetições do laço.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_6.png',
@@ -1256,7 +1256,7 @@ let livro_cw6 ={
         
       {ordem:7,
       predecessor:6,
-      texto:'Por exemplo, uma função de um sistema escolar pode receber a matrícula de um aluno e um ano letivo como parâmetros, e devolver a nota final do aluno no ano.',
+      texto:'Uma função de um sistema escolar poderia receber a matrícula de um aluno e um ano específico como parâmetros e devolver a nota final do aluno, após acessar bases de dados e fazer vários cálculos.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_7.png',
@@ -1269,7 +1269,7 @@ let livro_cw6 ={
         
       {ordem:8,
       predecessor:7,
-      texto:'Ou uma função para calcular os pontos ganhos em um jogo de videogame.', //texto:'Ou uma função matemática pode calcular a área de diferentes formas geométricas.',
+      texto:'Veja um outro exemplo, de uma função que calcula os pontos ganhos em uma rodada de um videogame hipotético.',
 
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1283,7 +1283,7 @@ let livro_cw6 ={
         
       {ordem:9,
       predecessor:8,
-      texto:'Compare agora com uma função com retorno se parece com um comando nativo da linguagem.',
+      texto:'Compare como certos comandos nativos também devolvem valor, como uma função com retorno.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_9.png',
