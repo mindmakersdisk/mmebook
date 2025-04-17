@@ -1204,7 +1204,7 @@ let livro_cw6 ={
         
       {ordem:3,
       predecessor:2,
-      texto:'Deste modo, é possível usar funções com parâmetros para evitar grupos repetidos de comandos em um programa, mesmo que existam pequenas variações entre eles. Veja como ficaria um programa que calcula o perímetro dois polígonos diferentes.',
+      texto:'Deste modo, é possível usar <b>funções com parâmetros</b> para evitar grupos repetidos de comandos em um programa, mesmo que existam pequenas variações entre eles. Veja como ficaria um programa que calcula o perímetro dois polígonos diferentes.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_3.png',
