@@ -1191,7 +1191,7 @@ let livro_cw6 ={
               
       {ordem:2,
       predecessor:1,
-      texto:'Mas as funções podem receber um ou mais valores chamados de <b>“parâmetros”</b>. Eles funcionam como variáveis que podem ser usadas pelos blocos da função.<br><br>A função da imagem calcula o perímetro de um polígono regular, a partir do número de lados e do tamanho dos lados.',
+      texto:'Mas as funções podem receber um ou mais valores chamados de <b>parâmetros</b>. Eles funcionam como variáveis que podem ser usadas pelos blocos da função. A função da imagem calcula o perímetro de um polígono regular, a partir do número de lados e do tamanho dos lados, recebidos como parâmetros.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_2.png',
@@ -1204,7 +1204,7 @@ let livro_cw6 ={
         
       {ordem:3,
       predecessor:2,
-      texto:'Deste modo, é possível usar funções com parâmetros para evitar grupos repetidos de comandos em um programa, mesmo que existam pequenas variações entre eles.<br><br>Veja como ficaria um programa que calcula a área para dois polígonos diferentes.',
+      texto:'Deste modo, é possível usar funções com parâmetros para evitar grupos repetidos de comandos em um programa, mesmo que existam pequenas variações entre eles. Veja como ficaria um programa que calcula o perímetro dois polígonos diferentes.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_3.png',
@@ -1230,7 +1230,7 @@ let livro_cw6 ={
 
       {ordem:5,
       predecessor:4,
-      texto:'Note como uma função se parece com outros comandos que você já utilizou. No exemplo, foi definida uma função "gire_emitindo_som" no Scratch. Depois de definida, ela pode ser usada como qualquer outro comando.',
+      texto:'Note como as chamadas de função se parecem com outros comandos que você já utilizou. No exemplo, foi definida uma função "gire_emitindo_som" no Scratch. Depois de definida, ela pode ser usada como qualquer outro comando.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_5.png',
@@ -1243,7 +1243,7 @@ let livro_cw6 ={
       
       {ordem:6,
       predecessor:5,
-      texto:'Além de receber vários parâmetros, as funções também podem retornar um valor, tornando-se incrivelmente flexíveis e poderosas.<br><br>Veja no exemplo, que a função retorna um número aleatório que define as repetições do laço.',
+      texto:'Além de receber vários parâmetros, as funções também podem retornar um valor, tornando-se incrivelmente flexíveis e poderosas. Veja no exemplo, que a função retorna um número aleatório que define as repetições do laço.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_6.png',
@@ -1269,7 +1269,7 @@ let livro_cw6 ={
         
       {ordem:8,
       predecessor:7,
-      texto:'Veja um outro exemplo, de uma função que calcula os pontos ganhos em uma rodada de um videogame hipotético.',
+      texto:'Veja um outro exemplo, de uma função que calcula e retorna os pontos ganhos em uma rodada de um videogame hipotético.',
 
       urlAudioTexto:'',
       textoSimplificado:'',
@@ -1283,7 +1283,7 @@ let livro_cw6 ={
         
       {ordem:9,
       predecessor:8,
-      texto:'Compare como certos comandos nativos também devolvem valor, como uma função com retorno.',
+      texto:'Compare como certos comandos nativos também devolvem valor, como uma chamada de função com retorno.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_9.png',
@@ -1296,7 +1296,7 @@ let livro_cw6 ={
         
       {ordem:10,
       predecessor:9,
-      texto:'Você pode criar e salvar funções em sua biblioteca pessoal, tornando sua linguagem de programação mais poderosa e ampliando suas possibilidades.',
+      texto:'Você pode criar e salvar funções em sua biblioteca pessoal, tornando sua linguagem de programação mais poderosa, ampliando suas possibilidades.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L10/L10_10.png',
