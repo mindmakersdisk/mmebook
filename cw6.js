@@ -1862,7 +1862,7 @@ let livro_cw6 ={
       
       {ordem:6,
       predecessor:5,
-      texto:'Através dela, computadores dispersos pelo mundo passaram a poder se comunicar, compartilhando dados e aplicações se baseando em um padrão chamado World Wide Web (www).',
+      texto:'Através dela, computadores dispersos pelo mundo passaram a poder se comunicar, compartilhando dados e aplicações através do padrão World Wide Web (www), utilizado por navegadores (browsers) pioneiros, como o Mosaic.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L22/L22_6.png',
