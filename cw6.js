@@ -1457,7 +1457,7 @@ let livro_cw6 ={
         
       {ordem:2,
       predecessor:1,
-      texto:'Cada coluna de uma tabela representa um tipo de dado específico, que é preenchido nas várias linhas da tabela. E cada linha é chamada de registro. Um registro guarda todos os dados relacionados a um único item ou pessoa. ',
+      texto:'Cada coluna de uma tabela traz um tipo de dado específico, que é preenchido nas várias linhas da tabela. E cada linha é chamada de registro. Um registro agrupa todos os dados relacionados a um item específico da tabela.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L18/L18_2.png',
@@ -1509,7 +1509,7 @@ let livro_cw6 ={
         
       {ordem:6,
       predecessor:5,
-      texto:'Por exemplo, se os metadados definem que a coluna “idade” aceita apenas números inteiros, um programa não conseguirá salvar uma letra nessa coluna, evitando erros.',
+      texto:'Por exemplo, se os metadados da coluna definem que ela terá título “IDADE” e que somente aceitará números inteiros, um programa não conseguirá salvar uma letra nessa coluna, evitando erros.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L18/L18_6.png',
