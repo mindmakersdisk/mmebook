@@ -1973,8 +1973,7 @@ let livro_cw6 ={
       
       {ordem:3,
       predecessor:2,
-      texto:'Um endereço IP pode parecer assim: 216.239.38.21. Porém, esses números são difíceis para nós decorarmos. Por isso, usamos nomes mais fáceis, como www.youtube.com ou www.google.com.',
-      urlAudioTexto:'',
+      texto:'Um endereço IP como 216.39.38.21 é difícil de lembrar. Por isso, usamos nomes mais fáceis, como youtube.com ou google.com. Hoje em dia, nem precisamos digitar o "www" no começo - os navegadores completam automaticamente.',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L23/L23_3.png',
       textoImpresso:1,
@@ -2012,7 +2011,7 @@ let livro_cw6 ={
       
       {ordem:6,
       predecessor:5,
-      texto:'Da mesma forma, quando você digita um endereço como www.youtube.com, o DNS encontra rapidamente o número IP certo para você acessar o site desejado.',
+      texto:'Da mesma forma, quando você digita um endereço como youtube.com, o DNS encontra rapidamente o número IP certo para você acessar o site desejado, sem que você sequer saiba disso.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L23/L23_6.png',
