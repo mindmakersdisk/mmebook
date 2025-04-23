@@ -2011,7 +2011,7 @@ let livro_cw6 ={
       
       {ordem:6,
       predecessor:5,
-      texto:'Da mesma forma, quando você digita um endereço como youtube.com, o DNS encontra rapidamente o número IP certo para você acessar o site desejado, sem que você sequer saiba disso.',
+      texto:'Da mesma forma, quando você digita um endereço como youtube.com, o DNS encontra rapidamente o número IP certo para te encaminhar ao site em um navegador, sem que você precise saber disso.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L23/L23_6.png',
@@ -2076,7 +2076,7 @@ let livro_cw6 ={
       
       {ordem:11,
       predecessor:10,
-      texto:'Então, quando você digita uma URL no navegador, o DNS encontra o IP do site, e os roteadores levam sua solicitação até o computador correto, que envia a página de volta para você.',
+      texto:'De modo geral, quando você digita uma URL no navegador, o servidor DNS encontra o endereço IP de um servidor web, um computador de maior porte, onde roda aquele site. Os roteadores então cuidam de levar sua solicitação até ele, e retornar o conteúdo do site.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L23/L23_11.png',
@@ -2089,7 +2089,7 @@ let livro_cw6 ={
       
       {ordem:12,
       predecessor:11,
-      texto:'Agora que vocês já foram apresentados às tecnologias fundamentais da internet, chegou a hora de aprender, na prática, como os endereços IP, DNS e roteadores funcionam, usando um incrível simulador da Internet!',
+      texto:'Agora que vocês já foram apresentados às tecnologias fundamentais da internet, chegou a hora de aprender, na prática, como os endereços IP, DNS, roteadores e servidores web funcionam, usando um incrível simulador da Internet!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L23/L23_12.png',
@@ -2109,7 +2109,7 @@ let livro_cw6 ={
     cenas:[
       {ordem:1,
       predecessor:0,
-      texto:'Você provavelmente acessa websites, ou simplesmente "sites", todos os dias, seja para jogar, estudar ou assistir vídeos.',
+      texto:'Você provavelmente acessa websites (ou simplesmente "sites"), todos os dias, seja para jogar, estudar ou assistir vídeos.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L24/L24_1.png',
@@ -2187,7 +2187,7 @@ let livro_cw6 ={
       
       {ordem:7,
       predecessor:6,
-      texto:'Neste projeto, sua equipe precisa criar um website dinâmico, que exiba automaticamente os produtos que deseja vender.',
+      texto:'Neste projeto, sua equipe precisa criar um website dinâmico, que exiba automaticamente os produtos que deseja vender!',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L24/L24_7.png',
@@ -2197,19 +2197,7 @@ let livro_cw6 ={
       imagemImpresso:1,
       imagemFonte:'',
       textoDescritivoImagem:'',},
-      
-      {ordem:8,
-      predecessor:7,
-      texto:'Vocês deverão conceber e criar uma tabela com os produtos escolhidos, e programar uma função para buscar esses produtos diretamente da tabela sempre que alguém acessar seu site. Preparados para começar?',
-      urlAudioTexto:'',
-      textoSimplificado:'',
-      urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L24/L24_8.png',
-      textoImpresso:1,
-      textoImpressoRecriado:'',
-      promptImagem:'',
-      imagemImpresso:1,
-      imagemFonte:'',
-      textoDescritivoImagem:'',},				
+      			
       ]}},
   
     licao25:{},
