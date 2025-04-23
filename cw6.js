@@ -2076,7 +2076,7 @@ let livro_cw6 ={
       
       {ordem:11,
       predecessor:10,
-      texto:'De modo geral, quando você digita uma URL no navegador, o servidor DNS encontra o endereço IP de um servidor web, um computador de maior porte, onde roda aquele site. Os roteadores então cuidam de levar sua solicitação até ele, e retornar o conteúdo do site.',
+      texto:'De modo geral, quando você digita uma URL no navegador, o servidor DNS encontra o endereço IP de um <b>servidor web</b>, um computador de maior porte, onde roda aquele site. Os roteadores então cuidam de levar sua solicitação até ele, e retornar o conteúdo do site.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L23/L23_11.png',
@@ -2251,7 +2251,7 @@ let livro_cw6 ={
       
       {ordem:4,
       predecessor:3,
-      texto:'A obsolescência pode ser causada por vários fatores, como avanços tecnológicos, desgaste físico e falta de suporte para atualizações de software.',
+      texto:'A obsolescência pode ser causada por vários fatores, como avanços tecnológicos, desgastes ou danos físicos, e falta de suporte para atualizações de software.',
       urlAudioTexto:'',
       textoSimplificado:'',
       urlImagem:'https://storage.googleapis.com/mindmakers/Computational%20World/CW6/L27/L27_4.png',
