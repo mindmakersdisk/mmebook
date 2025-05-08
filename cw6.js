@@ -1952,7 +1952,7 @@ let livro_cw6 ={
       ]}},
           
     licao23:{id:'CW6AULA23',
-    infografico:{titulo:'Lição 23. Tecnologias da Internet: DNS, IP e Roteadores ',
+    infografico:{titulo:'Lição 23. Os Bastidores da Internet',
     tituloSimplificado:'',
     estiloPadrao:'basicoPaisagem',
     video:'',
