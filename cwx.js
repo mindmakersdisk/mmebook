@@ -10,11 +10,11 @@ let livro_cwx ={
   versao:'0.1.00',
   nomeFantasia: 'Expresso',
   nomeTecnico:'CWX',
-  resumo:'Módulo expresso para implantação direta nos anos finais do Ensino Fundamental (F2), trazendo um resumo dos fundamentos ministrados nos módulos CS3, CS4 e CS5. É pré-requisito para o prosseguimento dos alunos no módulo CS6. Pode ser implantado do 5o ao 8o ano.',
+  resumo:'Módulo expresso para implantação direta nos anos finais do Ensino Fundamental (EF2), trazendo um resumo dos fundamentos ministrados nos módulos CW2, CW3, CW4 e CW5. É pré-requisito para o prosseguimento dos alunos no módulo CW6. Pode ser implantado do 5o ao 8o ano (opcionalmente, inclusive no 9o ano).',
   resumoCapa:'A computação revolucionou a astronomia com telescópios avançados e processamento de dados. Satélites e missões espaciais, apoiados por poderosos cálculos computacionais, expandem nosso entendimento do universo.',
   nomeFantasiaEn: "Express",
   nomeTecnicoEn: "CWXe",
-  resumoEn: "Express module for direct implementation in the upper grades of Elementary School (F2), providing a summary of the fundamentals taught in modules CS3, CS4, and CS5. It is a prerequisite for students to proceed to module CS6. It can be implemented from the 5th to the 8th grade.",
+  resumoEn: "Express module for direct implementation in the final years of Elementary School (EF2), providing a summary of the fundamentals taught in modules CW2, CW3, CW4, and CW5. It is a prerequisite for students to continue to module CW6. It can be implemented from 5th to 8th grade (optionally, also in 9th grade).",
   resumoCapaEn: "Computing has revolutionized astronomy with advanced telescopes and data processing. Satellites and space missions, supported by powerful computer calculations, expand our understanding of the universe.",
 
   isbn:'978-65-8858-999-1',
